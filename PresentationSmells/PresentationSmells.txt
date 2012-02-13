@@ -23,10 +23,25 @@ tags: @<href>{http://martinfowler.com/tags/presentations.html, presentations}
 しかし、常に心しておくべきものだ。
 
 #@# @<b>{Sentences on slides.} I could say bullet points here, as that's the most common way to misuse slides by turning them into @<href>{http://martinfowler.com/bliki/Slideument.html, Slideuments}. But I think the real rogue is the sentence. My approach with slides is to treat them as a @<href>{http://martinfowler.com/bliki/VisualChannel.html, VisualChannel}, following this it's important that the audience is listening to the speaker for the flow of words. Reading sentences breaks that up.
-@<b>{Sentences on slides（文章が書かれたスライド）} I could say bullet points here, as that's the most common way to misuse slides by turning them into @<href>{http://martinfowler.com/bliki/Slideument.html, Slideuments}. But I think the real rogue is the sentence. My approach with slides is to treat them as a @<href>{http://capsctrl.que.jp/kdmsnr/wiki/bliki/?VisualChannel, 視覚チャンネル}, following this it's important that the audience is listening to the speaker for the flow of words. Reading sentences breaks that up.
+@<b>{Sentences on slides（文章が書かれたスライド）}
+ここで標的にしているのは箇条書きのことだ。
+スライドの使い方を間違う例としていちばんありがちなもので、スライドを@<href>{http://martinfowler.com/bliki/Slideument.html, Slideuments}にしてしまう。
+しかし私が思うに、一番の悪者は箇条書きではなく文章だ。
+私はスライドを@<href>{http://capsctrl.que.jp/kdmsnr/wiki/bliki/?VisualChannel, 視覚チャンネル}ととらえている。
+この手法で重要となるのは、聴衆は言葉の流れを耳で聴くということだ。
+文章を読ませると、話を聴く邪魔になる。
 
 #@# @<b>{Floodmarks.} Lots of slides have repetitive elements on the slide master that show up on every slide, these include corporate logos, legal boilerplate (such as copyrights), occasionally even tag lines. The audience either tunes out the @<href>{http://presentationpatterns.com/glossary.html, floodmark} (which makes them useless) or is distracted by them (which is worse). I recommend you only put logos and the like on the first and last slide, that's quite enough to get them noticed, but not enough to be distracting. You only need a copyright statement on one slide - and even then I'd argue you don't really need it.@<fn>{copyright} Are your slides really so amazing that you'll lose a fortune if someone copies them?
-@<b>{Floodmarks（マークまみれ）} Lots of slides have repetitive elements on the slide master that show up on every slide, these include corporate logos, legal boilerplate (such as copyrights), occasionally even tag lines. The audience either tunes out the @<href>{http://presentationpatterns.com/glossary.html, floodmark} (which makes them useless) or is distracted by them (which is worse). I recommend you only put logos and the like on the first and last slide, that's quite enough to get them noticed, but not enough to be distracting. You only need a copyright statement on one slide - and even then I'd argue you don't really need it.@<fn>{copyright} Are your slides really so amazing that you'll lose a fortune if someone copies them?
+@<b>{Floodmarks（マークまみれ）}
+多くのスライドがスライドマスター上にごちゃごちゃ要素を並べてそれを全ページに繰り返し表示させている。
+所属企業のロゴだったり法律上の決まり文句(著作権とか)だったり、そういった類いのやつだ。
+時にはそれを、オチのページにまで出していることすらある。
+聴衆はそんな@<href>{http://presentationpatterns.com/glossary.html, floodmark}を無視してしまう(つまり、書いたものが無意味になる)
+だろうし、あるいはそっちに気を取られて気が散ってしまうかもしれない(こっちのほうがさらにまずい)。
+私がおすすめするのは、ロゴやその他の何かはスライドの最初と最後にだけ表示するという方法だ。
+聴衆に知らせるにはそれで十分だし、気が散ってしまうこともないだろう。
+著作権に関する注意書きは一枚のスライドにまとめればよい。というか、私としてはそんなものはそもそも不要だと主張したい@<fn>{copyright}。
+あなたのスライドに、誰かにパクられて損害が出るほどの価値が本当にあるのかい?
 
 #@# @<b>{Repetitive Pointer Movement.} It's wise to always carry a laser pointer when giving a talk - indeed I suggest a combined remote-clicker laser device. But if you find yourself pointing to the same sequence of things every time you give the talk, then you should put that pointer sequence into the slides themselves. This may be as simple as an arrow or a highlight on the existing slides, or it may be rethinking the slides themselves to help bring out the point better.
 @<b>{Repetitive Pointer Movement（目ざわりなポインタ）} It's wise to always carry a laser pointer when giving a talk - indeed I suggest a combined remote-clicker laser device. But if you find yourself pointing to the same sequence of things every time you give the talk, then you should put that pointer sequence into the slides themselves. This may be as simple as an arrow or a highlight on the existing slides, or it may be rethinking the slides themselves to help bring out the point better.
