@@ -64,5 +64,5 @@ Slideumentという用語の生みの親は
 
 #@# There's also @<href>{http://www.learninggeneralist.com/2010/02/for-heavens-sake-avoid-slideuments.html, an argument against slideuments} from my colleague @<href>{http://www.learninggeneralist.com/, Sumeet Moghe}
 さらに、ここにも
-@<href>{http://www.learninggeneralist.com/2010/02/for-heavens-sake-avoid-slideuments.html, Slidumentに対する反論}がある。
+@<href>{http://www.learninggeneralist.com/2010/02/for-heavens-sake-avoid-slideuments.html, Slideumentに対する反論}がある。
 これは私の同僚である@<href>{http://www.learninggeneralist.com/, Sumeet Moghe}による記事だ。

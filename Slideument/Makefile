@@ -1,4 +1,4 @@
-DOCNAME=Slidument
+DOCNAME=Slideument
 
 all: html
 
