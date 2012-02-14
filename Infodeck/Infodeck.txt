@@ -1,0 +1,30 @@
+= Infodeck
+#@# http://martinfowler.com/bliki/Infodeck.html
+
+19 December 2011
+
+//flushright{
+tags: @<href>{http://martinfowler.com/tags/presentations.html, presentations}
+//}
+
+When I rant on at my colleagues about the evils of @<href>{http://martinfowler.com/bliki/Slideument.html, Slideuments}, I do hear a useful push-back. Many people now like to communicate through slide decks that aren't meant to be used for presentations, just to be read. People like me can snark about managers these days being unable to read anything that doesn't look like a bullet point, but there are advantage to these infodecks.
+
+ * You can use spatial layout to help explanation
+ * They discourage long prose that people don't read
+ * It's easy to include diagrams as primary elements in the communication
+
+All this can lead to a document that's more approachable and easier to communicate information than a traditional prose text would be.
+
+If a deck is intended for reading and not for projection, then I don't count it as a slideument. Slideuments are bad because they try to do two different things, but an infodeck is there only for reading, so can be done well. Often, of course, they aren't but that's a problem in the execution rather than the fundamental concept.
+
+Infodecks are an interesting form to me, if only because it seems nobody takes them seriously. Most users look at them as something they just knock up with PowerPoint, and writers with pretentions to seriousness (such as myself) consider infodecks to be beneath us. I'm begining to think we should take them more seriously. We should think and talk more about how to make them effective as communciation vehicles.
+
+One reason that these are likely to grow is that increasingly we are communciating on computer devices and not using paper. Modern computers have bright multi-color screens, and aren't worried about conserving paper. So a colorful, diagram-heavy approach that uses lots of virtual pages is an effective form of document - especially as tablets become more prevalent.
+
+So what makes a good infodeck? Here's a few of my preliminary thoughts.
+
+ * Although they are usually created with a presentation tool, such as PowerPoint or Keynote, they don't have to be. A page-layout style tool is often a better choice. An example of this is the Mac's Pages application. It's page-layout mode works very well for infodecks.
+ * Landscape orientation is probably best, if only because they are often read on laptops.
+ * Although bullets are the most common forms of using text, stretch out and write short paragraphs. That will convey more information without being too much text. There's no need to limit yourself to bullets if the deck isn't going to be projected.
+ * Use diagrams as much as possible and make them the central element of the page with text around them. If you can't think of diagram try laying out the blocks of text with positioning and connecting lines to suggest any interrelationships between them.
+ * Use PDF to send info decks around to others. PDF is the best document format for format-intensive documents like infodecks. (ePub is better for prose documents.)
