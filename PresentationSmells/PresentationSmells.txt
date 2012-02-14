@@ -44,14 +44,35 @@ tags: @<href>{http://martinfowler.com/tags/presentations.html, presentations}
 あなたのスライドに、誰かにパクられて損害が出るほどの価値が本当にあるのかい?
 
 #@# @<b>{Repetitive Pointer Movement.} It's wise to always carry a laser pointer when giving a talk - indeed I suggest a combined remote-clicker laser device. But if you find yourself pointing to the same sequence of things every time you give the talk, then you should put that pointer sequence into the slides themselves. This may be as simple as an arrow or a highlight on the existing slides, or it may be rethinking the slides themselves to help bring out the point better.
-@<b>{Repetitive Pointer Movement（目ざわりなポインタ）} It's wise to always carry a laser pointer when giving a talk - indeed I suggest a combined remote-clicker laser device. But if you find yourself pointing to the same sequence of things every time you give the talk, then you should put that pointer sequence into the slides themselves. This may be as simple as an arrow or a highlight on the existing slides, or it may be rethinking the slides themselves to help bring out the point better.
+@<b>{Repetitive Pointer Movement（目ざわりなポインタ）}
+トークをするときには常にレーザーポインタを持ち歩くというのはいい考えである。
+プレゼン用のリモコンにレーザーポインタが組み込まれているやつがおすすめだ。
+しかし、だ。トークのたびに毎回同じ場所を同じようにポイントしているのだとしたら、
+一連のポインタの動きをスライド自体に組み込むべきだ。
+単純に、既存のスライドに矢印だとか強調だとかを追加するだけでもいい。
+あるいは、スライドの構成を再考してポイントが伝わりやすいようにするのもよいだろう。
 
 #@# @<b>{Backtracking Slides.} If you find yourself going back to a previous slide, that indicates the slide sequence isn't right. Instead you should copy the slide so that you keep going forwards through the deck. Once you've copied it, you can then think about whether it should be a true copy, or whether it should look different when used again in order to highlight how you are using it in the further sequence.
-@<b>{Backtracking Slides（前のスライドに戻る）} If you find yourself going back to a previous slide, that indicates the slide sequence isn't right. Instead you should copy the slide so that you keep going forwards through the deck. Once you've copied it, you can then think about whether it should be a true copy, or whether it should look different when used again in order to highlight how you are using it in the further sequence.
+@<b>{Backtracking Slides（前のスライドに戻る）}
+もし仮に前のスライドに戻る場面があるとすれば、それはスライドの並び順が間違っているということだ。
+前に戻る代わりに、そのスライドをコピーして次のページに追加しよう。
+そうすれば、常に前に進めるだけで済ませられる。
+とりあえず一度コピーしてしまってから考えればよい。
+そこで見せたいものは、本当に前の場面とまったく同じものなのだろうか?
+それとも、その後の流れを踏まえて同じ内容を少し違うように見せたいのだろうか?
 
 #@# @<b>{Slide Titles} It seems to be mandatory that every slide has a title - but ask yourself if the slide's title is really needed. I've found I've often improved the visual channel by consciously removing slide titles.
-@<b>{Slide Titles（スライドの表紙）} It seems to be mandatory that every slide has a title - but ask yourself if the slide's title is really needed. I've found I've often improved the visual channel by consciously removing slide titles.
+@<b>{Slide Titles（スライドの表紙）}
+まるでそうしなければいけないかのように、あらゆるスライドには表紙がついている。
+けどそれって、本当に必要なのだろうか?
+私はよく、視覚チャンネルを改善するために意図的にスライドの表紙を削除することがある。
 
-Having said all this, the most important thing is your content. If the content isn't solid, or you don't really care about it, then even outstanding slidecraft isn't going to save you. Conversely an audience will forgive all sorts of crummy presentation techniques if you have interesting things to say.
+#@# Having said all this, the most important thing is your content. If the content isn't solid, or you don't really care about it, then even outstanding slidecraft isn't going to save you. Conversely an audience will forgive all sorts of crummy presentation techniques if you have interesting things to say.
+いろいろ言ってきたが、いちばん重要なのはプレゼンの内容そのものだ。
+プレゼンの内容がきちんと固まっていなかったりそもそも内容にあまり気を配っていなかったりすると、
+いくら上手にスライドを作ったところで何の助けにもならない。
+逆に、プレゼンのテクニックが多少拙かったとしても、
+話している内容が興味深ければ聴衆に許してもらえるだろう。
 
-//footnote[copyright][In many places there is implied copyright, even if you don't have a statement on a document. Even so, it's wise to keep one on the document somewhere to make it easier should you need to enforce copyright. I have to say, however, that I haven't heard of anyone suing anyone over copyright infringement of a slide deck.]
+#@# //footnote[copyright][In many places there is implied copyright, even if you don't have a statement on a document. Even so, it's wise to keep one on the document somewhere to make it easier should you need to enforce copyright. I have to say, however, that I haven't heard of anyone suing anyone over copyright infringement of a slide deck.]
+//footnote[copyright][多くの場合、ドキュメント上に明記しなくても暗黙の著作権が発生する。たとえそうであっても、ドキュメント上のどこかにそれを示しておくほうが著作権を主張するにはよいだろう。しかし敢えて言いたい。スライドの著作権を侵害されたという理由で誰かを訴えたなんて話、今まで聞いたことがない。]
