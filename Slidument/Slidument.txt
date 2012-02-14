@@ -13,17 +13,42 @@ Slideumentは、スライド（slide）とドキュメント（document）を組
 ひとつのスライドを、プレゼン中に表示するスライドとして使いつつ後で読ませるための資料としても活用しようという考えかたである。
 問題は、これら二つの用途でスライドに対するニーズがそれぞれ異なるということだ。
 どちらのニーズも満たすようなスライドなんか作れない。
-結果的に、できあがったSlidumentはどちらのニーズも満たせないものとなる。
+結果的に、できあがったSlideumentはどちらのニーズも満たせないものとなる。
 
-The main reason they fail is due to the amount of words and detail you need in the deck. If you want a stand-alone document you need enough context to make sense without the speaker being there. This requires a lot of words. But if the speaker is there, and speaking, then the audience ends up both reading and listening - and usually not concentrating properly on either. A good slide deck is a @<href>{http://martinfowler.com/bliki/VisualChannel.html, VisualChannel}, it provides an accompaniment to the spoken words, reinforcing but not duplicating what is being said.
+#@# The main reason they fail is due to the amount of words and detail you need in the deck. If you want a stand-alone document you need enough context to make sense without the speaker being there. This requires a lot of words. But if the speaker is there, and speaking, then the audience ends up both reading and listening - and usually not concentrating properly on either. A good slide deck is a @<href>{http://martinfowler.com/bliki/VisualChannel.html, VisualChannel}, it provides an accompaniment to the spoken words, reinforcing but not duplicating what is being said.
+そもそもの間違いの原因は、スライドに必要な言葉の量や詳細度によるものだ。
+それ単体でドキュメントとして使おうとすれば、話者がそこにいなくても十分に意味が通じる程度のコンテキストが必要となる。
+そのためには大量の文章が必要だ。
+しかし、話者がそこにいて話している場合、聴衆はスライドの文字と話者の声の両方を受け取ることになる。
+普通は、その両方に適切に注意を払うことはない。
+よいスライドは@<href>{http://capsctrl.que.jp/kdmsnr/wiki/bliki/?VisualChannel, 視覚チャンネル}であり、
+トークの内容を補強してくれるものだ。話の内容とスライドが重複することはない。
 
-If people want a stand-alone document, then you can provide them with one - but it should be a different document, one that's designed for reading and not speaking.
+#@# If people want a stand-alone document, then you can provide them with one - but it should be a different document, one that's designed for reading and not speaking.
+それ単体で使えるドキュメントが欲しいと言われれば、作ることはできる。
+しかしそれは別途用意すべきものであり、話すことを考えずに読むことを前提として作るべきだ。
 
-The most sensible argument I've heard in favor of slideuments is that audience expects them, even if they are useless and never read later. I've a lot of sympathy with this argument, as it goes back to my first major presentation - a tutorial at OOPSLA in 1992. Since this was a big deal for me I decided to work hard to provide an extra-special contribution. So instead of the usual copies of slides, I wrote a special document to support the talk - about 40 or so pages - and provided that as a handout. That document was a much better coverage of the topic then the slides would be. But on the day I got lots of complaints becuase I didn't provide a copy of the slides. I am forever grateful to Rebecca Wirfs-Brock, who was the tutorial chair that year and backed me up.
+#@# The most sensible argument I've heard in favor of slideuments is that audience expects them, even if they are useless and never read later. I've a lot of sympathy with this argument, as it goes back to my first major presentation - a tutorial at OOPSLA in 1992. Since this was a big deal for me I decided to work hard to provide an extra-special contribution. So instead of the usual copies of slides, I wrote a special document to support the talk - about 40 or so pages - and provided that as a handout. That document was a much better coverage of the topic then the slides would be. But on the day I got lots of complaints becuase I didn't provide a copy of the slides. I am forever grateful to Rebecca Wirfs-Brock, who was the tutorial chair that year and backed me up.
+Slideumentの肩を持つ人たちの声の中で最も理にかなっていたのは、こんな意見だった。
+「聴衆は、スライドのコピーが手元にあると安心するんだ。それが役に立つかどうかなんて気にしないし、後で読み返すことなど絶対ない」。
+この意見には心から同情する。私が初めて大勢の前でプレゼンをしたときのことを思い出すからだ。
+あれは1992年のOOPSLAでのチュートリアルだった。
+私にとってはすばらしいチャンスだったので、いつもより余計に力を入れて特別な準備をした。
+単にスライドのコピーを配布するのではなく、トークの補足となる特別なドキュメントを作って、それを資料として配付したのだ。
+それは40ページほどの資料で、スライドで扱う内容よりもはるかに広範囲をカバーしていた。
+なのに、当日は参加者からさんざん文句を言われた。「なぜスライドのコピーをくれないの?」ってね。
+レベッカ・ワーフスブラックにはいくら感謝してもしきれない。彼女はその年のチュートリアルの司会を務め、私を助けてくれた。
 
-People do expect slides, even when they don't really make any sense, and often it's easiest just to run off a pdf. I think that ideally you should try for more. My approach in later tutorials was to give out both the document and the slide copies. These days I give people my @<href>{http://martinfowler.com/bliki/TalkNotes.html, TalkNotes} URI that points to relevant articles I've written on the topic of my talk.
+#@# People do expect slides, even when they don't really make any sense, and often it's easiest just to run off a pdf. I think that ideally you should try for more. My approach in later tutorials was to give out both the document and the slide copies. These days I give people my @<href>{http://martinfowler.com/bliki/TalkNotes.html, TalkNotes} URI that points to relevant articles I've written on the topic of my talk.
+人が期待しているのはスライドで、たとえそれが実際には何の意味もないものであっても気にしない。
+スライドをPDFに書き出しておけばいいんだから簡単なことだ。
+でも私は、理想を言えばもう少し試してみるべきだと考える。
+最近のチュートリアルで私が試したのは、ドキュメントだけでなくスライドのコピーも一緒に配布するという方法だ。
+最近では、聴衆に私の@<href>{http://martinfowler.com/bliki/TalkNotes.html, TalkNotes}のURIを示している。
+ここには、私のトークに関連するこれまでの記事へのポインタが記されている。
 
-Slideuments shouldn't be confused with @<href>{http://martinfowler.com/bliki/Infodeck.html, Infodecks}
+#@# Slideuments shouldn't be confused with @<href>{http://martinfowler.com/bliki/Infodeck.html, Infodecks}
+Slideumentは決して@<href>{http://martinfowler.com/bliki/Infodeck.html, Infodeck}と混同することはないだろう。
 
 #@# == Further Reading
 == あわせて読みたい
