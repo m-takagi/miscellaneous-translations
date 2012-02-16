@@ -32,14 +32,31 @@ Slideumentがなぜまずいのかというと、それは二つのことを同�
 Infodeckの場合は読ませることに専念しているわけであり、それはうまくいくだろう。
 もちろん、読ませようとして失敗していることもある。しかしそれは作り方の問題であり、その概念が悪かったわけではない。
 
-Infodecks are an interesting form to me, if only because it seems nobody takes them seriously. Most users look at them as something they just knock up with PowerPoint, and writers with pretentions to seriousness (such as myself) consider infodecks to be beneath us. I'm begining to think we should take them more seriously. We should think and talk more about how to make them effective as communciation vehicles.
+#@# Infodecks are an interesting form to me, if only because it seems nobody takes them seriously. Most users look at them as something they just knock up with PowerPoint, and writers with pretentions to seriousness (such as myself) consider infodecks to be beneath us. I'm begining to think we should take them more seriously. We should think and talk more about how to make them effective as communciation vehicles.
+Infodeckという形式に関して個人的に興味深いのは、誰もそれをまともに扱おうとしないということだ。
+見る人たちの多くは、単にPowerPointでさくっと作ったものだととらえている。
+そして、プレゼンを重視している人たち (そう、たとえば私自身) は、Infodeckをプレゼンより劣るものだと考えている。
+ここらでそろそろ、Infodeckについてもちゃんと真剣に考えるべきだと思うのだ。
+どのように作ればコミュニケーション手段としてより効率的になるのか、考えて話し合おう。
 
-One reason that these are likely to grow is that increasingly we are communciating on computer devices and not using paper. Modern computers have bright multi-color screens, and aren't worried about conserving paper. So a colorful, diagram-heavy approach that uses lots of virtual pages is an effective form of document - especially as tablets become more prevalent.
+#@# One reason that these are likely to grow is that increasingly we are communciating on computer devices and not using paper. Modern computers have bright multi-color screens, and aren't worried about conserving paper. So a colorful, diagram-heavy approach that uses lots of virtual pages is an effective form of document - especially as tablets become more prevalent.
+Infodeckよく使われるようになった理由のひとつは、
+コミュニケーションの手段として紙ではなくコンピューターデバイスを使うことが増えてきたということだ。
+最近のコンピューターにはきれいなカラー画面がついており、用紙を節約することなど心配せずに済む。
+つまり、いろんな色をふんだんに使って図表を大量に埋め込み、ページ数をどんどん増やしていくという方向性がより効果的になる。
+タブレットがさらに普及しだすと、この傾向はさらに強まるだろう。
 
-So what makes a good infodeck? Here's a few of my preliminary thoughts.
+#@# So what makes a good infodeck? Here's a few of my preliminary thoughts.
+で、よいInfodeckを作るにはどうすればいいのだろう?
+今のところ私は、こんなふうに考えている。
 
- * Although they are usually created with a presentation tool, such as PowerPoint or Keynote, they don't have to be. A page-layout style tool is often a better choice. An example of this is the Mac's Pages application. It's page-layout mode works very well for infodecks.
- * Landscape orientation is probably best, if only because they are often read on laptops.
- * Although bullets are the most common forms of using text, stretch out and write short paragraphs. That will convey more information without being too much text. There's no need to limit yourself to bullets if the deck isn't going to be projected.
- * Use diagrams as much as possible and make them the central element of the page with text around them. If you can't think of diagram try laying out the blocks of text with positioning and connecting lines to suggest any interrelationships between them.
- * Use PDF to send info decks around to others. PDF is the best document format for format-intensive documents like infodecks. (ePub is better for prose documents.)
+#@# * Although they are usually created with a presentation tool, such as PowerPoint or Keynote, they don't have to be. A page-layout style tool is often a better choice. An example of this is the Mac's Pages application. It's page-layout mode works very well for infodecks.
+ * PowerPointやKeynoteのようなプレゼンツールで作ることが多いようだが、別にそうしなければならないというわけではない。ページレイアウト形式のツールのほうがうまくいくことが多いだろう。たとえば、MacのPagesみたいなやつだ。Pagesのページレイアウトモードは、Infodeckを作るのにとても使いやすい。
+#@# * Landscape orientation is probably best, if only because they are often read on laptops.
+ * 横長の形式にするのがきっとよい。というのも、そのInfodeckを読むのはたいていラップトップ上だからである。
+#@# * Although bullets are the most common forms of using text, stretch out and write short paragraphs. That will convey more information without being too much text. There's no need to limit yourself to bullets if the deck isn't going to be projected.
+ * テキストを書くときには箇条書きにするのが一般的だが、ちょっと背伸びして短めの文章を書いてみよう。そうすれば、大量のテキストを使うことなくより多くの情報を伝えられるようになる。別にプロジェクターに投影するわけではないのだから、箇条書きに縛られる必要などない。
+#@# * Use diagrams as much as possible and make them the central element of the page with text around them. If you can't think of diagram try laying out the blocks of text with positioning and connecting lines to suggest any interrelationships between them.
+ * できるかぎり図表を使い、それをページの主要素にしてテキストをその周りに配置する。図表を使うつもりがないのなら、テキストをいくつかのブロックにわけて配置してそれを線でつなぎ、相互関係を示すようにしよう。
+#@# * Use PDF to send info decks around to others. PDF is the best document format for format-intensive documents like infodecks. (ePub is better for prose documents.)
+ * 他の人たちに配布するときにはPDF形式を使う。Infodeckにように書式が重要となる文書には、PDFが最適だ(ePubが向いているのは、もっと装飾の少ない文書だ)。
