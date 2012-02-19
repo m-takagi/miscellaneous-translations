@@ -49,7 +49,7 @@ tags: @<href>{http://martinfowler.com/tags/bad%20things.html, bad things} @<href
 ここには、私のトークに関連するこれまでの記事へのポインタが記されている。
 
 #@# Slideuments shouldn't be confused with @<href>{http://martinfowler.com/bliki/Infodeck.html, Infodecks}
-スライドメントは決して@<href>{http://martinfowler.com/bliki/Infodeck.html, Infodeck}と混同することはないだろう。
+スライドメントは決して@<href>{http://martinfowler.com/bliki/Infodeck.html, インフォデッキ}と混同することはないだろう。
 
 #@# == Further Reading
 == あわせて読みたい
