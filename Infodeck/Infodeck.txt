@@ -9,7 +9,7 @@ tags: @<href>{http://martinfowler.com/tags/presentations.html, presentations}
 //}
 
 #@# When I rant on at my colleagues about the evils of @<href>{http://martinfowler.com/bliki/Slideument.html, Slideuments}, I do hear a useful push-back. Many people now like to communicate through slide decks that aren't meant to be used for presentations, just to be read. People like me can snark about managers these days being unable to read anything that doesn't look like a bullet point, but there are advantage to these infodecks.
-同僚に向かって@<href>{http://martinfowler.com/bliki/Slideument.html, Slideuments}がいかにひどいものかを力説しているときに、有用な反論を聞いた。
+同僚に向かって@<href>{http://martinfowler.com/bliki/Slideument.html, スライドメント}がいかにひどいものかを力説しているときに、有用な反論を聞いた。
 多くの人にとって、スライドはもはやプレゼンテーションで使うものではなく単なる読み物なのだ、と。
 我々は「マネージャーって奴らは箇条書きのスライドしか読めないんだから」と皮肉ることがあるが、
 その手のスライドにもこんな利点がある。
@@ -27,8 +27,8 @@ tags: @<href>{http://martinfowler.com/tags/presentations.html, presentations}
 
 #@# If a deck is intended for reading and not for projection, then I don't count it as a slideument. Slideuments are bad because they try to do two different things, but an infodeck is there only for reading, so can be done well. Often, of course, they aren't but that's a problem in the execution rather than the fundamental concept.
 もしそのスライドが読み物として作られていてプレゼンで投影することを想定していないのなら、
-私はそれをもはやSlideumentだとは見なさない。
-Slideumentがなぜまずいのかというと、それは二つのことを同時にやろうとしているからだ。
+私はそれをもはやスライドメントだとは見なさない。
+スライドメントがなぜまずいのかというと、それは二つのことを同時にやろうとしているからだ。
 Infodeckの場合は読ませることに専念しているわけであり、それはうまくいくだろう。
 もちろん、読ませようとして失敗していることもある。しかしそれは作り方の問題であり、その概念が悪かったわけではない。
 

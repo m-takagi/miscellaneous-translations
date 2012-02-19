@@ -25,7 +25,8 @@ tags: @<href>{http://martinfowler.com/tags/presentations.html, presentations}
 #@# @<b>{Sentences on slides.} I could say bullet points here, as that's the most common way to misuse slides by turning them into @<href>{http://martinfowler.com/bliki/Slideument.html, Slideuments}. But I think the real rogue is the sentence. My approach with slides is to treat them as a @<href>{http://martinfowler.com/bliki/VisualChannel.html, VisualChannel}, following this it's important that the audience is listening to the speaker for the flow of words. Reading sentences breaks that up.
 @<b>{Sentences on slides（文章が書かれたスライド）}
 ここで標的にしているのは箇条書きのことだ。
-スライドの使い方を間違う例としていちばんありがちなもので、スライドを@<href>{http://martinfowler.com/bliki/Slideument.html, Slideuments}にしてしまう。
+スライドの使い方を間違う例としていちばんありがちなもので、
+そんなことをすればスライドではなく@<href>{http://martinfowler.com/bliki/Slideument.html, スライドメント}になってしまう。
 しかし私が思うに、一番の悪者は箇条書きではなく文章だ。
 私はスライドを@<href>{http://capsctrl.que.jp/kdmsnr/wiki/bliki/?VisualChannel, 視覚チャンネル}ととらえている。
 この手法で重要となるのは、聴衆は言葉の流れを耳で聴くということだ。
