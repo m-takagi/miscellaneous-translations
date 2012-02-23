@@ -1,3 +1,4 @@
+#@# -*- mode: review; coding: utf-8 -*-
 #@# = PresentationSmells
 = プレゼンテーションの不吉なにおい
 #@# http://martinfowler.com/bliki/PresentationSmells.html

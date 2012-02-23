@@ -1,3 +1,4 @@
+#@# -*- mode: review; coding: utf-8 -*-
 #@# = Infodeck
 = インフォデッキ
 #@# http://martinfowler.com/bliki/Infodeck.html

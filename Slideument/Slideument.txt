@@ -1,3 +1,4 @@
+#@# -*- mode: review; coding: utf-8 -*-
 #@# = Slideument
 = スライドメント
 #@# http://martinfowler.com/bliki/Slideument.html
