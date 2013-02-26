@@ -14,20 +14,29 @@ Runa Bhattacharjee
 #@ holds a professional portfolio specializing in Localization, at Red Hat. Runa
 #@ translates and maintains translations for Bengali (Indian version), but is
 #@ always happy to help anyone wanting to get started with localization.}
-For the past 10 years, Runa Bhattacharjee has been translating and working on localizing numerous Open Source projects - ranging from Desktop interfaces to Operating System tools and lots of things in between. She strongly believes that upstream repositories are the best places to submit any form of changes. She also holds a professional portfolio specializing in Localization, at Red Hat. Runa translates and maintains translations for Bengali (Indian version), but is always happy to help anyone wanting to get started with localization.
+//lead{
+この10年間、Runa Bhattacharjeeは翻訳やローカライズなどの作業をしている。
+デスクトップアプリからOSまで、幅広いオープンソースプロジェクトにかかわってきた。
+彼女は、翻訳やローカライズなどの修正はアップストリームのリポジトリで管理するのが最適だと信じている。
+彼女はまた、ローカライズに特化したプロとしてRed Hatで働いている。
+Runaが担当する翻訳はベンガル語(インド版)だが、
+言語に関わらず、ローカライズにかかわりたいと思う人なら喜んで手助けしたいと思っている。
+//}
 
 #@ \section*{Introduction}
-== Introduction
+== はじめに
 
 #@ Burning the midnight oil has been a favorite form of rebellion by young people
 #@ all over the world. Whether to read a book with a torchlight under the covers or
 #@ to watch late night TV reruns or (amongst other things) to hang around on an IRC
 #@ channel and tinkering around with an itchy problem with a favorite open source
 #@ project.
-Burning the midnight oil has been a favorite form of rebellion by young people all over the world. Whether to read a book with a torchlight under the covers or to watch late night TV reruns or (amongst other things) to hang around on an IRC channel and tinkering around with an itchy problem with a favorite open source project.
+夜更かしっていうのは、世間に反発する若者なら誰でもやりそうなこと。きっと世界中どこでもそうでしょう。
+薄明かりの中で本を読むとかテレビの深夜放送を見るとか、あとは
+IRCに入り浸ってお気に入りのオープンソースプロジェクトのちょっとした問題に取り組んだりとか。
 
 #@ \section*{How it all began}
-== How it all began
+== そもそものはじまり
 
 #@ That is how it all began for me. Let me first write a bit about myself. When I
 #@ got introduced to the local Linux Users Group in my city, I was in between jobs
@@ -41,7 +50,18 @@ Burning the midnight oil has been a favorite form of rebellion by young people a
 #@ could, add in the comments to help the reviewers understand how I comprehended
 #@ the text, filled in the necessary information for copyright and credits and sent
 #@ them back to the coordinators.
-That is how it all began for me. Let me first write a bit about myself. When I got introduced to the local Linux Users Group in my city, I was in between jobs and studying for a masters degree. Very soon I was a contributor to a few localization projects and started translating (mostly) desktop interfaces. We used a few customized editors with integrated writing methods and fonts. The rendering engines had not matured well enough to display the script with zero errors on the interfaces, nonetheless we kept on translating. My focus was on the workflow that I had created for myself. I used to get the translatable content from the folks who knew how things work, translate it as best as I could, add in the comments to help the reviewers understand how I comprehended the text, filled in the necessary information for copyright and credits and sent them back to the coordinators.
+私の場合も、それがすべてのはじまりでした。
+まずは簡単に自己紹介させてください。
+私がはじめて地元のLinuxユーザーグループに参加したのは、修士号を取るべく休職して勉強してるときでした。
+その後間もなく、いくつかのローカライズプロジェクトに参加するようになって、
+主にデスクトップインターフェイスの翻訳にかかわることになりました。
+当時使っていたのは、カスタマイズしたエディタとそれに組み込みの書法、そして組み込みのフォントでした。
+レンダリングエンジンが未熟だったので原稿をうまく表示できないこともあったけど、
+そんな環境で翻訳し続けました。
+当時力を入れていたのは、翻訳のワークフローを確立すること。
+翻訳対象のコンテンツを手に入れて、自分でできる限りの翻訳をし、
+レビューアに見てもらうためにちょっとしたコメントを追加して自分の考えを残し、
+著作権や作者などの必須情報を埋めてから原稿を渡す。そんな感じでした。
 
 #@ \section*{How it was done}
 == How it was done
