@@ -64,7 +64,7 @@ IRCに入り浸ってお気に入りのオープンソースプロジェクト�
 著作権や作者などの必須情報を埋めてから原稿を渡す。そんな感じでした。
 
 #@ \section*{How it was done}
-== How it was done
+== どんなふうに作業したのか
 
 #@ It was mostly a simple way of doing things. But most importantly it was
 #@ \textit{my} independent way of doing things. I took my own time to schedule when
@@ -74,7 +74,15 @@ IRCに入り浸ってお気に入りのオープンソースプロジェクト�
 #@ When I did get down to work, I would sit through 9-10 straight hours mostly into
 #@ the wee hours of the morning, feeling a high of accomplishment until the next
 #@ assignments came through.
-It was mostly a simple way of doing things. But most importantly it was @<i>{my} independent way of doing things. I took my own time to schedule when I would work on the translations. These would then be reviewed and returned to me for changes. Again, I would schedule them for completion as per how I could squeeze out some time from all the studying and other work that I was doing. When I did get down to work, I would sit through 9-10 straight hours mostly into the wee hours of the morning, feeling a high of accomplishment until the next assignments came through.
+単純なやりかたでした。
+でも、重要だったのは、それが@<em>{私自身の}やりかただったこと。
+自分が何かを成し遂げるときのやりかただったということです。
+翻訳作業をするときには、自分で時間を確保して予定をたてます。
+レビューを終えて、修正の指摘を含む原稿が戻ってきます。
+それを見て、再び私は予定をたてます。
+勉強とかその他の作業とかなどを考慮しながら時間をひねり出して、いつまでに終えられるかを考えます。
+実際の作業に入ると、10時間近くかかりっきりになるでしょう。
+気づけば朝。達成感にひたりながら、次の依頼を待ちます。
 
 #@ \section*{What mattered}
 == What mattered
