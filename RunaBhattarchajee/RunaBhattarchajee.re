@@ -85,7 +85,7 @@ IRCに入り浸ってお気に入りのオープンソースプロジェクト�
 気づけば朝。達成感にひたりながら、次の依頼を待ちます。
 
 #@ \section*{What mattered}
-== What mattered
+== 何が大事だったのか
 
 #@ What I did not know was that I played a significant part in the larger scheme of
 #@ things. Namely, release schedules. So, when I completed my 2 cents of the task
@@ -95,7 +95,15 @@ IRCに入り浸ってお気に入りのオープンソースプロジェクト�
 #@ a rework). Besides these, I was oblivious to the fact how it all mattered to the
 #@ entire release process -- integration, packaging, interface testing, bug filing,
 #@ resolution.
-What I did not know was that I played a significant part in the larger scheme of things. Namely, release schedules. So, when I completed my 2 cents of the task and sent them over, I did not factor in a situation where they could be rendered useless because they were too late for the current release and too early for the next release (which would invariably contain a lot of changes that would require a rework). Besides these, I was oblivious to the fact how it all mattered to the entire release process -- integration, packaging, interface testing, bug filing, resolution.
+当時の私に足りなかったのは、自分がもっと大きな計画の一員になっているという認識でした。
+具体的に言うと、リリーススケジュールのことです。
+つまり、手元でちゃちゃっと作業を終えて送り返した後は、
+それが無駄になるという状況を計算に入れていなかったのです。
+今回のリリースに入れるには遅すぎるし次のリリースに含めるには早すぎる
+(今後もいろいろ変更が入って、結局再作業が必要になるに決まってる)なんてことがあるとは思ってもいませんでした。
+さらに、自分の作業がリリースプロセス全体にどんな影響を及ぼすかについても無頓着だったのです。
+インテグレーションやパッケージング、インターフェイスのテスト、バグの登録や解決など、
+実はあらゆるところに影響していました。
 
 #@ \section*{How it made me grow up}
 == How it made me grow up
