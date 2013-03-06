@@ -106,7 +106,7 @@ IRCに入り浸ってお気に入りのオープンソースプロジェクト�
 実はあらゆるところに影響していました。
 
 #@ \section*{How it made me grow up}
-== How it made me grow up
+== どんなふうに成長したのか
 
 #@ All these changed drastically when I moved into a more professional role. So
 #@ suddenly I was doing the same thing but in a more structured order. I learned
@@ -124,7 +124,20 @@ IRCに入り浸ってお気に入りのオープンソースプロジェクト�
 #@ operating system that would be carrying the desktop, went through with some bits
 #@ of testing to ensure that the translations made sense on the interface and did
 #@ not contain errors.
-All these changed drastically when I moved into a more professional role. So suddenly I was doing the same thing but in a more structured order. I learned that the cavalier road-rolling that I had been used to, was not scalable when one had to juggle through 2-3 release schedules. It had to be meticulously planned to map with the project roadmaps. While working on translating a desktop interface, one had to check what the translation schedule was for the main project. The projected date to start working would be right after when all the original interface messages had been frozen. Translators could then work unhindered until the translation deadline, after which they would be marked as stable in the main repositories and eventually packages would be built. Along with these schedules, a couple of operating system distributions would align their schedules as well. So the translators had the additional responsibility of making sure that the pre-release versions of the operating system that would be carrying the desktop, went through with some bits of testing to ensure that the translations made sense on the interface and did not contain errors.
+よりプロフェッショナルな役割を任されることになって、これらすべてが劇的に変わりました。
+そこで私は、これまでと同じ作業を、よりきっちりした手順でするようになりました。
+今までのようなおおざっぱなやりかただと、
+複数のリリーススケジュールの間のやりくりが立ち行かなくなることを知ったからです。
+それぞれのプロジェクトのロードマップにあわせて、細心の注意を払った計画を立てないといけなくなったのです。
+デスクトップインターフェイスの翻訳をしているときは、
+メインプロジェクトのスケジュールでいつ翻訳が予定されているのかをチェックしないといけません。
+翻訳を始められるようになるのは、オリジナルのインターフェイスのメッセージが固まってからです。
+それ以降、翻訳の締切までは、何も邪魔されずに翻訳ができます。
+締切が来ると、メインリポジトリ内の状態が安定版とマークされ、
+それを使って最終的なパッケージが作られます。
+それに加えて、OSのディストリビューションにもそれぞれ個別のスケジュールがあります。
+翻訳者は、OSのディストリビューションのプレリリース版に含まれるデスクトップについても気にかける必要があります。
+ちょっとしたテストをして、インターフェイスの翻訳に間違いがないことを確かめないといけません。
 
 #@ \section*{What I should have known}
 == What I should have known
