@@ -140,7 +140,7 @@ IRCに入り浸ってお気に入りのオープンソースプロジェクト�
 ちょっとしたテストをして、インターフェイスの翻訳に間違いがないことを確かめないといけません。
 
 #@ \section*{What I should have known}
-== What I should have known
+== 知っておくべきだったこと
 
 #@ The transition was not easy. Suddenly there was a flood of information that I
 #@ had to deal with and additional chores that I had to perform. From being a hobby
@@ -156,10 +156,26 @@ IRCに入り浸ってお気に入りのオープンソースプロジェクト�
 #@ out their projects professionally. They grew to be wonderfully skilled in what
 #@ they were doing and eventually figured out how they would like to balance their work
 #@ with the rest of the things they were doing.
-The transition was not easy. Suddenly there was a flood of information that I had to deal with and additional chores that I had to perform. From being a hobby and more importantly a stress-buster, suddenly it was serious business. Thinking in retrospect, I can say that it probably helped me understand the entire process because I had to learn it from the ground up. And armed with that knowledge I can analyze situations with a better understanding of all the effective facets. At the time when I started working on the Open Source project(s) of my interest, there were much fewer professionals who worked full time in this domain. Most of the volunteer contributors held day jobs elsewhere and saw these projects as a way to nurture the creative juices that had dried up in their routine tasks. So a number of newcomers were never mentored about how to plan out their projects professionally. They grew to be wonderfully skilled in what they were doing and eventually figured out how they would like to balance their work with the rest of the things they were doing.
+やりかたを変えるのは簡単ではありませんでした。
+対処すべき情報がどんどん押し寄せてくるし、
+雑用も増えてきました。
+もともとは趣味で始めたことで、ストレス解消にもなっていたのに
+ある日突然それが大事な仕事に変わってしまったのです。
+今思えば、一から学び直さざるを得なかったおかげで、全体的なプロセスを理解できるようになったのでしょう。
+知識を得た今なら、あらゆる有効な側面を踏まえて状況を分析できるでしょう。
+ちょっとした興味でオープンソースプロジェクトに参加し始めたあの頃、
+フルタイムでプロジェクトにかかわるようなプロは今よりずっと少人数でした。
+ほとんどの人は、本業を別に持っていました。
+オープンソースプロジェクトでの作業は、
+日々の定型業務ですっかりひからびてしまった創造力を蘇らせる手段だったのです。
+なので、新入りさんに対して「プロとして、プロジェクトをきちんと進めるために計画を立てなさい」
+なんて言ってくれる先輩がいるわけはありません。
+自分がやっていることに関しては素晴らしく熟練するようになり、
+それからようやく気付くことになるのです。
+自分の作業とそれ以外の作業との間のバランスをうまくとるのが大事だということを。
 
 #@ \section*{Conclusion}
-== Conclusion
+== 結論
 
 #@ These days I mentor newcomers and one of the first things that I let them know
 #@ is how and in which part of the project they matter. Crafting an individual
@@ -167,4 +183,9 @@ The transition was not easy. Suddenly there was a flood of information that I ha
 #@ but an understanding of the organized structure that is affected by their work
 #@ imbibes the discipline that is required to hold in check chances of arbitrary
 #@ caprice.
-These days I mentor newcomers and one of the first things that I let them know is how and in which part of the project they matter. Crafting an individual style of work is essential as it allows a person a comfortable space to work in, but an understanding of the organized structure that is affected by their work imbibes the discipline that is required to hold in check chances of arbitrary caprice.
+最近、新入りさんを手助けすることがよくあります。そのとき最初に伝えるのは、
+自分たちのやることがプロジェクトのどの部分にどのようにかかわるのかということです。
+自分の作業スタイルを確立することはもちろん大切です。
+そうすれば、作業しやすい空間を得られるからです。
+でも、組織全体における自分の作業の位置づけを理解しておけば、
+不意のチェックに対応するために必要な規律も受け入れられるでしょう。
