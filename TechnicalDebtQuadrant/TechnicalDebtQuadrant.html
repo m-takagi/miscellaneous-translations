@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ops="http://www.idpf.org/2007/ops" xml:lang="ja">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <meta name="generator" content="ReVIEW" />
+  <title>技術的負債の象限</title>
+</head>
+<body>
+<h1><a id="h"></a>技術的負債の象限</h1>
+<div class="lead">
+<p>Martin Fowler's blikiの&quot;<a href="http://martinfowler.com/bliki/TechnicalDebtQuadrant.html" class="link">TechnicalDebtQuadrant</a>&quot;の翻訳。</p>
+</div>
+<p>2009/10/14</p>
+<p class="flushright">tags: <a href="http://martinfowler.com/tags/technical%20debt.html" class="link">technical debt</a></p>
+<p>ここ数ヶ月の間に、<a href="http://martinfowler.com/bliki/TechnicalDebt.html" class="link">TechnicalDebt</a>に関する投稿がいくつかあった。設計上の不備の中で、技術的負債と呼ぶべきものは何か？逆に、そう呼ぶべきでないものは何か？といった疑問が挙げられていた。</p>
+<p>その一例が、アンクル・ボブの投稿「<a href="http://blog.objectmentor.com/articles/2009/09/22/a-mess-is-not-a-technical-debt" class="link">汚いコードが負債というわけじゃない(a mess is not a debt)</a>」だ。彼が言うには、良い設計方法を知らない人が書いた単に汚いだけのコードを負債と呼ぶべきではない。技術的負債という言葉はもっと特別な場合を指すものだ。検討の末に、長期的な持続性のない(けれども短期的には利益を生み出す。たとえばすぐにリリースできるなどの)設計指針を敢えて選択するといった場合に使う。要するに、負債を抱えれば早めに価値を生み出せるけれども、いずれ返済しないといけなくなるってことだ。</p>
+<p>私に言わせると、設計の不備が負債かそうじゃないかなんて考えることがそもそも間違ってる。技術的負債っていうのは単なるたとえ話なんだから、ここで問うべきなのは「これを負債にたとえた場合に、設計上の問題を考える助けになるだろうか？そして他人と意見交換しやすくなるだろうか？」だ。このたとえ話を使う大きなメリットは、技術者以外にも話が通じやすくなることだ。</p>
+<p>私見だが、設計上の不備も検討の末の判断も、どちらも負債のたとえがうまく当てはまると思う。ただ、負債の性質が違うというだけのことだ。きたないコードは無鉄砲な(reckless)負債だ。結果として利息の支払いが不能になったり、いくら払っても元金が減らなかったりすることになる。私たちのプロジェクトの中にも、コードベースが負債まみれになっているものがいくつかある。その対策についてクライアントの担当者と話し合うときに、このたとえはとても便利だ。</p>
+<p>負債のたとえを聞いて思い出すのが、設計上の不備に対してとれる選択肢のことだ。用心深く考えた結果として負債を抱えたリリースをした場合、支払う利息が無視できるほど小さいのならその返済をしなくてもかまわないだろう。たとえば、めったに使われることのない部分などがこれにあたる。</p>
+<p>つまり、負債かそうじゃないかっていう区別はあまり意味がなくて、考えた上での負債なのか考えが足りない負債なのかのほうが大事だ。</p>
+<p>いまあげた例について、もうひとつ別の切り口で区別することもできる。無鉄砲な負債か用心深い負債化という違いのほかに、意図的な負債なのか無意識のうちの負債なのかという区別があるのだ。用心深い負債の例は、この区別では意図的な負債にあたる。チームはそれが負債であることを認識しており、早めにリリースすることで十分元が取れるという判断をしたわけだ。設計について無関心なチームは、無意識のうちに負債を抱えてしまうことがある。いったいどれだけのものを質入れしているのかを認識することもない。</p>
+<p>無鉄砲な負債は必ずしも無意識なものばかりというわけではない。設計の重要性をきちんと理解していて実践できるチームでも、あえて「間に合わせの適当な」設計を選ぶこともある。クリーンなコードを書くだけの余裕がないと判断した場合などだ。I agree with Uncle Bob that this is usually a reckless debt, because people underestimate where the <a href="http://martinfowler.com/bliki/DesignPayoffLine.html" class="link">DesignPayoffLine</a> is.The whole point of good design and clean code is to make you go faster - if it didn't people like Uncle Bob, Kent Beck, and Ward Cunningham wouldn't be spending time talking about it.</p>
+<p>Dividing debt into reckless/prudent and deliberate/inadvertent implies a quadrant, and I've only discussed three cells. So is there such a thing as prudent-inadvertent debt? Although such a thing sounds odd, I believe that it is - and it's not just common but inevitable for teams that are excellent designers.</p>
+<p>I was chatting with a colleague recently about a project he'd just rolled off from. The project that delivered valuable software, the client was happy, and the code was clean. But he wasn't happy with the code. He felt the team had done a good job, but now they realize what the design ought to have been.</p>
+<p>I hear this all the time from the best developers. The point is that while you're programming, you are learning. It's often the case that it can take a year of programming on a project before you understand what the best design approach should have been. Perhaps one should plan projects to spend a year building a system that you throw away and rebuild, as Fred Brooks suggested, but that's a tricky plan to sell. Instead what you find is that the moment you realize what the design should have been, you also realize that you have an inadvertent debt. This is the kind of debt that Ward talked about in <a href="http://www.c2.com/cgi/wiki?ComplexityAsDebt" class="link">his video</a>.</p>
+<p>The decision of paying the interest versus paying down the principal still applies, so the metaphor is still helpful for this case. However a problem with using the debt metaphor for this is that I can't conceive of a parallel with taking on a prudent-inadvertent financial debt. As a result I would think it would be difficult to explain to managers why this debt appeared. My view is this kind of debt is inevitable and thus should be expected. Even the best teams will have debt to deal with as a project goes on - even more reason not to recklessly overload it with crummy code.</p>
+<div class="image">
+<img src="images/techDebtQuadrant.png" alt="" />
+</div>
+<ul>
+<li>Reckless(無鉄砲な) / Prudent(用心深い)</li>
+<li>Deliberate(意図的な) / Inadvertent(無意識な)</li>
+</ul>
+<ul>
+<li>reckless-deliberate 「設計する時間がないんだからしょうがない」</li>
+<li>prudent-deliberate 「今すぐリリースしないといけない。リスクは承知の上だ」</li>
+<li>reckless-inadvertent 「レイヤー化？なにそれ？」</li>
+<li>prudent-inadvertent 「よし、これでオッケー！」</li>
+</ul>
+</body>
+</html>

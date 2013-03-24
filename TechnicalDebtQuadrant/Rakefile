@@ -1,0 +1,91 @@
+# -*- coding: utf-8 -*-
+desc "htmlからreファイルを作る"
+task :re do
+  Dir.glob("original/*.html").each do |html|
+    outfile = File.basename(html).gsub(/\.html$/, ".re")
+#    `pandoc -s "#{html}" -t markdown -o #{outfile}`
+  end
+end
+
+require "nokogiri"
+desc "htmlのワード数を数える"
+task :wc do
+  wc = 0
+  Dir.glob("original/*.html").each do |html|
+    doc = Nokogiri.HTML File.open(html)
+    doc.search("//pre[@class='programlisting']").remove
+
+    print File.basename(html) + ": "
+    puts c = doc.css("body").text.split.size
+    wc += c
+  end
+  puts wc
+end
+
+desc "build a chapter (ex.) rake build c=target.re"
+task :build do
+  re = ENV['c']
+  html = re.gsub(/re\z/, "html")
+  cmd = "review-compile --target=html --footnotetext --singledirmode --stylesheet=style.css #{re} > tmp"
+  puts cmd
+  system cmd
+  system "mv tmp #{html}"
+end
+
+desc "build all chapters"
+task :build_all do
+  `review-compile --all --target=html --footnotetext --singledirmode --stylesheet=style.css`
+end
+
+desc "print one big html file from all html files"
+task :print_html do
+  Dir.glob("*.html").each do |html|
+    doc = Nokogiri.HTML File.open(html)
+    # doc.search("//div[@class='emlist-code']").remove
+    puts doc.css("body").text
+  end
+end
+
+desc "REJECTファイルに含まれる文字列を探す"
+task :check do
+  words = File.open("REJECT") {|f| f.read.split(/\n/) }
+
+  if ENV['f']
+    files = [ENV['f']]
+  else
+    files = `ls *.html`.split(/\n/)
+  end
+
+  files.each do |file|
+    puts "----------------------------------------------------------" + file
+    words.each do |word|
+      next if word =~ /\A#/
+      w = word.split(/#/).first.gsub(/\s/, '')
+      if w =~ /!/
+        w, *ngs = *w.split(/!/)
+      end
+
+      File.open(file).each do |line|
+        # 排除文字を適当な文字列に置換
+        if !ngs.nil? and !ngs.empty?
+          ngs.map!{|i| i.gsub(/\s/, '')}
+          ngs.each_with_index do |ng, idx|
+            line.gsub!(ng, "######{idx}")
+          end
+        end
+
+        if line.gsub!(w, "\e[35m#{w}\e[0m")
+          # 適当な文字列を元に戻す
+          if !ngs.nil? and !ngs.empty?
+            ngs.map!{|i| i.gsub(/\s/, '')}
+            ngs.each_with_index do |ng, idx|
+              line.gsub!("######{idx}", ng)
+            end
+          end
+          puts line
+          puts "\e[36m==========> " + word + "\e[0m\n\n"
+        end
+      end
+    end
+  end
+end
