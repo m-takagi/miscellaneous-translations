@@ -108,22 +108,34 @@ tags: @<href>{http://martinfowler.com/tags/technical%20debt.html, technical debt
 設計の重要性をきちんと理解していて実践できるチームでも、あえて
 「間に合わせの適当な」設計を選ぶこともある。
 クリーンなコードを書くだけの余裕がないと判断した場合などだ。
-I agree with Uncle Bob that this is usually a reckless debt, because people underestimate where the @<href>{http://martinfowler.com/bliki/DesignPayoffLine.html, DesignPayoffLine} is. 
-The whole point of good design and clean code is to make you go faster - if it didn't people like Uncle Bob, Kent Beck, and Ward Cunningham wouldn't be spending time talking about it.
+こんな場合はほとんど無鉄砲な負債になるっていうことについては、私もアンクル・ボブに同意する。
+人はみな、@<href>{http://martinfowler.com/bliki/DesignPayoffLine.html, DesignPayoffLine}を過小評価するものだからだ。
+よい設計とクリーンなコードの本質は、開発をすばやく進められるようにすることだ。
+そうでもなければ、アンクル・ボブやケント・ベックそしてウォード・カニンガムといった面々が
+わざわざ時間をかけて議論することもないだろう。
 
 #@ Dividing debt into reckless/prudent and deliberate/inadvertent
 #@   implies a quadrant, and I've only discussed three cells. So is there
 #@   such a thing as prudent-inadvertent debt? Although such a thing
 #@   sounds odd, I believe that it is - and it's not just common but
 #@   inevitable for teams that are excellent designers.
-Dividing debt into reckless/prudent and deliberate/inadvertent implies a quadrant, and I've only discussed three cells. So is there such a thing as prudent-inadvertent debt? Although such a thing sounds odd, I believe that it is - and it's not just common but inevitable for teams that are excellent designers.
+「無鉄砲／用心深い」と「意図的な／無意識な」の二つの基準を使うと、
+負債を象限に分類できることになる。ここまでで議論したのは、その中の三つの部分だ。
+残りの一つ、つまり「用心深く、かつ無意識な」負債については何が言えるだろう？
+ちょっと奇妙な感じもするが、私はこれもアリだと思う。
+負筒にあり得る話だっていうだけじゃなく、よくできる設計者が集ったチームでは避けられない事態だ。
 
 #@ I was chatting with a colleague recently about a project he'd
 #@   just rolled off from. The project that delivered valuable software,
 #@   the client was happy, and the code was clean. But he wasn't happy
 #@   with the code. He felt the team had done a good job, but now they
 #@   realize what the design ought to have been.
-I was chatting with a colleague recently about a project he'd just rolled off from. The project that delivered valuable software, the client was happy, and the code was clean. But he wasn't happy with the code. He felt the team had done a good job, but now they realize what the design ought to have been.
+私の同僚が最近リリースしたプロジェクトのことについて、彼と話をした。
+彼が言うには、そのプロジェクトは価値のあるソフトウェアを提供できたし、
+顧客も喜んでくれたし、そしてコードもクリーンだった。
+でも、なぜか彼はそのコードに満足していなかった。
+自分のチームがいい仕事をしてくれたというのはわかっている。
+でも、今になって「あそこはああしておくべきだった」というのがわかってきたというのだ。
 
 #@ I hear this all the time from the best developers. The point is
 #@   that while you're programming, you are learning. It's often the case
@@ -136,7 +148,16 @@ I was chatting with a colleague recently about a project he'd just rolled off fr
 #@   have an inadvertent debt. This is the kind of debt that Ward talked
 #@   about in <a href = 'http://www.c2.com/cgi/wiki?ComplexityAsDebt'>his
 #@   video</a>.
-I hear this all the time from the best developers. The point is that while you're programming, you are learning. It's often the case that it can take a year of programming on a project before you understand what the best design approach should have been. Perhaps one should plan projects to spend a year building a system that you throw away and rebuild, as Fred Brooks suggested, but that's a tricky plan to sell. Instead what you find is that the moment you realize what the design should have been, you also realize that you have an inadvertent debt. This is the kind of debt that Ward talked about in @<href>{http://www.c2.com/cgi/wiki?ComplexityAsDebt, his video}.
+デキる開発者たちは、いつもこんなことを言っている。
+要するに、プログラミングをしているときには、同時に学んでもいるということだ。
+何かのプロジェクトに参加して1年ほどプログラミングをし続けて、
+ようやくその課題に対する最善のアプローチを理解したりするってことも珍しくない。
+おそらく、最初からそれを見越した計画を立てるべきなんだろう。最初の1年で組み立てたシステムを
+いったん破棄して最初から作り直すということだ。かつてフレッド・ブルックスもそんな提案をしていた。
+でも、なかなかそんなことも言っていられない。
+本来そうすべきだった設計を発見した時点で、あなたは無意識な負債を抱えたことを自覚することになる。
+これはある意味、ウォードが
+@<href>{http://www.c2.com/cgi/wiki?ComplexityAsDebt, ビデオ}で話している負債みたいなものだ。
 
 #@ The decision of paying the interest versus paying down the
 #@   principal still applies, so the metaphor is still helpful for this
