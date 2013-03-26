@@ -169,7 +169,14 @@ tags: @<href>{http://martinfowler.com/tags/technical%20debt.html, technical debt
 #@   expected. Even the best teams will have debt to deal with as a
 #@   project goes on - even more reason not to recklessly overload it
 #@   with crummy code.
-The decision of paying the interest versus paying down the principal still applies, so the metaphor is still helpful for this case. However a problem with using the debt metaphor for this is that I can't conceive of a parallel with taking on a prudent-inadvertent financial debt. As a result I would think it would be difficult to explain to managers why this debt appeared. My view is this kind of debt is inevitable and thus should be expected. Even the best teams will have debt to deal with as a project goes on - even more reason not to recklessly overload it with crummy code.
+利息を払うことを選ぶか元本を返済することを選ぶかという判断がここでもあてはまる。
+今回の場合も、このたとえ話が使えるだろう。
+でも、このたとえ話にも問題はある。
+というのは、「用心深い・無意識な」型の負債なんていうのは、実際の財務では想像できないからだ。
+なので、なぜこんな負債が発生することになったのかを上司に説明しづらくなる。
+個人的には、この手の負債は避けられないものなのだから、あらかじめ想定しておくべきだと考える。
+どんなにすばらしいチームだって、プロジェクトが進むにつれて負債を抱えることになる。
+そうしないで無茶をすれば、質の悪いコードに押しつぶされてしまうからだ。
 
 //indepimage[techDebtQuadrant]
 
