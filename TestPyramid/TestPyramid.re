@@ -1,6 +1,6 @@
 #@ -*- mode: review; coding: utf-8 -*-
 #@ TestPyramid
-= TestPyramid
+= テストピラミッド
 
 //lead{
 Martin Fowler's blikiの"@<href>{http://martinfowler.com/bliki/TestPyramid.html, TestPyramid}"の翻訳。
@@ -12,7 +12,11 @@ Martin Fowler's blikiの"@<href>{http://martinfowler.com/bliki/TestPyramid.html,
 tags: @<href>{http://martinfowler.com/tags/testing.html, testing}
 //}
 
-The test pyramid is a concept developed by @<href>{http://www.mountaingoatsoftware.com/, Mike Cohn}, described in his book @<href>{http://www.amazon.com/dp/product/0321579364/, Succeeding with Agile}. Its essential point is that you should have many more low-level unit tests than high level end-to-end tests running through a GUI.
+#@ The test pyramid is a concept developed by @<href>{http://www.mountaingoatsoftware.com/, Mike Cohn}, described in his book @<href>{http://www.amazon.com/dp/product/0321579364/, Succeeding with Agile}. Its essential point is that you should have many more low-level unit tests than high level end-to-end tests running through a GUI.
+テストピラミッドは@<href>{http://www.mountaingoatsoftware.com/, Mike Cohn}
+が考えた概念で、彼の著書@<href>{http://www.amazon.com/dp/product/0321579364/, Succeeding with Agile}に説明がある。
+そのポイントは、低水準のユニットテストのほうが、
+GUI経由で実行する高水準のエンドツーエンドテストよりもずっと多くないといけないということだ。
 
 //indepimage[pyramid]
 
