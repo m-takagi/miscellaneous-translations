@@ -21,14 +21,22 @@ GUI経由で実行する高水準のエンドツーエンドテストよりも�
 //indepimage[pyramid]
 
 #@ For much of my career test automation meant tests that drove an application through its user-interface. Such tools would often provide the facility to record an interaction with the application and then allow you to play back that interaction, checking that the application returned the same results. Such an approach works well initially. It's easy to record tests, and the tests can be recorded by people with no knowledge of programming.
-これまでの私の経験では、テストを自動化するというのは、そのアプリケーションをユーザーインターフェイス経由で実行するという意味だった。
-Such tools would often provide the facility to record an interaction with the application and then allow you to play back that interaction, checking that the application returned the same results. Such an approach works well initially. It's easy to record tests, and the tests can be recorded by people with no knowledge of programming.
+これまでの私の経験では、テストを自動化するというのは、
+そのアプリケーションをユーザーインターフェイス経由で実行するという意味だった。
+テスト自動化ツールの多くには、アプリケーションの操作を記録する機能があった。
+そして、記録した操作を再生して、アプリケーションが同じ結果を返すかどうかを確かめたのだ。
+このやり方は、最初のうちはうまくいっていた。
+操作を記録するのは簡単だし、プログラミングの知識がない人でも操作を記録できた。
 
 #@ But this kind of approach quickly runs into trouble, becoming an @<href>{http://watirmelon.com/2012/01/31/introducing-the-software-testing-ice-cream-cone/, ice-cream cone}. Testing through the UI like this is slow, increasing build times. Often it requires installed licences for the test automation software, which means it can only be done on particular machines. Usually these cannot easily be run in a "headless" mode, monitored by scripts to put in a proper deployment pipeline.
 でも、この手法はあっという間に問題を引き起こし、
 @<href>{http://watirmelon.com/2012/01/31/introducing-the-software-testing-ice-cream-cone/, 「アイスクリームのコーン」}
 みたいな状態になってしまう。
-Testing through the UI like this is slow, increasing build times. Often it requires installed licences for the test automation software, which means it can only be done on particular machines. Usually these cannot easily be run in a "headless" mode, monitored by scripts to put in a proper deployment pipeline.
+こんなふうにUI経由でテストをすると、ビルドに時間がかかるようになってしまう。
+テスト自動化ソフトの中には、ライセンスをインストールしないと使えないものも多い。
+つまり、特定のマシンでしかテストを実行できないってことだ。
+この手のソフトの多くは、いわゆる「ヘッドレス」モードでの実行が難しい。
+なので、スクリプトで監視させてデプロイメントパイプラインに組み込むこともできない。
 
 #@ Most importantly such tests are very brittle. An enhancement to the system can easily end up breaking lots of such tests, which then have to be re-recorded. You can reduce this problem by abandoning record-playback tools, but that makes the tests harder to write. [1] Even with good practices on writing them, end-to-end tests are more prone to @<href>{http://martinfowler.com/articles/nonDeterminism.html, non-determinism problems}, which can undermine trust in them. In short, tests that run end-to-end through the UI are: brittle, expensive to write, and time consuming to run. So the pyramid argues that you should do much more automated testing through unit tests than you should through traditional GUI based testing.
 いちばん重要なのは、この手のテストが壊れやすくなってしまうということだ。
