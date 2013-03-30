@@ -40,7 +40,18 @@ GUI経由で実行する高水準のエンドツーエンドテストよりも�
 
 #@ Most importantly such tests are very brittle. An enhancement to the system can easily end up breaking lots of such tests, which then have to be re-recorded. You can reduce this problem by abandoning record-playback tools, but that makes the tests harder to write. [1] Even with good practices on writing them, end-to-end tests are more prone to @<href>{http://martinfowler.com/articles/nonDeterminism.html, non-determinism problems}, which can undermine trust in them. In short, tests that run end-to-end through the UI are: brittle, expensive to write, and time consuming to run. So the pyramid argues that you should do much more automated testing through unit tests than you should through traditional GUI based testing.
 いちばん重要なのは、この手のテストが壊れやすくなってしまうということだ。
-An enhancement to the system can easily end up breaking lots of such tests, which then have to be re-recorded. You can reduce this problem by abandoning record-playback tools, but that makes the tests harder to write. @<fn>{fn01} Even with good practices on writing them, end-to-end tests are more prone to @<href>{http://martinfowler.com/articles/nonDeterminism.html, non-determinism problems}, which can undermine trust in them. In short, tests that run end-to-end through the UI are: brittle, expensive to write, and time consuming to run. So the pyramid argues that you should do much more automated testing through unit tests than you should through traditional GUI based testing.
+システムに機能を追加したりすると、いとも簡単に大量のテストが動かなくなってしまう。
+そして、もういちど記録をし直す必要が出てくる。
+記録・再生型のツールを使うのをあきらめれば、この問題も少しはましになる。
+しかし、テストを書くのは難しくなる。@<fn>{fn01}
+この手のテストの書き方にいくら気をつけたところで、エンドツーエンドテストは
+@<href>{http://martinfowler.com/articles/nonDeterminism.html, 非決定論的な問題}
+になる傾向がある。つまり、信頼性が徐々に下がっていくということだ。
+要するに、UIを使って実行するエンドツーエンドテストというのは、
+こわれやすいし書くのも難しいし、さらに実行にも時間がかかるという代物になる。
+つまり、このピラミッドが主張するのは、
+テストの自動化に力を入れるのなら、昔ながらのGUIベースのテストよりも、
+ユニットテストのほうにもっと力を入れるべきだと言うことだ。
 
 #@ The pyramid also argues for an intermediate layer of tests that act through a service layer of an application, what I refer to as @<href>{http://martinfowler.com/bliki/SubcutaneousTest.html, SubcutaneousTests}. These can provide many of the advantages of end-to-end tests but avoid many of the complexities of dealing with UI frameworks. In web applications this would correspond to testing through an API layer while the top UI part of the pyramid would correspond to tests using something like @<href>{http://seleniumhq.org/, Selenium} or Sahi.
 このピラミッドでは、中間層のテストも提唱している。アプリケーションのサービス層をテストするもので、
