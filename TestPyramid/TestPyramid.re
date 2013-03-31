@@ -56,8 +56,11 @@ GUI経由で実行する高水準のエンドツーエンドテストよりも�
 #@ The pyramid also argues for an intermediate layer of tests that act through a service layer of an application, what I refer to as @<href>{http://martinfowler.com/bliki/SubcutaneousTest.html, SubcutaneousTests}. These can provide many of the advantages of end-to-end tests but avoid many of the complexities of dealing with UI frameworks. In web applications this would correspond to testing through an API layer while the top UI part of the pyramid would correspond to tests using something like @<href>{http://seleniumhq.org/, Selenium} or Sahi.
 このピラミッドでは、中間層のテストも提唱している。アプリケーションのサービス層をテストするもので、
 私はこれを@<href>{http://martinfowler.com/bliki/SubcutaneousTest.html, 皮下テスト}
-と呼んでいる。
-These can provide many of the advantages of end-to-end tests but avoid many of the complexities of dealing with UI frameworks. In web applications this would correspond to testing through an API layer while the top UI part of the pyramid would correspond to tests using something like @<href>{http://seleniumhq.org/, Selenium} or Sahi.
+と呼んでいる。皮下テストはエンドツーエンドテストのメリットの多くをもたらすだけでなく、
+UIフレームワークを使うことによる複雑性も回避できる。
+Webアプリケーションの場合、皮下テストに対応するのはAPIレイヤーを使ったテストだ。
+一方、ピラミッドの頂点にあるUIのテストに対応するのは、
+@<href>{http://seleniumhq.org/, Selenium}やSahiなどを使ったテストだ。
 
 #@ The test pyramid comes up a lot in Agile testing circles and while its core message is sound, there is much more to say about building a well-balanced test portfolio. In particular a common problem is that teams conflate the concepts of end-to-end tests, UI tests, and customer facing tests. These are all orthogonal characteristics. For example a rich javascript UI should have most of its UI behavior tested with javascript unit tests using something like @<href>{http://pivotal.github.com/jasmine/, Jasmine}. A complex set of business rules could have tests captured in a customer-facing form, but run just on the relevant module much as unit tests are.
 テストピラミッドはアジャイル開発におけるテストでの認知度も高まってきた。
