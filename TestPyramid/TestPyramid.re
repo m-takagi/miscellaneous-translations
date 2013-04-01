@@ -63,9 +63,14 @@ Webアプリケーションの場合、皮下テストに対応するのはAPI�
 @<href>{http://seleniumhq.org/, Selenium}やSahiなどを使ったテストだ。
 
 #@ The test pyramid comes up a lot in Agile testing circles and while its core message is sound, there is much more to say about building a well-balanced test portfolio. In particular a common problem is that teams conflate the concepts of end-to-end tests, UI tests, and customer facing tests. These are all orthogonal characteristics. For example a rich javascript UI should have most of its UI behavior tested with javascript unit tests using something like @<href>{http://pivotal.github.com/jasmine/, Jasmine}. A complex set of business rules could have tests captured in a customer-facing form, but run just on the relevant module much as unit tests are.
-テストピラミッドはアジャイル開発におけるテストでの認知度も高まってきた。
+アジャイル開発のテストにおいても、テストピラミッドの認知度は高まってきた。
 その主なメッセージは伝わっているが、よりバランスのとれたテストポートフォリオを作るために、もう少し言っておきたい。
-In particular a common problem is that teams conflate the concepts of end-to-end tests, UI tests, and customer facing tests. These are all orthogonal characteristics. For example a rich javascript UI should have most of its UI behavior tested with javascript unit tests using something like @<href>{http://pivotal.github.com/jasmine/, Jasmine}. A complex set of business rules could have tests captured in a customer-facing form, but run just on the relevant module much as unit tests are.
+よくありがちな問題は、エンドツーエンドテストとUIテスト、そして対顧客テストの概念をごちゃまぜにしてしまうというものだ。
+これらはみな異なるもので、それぞれの特性は直交する。
+たとえばリッチなJavaScriptのUIの場合は、そのUIの振る舞いの大半をJavaScriptのユニットテストでテストしなければいけない。
+@<href>{http://pivotal.github.com/jasmine/, Jasmine}などを使うことになる。
+複雑な業務ルールのテストは顧客との対面形式でもできるだろうが、
+それに関するモジュールのテストは単にユニットテストを実行するだけだ。
 
 #@ In particular I always argue that high-level tests are there as a second line of test defense. If you get a failure in a high level test, not just do you have a bug in your functional code, you also have a missing unit test. Thus whenever you fix a failing end-to-end test, you should be adding unit tests too.
 私が常々言っていることがある。
