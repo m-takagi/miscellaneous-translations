@@ -16,10 +16,16 @@ tags: @<href>{http://martinfowler.com/tags/metrics.html, metrics} @<href>{http:/
 //}
 
 #@ My first encounter with agile software development was working with Kent Beck at the @<href>{http://martinfowler.com/bliki/C3.html, dawn of Extreme Programming}. One of the things that impressed me about that project was the way we went about planning. This included an approach to estimating which was both lightweight yet more effective than what I'd seen before. Over a decade has now passed, and now there is an argument amongst experienced agilsts about whether estimation is worth doing at all, or indeed is actively harmful @<fn>{f01}. I think that to answer this question we have to look to what purpose the estimates will be used for.
-My first encounter with agile software development was working with Kent Beck at the @<href>{http://martinfowler.com/bliki/C3.html, dawn of Extreme Programming}. One of the things that impressed me about that project was the way we went about planning. This included an approach to estimating which was both lightweight yet more effective than what I'd seen before. Over a decade has now passed, and now there is an argument amongst experienced agilsts about whether estimation is worth doing at all, or indeed is actively harmful @<fn>{f01}. I think that to answer this question we have to look to what purpose the estimates will be used for.
+アジャイルソフトウェア開発に初めて出会ったのは、Kent Beckと仕事をしたときのことだ。
+そう、あれは@<href>{http://martinfowler.com/bliki/C3.html, Extreme Programmingの黎明期}だった。
+あのプロジェクトでいちばん印象的だったのは、計画づくりの方法だった。
+その見積もりは、私がそれまでに見てきた方法のどれよりも軽量で、かつ効率的だった。
+あれから10年。アジャイル開発者たちの間では、見積もりの有用性に対する議論が巻き起こっている。
+見積もりは役に立つものなのか、はたまた悪影響を及ぼすものなのか@<fn>{f01}。
+思うに、この問いに答えるには、見積もりをどのように使うのかを明確にしておく必要があるんじゃないだろうか。
 
 #@ A common scenario runs like this:
-A common scenario runs like this:
+ありがちなシナリオは、こんなものだ。
 
 #@  * Developers are asked for (or given) estimates for upcoming work.
 #@ People are optimists, so these estimates tend to be too low, even without pressure to make them low (and there's usually at least some implicit pressure)
@@ -27,12 +33,16 @@ A common scenario runs like this:
 #@  * These tasks and estimates are turned into release plans tracked with burn-down charts
 
 #@  * Time and effort goes into monitoring progress against these plans. Everyone is upset when actuals end up being more than estimates. In effort to increase pace with the estimates, developers are told to sacrifice quality, @<href>{http://martinfowler.com/bliki/DesignStaminaHypothesis.html, which only makes things worse}.
- * Developers are asked for (or given) estimates for upcoming work.
-People are optimists, so these estimates tend to be too low, even without pressure to make them low (and there's usually at least some implicit pressure)
-
- * These tasks and estimates are turned into release plans tracked with burn-down charts
-
- * Time and effort goes into monitoring progress against these plans. Everyone is upset when actuals end up being more than estimates. In effort to increase pace with the estimates, developers are told to sacrifice quality, @<href>{http://martinfowler.com/bliki/DesignStaminaHypothesis.html, which only makes things worse}.
+ * 開発者は、次の作業の見積もりを聞かれる（あるいは見積もりを聞かされる）。@<br>{}
+ 人はみな楽観的なので、その見積もりは少なめになりがち。
+ 見積もりを抑えろというプレッシャーがなくても（たいていは暗黙のプレッシャーがあるものだけれども）、
+ 自然にそうなる。
+ * そのタスクや見積もりに基づいてリリース計画を立てて、
+ バーンダウンチャートで計画の進行をチェックする。
+ * 計画に対する進捗状況の管理に大きな労力を費やす。
+ 進捗が計画よりも遅れ出して、みんなあたふたしはじめる。
+ 見積もりに追いつくために、品質を犠牲にしてでもペースを上げろという指示が出る。
+ @<href>{http://martinfowler.com/bliki/DesignStaminaHypothesis.html, そして、状況はさらに悪化する}。
 
 #@ In this narrative, effort put into estimates is, at best, waste - since "an estimate is a guess in a clean shirt" @<fn>{f02}. Usually estimates end up being actively harmful as they encourage @<href>{http://martinfowler.com/bliki/FeatureDevotion.html, FeatureDevotion}, a nasty condition where people start valuing ticking off features more than tracking the real outcome of the project.@<fn>{f03}
 In this narrative, effort put into estimates is, at best, waste - since "an estimate is a guess in a clean shirt" @<fn>{f02}. Usually estimates end up being actively harmful as they encourage @<href>{http://martinfowler.com/bliki/FeatureDevotion.html, FeatureDevotion}, a nasty condition where people start valuing ticking off features more than tracking the real outcome of the project.@<fn>{f03}
@@ -77,7 +87,7 @@ Go to any conference with agile leanings and you'll hear talks of teams that wor
 Estimation is neither good or bad. If you can work effectively without estimation, then go ahead and do without it. If you think you need some estimates, then make sure you understand their role in decision making. If they are going to affect significant decisions then go ahead and make the best estimates you can. Above all be wary of anyone who tells you they are always needed, or never needed. Any arguments about use of estimation always defer to the agile principle that you should decide what are the right techniques for your particular context.
 
 #@ //footnote[f01][A recent read is @<href>{http://pragprog.com/magazines/2013-02/estimation-is-evil, Estimation is Evil} an excellent discussion by Ron Jeffries of the problems that estimates can cause.]
-//footnote[f01][A recent read is @<href>{http://pragprog.com/magazines/2013-02/estimation-is-evil, Estimation is Evil} an excellent discussion by Ron Jeffries of the problems that estimates can cause.]
+//footnote[f01][最近、@<href>{http://pragprog.com/magazines/2013-02/estimation-is-evil, Estimation is Evil}という記事を読んだ。Ron Jeffriesによるすばらしい議論で、見積もりのせいで起こり得る問題を扱っている。]
 
 #@ //footnote[f02][I got this analogy from Ron Jeffries, although I don't have a written reference for it.]
 //footnote[f02][I got this analogy from Ron Jeffries, although I don't have a written reference for it.]
