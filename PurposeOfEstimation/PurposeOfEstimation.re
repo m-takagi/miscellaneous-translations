@@ -45,7 +45,12 @@ tags: @<href>{http://martinfowler.com/tags/metrics.html, metrics} @<href>{http:/
  @<href>{http://martinfowler.com/bliki/DesignStaminaHypothesis.html, そして、状況はさらに悪化する}。
 
 #@ In this narrative, effort put into estimates is, at best, waste - since "an estimate is a guess in a clean shirt" @<fn>{f02}. Usually estimates end up being actively harmful as they encourage @<href>{http://martinfowler.com/bliki/FeatureDevotion.html, FeatureDevotion}, a nasty condition where people start valuing ticking off features more than tracking the real outcome of the project.@<fn>{f03}
-In this narrative, effort put into estimates is, at best, waste - since "an estimate is a guess in a clean shirt" @<fn>{f02}. Usually estimates end up being actively harmful as they encourage @<href>{http://martinfowler.com/bliki/FeatureDevotion.html, FeatureDevotion}, a nasty condition where people start valuing ticking off features more than tracking the real outcome of the project.@<fn>{f03}
+このシナリオで見積もりにかけた労力は、どんなに甘めに見ても、ムダ以外の何物でもない。
+"an estimate is a guess in a clean shirt" @<fn>{f02}だからである。
+たいていは、見積もりが害になることのほうが多い。見積もりのせいで
+@<href>{http://martinfowler.com/bliki/FeatureDevotion.html, FeatureDevotion}
+を強いられるからだ。機能をそぎ落とすことに気を取られすぎて、
+実際の成果を考えることがおろそかになってしまう。@<fn>{f03}
 
 #@ Estimates also set expectations, and since estimates are usually too low, they set unrealistic expectations. @<fn>{f04} Any increase in time or reduction in features is then seen as a loss. Due to @<href>{http://en.wikipedia.org/wiki/Loss_aversion, loss-aversion}, these losses have a magnified effect. @<fn>{f05}
 Estimates also set expectations, and since estimates are usually too low, they set unrealistic expectations. @<fn>{f04} Any increase in time or reduction in features is then seen as a loss. Due to @<href>{http://en.wikipedia.org/wiki/Loss_aversion, loss-aversion}, these losses have a magnified effect. @<fn>{f05}
@@ -90,10 +95,10 @@ Estimation is neither good or bad. If you can work effectively without estimatio
 //footnote[f01][最近、@<href>{http://pragprog.com/magazines/2013-02/estimation-is-evil, Estimation is Evil}という記事を読んだ。Ron Jeffriesによるすばらしい議論で、見積もりのせいで起こり得る問題を扱っている。]
 
 #@ //footnote[f02][I got this analogy from Ron Jeffries, although I don't have a written reference for it.]
-//footnote[f02][I got this analogy from Ron Jeffries, although I don't have a written reference for it.]
+//footnote[f02][Ron Jeffriesがかつてそう言っていたのだが、文書として書かれた出典は見つけられなかった。]
 
 #@ //footnote[f03][This situation is an excellent example of an @<href>{http://martinfowler.com/articles/useOfMetrics.html, inappropriate use of metrics}]
-//footnote[f03][This situation is an excellent example of an @<href>{http://martinfowler.com/articles/useOfMetrics.html, inappropriate use of metrics}]
+//footnote[f03][これこそまさに、@<href>{http://martinfowler.com/articles/useOfMetrics.html, メトリクスの間違った使いかた}の好例だ。]
 
 #@ //footnote[f04][Estimates and expectations: I particularly liked a comment on this by my colleague Angela Ferguson "the way that estimates set expectations is up to us - @<em>{it is poor project management (whether by project managers or other team members)} that results in a client who thinks estimates are fixed, or that raw estimates = actual effort/duration"         "I, in fact, try to practice delivery bad news on a weekly basis with my key client, even when things are travelling as expected ... 'so we're looking quite well on track now, but if we had discovered something that took longer than expected, or a requirement had blown up to be larger than expected, or we found something new and very important, what do you think the best course of action would be?' And then you explore the options - cut stories, add time, add capacity, etc. This means that when the expected unexpected thing happens (because we know it will happen), the conversation doesn't seem new and scary to the client."]
 //footnote[f04][Estimates and expectations: I particularly liked a comment on this by my colleague Angela Ferguson "the way that estimates set expectations is up to us - @<em>{it is poor project management (whether by project managers or other team members)} that results in a client who thinks estimates are fixed, or that raw estimates = actual effort/duration"         "I, in fact, try to practice delivery bad news on a weekly basis with my key client, even when things are travelling as expected ... 'so we're looking quite well on track now, but if we had discovered something that took longer than expected, or a requirement had blown up to be larger than expected, or we found something new and very important, what do you think the best course of action would be?' And then you explore the options - cut stories, add time, add capacity, etc. This means that when the expected unexpected thing happens (because we know it will happen), the conversation doesn't seem new and scary to the client."]
