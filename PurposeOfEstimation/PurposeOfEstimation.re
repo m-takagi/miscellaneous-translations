@@ -53,7 +53,12 @@ tags: @<href>{http://martinfowler.com/tags/metrics.html, metrics} @<href>{http:/
 実際の成果を考えることがおろそかになってしまう。@<fn>{f03}
 
 #@ Estimates also set expectations, and since estimates are usually too low, they set unrealistic expectations. @<fn>{f04} Any increase in time or reduction in features is then seen as a loss. Due to @<href>{http://en.wikipedia.org/wiki/Loss_aversion, loss-aversion}, these losses have a magnified effect. @<fn>{f05}
-Estimates also set expectations, and since estimates are usually too low, they set unrealistic expectations. @<fn>{f04} Any increase in time or reduction in features is then seen as a loss. Due to @<href>{http://en.wikipedia.org/wiki/Loss_aversion, loss-aversion}, these losses have a magnified effect. @<fn>{f05}
+見積もりはまた、期待値のもとにもなる。
+見積もりはたいてい少なめになってしまうので、
+そこから得られる期待値も非現実的なものになる。@<fn>{f04}
+少しでも余計に時間がかかったり、少しでも機能が減ったりすれば、期待外れだとみなされる。
+@<href>{http://en.wikipedia.org/wiki/Loss_aversion, loss-aversion}
+のせいで、この損失は大きな影響を及ぼす。@<fn>{f05}
 
 #@ Faced with situations like this, it's easy to see how people turn their angry glares towards estimation. This leads to an increasing notion that anyone indulging in estimating is Not a True Agilist. Critics of agile say this means that agile development is about developers going off and doing vague stuff with promises that it'll be done when its done and you'll like it.
 Faced with situations like this, it's easy to see how people turn their angry glares towards estimation. This leads to an increasing notion that anyone indulging in estimating is Not a True Agilist. Critics of agile say this means that agile development is about developers going off and doing vague stuff with promises that it'll be done when its done and you'll like it.
