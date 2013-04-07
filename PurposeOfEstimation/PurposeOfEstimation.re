@@ -61,7 +61,12 @@ tags: @<href>{http://martinfowler.com/tags/metrics.html, metrics} @<href>{http:/
 のせいで、この損失は大きな影響を及ぼす。@<fn>{f05}
 
 #@ Faced with situations like this, it's easy to see how people turn their angry glares towards estimation. This leads to an increasing notion that anyone indulging in estimating is Not a True Agilist. Critics of agile say this means that agile development is about developers going off and doing vague stuff with promises that it'll be done when its done and you'll like it.
-Faced with situations like this, it's easy to see how people turn their angry glares towards estimation. This leads to an increasing notion that anyone indulging in estimating is Not a True Agilist. Critics of agile say this means that agile development is about developers going off and doing vague stuff with promises that it'll be done when its done and you'll like it.
+こんな状況に直面すると、つい見積もりを目の敵にしてしまう。
+そしてそれは、「見積もりなんかにこだわっている人は真のアジャイル開発者じゃない」という思いにつながる。
+アジャイルの粗探しをする人たちは、それを見て言う。
+「要するに、アジャイル開発っていうのは、約束をすることを開発者が放棄しちゃうってことなんだ。
+『いつできるの？』『いつっていうか、できたときができあがりさ。
+きっと気に入ると思うよ』みたいにね」
 
 #@ I don't share this view of estimation as an inherently evil activity. If I'm asked if estimation is a Bad Thing my answer is the standard consultants' answer of "it depends". Whenever someone answers "it depends" the follow-up question is "upon what". To answer that we have to ask why we are doing estimation - as I like to say "if it's worth doing well, it's worth asking why on earth you're doing it at all".
 I don't share this view of estimation as an inherently evil activity. If I'm asked if estimation is a Bad Thing my answer is the standard consultants' answer of "it depends". Whenever someone answers "it depends" the follow-up question is "upon what". To answer that we have to ask why we are doing estimation - as I like to say "if it's worth doing well, it's worth asking why on earth you're doing it at all".
