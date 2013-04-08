@@ -69,10 +69,15 @@ tags: @<href>{http://martinfowler.com/tags/metrics.html, metrics} @<href>{http:/
 きっと気に入ると思うよ』みたいにね」
 
 #@ I don't share this view of estimation as an inherently evil activity. If I'm asked if estimation is a Bad Thing my answer is the standard consultants' answer of "it depends". Whenever someone answers "it depends" the follow-up question is "upon what". To answer that we have to ask why we are doing estimation - as I like to say "if it's worth doing well, it's worth asking why on earth you're doing it at all".
-I don't share this view of estimation as an inherently evil activity. If I'm asked if estimation is a Bad Thing my answer is the standard consultants' answer of "it depends". Whenever someone answers "it depends" the follow-up question is "upon what". To answer that we have to ask why we are doing estimation - as I like to say "if it's worth doing well, it's worth asking why on earth you're doing it at all".
+私は、見積もりは本質的に邪悪なものだというこの見方には与しない。
+「見積もりってダメなの？」って聞かれたら、お決まりの答えを返す。「状況によるね」
+そんなふうに答えたら、次に聞かれるのはきっと「たとえば？」だ。
+その問いに答えるには、私たちはいったいなぜ見積もりをするのかを考えなければいけない。
+つまり「もしそれをうまくやる価値があるっていうのなら、
+そもそもなぜそれをやるのかってことを考える価値もある」ってことだ。
 
 #@ For me, @<em>{estimation is valuable when it helps you make a significant decision}.
-For me, @<em>{estimation is valuable when it helps you make a significant decision}.
+私にとって、@<em>{見積もりに価値があるのは、それが重大な決断の助けになる場合だ}。
 
 #@ My first example of an estimation-informed decision is allocation of resources. Organizations have a mostly fixed amount of money and people, and usually there are too many worthwhile things to do. So people are faced with decisions: do we do A or B? Faced with such a decision it's useful to know how much effort (and cost) each will involve. To make sensible decisions about what to do, you need to have a feel for both the cost and the benefits.
 My first example of an estimation-informed decision is allocation of resources. Organizations have a mostly fixed amount of money and people, and usually there are too many worthwhile things to do. So people are faced with decisions: do we do A or B? Faced with such a decision it's useful to know how much effort (and cost) each will involve. To make sensible decisions about what to do, you need to have a feel for both the cost and the benefits.
