@@ -89,7 +89,13 @@ tags: @<href>{http://martinfowler.com/tags/metrics.html, metrics} @<href>{http:/
 それぞれの費用対効果を感覚的につかんでおかなければいけない。
 
 #@ Another example is to help with coordination. The blue team wants to release a new feature to their web site, but cannot do so until the green team builds a new service to give them crucial data. If the green team estimates they will be done in two months and the blue team estimates that it will take them a month to build the feature, then the blue team knows it's not worthwhile to start today. They can spend at least a month working on some other feature that can be released earlier.
-Another example is to help with coordination. The blue team wants to release a new feature to their web site, but cannot do so until the green team builds a new service to give them crucial data. If the green team estimates they will be done in two months and the blue team estimates that it will take them a month to build the feature, then the blue team knows it's not worthwhile to start today. They can spend at least a month working on some other feature that can be released earlier.
+もうひとつの例として、調整をしやすくするということを挙げよう。
+青チームは新機能をウェブサイトでリリースしたいと考えている。
+でも、緑チームが新サービスを構築してくれるまではその新機能を公開できない。
+というのも、その新機能は緑チームのサービスからのデータがないと動かないからだ。
+緑チームは新サービスの構築を二か月と見積もった。一方、青チームが新機能を完成させるには一か月ほどかかりそうだ。
+つまり、青チームは別に、いますぐ新機能の開発を始めなくてもいいということがわかる。
+すくなくとも一か月はそれ以外の作業をできて、そっちのほうを先にリリースできるということだ。
 
 #@ So whenever you're thinking of asking for an estimate, you should always clarify what decision that estimate is informing. If you can't find one, or the decision isn't very significant, then that's a signal that an estimate is wasteful. When you do find a decision then knowing it focuses the estimate because the decision provides context. It should also clarify the desired precision and accuracy.
 So whenever you're thinking of asking for an estimate, you should always clarify what decision that estimate is informing. If you can't find one, or the decision isn't very significant, then that's a signal that an estimate is wasteful. When you do find a decision then knowing it focuses the estimate because the decision provides context. It should also clarify the desired precision and accuracy.
