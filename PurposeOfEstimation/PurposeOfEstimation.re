@@ -98,7 +98,11 @@ tags: @<href>{http://martinfowler.com/tags/metrics.html, metrics} @<href>{http:/
 すくなくとも一か月はそれ以外の作業をできて、そっちのほうを先にリリースできるということだ。
 
 #@ So whenever you're thinking of asking for an estimate, you should always clarify what decision that estimate is informing. If you can't find one, or the decision isn't very significant, then that's a signal that an estimate is wasteful. When you do find a decision then knowing it focuses the estimate because the decision provides context. It should also clarify the desired precision and accuracy.
-So whenever you're thinking of asking for an estimate, you should always clarify what decision that estimate is informing. If you can't find one, or the decision isn't very significant, then that's a signal that an estimate is wasteful. When you do find a decision then knowing it focuses the estimate because the decision provides context. It should also clarify the desired precision and accuracy.
+見積もりを作ってくれとお願いするなら、その見積もりを使ってどんな判断をしようとしているのかを明確にしておくべきだ。
+もしそれがはっきりしないだとか、あるいはその判断が対して重要なものではないなどといった場合は、
+きっとその見積もりはムダなんだろう。見積もりの目的がはっきりしていれば、
+見積もりにより注力できるようになる。その判断のもとになる状況がわかるからだ。
+また、見積もりに求める細かさや正確さについてもはっきりさせておこう。
 
 #@ Understanding the decision may also lead you to alternative actions that may not involve an estimate. Maybe task A is so much more important than B that you don't need an estimate to put all your available energies into doing it first. Perhaps there is a way for blue team members to work with the green team to get the service built more quickly.
 Understanding the decision may also lead you to alternative actions that may not involve an estimate. Maybe task A is so much more important than B that you don't need an estimate to put all your available energies into doing it first. Perhaps there is a way for blue team members to work with the green team to get the service built more quickly.
