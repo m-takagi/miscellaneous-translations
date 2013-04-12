@@ -112,7 +112,17 @@ tags: @<href>{http://martinfowler.com/tags/metrics.html, metrics} @<href>{http:/
 青チームのメンバーが緑チームと協力して、まずは緑チームのサービスをなんとか動かすといった手が考えられる。
 
 #@ Similarly, tracking against a plan should also be driven by how it informs decision making. My usual comment here is that a plan acts as a baseline to help assess changes - if we want to add a new feature, how do we fit it into the @<href>{http://martinfowler.com/bliki/FivePoundBag.html, FivePoundBag}? Estimates can help us understand these trade-offs and thus decide how to respond to change. On a larger scale re-estimating a whole release can help us understand if the project as a whole is still the best use of our energy. A few years ago we had a year-long project that was cancelled after a re-estimate a couple of months in. We saw that as a success because the re-estimate suggested the project would take much longer than we had initially expected - early cancellation allowed the client to move resources to a better target.
-Similarly, tracking against a plan should also be driven by how it informs decision making. My usual comment here is that a plan acts as a baseline to help assess changes - if we want to add a new feature, how do we fit it into the @<href>{http://martinfowler.com/bliki/FivePoundBag.html, FivePoundBag}? Estimates can help us understand these trade-offs and thus decide how to respond to change. On a larger scale re-estimating a whole release can help us understand if the project as a whole is still the best use of our energy. A few years ago we had a year-long project that was cancelled after a re-estimate a couple of months in. We saw that as a success because the re-estimate suggested the project would take much longer than we had initially expected - early cancellation allowed the client to move resources to a better target.
+同じく、計画に対する実績を追うときにも、それが意思決定にどう関わるのかを意識しなければいけない。
+私がよく言っているのは、計画は評価を変更するときのベースラインになるということだ。
+新機能を追加したいとして、それをどうやって@<href>{http://martinfowler.com/bliki/FivePoundBag.html, FivePoundBag}
+にフィットさせればいいだろう？
+見積もりを使えばこれらのトレードオフを把握する助けになるし、変更の要求にどう反応すればいいのかもわかる。
+リリース全体にまたがる大規模な再見積もりをすれば、
+そのプロジェクト自体にまだ力を入れるだけの価値があるかどうかを把握できる。
+数年前に、一年越しのプロジェクトを打ち切った。2か月ほどかけた再見積もりの結果だ。
+その判断は正解だったとみている。というのも、再見積もりの結果、
+当初の予想よりもはるかに時間がかかるであろうことが見えてきたからだ。
+早いうちに打ち切ったおかげで、クライアントはそのリソースを他に振り向けることができた。
 
 #@ But remember with tracking against plans that estimates have a limited shelf life. I once remember a gnarly project manager say that plans and estmates were like a lettuce, good for a couple of days, rather wilty after a week, and unrecognizable after a couple of months.
 But remember with tracking against plans that estimates have a limited shelf life. I once remember a gnarly project manager say that plans and estmates were like a lettuce, good for a couple of days, rather wilty after a week, and unrecognizable after a couple of months.
