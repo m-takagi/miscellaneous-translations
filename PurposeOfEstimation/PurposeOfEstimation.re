@@ -125,7 +125,10 @@ tags: @<href>{http://martinfowler.com/tags/metrics.html, metrics} @<href>{http:/
 早いうちに打ち切ったおかげで、クライアントはそのリソースを他に振り向けることができた。
 
 #@ But remember with tracking against plans that estimates have a limited shelf life. I once remember a gnarly project manager say that plans and estmates were like a lettuce, good for a couple of days, rather wilty after a week, and unrecognizable after a couple of months.
-But remember with tracking against plans that estimates have a limited shelf life. I once remember a gnarly project manager say that plans and estmates were like a lettuce, good for a couple of days, rather wilty after a week, and unrecognizable after a couple of months.
+しかし、計画に対する実績を追うときには、見積もりには寿命があるということを忘れないようにしよう。
+あるプロジェクトマネージャーが、かつてこんなことを言っていた。
+「計画や見積もりっていうのは、レタスみたいなものだ。
+おいしいのは数日だけ。一週間もすればしなびてくるし、数か月後には原形をとどめていない」
 
 #@ Many teams find that estimation provides a useful forcing function to get team members to talk to each other. Estimation meetings can help get better understanding of various ways to implement upcoming stories, future architectural directions, and design problems in the code base. In this case any output estimation numbers may be unimportant. There are many ways such conversations can happen, but estimation discussions can be introduced if these kinds of conversations aren't happening. @<fn>{f06} Conversely if you're thinking of stopping estimation, you need to ensure that any useful conversation during estimation still continues elsewhere.
 Many teams find that estimation provides a useful forcing function to get team members to talk to each other. Estimation meetings can help get better understanding of various ways to implement upcoming stories, future architectural directions, and design problems in the code base. In this case any output estimation numbers may be unimportant. There are many ways such conversations can happen, but estimation discussions can be introduced if these kinds of conversations aren't happening. @<fn>{f06} Conversely if you're thinking of stopping estimation, you need to ensure that any useful conversation during estimation still continues elsewhere.
