@@ -142,7 +142,17 @@ tags: @<href>{http://martinfowler.com/tags/metrics.html, metrics} @<href>{http:/
 見積もりのときの有用なやりとりが、どこか他の場所で続けられるようにしなければいけない。
 
 #@ Go to any conference with agile leanings and you'll hear talks of teams that work effectively without estimation. Often this works because they, and their customers, understand that making estimates isn't going to affect significant decisions. An example is a small team working closely with business. If the broader business is happy with allocating some people to that business unit, then work can be carried out in priority order; often this is helped by the team breaking down work into small enough units. @<fn>{f07} A team's level in the @<href>{http://martinfowler.com/articles/agileFluency.html, agile fluency model} plays a big role here. As teams progress they first struggle with estimation, then can get quite good at it, and then reach a point where they often don't need it. @<fn>{f08}
-Go to any conference with agile leanings and you'll hear talks of teams that work effectively without estimation. Often this works because they, and their customers, understand that making estimates isn't going to affect significant decisions. An example is a small team working closely with business. If the broader business is happy with allocating some people to that business unit, then work can be carried out in priority order; often this is helped by the team breaking down work into small enough units. @<fn>{f07} A team's level in the @<href>{http://martinfowler.com/articles/agileFluency.html, agile fluency model} plays a big role here. As teams progress they first struggle with estimation, then can get quite good at it, and then reach a point where they often don't need it. @<fn>{f08}
+アジャイル方面のカンファレンスに行くと、見積もりなしでうまく回しているチームの話を聴くことがある。
+そういうチームがうまくいっている理由はたいてい、メンバーや顧客が、
+見積もりをしても重大な決断の材料にはならないであろうことを理解しているということだ。
+たとえば、小規模なチームで業務に密着した作業をしている場合がその一例だ。
+幅広い業務にまたがる場合でも、業務単位に何人かを割り当てられる場合は、
+作業を優先度順に行える。それを手助けするために、
+作業を小さな単位に分割することが多い。@<fn>{f07}
+@<href>{http://martinfowler.com/articles/agileFluency.html, agile fluency model}
+におけるチームのレベルが、ここでは大きな意味を持つ。
+チームの成熟とともに、見積もりに悩まされていたメンバーが見積もりをうまくできるようになり、
+最終的には見積もりがいらないレベルに到達する。@<fn>{f08}
 
 #@ Estimation is neither good or bad. If you can work effectively without estimation, then go ahead and do without it. If you think you need some estimates, then make sure you understand their role in decision making. If they are going to affect significant decisions then go ahead and make the best estimates you can. Above all be wary of anyone who tells you they are always needed, or never needed. Any arguments about use of estimation always defer to the agile principle that you should decide what are the right techniques for your particular context.
 Estimation is neither good or bad. If you can work effectively without estimation, then go ahead and do without it. If you think you need some estimates, then make sure you understand their role in decision making. If they are going to affect significant decisions then go ahead and make the best estimates you can. Above all be wary of anyone who tells you they are always needed, or never needed. Any arguments about use of estimation always defer to the agile principle that you should decide what are the right techniques for your particular context.
