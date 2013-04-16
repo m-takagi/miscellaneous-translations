@@ -155,7 +155,14 @@ tags: @<href>{http://martinfowler.com/tags/metrics.html, metrics} @<href>{http:/
 最終的には見積もりがいらないレベルに到達する。@<fn>{f08}
 
 #@ Estimation is neither good or bad. If you can work effectively without estimation, then go ahead and do without it. If you think you need some estimates, then make sure you understand their role in decision making. If they are going to affect significant decisions then go ahead and make the best estimates you can. Above all be wary of anyone who tells you they are always needed, or never needed. Any arguments about use of estimation always defer to the agile principle that you should decide what are the right techniques for your particular context.
-Estimation is neither good or bad. If you can work effectively without estimation, then go ahead and do without it. If you think you need some estimates, then make sure you understand their role in decision making. If they are going to affect significant decisions then go ahead and make the best estimates you can. Above all be wary of anyone who tells you they are always needed, or never needed. Any arguments about use of estimation always defer to the agile principle that you should decide what are the right techniques for your particular context.
+見積もり自体は、いいとか悪いとかいうものではない。
+見積もりなしでもうまく作業をこなせるのなら、それでいい。見積もりなしで突っ走ればいい。
+見積もりが必要だなあと思うのなら、方針を決めるにあたって自分がどんな役割を果たすのかを把握しておくことだ。
+これから重大な決断を下そうとしているのなら、できる限りの見積もりをしよう。
+とにかく、「見積もりはゼッタイ必要なんだ！」とか「見積もりなんてまったく無意味だね！」
+なんて言う人たちには要注意だ。
+見積もりの使い方についてのあらゆる議論はアジャイル原則に従う。
+現状に照らし合わせて考えたときに、何が最適なテクニックなのかを判断しなければいけない。
 
 #@ //footnote[f01][A recent read is @<href>{http://pragprog.com/magazines/2013-02/estimation-is-evil, Estimation is Evil} an excellent discussion by Ron Jeffries of the problems that estimates can cause.]
 //footnote[f01][最近、@<href>{http://pragprog.com/magazines/2013-02/estimation-is-evil, Estimation is Evil}という記事を読んだ。Ron Jeffriesによるすばらしい議論で、見積もりのせいで起こり得る問題を扱っている。]
