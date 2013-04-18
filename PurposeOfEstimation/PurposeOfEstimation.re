@@ -177,10 +177,10 @@ tags: @<href>{http://martinfowler.com/tags/metrics.html, metrics} @<href>{http:/
 //footnote[f04][見積もりと期待値：この件に関して私が特に気に入っているのは、同僚のAngela Fergusonのこんなコメントだ。「見積もりに対してどんな期待をするのかは、その人しだい。見積もりが絶対に変わらないものだと思い込んだり、見積もりが実際の工数や所要時間と完全に一致すると思い込んでいたりするのは@<em>{プロジェクト管理が（マネージャーにとってもチームのメンバーにとっても）うまくできていない}せいよ」「私は実際のところ、週に一度のペースで顧客に悪いお知らせをしに行っているわ。たとえ万事うまく進んでいたとしてもね。『今のところは順調に進んでいます。でも、もし予想より時間がかかるような作業が見つかったり要件に変更があったり、当初の見積もりで見落としていた大事なことを発見したりしたら、どうしたらいいと思いますか？』で、選択肢を示すの。機能を削るとか、納期を延ばすとか、要員を追加するとかね。常日頃からそんなふうに接していると、想定される不測の事態（ええ、きっと発生するって知ってる）が起こったときにもお客様は慌てずに済むってわけ」]
 
 #@ //footnote[f05][Very roughly people feel twice as much pain for a loss as pleasure for a gain.]
-//footnote[f05][Very roughly people feel twice as much pain for a loss as pleasure for a gain.]
+//footnote[f05][ざっくり言うと、うまくいかないときの残念管はうまくいっているときの満足感の倍くらいにはなる。]
 
 #@ //footnote[f06][If you do this an approach like @<href>{http://martinfowler.com/bliki/ThrownEstimate.html, ThrownEstimates} can help the discussion move at a good pace.]
-//footnote[f06][If you do this an approach like @<href>{http://martinfowler.com/bliki/ThrownEstimate.html, ThrownEstimates} can help the discussion move at a good pace.]
+//footnote[f06][そんなときには、@<href>{http://martinfowler.com/bliki/ThrownEstimate.html, ThrownEstimates}みたいなやりかたを使えば、議論を進める助けになるだろう。]
 
 #@ //footnote[f07][Of course breaking work down into small units requires some implicit estimation, but that's really a different animal to the more common explicit estimation activity.]
 //footnote[f07][Of course breaking work down into small units requires some implicit estimation, but that's really a different animal to the more common explicit estimation activity.]
