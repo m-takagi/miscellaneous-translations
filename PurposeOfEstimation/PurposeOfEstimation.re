@@ -183,7 +183,7 @@ tags: @<href>{http://martinfowler.com/tags/metrics.html, metrics} @<href>{http:/
 //footnote[f06][そんなときには、@<href>{http://martinfowler.com/bliki/ThrownEstimate.html, ThrownEstimates}みたいなやりかたを使えば、議論を進める助けになるだろう。]
 
 #@ //footnote[f07][Of course breaking work down into small units requires some implicit estimation, but that's really a different animal to the more common explicit estimation activity.]
-//footnote[f07][Of course breaking work down into small units requires some implicit estimation, but that's really a different animal to the more common explicit estimation activity.]
+//footnote[f07][もちろん、作業を小さな単位に分割する時点で、何らかの見積もり的なものは必要になる。でもそれは、見積もりと聞いて一般的に思い浮かべるそれとはまったく異なる代物だ。]
 
 #@ //footnote[f08][James Shore has a recent blog post that @<href>{http://www.jamesshore.com/Blog/Estimation-and-Fluency.html, details his observations} about how fluency influences estimation practice. I think a similar analysis of practices at various stages of fluency could be very useful.]
 //footnote[f08][James Shore has a recent blog post that @<href>{http://www.jamesshore.com/Blog/Estimation-and-Fluency.html, details his observations} about how fluency influences estimation practice. I think a similar analysis of practices at various stages of fluency could be very useful.]
