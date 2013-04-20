@@ -186,7 +186,7 @@ tags: @<href>{http://martinfowler.com/tags/metrics.html, metrics} @<href>{http:/
 //footnote[f07][もちろん、作業を小さな単位に分割する時点で、何らかの見積もり的なものは必要になる。でもそれは、見積もりと聞いて一般的に思い浮かべるそれとはまったく異なる代物だ。]
 
 #@ //footnote[f08][James Shore has a recent blog post that @<href>{http://www.jamesshore.com/Blog/Estimation-and-Fluency.html, details his observations} about how fluency influences estimation practice. I think a similar analysis of practices at various stages of fluency could be very useful.]
-//footnote[f08][James Shore has a recent blog post that @<href>{http://www.jamesshore.com/Blog/Estimation-and-Fluency.html, details his observations} about how fluency influences estimation practice. I think a similar analysis of practices at various stages of fluency could be very useful.]
+//footnote[f08][James Shoreが最近のblog記事で、アジャイル開発の浸透が見積もりにどんな影響を及ぼすのかに関して@<href>{http://www.jamesshore.com/Blog/Estimation-and-Fluency.html, 詳しく意見を述べていた}。この記事のように、いろんな段階での見積もりに関する分析をしてみるのは有用だと思う。]
 
 #@ Acknowledgements
 == Acknowledgements
