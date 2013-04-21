@@ -189,7 +189,9 @@ tags: @<href>{http://martinfowler.com/tags/metrics.html, metrics} @<href>{http:/
 //footnote[f08][James Shoreが最近のblog記事で、アジャイル開発の浸透が見積もりにどんな影響を及ぼすのかに関して@<href>{http://www.jamesshore.com/Blog/Estimation-and-Fluency.html, 詳しく意見を述べていた}。この記事のように、いろんな段階での見積もりに関する分析をしてみるのは有用だと思う。]
 
 #@ Acknowledgements
-== Acknowledgements
+== 謝辞
 
 #@ I repeat myself again in thanking varous ThoughtWorkers on internal lists for their comments. In particuarly I'd like to call out Angela Ferguson, Dave Pattinson, and Pat Kua. I should also thank James Shore for responding so rapidly and well for my question about the links to the fluency model.
-I repeat myself again in thanking varous ThoughtWorkers on internal lists for their comments. In particuarly I'd like to call out Angela Ferguson, Dave Pattinson, and Pat Kua. I should also thank James Shore for responding so rapidly and well for my question about the links to the fluency model.
+ThoughtWorksの同僚達には、重ね重ね感謝する。社内のメーリングリストでいろんなコメントをもらった。
+中でもAngela FergusonとDave Pattinson、そしてPat Kuaには特に助けられた。
+また、James Shoreにも感謝する。fluency modelの記事にリンクを張りたいというお願いに、ものすごい速さで反応してくれた。
