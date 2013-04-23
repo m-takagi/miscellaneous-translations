@@ -124,7 +124,9 @@ DartやGWTそしてClojureScriptといった実例がある。
 #@  design.
 コンパイルの透過性を保つために何らかの作業が必要になるというなら、
 ソース言語でできることに何らかの制約が課されることになる。
-You don't have the degree of freedom in your language constructs that you get with a more unconstrained form of compilation. You have to follow the basic semantics of the target language, and keep to much the same program structure. These constraints haven't been widely talked about as a feature of language design.
+もっと制約の少ないコンパイル形式なら得られたであろう、言語構造の自由度が下がってしまう。
+ターゲット言語の基本構文に従う必要があり、同じような構造のプログラムを書かなければいけない。
+こういった制約は、言語設計の特徴としてあまり話題に上らない。
 
 #@ CoffeeScript illustrates that despite these constraints you can
 #@  get a considerable difference in syntax between source and target
