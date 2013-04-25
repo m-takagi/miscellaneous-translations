@@ -141,7 +141,8 @@ DartやGWTそしてClojureScriptといった実例がある。
 #@  handy features.
 CoffeeScriptは、こういった制約があったとしてもソース言語とターゲット言語の構文を大きく変えられるというよい例だ。
 CoffeeScriptの構文はPythonに似ており、JavaScriptがC言語風なのとは違っている。
-Such syntactic variation isn't always the case, indeed there is an important subset of transparent compilation languages that strive to be a superset of the target language.
+ただ、こんなふうに構文的に手を加えている言語ばかりだというわけでもない。
+実際、透過型のコンパイル言語の中では、ターゲット言語のスーパーセットであろうとする勢力も見逃せない。
 SCSSや@<href>{http://www.typescriptlang.org, TypeScript}がこのタイプで、
 あらゆるCSSの式はSCSSとしても妥当な形式になる。
 スーパーセット言語を使えば対応関係はより明確になるし、CSSがより使いやすくなるだろう。
