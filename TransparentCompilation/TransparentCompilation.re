@@ -159,7 +159,11 @@ SCSSや@<href>{http://www.typescriptlang.org, TypeScript}がこのタイプで�
 透過的なコンパイルには意味がないという人もいる。
 デバッグのためにターゲット言語を理解する必要があるのなら、
 わざわざ別のソース言語を使う意味があるの？という意見だ。
-For me, the value lies in a couple of directions. First off it's a way of getting useful language features that are missing in the target language. SCSS gives me handy capabilities such as variables (so I can say @<code>{$light-purple} instead of @<code>{#f8c8fe} and change it in only one place should I want to tweak it).
+私にとっての透過的コンパイルの価値は、いくつかの方面に渡る。
+まず、ターゲット言語に欠けている便利な言語機能を手に入れる手段として使える。
+たとえばSCSSなら、変数のような便利な機能が使えるようになる
+（@<code>{#f8c8fe}の代わりに@<code>{$light-purple}などのように指定できて、
+色を変更するにも一箇所だけいじれば済む）。
 
 #@ More drastic syntax changes, such as CoffeeScript, require
 #@  stronger justification. One of my colleagues put it very well after finishing a
