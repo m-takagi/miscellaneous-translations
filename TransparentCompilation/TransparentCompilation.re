@@ -178,7 +178,16 @@ SCSSや@<href>{http://www.typescriptlang.org, TypeScript}がこのタイプで�
 #@  makes a big difference once you're up to hundreds of lines of code,
 #@  let alone beyond.<a href = '#footnote-recommend'>[4]</a>
 CoffeeScriptのように構文を劇的に変えるには、それなりの理由が必要だ。
-One of my colleagues put it very well after finishing a project. He's an experienced JavaScript programmer and the project wrote well-disciplined JavaScript from the beginning. As a result he was very happy with the quality of the JavaScript codebase. However he still concluded that they would have been better off working in CoffeeScript, because it's easier to understand what is going on when you're reading the CoffeeScript, even when you're debugging in the generated JavaScript code. The transformation may not look like such a big deal for small fragments, such as those I show above. But it makes a big difference once you're up to hundreds of lines of code, let alone beyond.@<fn>{f04}
+私の同僚の一人が、あるプロジェクトを終えた後でそれをうまくまとめてくれた。
+彼は経験豊富なJavaScriptプログラマーで、そのプロジェクトも当初から、
+きちんとしたJavaScriptで書かれていた。最終的にできあがった
+JavaScriptのコードの品質にも、彼は十分満足していた。
+それでも、彼はこう結論づけた。
+CoffeeScriptで書いたほうがもっとうまくいっただろう、と。
+なぜなら、CoffeeScriptのほうが、読んだときに何をしているかがわかりやすいからだ。
+CoffeeScriptが生成するJavaScriptのコードを読んでいるときでさえ、それを感じるというのだ。
+先ほど例に挙げたような小さめのコードだと、変換の効果もあまり実感できないだろう。
+しかし、何百行にもなるようなコードを扱うようになると、その違いは大きくなる。@<fn>{f04}
 
 #@ Hunting around usage, it seem to me that the the term "transpiler" is used as a synonym for source-to-source compiler. So transpilers may or may not be transparent. I've also seen the term "source-to-source translation" used equivalently to "source-to-source compilation".
 #@ Even with opaque compilation there are cases when people study the outputs. Occasionally there are odd behaviors or bugs that do require you to dig into the compiler outputs. Some programmers like to understand what the compiler is doing, although that's got less common as compilers and virtual machines get more sophisticated. But such activity is an exception.
