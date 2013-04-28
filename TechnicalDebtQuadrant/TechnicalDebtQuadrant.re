@@ -18,7 +18,7 @@ tags: @<href>{http://martinfowler.com/tags/technical%20debt.html, technical debt
 #@   <a href = 'TechnicalDebt.html'>TechnicalDebt</a> that's raised the question of what kinds of design
 #@   flaws should or shouldn't be classified as Technical Debt.
 ここ数ヶ月の間に、
-@<href>{http://martinfowler.com/bliki/TechnicalDebt.html, TechnicalDebt}
+@<href>{http://martinfowler.com/bliki/TechnicalDebt.html, 技術的負債}
 に関する投稿がいくつかあった。設計上の不備の中で、技術的負債と呼ぶべきものは何か？
 逆に、そう呼ぶべきでないものは何か？といった疑問が挙げられていた。
 
@@ -32,11 +32,12 @@ tags: @<href>{http://martinfowler.com/tags/technical%20debt.html, technical debt
 #@  sooner, but needs to be paid off as soon as possible.
 その一例が、アンクル・ボブの投稿「
 @<href>{http://blog.objectmentor.com/articles/2009/09/22/a-mess-is-not-a-technical-debt, 汚いコードが負債というわけじゃない(a mess is not a debt)}」だ。
-彼が言うには、良い設計方法を知らない人が書いた単に汚いだけのコードを負債と呼ぶべきではない。
+彼の意見は、こういうことだ。
+良い設計方法を知らない人が書いた単に汚いだけのコードを負債と呼ぶべきではない。
 技術的負債という言葉はもっと特別な場合を指すものだ。
 検討の末に、長期的な持続性のない(けれども短期的には利益を生み出す。たとえばすぐにリリースできるなどの)
 設計指針を敢えて選択するといった場合に使う。
-要するに、負債を抱えれば早めに価値を生み出せるけれども、いずれ返済しないといけなくなるってことだ。
+要するに、負債を抱えれば早めに価値を生み出せるけれども、いずれ返済しないといけなくなる。
 
 #@ To my mind, the question of whether a design flaw is or isn't
 #@   debt is the wrong question. Technical Debt is a metaphor, so the
@@ -67,7 +68,7 @@ tags: @<href>{http://martinfowler.com/tags/technical%20debt.html, technical debt
 #@   design flaws. The prudent debt to reach a release may not be
 #@   worth paying down if the interest payments are sufficiently small -
 #@   such as if it were in a rarely touched part of the code-base.
-負債のたとえを聞いて思い出すのが、設計上の不備に対してとれる選択肢のことだ。
+負債のたとえを聞いて思い出すのが、設計上の不備に対して私たちがとれる選択肢のことだ。
 用心深く考えた結果として負債を抱えたリリースをした場合、
 支払う利息が無視できるほど小さいのならその返済をしなくてもかまわないだろう。
 たとえば、めったに使われることのない部分などがこれにあたる。
@@ -123,19 +124,19 @@ tags: @<href>{http://martinfowler.com/tags/technical%20debt.html, technical debt
 負債を象限に分類できることになる。ここまでで議論したのは、その中の三つの部分だ。
 残りの一つ、つまり「用心深く、かつ無意識な」負債については何が言えるだろう？
 ちょっと奇妙な感じもするが、私はこれもアリだと思う。
-負筒にあり得る話だっていうだけじゃなく、よくできる設計者が集ったチームでは避けられない事態だ。
+普通にあり得る話だっていうだけじゃなく、よくできる設計者が集ったチームでは避けられない事態だ。
 
 #@ I was chatting with a colleague recently about a project he'd
 #@   just rolled off from. The project that delivered valuable software,
 #@   the client was happy, and the code was clean. But he wasn't happy
 #@   with the code. He felt the team had done a good job, but now they
 #@   realize what the design ought to have been.
-私の同僚が最近リリースしたプロジェクトのことについて、彼と話をした。
+私の同僚と、彼が最近リリースしたプロジェクトのことについて話をした。
 彼が言うには、そのプロジェクトは価値のあるソフトウェアを提供できたし、
 顧客も喜んでくれたし、そしてコードもクリーンだった。
 でも、なぜか彼はそのコードに満足していなかった。
 自分のチームがいい仕事をしてくれたというのはわかっている。
-でも、今になって「あそこはああしておくべきだった」というのがわかってきたというのだ。
+でも、今になって「あそこはこうしておくべきだった」ということがわかってきたというのだ。
 
 #@ I hear this all the time from the best developers. The point is
 #@   that while you're programming, you are learning. It's often the case
