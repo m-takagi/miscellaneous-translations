@@ -21,7 +21,10 @@ tags: @<href>{http://martinfowler.com/tags/agile.html, agile} @<href>{http://mar
 #@   purposes. You also hear the same concept referred to as a
 #@   <b>feature</b>, but the term "story" or "user story" has
 #@   become prevalent in agile circles these days.</p>
-User Stories are chunks of desired behavior of a software system. They are widely used in agile software approaches to divide up a large amount of functionality into smaller pieces for planning purposes. You also hear the same concept referred to as a @<b>{feature}, but the term "story" or "user story" has become prevalent in agile circles these days.
+ユーザーストーリーとは、ソフトウェアシステムに求められるふるまいをまとめたものだ。
+アジャイルソフトウェア開発の世界で広く使われており、大量の機能を細かく分解して計画作りに生かせるようにしている。
+同じような概念を表す用語として@<b>{フィーチャー}という言い方もあるが、
+最近のアジャイル界隈では「ストーリー」とか「ユーザーストーリー」とかいう用語のほうが広まっている。
 
 #@ <p>Kent Beck first introduced the term as part of Extreme
 #@   Programming to encourage a more informal and conversational style of
