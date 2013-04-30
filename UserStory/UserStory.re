@@ -33,7 +33,11 @@ tags: @<href>{http://martinfowler.com/tags/agile.html, agile} @<href>{http://mar
 #@   prefer 3" by 5"). Stories are deliberately not fleshed out in detail
 #@   until they are ready to be developed, you only need enough
 #@   understanding to allow prioritization with other stories.</p>
-Kent Beck first introduced the term as part of Extreme Programming to encourage a more informal and conversational style of requirements elicitation than long written specifications. The essence of a story can be written on a single note card (Kent and I prefer 3" by 5"). Stories are deliberately not fleshed out in detail until they are ready to be developed, you only need enough understanding to allow prioritization with other stories.
+最初にこの言葉を使い出したのはKent Beckで、Extreme Programmingの一環として取り上げていた。
+長々と書かれた仕様書ではなく、形式張らない対話型の方法で要件を引き出すためだ。
+ストーリーの核心は、一枚のカードに書き出せる（Kentや私がよく使うのは、3インチx5インチのやつだ）。
+ストーリーは、敢えて詳細までは具体化しない。それは実際に開発の準備が整うまで先送りだ。
+この段階では、他のストーリーとの間で優先順位の調整ができる程度の理解で十分だ。
 
 #@ <p>Bill Wake came up with the <a href = 'http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/'>INVEST mnemonic</a> to describe the
 #@   characteristics of good stories:</p>
