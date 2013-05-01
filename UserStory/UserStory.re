@@ -41,7 +41,9 @@ tags: @<href>{http://martinfowler.com/tags/agile.html, agile} @<href>{http://mar
 
 #@ <p>Bill Wake came up with the <a href = 'http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/'>INVEST mnemonic</a> to describe the
 #@   characteristics of good stories:</p>
-Bill Wake came up with the @<href>{http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/, INVEST mnemonic} to describe the characteristics of good stories:
+Bill Wakeは、よいストーリーの特徴を覚えやすくするために
+@<href>{http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/, INVEST}
+という用語を編み出した。
 
 #@ <ul>
 #@ <li><b>Independent</b>: the stories can be delivered in any order</li>
@@ -62,12 +64,13 @@ Bill Wake came up with the @<href>{http://xp123.com/articles/invest-in-good-stor
 #@ <li><b>Testable</b>: you should be able to write tests to verify the
 #@     software for this story works correctly.</li>
 #@ </ul>
- * @<b>{Independent}: the stories can be delivered in any order
- * @<b>{Negotiable}: the details of what's in the story are co-created by the programmers and customer during development.
- * @<b>{Valuable}: the functionality is seen as valuable by the customers or users of the software.
- * @<b>{Estimable}: the programmers can come up with a reasonable estimate for building the story.
- * @<b>{Small}: stories should be built in a small amount of time, usually a matter of person-days. Certainly you should be able to build several stories within one iteration.
- * @<b>{Testable}: you should be able to write tests to verify the software for this story works correctly.
+ * @<b>{Independent（独立している）}：どのストーリーも、順番を気にせずに出荷できること。
+ * @<b>{Negotiable（交渉可能である）}：ストーリーの内部の詳細は、開発中にプログラマーと顧客の共同作業で作り上げること。
+ * @<b>{Valuable（価値がある）}：そのストーリーの機能が、顧客あるいはそのソフトウェアのユーザーにとって価値があるものであること。
+ * @<b>{Estimable（見積もり可能である）}：プログラマーがストーリーを実装するにあたって、妥当な見積もりができること。
+ * @<b>{Small（粒が小さい）}：ストーリーの実装にかかる時間は少なくすること。通常は数人日程度になる。
+ 少なくとも、1回のイテレーションで複数のストーリーを完成させるくらいでなければいけない。
+ * @<b>{Testable（テスト可能である）}：ストーリーが正しく機能することを確認するためのテストを書けること。
 
 #@ <p>A common way to formulate stories is the "As a &#x2026; I want &#x2026; So
 #@   that &#x2026;" form. The "As a" clause refers to who wants the story, "I want"
