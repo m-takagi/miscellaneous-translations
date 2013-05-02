@@ -78,7 +78,13 @@ Bill Wakeは、よいストーリーの特徴を覚えやすくするために
 #@   want this functionality. The "so that" part provides important
 #@   context to understand to help get from what the customer think they
 #@   want to providing what they actually need.</p>
-A common way to formulate stories is the "As a @<uchar>{2026} I want @<uchar>{2026} So that @<uchar>{2026}" form. The "As a" clause refers to who wants the story, "I want" describes what the functionality is, "so that" describes why they want this functionality. The "so that" part provides important context to understand to help get from what the customer think they want to providing what they actually need.
+ストーリーを書くときによく使われる、お決まりの書式がある。
+「@<uchar>{2026}として、@<uchar>{2026}をしたい。なぜなら@<uchar>{2026}だからだ」というものだ。
+「として」には、誰がそのストーリーを欲しているのかを書く。
+「をしたい」には、どんな機能なのかを書く。
+そして「なぜなら」には、なぜその機能が欲しいのかを書く。
+「なぜなら」の部分が、
+顧客が実際に欲しいと思っていることから、顧客が実際に必要なものを読み取るための重要な手がかりになる。
 
 #@ <p>Mike Cohn wrote what is <a href = "http://www.amazon.com/gp/product/0321205685?ie=UTF8&amp;tag=martinfowlerc-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321205685">now the standard
 #@   book on writing user stories</a><img src="http://www.assoc-amazon.com/e/ir?t=martinfowlerc-20&amp;l=as2&amp;o=1&amp;a=0321601912" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>. To understand the roots of user
