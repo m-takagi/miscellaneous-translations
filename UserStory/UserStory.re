@@ -91,4 +91,7 @@ Bill Wakeは、よいストーリーの特徴を覚えやすくするために
 #@   stories in XP consider the <a href = "http://www.amazon.com/gp/product/0321278658?ie=UTF8&amp;tag=martinfowlerc-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321278658">white
 #@   book</a><img src="http://www.assoc-amazon.com/e/ir?t=martinfowlerc-20&amp;l=as2&amp;o=1&amp;a=0321601912" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>, or the <a href = '/books/pxp.html'>tasteful green
 #@   book</a>. In an earlier bliki entry I discuss why <a href = 'UseCasesAndStories.html'>UseCasesAndStories</a> are different.</p>
-Mike Cohn wrote what is @<href>{http://www.amazon.com/gp/product/0321205685, now the standard book on writing user stories}. To understand the roots of user stories in XP consider the @<href>{http://www.amazon.com/gp/product/0321278658, white book}, or the @<href>{http://martinfowler.com/books/pxp.html, tasteful green book}. In an earlier bliki entry I discuss why @<href>{http://martinfowler.com/bliki/UseCasesAndStories.html, UseCasesAndStories} are different.
+Mike Cohnが、@<href>{http://www.amazon.com/gp/product/0321205685, ユーザーストーリーの書き方についての定番書}
+を書いた。XPにおけるユーザーストーリーの根本を理解するには、@<href>{http://www.amazon.com/gp/product/0321278658, 白い本}
+あるいは@<href>{http://martinfowler.com/books/pxp.html, 緑の本}を読もう。初期のblikiのエントリの中にも、
+@<href>{http://martinfowler.com/bliki/UseCasesAndStories.html, ユースケースとストーリーの違い}をとりあげたものがある。
