@@ -94,4 +94,4 @@ Bill Wakeは、よいストーリーの特徴を覚えやすくするために
 Mike Cohnが、@<href>{http://www.amazon.com/gp/product/0321205685, ユーザーストーリーの書き方についての定番書}
 を書いた。XPにおけるユーザーストーリーの根本を理解するには、@<href>{http://www.amazon.com/gp/product/0321278658, 白い本}
 あるいは@<href>{http://martinfowler.com/books/pxp.html, 緑の本}を読もう。初期のblikiのエントリの中にも、
-@<href>{http://martinfowler.com/bliki/UseCasesAndStories.html, ユースケースとストーリーの違い}をとりあげたものがある。
+@<href>{http://capsctrl.que.jp/kdmsnr/wiki/bliki/?UseCasesAndStories, ユースケースとストーリー}の違いをとりあげたものがある。
