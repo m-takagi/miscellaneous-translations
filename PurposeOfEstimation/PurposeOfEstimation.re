@@ -17,7 +17,7 @@ tags: @<href>{http://martinfowler.com/tags/metrics.html, metrics} @<href>{http:/
 
 #@ My first encounter with agile software development was working with Kent Beck at the @<href>{http://martinfowler.com/bliki/C3.html, dawn of Extreme Programming}. One of the things that impressed me about that project was the way we went about planning. This included an approach to estimating which was both lightweight yet more effective than what I'd seen before. Over a decade has now passed, and now there is an argument amongst experienced agilsts about whether estimation is worth doing at all, or indeed is actively harmful @<fn>{f01}. I think that to answer this question we have to look to what purpose the estimates will be used for.
 アジャイルソフトウェア開発に初めて出会ったのは、Kent Beckと仕事をしたときのことだ。
-そう、あれは@<href>{http://martinfowler.com/bliki/C3.html, Extreme Programmingの黎明期}だった。
+そう、あれは@<href>{http://capsctrl.que.jp/kdmsnr/wiki/bliki/?C3, Extreme Programmingの黎明期}だった。
 あのプロジェクトでいちばん印象的だったのは、計画づくりの方法だった。
 その見積もりは、私がそれまでに見てきた方法のどれよりも軽量で、かつ効率的だった。
 あれから10年。アジャイル開発者たちの間では、見積もりの有用性に対する議論が巻き起こっている。
