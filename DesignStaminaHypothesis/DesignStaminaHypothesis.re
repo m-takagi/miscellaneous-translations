@@ -1,6 +1,6 @@
 #@ -*- mode: review; coding: utf-8 -*-
 #@ DesignStaminaHypothesis
-= DesignStaminaHypothesis
+= 設計スタミナ説
 
 #@ http://martinfowler.com/bliki/DesignStaminaHypothesis.html
 
@@ -33,14 +33,16 @@ tags: @<href>{http://martinfowler.com/tags/productivity.html, productivity}
 遠回しなやりとりをすることが時々ある。あえて「遠回しなやりとり」と言ったのは、
 はっきりと「ソフトウェアの設計なんて無意味だ」と言う人を見たことがないからだ。
 そういう考えの人は、たいていこんな言い回しをする。
-「立ち止まっている暇なんてない。とにかく進まないと来年の目標を達成できないんだ。
-だから、≪設計に関する何かの作業≫は省略する」
+「立ち止まっている暇なんてない。とにかく前に進まないと来年の目標を達成できないんだ。
+だから、≪設計に関する何かの作業≫は省略するよ」
 
 #@ <p>In there is a notion that design is something you can trade off
 #@   for greater speed. Indeed I've come across the impression a couple
 #@   of times that design effort is tolerated to keep the programmers
 #@   happy even though it reduces speed.</p>
-In there is a notion that design is something you can trade off for greater speed. Indeed I've come across the impression a couple of times that design effort is tolerated to keep the programmers happy even though it reduces speed.
+そこにあるのは、設計と素早い開発の間には何らかのトレードオフがあるという思い込みだ。
+実際、「設計に時間を掛けると開発の速度は落ちるけど、
+プログラマーはそれを補って余りあるだけのメリットを得られる」的な物言いにも何度か遭遇したことがある。
 
 #@ <p>If it were the case that putting effort into design reduced the
 #@   effectiveness of programming I would be against it. In fact I think
@@ -50,7 +52,11 @@ In there is a notion that design is something you can trade off for greater spee
 #@   because they believe it improves productivity. (And by "design" here
 #@   I mean either up-front design or agile's approach, ie <a href = 'http://martinfowler.com/articles/designDead.html'>planned or
 #@   evolutionary design</a>.)</p>
-If it were the case that putting effort into design reduced the effectiveness of programming I would be against it. In fact I think most software developers would be against design if that were the case. Developers may disagree on what exactly is good design, but they are in favor of whatever brand of good design they favor because they believe it improves productivity. (And by "design" here I mean either up-front design or agile's approach, ie @<href>{http://martinfowler.com/articles/designDead.html, planned or evolutionary design}.)
+もし設計に力を入れたせいでプログラミングの効率が落ちるなどと言うことがあり得るのなら、私はきっと設計なんかしないだろう。
+大半の開発者もそれに同意してくれるはずだ。良い設計とはなんぞやと問われたらそれぞれ違う答えを返すだろうが、
+みんなそれぞれなにがしかの「良い設計」を好んでいる。そうすれば生産性が向上すると信じているからだ
+（ここでいう「設計」には、事前に行う設計も含むし、アジャイル開発の文脈での設計も含む。つまり、
+@<href>{http://objectclub.jp/community/XP-jp/xp_relate/isdesigndead#n71, 計画的設計と進化的設計}だ）。
 
 #@ <p>Design activities certainly do take up time and effort, but they
 #@   payoff because they make it easier to evolve the software into the
