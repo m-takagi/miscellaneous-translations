@@ -21,7 +21,7 @@ tags: @<href>{http://martinfowler.com/tags/productivity.html, productivity}
 //}
 
 #@ <p class = 'question'><b>Is it worth the effort to design software well?</b></p>
-@<b>{Is it worth the effort to design software well?}
+@<b>{ソフトウェアをきちんと設計するのは、その労力に見合うことなのか？}
 
 #@ <p>From time to time I have indirect conversations about whether
 #@   good software design is a worthwhile activity. I say these
@@ -29,7 +29,12 @@ tags: @<href>{http://martinfowler.com/tags/productivity.html, productivity}
 #@   across someone saying that software design is pointless. Usually
 #@   it's expressed in a form like "we really need to move fast to make
 #@   our target next year so we are reducing &lt;some design activity&gt;".</p>
-From time to time I have indirect conversations about whether good software design is a worthwhile activity. I say these conversations are indirect because I don't think I've ever come across someone saying that software design is pointless. Usually it's expressed in a form like "we really need to move fast to make our target next year so we are reducing <some design activity>".
+「ソフトウェアをきちんと設計することって、そんなに大切なことなの？」という問題について、
+遠回しなやりとりをすることが時々ある。あえて「遠回しなやりとり」と言ったのは、
+はっきりと「ソフトウェアの設計なんて無意味だ」と言う人を見たことがないからだ。
+そういう考えの人は、たいていこんな言い回しをする。
+「立ち止まっている暇なんてない。とにかく進まないと来年の目標を達成できないんだ。
+だから、≪設計に関する何かの作業≫は省略する」
 
 #@ <p>In there is a notion that design is something you can trade off
 #@   for greater speed. Indeed I've come across the impression a couple
