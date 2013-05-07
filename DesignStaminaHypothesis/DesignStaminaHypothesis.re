@@ -65,11 +65,15 @@ tags: @<href>{http://martinfowler.com/tags/productivity.html, productivity}
 #@   productivity later. Putting effort into to the design of your
 #@   software improves the stamina of your project, allowing you to go
 #@   faster for longer.</p>
-Design activities certainly do take up time and effort, but they payoff because they make it easier to evolve the software into the future. You can save short-term time by neglecting design, but this accumulates @<href>{http://martinfowler.com/bliki/TechnicalDebt.html, TechnicalDebt} which will slow your productivity later. Putting effort into to the design of your software improves the stamina of your project, allowing you to go faster for longer.
+設計に関する作業には時間も労力もかかる。それは間違いない。でも、それだけの価値はある。
+将来そのソフトウェアを成長させるのが楽になるからだ。設計をサボったら、短期的には時間の節約になるだろう。
+でも、そのぶんだけ@<href>{http://capsctrl.que.jp/kdmsnr/wiki/bliki/?TechnicalDebt, 技術的負債}はかさみ、後々の生産性を落としてしまう。
+ソフトウェアの設計に力を入れると、あなたのプロジェクトのスタミナが向上するのだ。
+成長する速度も上がり、長生きできるようになる。
 
 #@ <p>One way of visualizing this is the following
 #@   pseudo-graph.</p>
-One way of visualizing this is the following pseudo-graph.
+そのようすを図示してみたのが、このグラフだ。
 
 #@ <img src = 'images/designStaminaGraph.gif'></img>
 //indepimage[designStaminaGraph]
