@@ -1,6 +1,6 @@
 #@ -*- mode: review; coding: utf-8 -*-
 #@ DesignStaminaHypothesis
-= 設計スタミナ説
+= 設計＝スタミナ説
 
 #@ http://martinfowler.com/bliki/DesignStaminaHypothesis.html
 
@@ -73,7 +73,7 @@ tags: @<href>{http://martinfowler.com/tags/productivity.html, productivity}
 
 #@ <p>One way of visualizing this is the following
 #@   pseudo-graph.</p>
-そのようすを図示してみたのが、このグラフだ。
+その様子を図示してみたのが、このグラフだ。
 
 #@ <img src = 'images/designStaminaGraph.gif'></img>
 //indepimage[designStaminaGraph]
@@ -84,7 +84,10 @@ tags: @<href>{http://martinfowler.com/tags/productivity.html, productivity}
 #@ effort on design activities, whether they be up front design or agile
 #@ techniques. Because there's no effort spent on these activities this
 #@ project produces function faster initially.</p>
-The pseudo-graph plots delivered functionality (cumulative) versus time for two imaginary stereotypical projects: one with good design and one with no design. The project that does no design expends no effort on design activities, whether they be up front design or agile techniques. Because there's no effort spent on these activities this project produces function faster initially.
+この疑似グラフは、納品された機能（の累積）と時間との関係を、二種類のありがちなプロジェクトについてプロットしたものだ。
+一方のプロジェクトはきちんと設計をしたもの、もう一方のプロジェクトは設計を軽視したものになる。
+設計を軽視したほうのプロジェクトでは、設計に関する労力を一切費やしていない。計画的設計と進化的設計の両方の意味でだ。
+そのため、開始当初はこちらのプロジェクトのほうが多くの機能を納品している。
 
 #@ <p>The problem with no-design, is that by not putting effort into
 #@ the design, the code base deteriorates and becomes harder to modify,
@@ -92,13 +95,21 @@ The pseudo-graph plots delivered functionality (cumulative) versus time for two 
 #@ design keeps its productivity more constant so at some point (the
 #@ design payoff line) it overtakes the cumulative functionality of  the
 #@ no-design project and will continue to do better.</p>
-The problem with no-design, is that by not putting effort into the design, the code base deteriorates and becomes harder to modify, which lowers the productivity, which is the gradient of the line. Good design keeps its productivity more constant so at some point (the design payoff line) it overtakes the cumulative functionality of the no-design project and will continue to do better.
+設計を軽視したプロジェクトの問題は、設計を軽視したが故に、
+コードベースがだんだん劣化して変更しづらくなるということだ。
+その結果、生産性も下がる。というのが、グラフの勾配にあらわれている。
+きちんと設計をすれば生産性もきちんと維持できるので、ある時点（設計償却線）
+に達すると、設計を軽視したプロジェクトよりも累積の納品量が上回るようになる。
+そしてその後は、ずっと上回ったままだ。
 
 #@ <p>I call this a hypothesis because it is a conjecture, there is no
 #@   objective proof that this phenomenon actually occurs. In scientific
 #@   terms it's not a very good hypothesis because it's hard to test. We
 #@   <a href = 'CannotMeasureProductivity.html'>CannotMeasureProductivity</a> nor can we measure design quality.</p>
-I call this a hypothesis because it is a conjecture, there is no objective proof that this phenomenon actually occurs. In scientific terms it's not a very good hypothesis because it's hard to test. We @<href>{http://martinfowler.com/bliki/CannotMeasureProductivity.html, CannotMeasureProductivity} nor can we measure design quality.
+これはあくまでも仮説に過ぎない。推測に基づくものだし、実際にそうなるという客観的な証拠もない。
+科学的に言うと、厳密には仮説としてもあまりよろしくない。というのも、検証するのが難しいからだ。
+@<href>{http://capsctrl.que.jp/kdmsnr/wiki/bliki/?CannotMeasureProductivity, 生産性は計測不能}
+だし、設計の品質もまた計測不能だ。
 
 #@ <p>But despite it being only a hypothesis, it's also an axiom for
 #@   many people, including  myself. We may not have objective proof that

@@ -6,10 +6,10 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <link rel="stylesheet" type="text/css" href="style.css" />
   <meta name="generator" content="ReVIEW" />
-  <title>設計スタミナ説</title>
+  <title>設計＝スタミナ説</title>
 </head>
 <body>
-<h1><a id="h"></a>設計スタミナ説</h1>
+<h1><a id="h"></a>設計＝スタミナ説</h1>
 <div class="lead">
 <p>Martin Fowler's blikiの&quot;<a href="http://martinfowler.com/bliki/DesignStaminaHypothesis.html" class="link">DesignStaminaHypothesis</a>&quot;の翻訳。</p>
 </div>
@@ -20,13 +20,13 @@
 <p>そこにあるのは、設計と素早い開発の間には何らかのトレードオフがあるという思い込みだ。実際、「設計に時間を掛けると開発の速度は落ちるけど、プログラマーはそれを補って余りあるだけのメリットを得られる」的な物言いにも何度か遭遇したことがある。</p>
 <p>もし設計に力を入れたせいでプログラミングの効率が落ちるなどと言うことがあり得るのなら、私はきっと設計なんかしないだろう。大半の開発者もそれに同意してくれるはずだ。良い設計とはなんぞやと問われたらそれぞれ違う答えを返すだろうが、みんなそれぞれなにがしかの「良い設計」を好んでいる。そうすれば生産性が向上すると信じているからだ（ここでいう「設計」には、事前に行う設計も含むし、アジャイル開発の文脈での設計も含む。つまり、<a href="http://objectclub.jp/community/XP-jp/xp_relate/isdesigndead#n71" class="link">計画的設計と進化的設計</a>だ）。</p>
 <p>設計に関する作業には時間も労力もかかる。それは間違いない。でも、それだけの価値はある。将来そのソフトウェアを成長させるのが楽になるからだ。設計をサボったら、短期的には時間の節約になるだろう。でも、そのぶんだけ<a href="http://capsctrl.que.jp/kdmsnr/wiki/bliki/?TechnicalDebt" class="link">技術的負債</a>はかさみ、後々の生産性を落としてしまう。ソフトウェアの設計に力を入れると、あなたのプロジェクトのスタミナが向上するのだ。成長する速度も上がり、長生きできるようになる。</p>
-<p>そのようすを図示してみたのが、このグラフだ。</p>
+<p>その様子を図示してみたのが、このグラフだ。</p>
 <div class="image">
 <img src="images/designStaminaGraph.gif" alt="" />
 </div>
-<p>The pseudo-graph plots delivered functionality (cumulative) versus time for two imaginary stereotypical projects: one with good design and one with no design. The project that does no design expends no effort on design activities, whether they be up front design or agile techniques. Because there's no effort spent on these activities this project produces function faster initially.</p>
-<p>The problem with no-design, is that by not putting effort into the design, the code base deteriorates and becomes harder to modify, which lowers the productivity, which is the gradient of the line. Good design keeps its productivity more constant so at some point (the design payoff line) it overtakes the cumulative functionality of the no-design project and will continue to do better.</p>
-<p>I call this a hypothesis because it is a conjecture, there is no objective proof that this phenomenon actually occurs. In scientific terms it's not a very good hypothesis because it's hard to test. We <a href="http://martinfowler.com/bliki/CannotMeasureProductivity.html" class="link">CannotMeasureProductivity</a> nor can we measure design quality.</p>
+<p>この疑似グラフは、納品された機能（の累積）と時間との関係を、二種類のありがちなプロジェクトについてプロットしたものだ。一方のプロジェクトはきちんと設計をしたもの、もう一方のプロジェクトは設計を軽視したものになる。設計を軽視したほうのプロジェクトでは、設計に関する労力を一切費やしていない。計画的設計と進化的設計の両方の意味でだ。そのため、開始当初はこちらのプロジェクトのほうが多くの機能を納品している。</p>
+<p>設計を軽視したプロジェクトの問題は、設計を軽視したが故に、コードベースがだんだん劣化して変更しづらくなるということだ。その結果、生産性も下がる。というのが、グラフの勾配にあらわれている。きちんと設計をすれば生産性もきちんと維持できるので、ある時点（設計償却線）に達すると、設計を軽視したプロジェクトよりも累積の納品量が上回るようになる。そしてその後は、ずっと上回ったままだ。</p>
+<p>これはあくまでも仮説に過ぎない。推測に基づくものだし、実際にそうなるという客観的な証拠もない。科学的に言うと、厳密には仮説としてもあまりよろしくない。というのも、検証するのが難しいからだ。<a href="http://capsctrl.que.jp/kdmsnr/wiki/bliki/?CannotMeasureProductivity" class="link">生産性は計測不能</a>だし、設計の品質もまた計測不能だ。</p>
 <p>But despite it being only a hypothesis, it's also an axiom for many people, including myself. We may not have objective proof that this effect occurs but many of us feel that this explains what we see we see qualitatively in the field. It's an axiom for me as it's the assumption that underpins my entire career as a writer about software design. If design doesn't actually improve productivity in some way, most of my writings are worthless.</p>
 <p>I'm sure it sounds strange to many people to treat a hypothesis as an axiom, but it's a common thing to do. I look at it that I use my judgment to assess that the hypothesis is true, but can do so without ignoring the objective weakness of the hypothesis. I'd love to find a way to to prove it and almost as much to refute it.</p>
 <p>The hypothesis has a corollary, which comes from the design payoff line. If the functionality for your initial release is below the design payoff line, then it <i>may</i> be worth trading off design quality for speed; but if it's above the line then the trade-off is illusory. When your delivery is above the design payoff line neglecting design always makes you ship later. In technical debt terms it's like taking out a loan but not using the principal for so long that by the time you use it you've paid out more in interest payments.</p>
