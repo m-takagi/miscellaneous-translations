@@ -129,7 +129,10 @@ tags: @<href>{http://martinfowler.com/tags/productivity.html, productivity}
 #@   my judgment to assess that the hypothesis is true, but can do so
 #@   without ignoring the objective weakness of the hypothesis. I'd love to find a
 #@   way to to prove it and almost as much to refute it.</p>
-I'm sure it sounds strange to many people to treat a hypothesis as an axiom, but it's a common thing to do. I look at it that I use my judgment to assess that the hypothesis is true, but can do so without ignoring the objective weakness of the hypothesis. I'd love to find a way to to prove it and almost as much to refute it.
+多くの人にとって、仮説を公理と見なすのは奇妙に思えることだろう。
+でも、実際によくあることだ。
+何かの仮説が真であるという判断を下すときに、客観的な観点でのその仮説の弱点を無視しているわけではない。
+私は何かを証明するのも好きだけれども、それと同程度には何かを反証するのも好きだ。
 
 #@ <p>The hypothesis has a corollary, which comes from the  the
 #@   design payoff line. If the functionality for your
