@@ -118,7 +118,11 @@ tags: @<href>{http://martinfowler.com/tags/productivity.html, productivity}
 #@   assumption  that underpins my entire career as a writer about
 #@   software design. If design doesn't actually improve productivity in
 #@   some way, most of my writings are worthless.</p>
-But despite it being only a hypothesis, it's also an axiom for many people, including myself. We may not have objective proof that this effect occurs but many of us feel that this explains what we see we see qualitatively in the field. It's an axiom for me as it's the assumption that underpins my entire career as a writer about software design. If design doesn't actually improve productivity in some way, most of my writings are worthless.
+ただ、仮説に過ぎないとは言え、大半の人にとっては「そのとおり」と納得できるものだ。
+もちろん私もそう思っている。客観的に証明することは不可能かもしれない。
+でも、多くの人は、この仮説が現状をうまく表していると感じている。
+ソフトウェアの設計に関する書籍を書き続けてきたこれまでの私の実績が、この仮説を実証しているのではないだろうか。
+もし設計が生産性の改善に何も寄与しないのだとしたら、私の著書の大半はまったくの役立たずだと言うことになる。
 
 #@ <p>I'm sure it sounds strange to many people to treat a hypothesis
 #@   as an axiom, but it's a common thing to do. I look at it that I use
