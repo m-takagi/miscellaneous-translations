@@ -143,14 +143,20 @@ tags: @<href>{http://martinfowler.com/tags/productivity.html, productivity}
 #@ design always makes you ship later. In technical debt terms it's
 #@ like taking out a loan but not using the principal for so long that by
 #@ the time you use it you've paid out more in interest payments.</p>
-The hypothesis has a corollary, which comes from the design payoff line. If the functionality for your initial release is below the design payoff line, then it @<i>{may} be worth trading off design quality for speed; but if it's above the line then the trade-off is illusory. When your delivery is above the design payoff line neglecting design always makes you ship later. In technical debt terms it's like taking out a loan but not using the principal for so long that by the time you use it you've paid out more in interest payments.
+この仮説から、こんな系を導ける。設計償却線（design payoff line）に由来するものだ。
+最初のリリースに含まれるある機能が仮にこの線より下にあるとすると、
+設計を軽視してでも開発速度を追い求めた方がいい@<em>{かもしれない}。
+でも、もしこの線より上にあるのなら、そんなトレードオフはまやかしだ。
+納品予定の機能が設計償却線を上回る場合は、設計を無視すれば、必ず納期は遅れる。
+これを技術的負債の用語で言い換えると、融資を受けたのにその元金をずっと使わずにいる状態に等しい。
+ある一定の時期を過ぎてから使い始めると、支払う利息が増えてしまう。
 
 #@ <p>This raises the question of where that line is. Even with people
 #@   who accept the design stamina hypothesis there is substantial, and important,
 #@   differences over where the payoff line sits. I take the view that
 #@   it's much lower than most people think: usually weeks not months. But again
 #@   this can only be a judgment call.</p>
-This raises the question of where that line is. Even with people who accept the design stamina hypothesis there is substantial, and important, differences over where the payoff line sits. I take the view that it's much lower than most people think: usually weeks not months. But again this can only be a judgment call.
+ここで気になるのが、じゃあ実際のところ、設計償却線はどのあたりにあるのかということだ。Even with people who accept the design stamina hypothesis there is substantial, and important, differences over where the payoff line sits. I take the view that it's much lower than most people think: usually weeks not months. But again this can only be a judgment call.
 
 #@ <p>This leads to a  consequence for  Technical Debt. Technical Debt
 #@ is a fantastic analogy and I use it frequently. But the design payoff
