@@ -168,4 +168,8 @@ tags: @<href>{http://martinfowler.com/tags/productivity.html, productivity}
 #@ delivered value is greater than the interest payments, we also have to
 #@ judge whether the delivery is above the payoff line in the first
 #@ place. </p>
-This leads to a consequence for Technical Debt. Technical Debt is a fantastic analogy and I use it frequently. But the design payoff line reminds us that taking out a Technical Debt is only worth doing up to a certain point. Not just do we have to consider whether delivered value is greater than the interest payments, we also have to judge whether the delivery is above the payoff line in the first place.
+ここから、技術的負債に関する結論が導ける。
+技術的負債というたとえは絶妙なものなので、私はよく使っている。
+でも、設計償却線を考えるとわかるように、技術的負債を抱える価値があるのはある特定の時点までだ。
+もたらす価値が支払う利息を上回るかどうかを検討しなければいけないのはもちろんだが、
+それだけではなく、そもそももたらす価値が設計償却線を上回るのかどうかも判断する必要がある。
