@@ -156,7 +156,10 @@ tags: @<href>{http://martinfowler.com/tags/productivity.html, productivity}
 #@   differences over where the payoff line sits. I take the view that
 #@   it's much lower than most people think: usually weeks not months. But again
 #@   this can only be a judgment call.</p>
-ここで気になるのが、じゃあ実際のところ、設計償却線はどのあたりにあるのかということだ。Even with people who accept the design stamina hypothesis there is substantial, and important, differences over where the payoff line sits. I take the view that it's much lower than most people think: usually weeks not months. But again this can only be a judgment call.
+ここで気になるのが、じゃあ実際のところ、設計償却線はどのあたりにあるのかということだ。
+設計＝スタミナ説に賛同してくれる人たちの間でも、この件については大きな見解の相違がある。
+私は個人的に、一般に言われているよりもずっと低い位置にあると思っている。数ヶ月ではなく、数週間というあたりだ。
+しかし、これはあくまでも個人的見解だ。
 
 #@ <p>This leads to a  consequence for  Technical Debt. Technical Debt
 #@ is a fantastic analogy and I use it frequently. But the design payoff
