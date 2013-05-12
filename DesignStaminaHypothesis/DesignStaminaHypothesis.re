@@ -53,10 +53,10 @@ tags: @<href>{http://martinfowler.com/tags/productivity.html, productivity}
 #@   I mean either up-front design or agile's approach, ie <a href = 'http://martinfowler.com/articles/designDead.html'>planned or
 #@   evolutionary design</a>.)</p>
 もし設計に力を入れたせいでプログラミングの効率が落ちるなどと言うことがあり得るのなら、私はきっと設計なんかしないだろう。
-大半の開発者もそれに同意してくれるはずだ。良い設計とはなんぞやと問われたらそれぞれ違う答えを返すだろうが、
-みんなそれぞれなにがしかの「良い設計」を好んでいる。そうすれば生産性が向上すると信じているからだ
+大半の開発者もそれに同意してくれるはずだ。良い設計とは何ぞやと問われたらそれぞれ違う答えを返すだろうが、
+皆それぞれ何かしら、お気に入りの「良い設計」がある。そうすれば生産性が向上すると信じているからだ
 （ここでいう「設計」には、事前に行う設計も含むし、アジャイル開発の文脈での設計も含む。つまり、
-@<href>{http://objectclub.jp/community/XP-jp/xp_relate/isdesigndead#n71, 計画的設計と進化的設計}だ）。
+@<href>{http://objectclub.jp/community/XP-jp/xp_relate/isdesigndead#n71, 計画的設計と進化的設計}の両方の意味での設計だ）。
 
 #@ <p>Design activities certainly do take up time and effort, but they
 #@   payoff because they make it easier to evolve the software into the
@@ -73,7 +73,7 @@ tags: @<href>{http://martinfowler.com/tags/productivity.html, productivity}
 
 #@ <p>One way of visualizing this is the following
 #@   pseudo-graph.</p>
-その様子を図示してみたのが、このグラフだ。
+その様子を図示してみたのが、この疑似グラフだ。
 
 #@ <img src = 'images/designStaminaGraph.gif'></img>
 //indepimage[designStaminaGraph]
