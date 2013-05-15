@@ -23,41 +23,58 @@ Rich Bowenのフリーソフトウェア／オープンソースソフトウェ�
 #@ of 2000. At least, that is when I made my first commit to the docs. Prior to
 #@ that, I had submitted a few patches via email, and someone else had committed
 #@ them.
-I started working on the Apache HTTP Server documentation project in September of 2000. At least, that is when I made my first commit to the docs. Prior to that, I had submitted a few patches via email, and someone else had committed them.
+Apache HTTP Serverのドキュメンテーションプロジェクトに参加したのは、2000年9月のことだった。
+参加したっていうか、最初のコミットがそのときだったってことだね。
+それより前にも、パッチをメールで送っていたこともあった。当時は、誰か他の人がそれをコミットしてくれていたんだ。
 
 #@ Since that time, I have made a little over a thousand changes to the Apache HTTP
 #@ Server docs, along with just a handful of changes to the server code itself.
-Since that time, I have made a little over a thousand changes to the Apache HTTP Server docs, along with just a handful of changes to the server code itself.
+最初のコミット以来、Apache HTTP Serverのドキュメントへのコミットの数は1000を少し上回るほどになった。
+それと同時に、ドキュメントではなくサーバー本体にも少しだけコミットしている。
 
 #@ People get involved in Free/Open Source Software for a lot of different reasons.
 #@ Some are trying to make a name for themselves. Most are trying to ``scratch an
 #@ itch'', as the saying goes -- trying to get the software to do something that it
 #@ does not currently do, or create a new piece of software to fill a need that
 #@ they have.
-People get involved in Free/Open Source Software for a lot of different reasons. Some are trying to make a name for themselves. Most are trying to "scratch an itch", as the saying goes -- trying to get the software to do something that it does not currently do, or create a new piece of software to fill a need that they have.
+フリーソフトウェア／オープンソースソフトウェアに関わっている人たちの動機は人それぞれだ。
+中には、有名になりたいがために参加しているって人もいるだろう。
+ほとんどの人は、「痒いところを掻きたい」—つまり、うまく動かないソフトウェアを手直ししたいとか、
+何かの場面で必要になる新しいソフトウェアを書きたいという理由で参加している。
 
 #@ I got involved in software documentation because I had been roped into helping
 #@ write a book, and the existing documentation was pretty awful. So, in order to
 #@ make the book coherent, I had to talk with various people on the project to help
 #@ make sense of the documentation. In the process of writing the book, I made the
 #@ documentation better, purely to make my work easier.
-I got involved in software documentation because I had been roped into helping write a book, and the existing documentation was pretty awful. So, in order to make the book coherent, I had to talk with various people on the project to help make sense of the documentation. In the process of writing the book, I made the documentation better, purely to make my work easier.
+僕がドキュメンテーションに関わるようになったのは、書籍の執筆を手伝うことになったからだ。
+その当時のドキュメンテーションといえば、ひどい代物だった。
+一貫性のあるわかりやすい書籍を作るためには、いろんな人たちと話す必要があった。
+ドキュメンテーションをきちんとわかりやすくしてもらうためだ。
+書籍の執筆が進むにつれて、ドキュメンテーションもだんだんいい感じになってきた。
+別にそれが狙いだったわけじゃなくて、単に執筆作業を進めやすくした副作用なんだけどね。
 
 #@ Around that same time, Larry Wall, the creator of the Perl programming language,
 #@ was promoting the idea that the three primary virtues of a programmer were
 #@ laziness, impatience and hubris. Larry was making very valid points, and Larry
 #@ has a sense of humor. A significant portion of the programmer community,
 #@ however, take his words as license to be jerks.
-Around that same time, Larry Wall, the creator of the Perl programming language, was promoting the idea that the three primary virtues of a programmer were laziness, impatience and hubris. Larry was making very valid points, and Larry has a sense of humor. A significant portion of the programmer community, however, take his words as license to be jerks.
+ちょうどその頃、Perl言語の作者であるLarry Wallが「プログラマーの三大美徳」を提唱していた。
+怠慢（laziness）、短気（impatience）、そして傲慢（hubris）だ。
+彼はとてもいいところを突いていたし、ユーモアのセンスもあった。
+でも、当時のプログラマーの多くは、それを間抜けな人たちのいいわけだと捕らえていた。
 
 #@ What I have learned over my years in Open Source documentation is that the three
 #@ primary virtues of a documentation specialist, and, more generally, of customer
 #@ support, are laziness, patience, and humility. And that the over-arching virtue
 #@ that ties these all together is respect.
-What I have learned over my years in Open Source documentation is that the three primary virtues of a documentation specialist, and, more generally, of customer support, are laziness, patience, and humility. And that the over-arching virtue that ties these all together is respect.
+オープンソースの世界でドキュメンテーションに関わっていて学んだことがある。
+ドキュメントを書く人（あるいはもっと一般化して、顧客サポートに関わる人）
+の三大美徳は怠慢（laziness）、辛抱（patience）、そして謙遜（humility）だということだ。
+これらすべてを兼ね備えている人が賞賛される。
 
 #@ \section*{Laziness}
-== Laziness
+== 怠慢
 
 #@ We write documentation so that we do not have to answer the same questions every
 #@ day for the rest of our lives. If the documentation is inadequate, people will
@@ -89,7 +106,7 @@ The next time someone asks this same question, we can answer them with a pointer
 This is the true laziness. Laziness does not mean merely shirking work. It means doing the work so well that it never has to be done again.
 
 #@ \section*{Patience}
-== Patience
+== 辛抱
 
 #@ There is a tendency in the technical documentation world to be impatient and
 #@ belligerent. The sources of this impatience are numerous. Some people feel that,
@@ -115,7 +132,7 @@ If you cannot be patient with the customer, then you should not be involved in c
 Of course, that is very easy to say, and a lot harder to do. If you find yourself in the position of being an expert on a particular subject, people are inevitably going to come to you with their questions. You are obliged to be patient, but how do you go about achieving this? That comes with humility.
 
 #@ \section*{Humility}
-== Humility
+== 謙遜
 
 #@ I had been doing technical support, particularly on mailing lists, for about two
 #@ years, when I first started attending technical conferences. Those first few
