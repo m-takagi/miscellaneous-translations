@@ -13,7 +13,10 @@ Rich Bowen
 #@ Apache Cookbook, The Definitive Guide to Apache mod\_rewrite, and a variety of
 #@ other books, and makes frequent appearances at various technology conferences.}
 //lead{
-Rich Bowen has been working on Free/Open Source Software for about 15 years. Most of this time has been spent on the Apache HTTP Server, but he has also worked on Perl, PHP, and a variety of web applications. He is the author of Apache Cookbook, The Definitive Guide to Apache mod\_rewrite, and a variety of other books, and makes frequent appearances at various technology conferences.
+Rich Bowenのフリーソフトウェア／オープンソースソフトウェア界での活動歴は15年になる。
+その大半をApache HTTP Serverに費やしたが、それ以外にもPerlやPHP、そしてさまざまなWebアプリケーションにかかわっている。
+『Apache Cookbook』や『The Definitive Guide to Apache mod_rewrite』など多数の著作があり、
+技術カンファレンスにもよく登壇している。
 //}
 
 #@ \noindent{}I started working on the Apache HTTP Server documentation project in September
