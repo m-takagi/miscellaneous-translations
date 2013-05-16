@@ -125,11 +125,16 @@ Apache HTTP Serverのドキュメンテーションプロジェクトに参加�
 #@ since they had to work hard to figure this stuff out, you should too. Many of us
 #@ in the technical world are self-taught, and we have very little patience for
 #@ people who come after us and want a quick road to success.
-There is a tendency in the technical documentation world to be impatient and belligerent. The sources of this impatience are numerous. Some people feel that, since they had to work hard to figure this stuff out, you should too. Many of us in the technical world are self-taught, and we have very little patience for people who come after us and want a quick road to success.
+技術文書は、どうしても短期で攻撃的な感じになってしまいがちだ。
+その原因はいろいろある。中には
+「自分が散々苦労して理解したことなんだから、他の人たちも同じように苦しむがいい」
+と思ってる人たちもいる。この業界は独学で育ってきた人が多いので、
+後に続く人たちが苦労知らずでどんどん理解していくのに耐えられないんだろう。
 
 #@ I like to refer to this as the ``get off my lawn'' attitude. It is not very
 #@ helpful.
-I like to refer to this as the "get off my lawn" attitude. It is not very helpful.
+僕に言わせれば、それって「ウチの庭から出てけ」って言ってるようなものだ。
+何もいいことはない。
 
 #@ If you cannot be patient with the customer, then you should not be involved in
 #@ customer support. If you find yourself getting angry when someone does not get
