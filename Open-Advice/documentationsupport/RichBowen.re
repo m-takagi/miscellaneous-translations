@@ -82,10 +82,14 @@ Apache HTTP Serverのドキュメンテーションプロジェクトに参加�
 #@ consulting business, it is also a recipe for a short-lived software project, as
 #@ people will give up in frustration and move on to something that they do not
 #@ have to spend hours figuring out.
-We write documentation so that we do not have to answer the same questions every day for the rest of our lives. If the documentation is inadequate, people will have difficulty using the software. While this may be a recipe for a lucrative consulting business, it is also a recipe for a short-lived software project, as people will give up in frustration and move on to something that they do not have to spend hours figuring out.
+僕らがなぜドキュメントを書くのかというと、死ぬまでずっと毎日のように同じ質問に答え続けるのがいやだからだ。
+ドキュメントがそろっていなければ、そのソフトウェアが使いづらくなってしまう。
+コンサルの人たちにとってはそこが稼ぎどころなんだろうが、
+そんなソフトウェアは長持ちしない。
+使ってみようとしてイライラさせられた人は、無駄な時間を費やさずに済むような別のソフトに移行することだろう。
 
 #@ Thus, laziness is the first virtue of a documentation writer.
-Thus, laziness is the first virtue of a documentation writer.
+というわけで、怠慢こそがドキュメント作者の最初の美徳となる。
 
 #@ When a customer asks a question, we should answer that question thoroughly.
 #@ Exhaustively, even. We should then record that answer for posterity. We should
