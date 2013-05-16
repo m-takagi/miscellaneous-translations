@@ -139,14 +139,18 @@ Apache HTTP Serverのドキュメンテーションプロジェクトに参加�
 #@ If you cannot be patient with the customer, then you should not be involved in
 #@ customer support. If you find yourself getting angry when someone does not get
 #@ it, you should perhaps let someone else take the question.
-If you cannot be patient with the customer, then you should not be involved in customer support. If you find yourself getting angry when someone does not get it, you should perhaps let someone else take the question.
+ユーザーに対して辛抱強く接することができないのなら、そもそもユーザーサポートに関わるべきではないんだ。
+質問の相手をしていてイラッとしている自分に気づいたときは、たぶんその対応を誰か他の人に任せたほうがいい。
 
 #@ Of course, that is very easy to say, and a lot harder to do. If you find
 #@ yourself in the position of being an expert on a particular subject, people are
 #@ inevitably going to come to you with their questions.
 #@ You are obliged to be patient, but how do you go about achieving this? That
 #@ comes with humility.
-Of course, that is very easy to say, and a lot harder to do. If you find yourself in the position of being an expert on a particular subject, people are inevitably going to come to you with their questions. You are obliged to be patient, but how do you go about achieving this? That comes with humility.
+もちろん、これって「言うは易く行うは難し」の典型だ。
+もし君が何かの分野の第一人者なら、その分野に関する質問は君が対応せざるを得なくなるだろう。
+人は皆、君が辛抱強く答えてくれるものと期待している。でも、ほんとうにそんなことができるんだろうか。
+そこでポイントになるのが、謙遜だ。
 
 #@ \section*{Humility}
 == 謙遜
