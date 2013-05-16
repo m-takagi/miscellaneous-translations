@@ -97,17 +97,25 @@ Apache HTTP Serverのドキュメンテーションプロジェクトに参加�
 #@ should make sure that the prose is clear, grammatically correct, and eloquent.
 #@ We should then add this to the documentation in a place that is easy to find,
 #@ and copiously cross referenced from everywhere that someone might look for it.
-When a customer asks a question, we should answer that question thoroughly. Exhaustively, even. We should then record that answer for posterity. We should illuminate it with examples, and, if possible, diagrams and illustrations. We should make sure that the prose is clear, grammatically correct, and eloquent. We should then add this to the documentation in a place that is easy to find, and copiously cross referenced from everywhere that someone might look for it.
+ユーザーから質問がきたら、それにきちんと答えなければいけない。徹底的にだ。
+さらに、今後のために、その回答を記録しておく必要がある。
+わかりやすくするためにサンプルを付けて、できれば図やイラストもあると望ましい。
+それ単体で簡潔していて文法的にも正しく、十分な情報を含むようにしよう。
+そこまでできたら、その回答をドキュメントの適切な箇所に追加し、
+それに関連する場所からのクロスリファレンスも追加しておくべきだ。
 
 #@ The next time someone asks this same question, we can answer them with a pointer
 #@ to the answer. And questions that they may have after reading what has already
 #@ been written should be the source of enhancements and annotations to what has
 #@ already been written.
-The next time someone asks this same question, we can answer them with a pointer to the answer. And questions that they may have after reading what has already been written should be the source of enhancements and annotations to what has already been written.
+次に同じ質問がきたときには、そのドキュメントを参照して答えることができる。
+そして、もし既にドキュメントに書かれている内容について質問がきたということは、
+そのドキュメントにはまだ改良の余地があるということにもなる。
 
 #@ This is the true laziness. Laziness does not mean merely shirking work. It means
 #@ doing the work so well that it never has to be done again.
-This is the true laziness. Laziness does not mean merely shirking work. It means doing the work so well that it never has to be done again.
+これぞ、真の怠慢だ。怠慢とは単に作業をサボるってことじゃない。
+きちんと仕事をして、同じことを二度と繰り返さずに済ませられるようにすることを言うんだ。
 
 #@ \section*{Patience}
 == 辛抱
