@@ -161,10 +161,16 @@ Apache HTTP Serverのドキュメンテーションプロジェクトに参加�
 #@ question that a thousand other losers had asked before them. If they had taken
 #@ even two minutes to just look, they would have found all the places the question
 #@ had been answered before. But they were too lazy and dumb to do that.
-I had been doing technical support, particularly on mailing lists, for about two years, when I first started attending technical conferences. Those first few years were a lot of fun. Idiots would come onto a mailing list, and ask a stupid question that a thousand other losers had asked before them. If they had taken even two minutes to just look, they would have found all the places the question had been answered before. But they were too lazy and dumb to do that.
+以前に2年ほど、メーリングリストでテクニカルサポートをしていたことがある。
+いろんなカンファレンスに参加するようになったのもそのころだ。
+まあ楽しいことだらけだったよ。
+どこかのおばかさんがメーリングリストにやってきて、
+これまでに何度となく繰り返されたようなくだらない質問を投稿するんだ。
+一瞬でも立ち止まってよく見てみれば、その質問の答えは既に出ているってわかるのにね。
+でも、そんな人たちって、一瞬立ち止まってみることさえできないんだ。
 
 #@ Then I attended a conference, and discovered a few things.
-Then I attended a conference, and discovered a few things.
+そんな中、あるカンファレンスに参加したときに気付いたんだ。
 
 #@ First, I discovered that the people asking these questions were people. They
 #@ were not merely a block of monospaced black text on a white background. They
@@ -175,7 +181,17 @@ Then I attended a conference, and discovered a few things.
 #@ Africa learn how to read. They were passionate about wine, and wanted to learn
 #@ more. They were, in short, smarter than I am, and my arrogance was the only
 #@ thing between them and further success.
-First, I discovered that the people asking these questions were people. They were not merely a block of monospaced black text on a white background. They were individuals. They had kids. They had hobbies. They knew so much more than I did about a whole range of things. I met brilliant people for whom technology was a tool to accomplish something non-technical. They wanted to share their recipes with other chefs. They wanted to help children in west Africa learn how to read. They were passionate about wine, and wanted to learn more. They were, in short, smarter than I am, and my arrogance was the only thing between them and further success.
+まず、そんなくだらない質問をしてくるヤツだって、人間だということ。
+白い背景に黒の等幅フォントで書かれた文字の塊なんかじゃない。みんな人格があるんだ。
+子どもだっている。趣味だってある。
+別の分野では、僕よりもずっと物知りだったりする。
+そのカンファレンスではすばらしい人たちに出会った。
+彼らはテクノロジーを、あくまでも自分のやりたいことを達成するための道具として使っていたんだ。
+自分のレシピをシェフ仲間と共有したいという人もいた。
+西アフリカの子どもたちが文字の読みかたを学ぶのを助けたいという人もいた。
+ワインが大好きで、もっとよく知りたいという人もいた。
+彼らはみな、簡単に言うと、僕よりもずっと賢い人ばかりだった。
+僕が傲慢な態度をとっていた相手がそんな人たちだということに、そのとき気づかされた。
 
 #@ When I returned from that first conference, I saw the users mailing list in an
 #@ entirely different light. These were no longer idiots asking stupid questions.
@@ -184,13 +200,21 @@ First, I discovered that the people asking these questions were people. They wer
 #@ Technology was just a tool. So if they did not spend hours reading last year's
 #@ mailing list archives, and chose instead to ask the question afresh, that was
 #@ understandable.
-When I returned from that first conference, I saw the users mailing list in an entirely different light. These were no longer idiots asking stupid questions. These were people who needed just a little bit of my help so that they could get a task done, but, for the most part, their passions were not technology. Technology was just a tool. So if they did not spend hours reading last year's mailing list archives, and chose instead to ask the question afresh, that was understandable.
+そのカンファレンスから戻ってきて、改めてメーリングリストを眺めた。
+それまでとは全く違う輝きを放っていた。もはや、くだらない質問をするお馬鹿さんの集まりには見えない。
+みんな、誰かのちょっとした手助けを欲しがっているんだ。自分のやりたいことを達成するためにね。
+ただ、たいていの場合、彼らにとって技術的なことはそれほど重要じゃない。
+テクノロジーは、あくまでも道具に過ぎないということだ。
+そう考えれば、過去ログも読まずに同じ質問を投げてくるのも納得できる。
 
 #@ And, surely, if on any given day it is irritating to have to help them, the
 #@ polite thing to do is to step back and let someone else handle the question,
 #@ rather than telling them what an imbecile they are. And, too, to remember all of
 #@ the times I have had to ask the stupid questions.
-And, surely, if on any given day it is irritating to have to help them, the polite thing to do is to step back and let someone else handle the question, rather than telling them what an imbecile they are. And, too, to remember all of the times I have had to ask the stupid questions.
+もしそんな人たちを助けるのが苦痛になってきたら、
+いったん身を引いて誰か他の人に任せるのが正解だ。
+質問者を馬鹿にした態度をとるよりは、そのほうがいい。
+かつては自分だって、そんな質問をせざるを得ないことがあったんだからね。
 
 #@ \section*{Politeness and Respect}
 == Politeness and Respect
