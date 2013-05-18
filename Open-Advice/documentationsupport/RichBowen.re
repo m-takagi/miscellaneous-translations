@@ -217,13 +217,17 @@ Apache HTTP Serverのドキュメンテーションプロジェクトに参加�
 かつては自分だって、そんな質問をせざるを得ないことがあったんだからね。
 
 #@ \section*{Politeness and Respect}
-== Politeness and Respect
+== 礼儀と敬意
 
 #@ In the end, this all comes down to politeness and respect. Although I have
 #@ talked mainly here about technical support, the documentation is simply a static
 #@ form of technical support. It answers the questions that you expect people to
 #@ have, and it provides these answers in a semi-permanent form for reference.
-In the end, this all comes down to politeness and respect. Although I have talked mainly here about technical support, the documentation is simply a static form of technical support. It answers the questions that you expect people to have, and it provides these answers in a semi-permanent form for reference.
+結局のところは、礼儀と敬意に帰着する。
+ここまで話してきたのは主にテクニカルサポートのことだったけど、
+ドキュメンテーションっていうのも結局はテクニカルサポートの一形式だと言える。
+みんなきっとこんな疑問を抱えているんだろうなというのを想定し、それに答える。
+そして、その答えを後に残る形式で記録し、参照できるようにしておくってわけだ。
 
 #@ When writing this documentation, you should attempt to strike the balance
 #@ between assuming that your reader is an idiot, and assuming that they should
@@ -231,7 +235,11 @@ In the end, this all comes down to politeness and respect. Although I have talke
 #@ computer is plugged in. At the other end you are using words like ``simply'' and
 #@ ``just'' to make it sound like every task is trivial, leaving the reader feeling
 #@ that they are probably not quite up to the task.
-When writing this documentation, you should attempt to strike the balance between assuming that your reader is an idiot, and assuming that they should already know everything. At the one end, you are telling them to make sure their computer is plugged in. At the other end you are using words like "simply" and "just" to make it sound like every task is trivial, leaving the reader feeling that they are probably not quite up to the task.
+ドキュメントを書くときには、どんな読者がそれを読むことになるのかを想定しなければいけない。
+まったく何も知らない人が読むのか、既に十分な知識がある人が読むのか、はたまたその間のどこかなのか。
+何も知らない人向けに書くのなら、まずはコンピュータの電源が入っているかどうかを確かめるところから書き始めることになるだろう。
+知識がある人向けに書くのなら、「単純に…」とか「…するだけ」などと書いておけば、
+もしあまりなじみのない作業だったとしても、その作業が取るに足らないものだと知らせることができる。
 
 #@ This involves having a great deal of respect and empathy for your reader, and
 #@ endeavoring to remember what it was like to be in the beginner and intermediate
