@@ -252,14 +252,19 @@ Apache HTTP Serverのドキュメンテーションプロジェクトに参加�
 いつまでもそんな状態を放置するのはよくない。きっと君も、この一週間にそんなドキュメントに出会っていることだろう。
 
 #@ \section*{I wish ...}
-== I wish ...
+== 僕の望みは…
 
 #@ I wish that when I started working on Open Source documentation I had been less
 #@ arrogant. I look back at some of the things that I have said on
 #@ publicly-archived mailing lists, forever enshrined on the Internet, and am
 #@ ashamed that I could be that rude.
-I wish that when I started working on Open Source documentation I had been less arrogant. I look back at some of the things that I have said on publicly-archived mailing lists, forever enshrined on the Internet, and am ashamed that I could be that rude.
+できることなら、僕がオープンソースのドキュメンテーションに関わりだしたころに戻って、あの傲慢な態度をどうにかしてやりたい。
+僕がかつて公開メーリングリスト上で発言した内容がアーカイブに残っている
+（インターネット上で永遠に残り続ける）んだけど、それを振り返ってみると恥ずかしくなる。
+よくもまあ、こんなに失礼なことを言えたものだってね。
 
 #@ The greatest human virtue is politeness. All other virtues flow from it. If you
 #@ cannot be polite, then all of the things that you accomplish amount to little.
-The greatest human virtue is politeness. All other virtues flow from it. If you cannot be polite, then all of the things that you accomplish amount to little.
+人として最大の美徳は、礼儀正しいことだ。それ以外の美徳はすべて、
+礼儀正しさがあってこそのものになる。礼儀正しく振る舞えない人は、
+いくら何かを成し遂げても、正当に評価してもらえなくなる。
