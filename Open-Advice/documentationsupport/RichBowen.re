@@ -246,7 +246,10 @@ Apache HTTP Serverのドキュメンテーションプロジェクトに参加�
 #@ stages of learning a new software package. Examples of bad documentation are so
 #@ prevalent, however, that this should not be a terribly difficult memory to
 #@ rekindle. Chances are that you have felt that way within the last week.
-This involves having a great deal of respect and empathy for your reader, and endeavoring to remember what it was like to be in the beginner and intermediate stages of learning a new software package. Examples of bad documentation are so prevalent, however, that this should not be a terribly difficult memory to rekindle. Chances are that you have felt that way within the last week.
+読者層を想定するとは、読者に対してきちんと敬意を表し、彼らのことを思うってことでもある。
+まったくの初心者、あるいは初級レベルを脱して次の段階を目指そうと新たなソフトウェアを学んでいる人たち。
+そんな読者の気持ちを考えてみよう。世の中にはそれができていないドキュメンテーションがあふれているけれど、
+いつまでもそんな状態を放置するのはよくない。きっと君も、この一週間にそんなドキュメントに出会っていることだろう。
 
 #@ \section*{I wish ...}
 == I wish ...
