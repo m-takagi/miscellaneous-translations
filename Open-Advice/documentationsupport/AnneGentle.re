@@ -18,7 +18,13 @@ Anne Gentle
 #@ Documentation. She also volunteers as a documentation maintainer for FLOSS
 #@ Manuals, which provides open source documentation for open source projects.}
 //lead{
-Anne Gentle is the fanatical technical writer and community documentation coordinator at Rackspace for OpenStack, an open source cloud computing project. Prior to joining OpenStack, Anne worked as a community publishing consultant, providing strategic direction for professional writers who want to produce online content with wikis with user-generated pages and comments. Her enthusiasm for community methods for documentation prompted her to write a book about using social publishing techniques for technical documentation titled Conversation and Community: The Social Web for Documentation. She also volunteers as a documentation maintainer for FLOSS Manuals, which provides open source documentation for open source projects.
+Anne Gentleは熱狂的なテクニカルライターで、OpenStack用のRackspaceのドキュメンテーションのとりまとめ役でもある。
+OpenStackは、オープンソースのクラウドコンピューティングプロジェクトだ。
+OpenStackに参加する前の彼女は、コミュニティでの文書公開に関するコンサルタントだった。
+Wikiなどのオンラインコンテンツを公開したいというプロの作家たちに、いろいろアドバイスをしていたのだ。
+コミュニティにおけるドキュメンテーションについて追い求めた彼女は、自分でもそれに関する本を書いて出版した。
+技術文書のためのソーシャル出版技術の使いかたについてまとめたその本のタイトルは、『Conversation and Community: The Social Web for Documentation』という。
+彼女はまた、各種FLOSSのマニュアルのメンテナンスもしている。オープンソースプロジェクトに関するオープンソースの文書だ。
 //}
 
 #@ \noindent{}An intriguing premise -- spill my guts about what I wish I knew about open
