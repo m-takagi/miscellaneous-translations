@@ -53,7 +53,22 @@ Wikiなどのオンラインコンテンツを公開したいというプロの�
 #@ before, wiki-based documentation. Since that first experimentation, I have joined
 #@ OpenStack, an open source project for cloud computing software, working full
 #@ time on community documentation and support efforts.
-In my case, my former self was just five years younger than now, a thirty-something established professional. In contrast, others may recall their first experiences with open source as a teenager. Jono Bacon in his book, @<i>{Art of Community}, recounts standing in front of an apartment door with his heart pounding, about to meet someone he had only talked to online through an open source community. I have experienced that first in-person meeting with people I have only met online, but my first serious foray into the world of open source documentation came when I responded to an emailed request for help. The email was from a former coworker, asking for documentation help on the XO laptop, the charter project for One Laptop Per Child. I pondered the perceived opportunity, talking to my friends and spouse, wondering if it would be a good chance to experiment with new doc techniques and try something I had never done before, wiki-based documentation. Since that first experimentation, I have joined OpenStack, an open source project for cloud computing software, working full time on community documentation and support efforts.
+かつての私を振り返ってみましょう。オープンソースの世界に入ったのは、ほんの5年前のこと。
+30を過ぎ、ようやく一人前として認められるようになってきた頃でした。
+中には、オープンソースとの初遭遇がティーンエイジャーの頃だったって人もいるでしょうね。
+Jono Baconは、著書@<i>{Art of Community}の中でこんなことを語っていました。
+オープンソースコミュニティでのオンラインの交流しかなかった人の家を訪れてドアの前に立ったとき、
+何かが変わったのだと。
+オンラインでしか交流がない人と直接会うっていう経験は私にもあったけれど、
+私にとって初めて「オープンソースのドキュメンテーションの世界に飛び込んだ」と感じたのは、
+助けを求めるメールに返信したときでした。
+そのメールは元同僚からのもので、XOのドキュメントを書くのを手伝ってくれないかという内容でした。
+XOというのは、One Laptop Per Childプロジェクト用のノートPCです。
+よく考えてみて、さらに友人や配偶者と話して、これはいい機会じゃないのかと思うようになりました。
+ドキュメントを書く練習にもなるし、これまで触ったこともないWikiってやつに挑戦できるじゃない。
+その後、私はOpenStackに参加しました。
+OpenStackはクラウドコンピューティングソフトウェアのオープンソースプロジェクトで、
+私はドキュメンテーションやサポート担当としてフルタイムで関わるようになったのです。
 
 #@ I immediately think of the many contradictions I have found along the way. I
 #@ have uncovered surprising points and counterpoints for each observation. For
