@@ -32,7 +32,11 @@ Wikiなどのオンラインコンテンツを公開したいというプロの�
 #@ source and documentation, I must tell you what I wish my former self knew. The
 #@ request evokes a sense of regret or remorse or even horrified notions of ``What
 #@ was I thinking?''
-An intriguing premise -- spill my guts about what I wish I knew about open source and documentation. Rather than tell you what I wish you knew about open source and documentation, I must tell you what I wish my former self knew. The request evokes a sense of regret or remorse or even horrified notions of "What was I thinking?"
+笑うかもしれないけど……。
+私自身、もっとオープンソースやドキュメンテーションのことについて知っておきたかったと思ってます。
+オープンソースやドキュメンテーションについてみなさんに知っておいてほしいことを話すよりは、
+かつての私自身に知っておいてほしかったことを語るべきでしょう。
+振り返ってみると、後悔や自責の念、「わたしったら、いったい何を考えていたんだか」という思いばかり。
 
 #@ In my case, my former self was just five years younger than now, a
 #@ thirty-something established professional. In contrast, others may recall their
