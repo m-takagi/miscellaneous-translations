@@ -86,7 +86,24 @@ OpenStackはクラウドコンピューティングソフトウェアのオー�
 #@ around docs, though, because it is important that the key technical community
 #@ members support doc efforts with their contributions and encourage others to do
 #@ so.
-I immediately think of the many contradictions I have found along the way. I have uncovered surprising points and counterpoints for each observation. For example, documentation absolutely matters for support, education, adoption, yet, an open source community will march on despite a lack of documentation or completely flawed docs. Another seeming juxtaposition of values is that documentation should be a good onboarding task, a starting point for new volunteers, yet new community members know so little that they can not possibly write or even edit effectively, nor are newbies familiar with the various audiences served by doc. Word on the street lately is that "developers should write developer docs" because they know the audience well and can serve others like themselves best. In my experience, new, fresh eyes are welcome to the project and some people are able to write down and share with others those fresh, empathetic eyes. You do not want to create a "newbies-only" culture around docs, though, because it is important that the key technical community members support doc efforts with their contributions and encourage others to do so.
+そしてすぐに、いろんな矛盾に直面することになりました。
+立場によって見方が変わるということが見つかってきたんです。
+一例をあげましょう。ドキュメントを作るというのは、サポートや教育などに関する作業になります。
+その一方、オープンソースコミュニティは別にドキュメントなんかなくても進めていけるのです。
+もうひとつ、ものの見方が対立する例を紹介します。
+ドキュメントの作成は、何かのコミュニティに初めて参加した人が、
+とりあえず最初にやってみる作業として最適であるはずです。
+しかしその一方で、新入りさんはそのプロジェクトに関してほとんど何も知りません。
+なので、ドキュメントを書くどころか、既存のドキュメントに手を入れるのも難しいでしょう。
+さらに、新入りさんはそのドキュメントの読者層を想定できません。
+最近よく言われているのが「開発者向けのドキュメントは開発者自身が書くべきだ」ってことです。
+だって、誰がそれを読むのかを一番わかっているのは開発者自身だし、
+彼らが読みたいであろうことを一番うまく書けるのもまた開発者自身だからです。
+経験上、何かのプロジェクトにとって新しい視点は大歓迎です。
+新入りさんの中には、新しい視点でドキュメントを書ける人もいるでしょう。
+でも、ドキュメント作成を「初心者の仕事」だという風潮にはしてほしくありません。
+技術的な面でコミュニティの中核になるメンバーがドキュメントづくりをサポートし、
+まわりの人たちにもそれを手伝わせようとすることが大事だからです。
 
 #@ A bit of a dirty little secret for documentation related to open source projects
 #@ is that the lines drawn between official docs and unofficial doc projects are
