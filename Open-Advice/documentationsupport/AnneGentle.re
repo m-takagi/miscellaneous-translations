@@ -116,7 +116,15 @@ OpenStackはクラウドコンピューティングソフトウェアのオー�
 #@ multiple audiences served may mean that the product is complex and serves many.
 #@ It also can mean that no strong core documentation ethos exists in the
 #@ community, so unorchestrated efforts are the norm.
-A bit of a dirty little secret for documentation related to open source projects is that the lines drawn between official docs and unofficial doc projects are blurred at best. I wish I had known that documentation efforts get forked all the time, and new web sites can sprout up where there were none. Sprawling docs do not offer the most efficient way for people to learn about the project or software, but a meandering walk through a large set of web documentation might be more telling to those who want to read between the lines and interpret what is going on in the community through the documentation. Lots of forking and multiple audiences served may mean that the product is complex and serves many. It also can mean that no strong core documentation ethos exists in the community, so unorchestrated efforts are the norm.
+オープンソースプロジェクトのドキュメンテーションについて、ちょっとした裏話を一つ披露しましょう。
+公式のドキュメントと非公式なドキュメントとの区別が、相当あいまいなんです。
+ドキュメントっていうのは常に分裂し続けるものだと知っておくべきでした。
+ドキュメントがなければ、あちこちで新たなサイトが立ち上がってドキュメントを公開するんだっていうこと。
+ドキュメントがあちこちに分散している状態は、そのプロジェクトやソフトウェアについて学ぶのにはあまりよろしくありません。
+そういう状況を見た人たちは、ドキュメントを通してその背後にあるコミュニティの状況を感じ取ってしまいます。
+いろんなドキュメントがあちこちに分裂しているってことは、きっとそのプロダクトは複雑な状況にあるのでしょう。
+さらに、中心となるきちんとしたドキュメントをまとめようという意思がないということにもなります。
+つまり、そのコミュニティでは、みんなで協力するよりも各自好き勝手にやっていこうという流れがあるってことです。
 
 #@ I wish when I started that I had some ability to gather the ``social weather''
 #@ of an online community. When you walk into a restaurant with white tablecloths
