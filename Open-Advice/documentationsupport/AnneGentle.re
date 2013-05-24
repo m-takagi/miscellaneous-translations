@@ -140,7 +140,17 @@ OpenStackはクラウドコンピューティングソフトウェアのオー�
 #@ open source project -- but also to do a community audit -- a listing of the
 #@ influential members in the open source community, be they contributors or
 #@ otherwise.
-I wish when I started that I had some ability to gather the "social weather" of an online community. When you walk into a restaurant with white tablecloths and couples dining and a low-level volume of conversations, the visual and auditory information you receive sets the ambiance and gives you certain clues about what to expect from your dining experience. You can translate this concept of social weather to online communities as well. An open source community gives certain clues in their mailing lists, for example. A list landing page prefixed with a lot of rules and policy around posting will be heavy in governance. A mailing list that has multiple posts emphasizing that "there are no dumb questions" is more approachable for new doc writers. I also wish I knew of a way to not only do a content audit -- a listing of the content available for the open source project -- but also to do a community audit -- a listing of the influential members in the open source community, be they contributors or otherwise.
+最初に関わりだしたころに、オンラインコミュニティの「場の空気」を読む力があればよかったなあと思います。
+あるレストランに入ったとしましょう。真っ白なテーブルクロスがかかっています。
+何組かのカップルが食事をしながら、静かに会話をしています。
+目と耳から入ってくる情報から、何らかの空気を読めるでしょう。
+そして、これからどんな雰囲気で食事をできるかが何となくわかります。
+この「場の空気」という考えかたは、そのままオンラインコミュニティにもあてはめられるでしょう。
+たとえば、オープンソースコミュニティのメーリングリストにもよく似たヒントがあります。
+メーリングリストのトップページにいろんなルールやポリシーが掲げられていれば、きっとそのコミュニティは管理が厳しいのでしょう。
+メーリングリストに「くだらんことを聞くんじゃない」的な投稿が目立つようなら、きっとそのコミュニティにはドキュメント書きが参入する余地があるでしょう。
+あと、コンテンツ（あるオープンソースプロジェクトのドキュメントがどこにあるのか）をチェックする方法だけじゃなくて、
+コミュニティ（あるオープンソースプロジェクトで誰が影響力を持っているのか）をチェックする方法も知っておきたかったですね。
 
 #@ Lastly, an observation about open source and doc that I have enjoyed validating
 #@ is the concept that documentation can occur in ``sprints'' -- in short bursts of
