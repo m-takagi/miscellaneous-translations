@@ -164,4 +164,13 @@ OpenStackはクラウドコンピューティングソフトウェアのオー�
 #@ in open source, and my former self felt it! It is a good thing you can keep
 #@ learning and growing your former self into your current self with the collection
 #@ of advice to tote along with you.
-Lastly, an observation about open source and doc that I have enjoyed validating is the concept that documentation can occur in "sprints" -- in short bursts of energy with a focused audience and outline and resulting in a known set of documentation. I was so happy to hear at a talk at SXSW Interactive that sprints are perfectly acceptable for online collaboration and you could expect lags in energy level, and that is okay. Software documentation is often fast and furious in the winding-down-days of a release cycle, and that is acceptable in open source, community-based documentation. You can be strategic and coordinated and still offer a high-energy event around documentation. These are exciting times in open source, and my former self felt it! It is a good thing you can keep learning and growing your former self into your current self with the collection of advice to tote along with you.
+最後にひとつ、オープンソースのドキュメントの世界を見ていて気づいたおもしろいことをご紹介しましょう。
+ドキュメンテーションは、いわば「短距離走」みたいなものです。
+読者層や概要の狙いを定めて短期間に一気に突っ走って、その結果としてドキュメントができあがるということです。
+SXSW Interactiveのトークでこんなことを聞きました。オンラインの共同作業には短距離走のスタイルが最適で、
+人によって熱意に差はあるけれどもまったく問題はないとのことでした。
+昨今のリリース間隔の短縮に伴い、ソフトウェアのドキュメントは、手早くものすごい勢いで作ることになります。
+オープンソースのコミュニティベースのドキュメントでも同様です。
+きちんと作戦をたてて共同作業を進めていったとしても、ドキュメントの作成には多大なエネルギーが必要になります。
+これがオープンソースの世界のおもしろいところで、まさにかつて私自身が感じていたことでもあります。
+常に学び続け、いろんなアドバイスを受け入れて成長しつづけましょう。
