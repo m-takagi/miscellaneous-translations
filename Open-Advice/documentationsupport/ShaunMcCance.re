@@ -14,7 +14,11 @@ Shaun McCance
 #@ experience in community documentation through his consulting
 #@ company, Syllogist.}
 //lead{
-Shaun McCance has been involved in GNOME documentation since 2003 as a writer, community leader, and tool developer. He has spent most of that time wondering how to get more people to write better documentation, with some success along the way. He offers his experience in community documentation through his consulting company, Syllogist.
+Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003年のこと。
+それ以来彼は、ドキュメントを書くだけでなく、コミュニティのリーダーを務めたりツールを開発したりもしている。
+多くの人たちがよりよいドキュメントを書けるようにするにはどうすればいいかを常に考えており、
+いろんなことを試してそれなりに成功した。
+彼は、コミュニティでのドキュメント作りの経験を元にしたコンサルティングをSyllogist社で行っている。
 //}
 
 #@ \noindent{}Something big happened as I was preparing to write this: GNOME 3 was released.
