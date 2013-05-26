@@ -26,7 +26,11 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ and all of the existing documentation had to be rewritten. At the same time, we
 #@ were changing the way we write documentation. We had thrown away our old manuals
 #@ and started fresh with dynamic, topic-oriented help using Mallard.
-Something big happened as I was preparing to write this: GNOME 3 was released. This was the first major GNOME release in nine years. Everything was different, and all of the existing documentation had to be rewritten. At the same time, we were changing the way we write documentation. We had thrown away our old manuals and started fresh with dynamic, topic-oriented help using Mallard.
+これを書こうとしているときに、ビッグニュースが飛び込んできた。GNOME 3がリリースされたんだ。
+なんと9年ぶりのGNOMEのメジャーリリースだ。
+何もかもが変わった。ドキュメントもぜんぶ書き直さなければいけなかった。
+書き直すにあたって、ドキュメントの書き方をがらっと変えてみた。
+いままでのマニュアルはぜんぶ捨ててしまい、動的なトピック指向のヘルプをMallardで書き始めたんだ。
 
 #@ A few weeks before the release, a group of us got together to work on the
 #@ documentation. We worked all day, planning, writing, and revising. We wrote
