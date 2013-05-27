@@ -47,7 +47,10 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ write an entire book about all the nuances of Open Source documentation.
 #@ But the most important thing I did was get out of the way and let others
 #@ do the work. I learned to delegate, and to delegate the right way.
-What did we finally get right? A lot of factors came together, and I could write an entire book about all the nuances of Open Source documentation. But the most important thing I did was get out of the way and let others do the work. I learned to delegate, and to delegate the right way.
+で、うまくいったのかって？
+まあいろいろあったさ。そのときの経験だけで、オープンソースのドキュメンテーションについて本を一冊書けるだろうね。
+だけど、何よりも重要だったのは、自分自身は作業せずに他の人に作業を任せたってことだ。
+他の人に任せるということ、しかるべき方法で任せるということを学んだんだ。
 
 #@ Rewind eight years. I began to get involved with GNOME documentation in 2003.
 #@ I did not have any real experience as a technical writer at the time. My day
