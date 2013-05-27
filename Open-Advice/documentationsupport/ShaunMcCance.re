@@ -67,7 +67,10 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ commit it to our CVS repository. We could all look at it after the fact,
 #@ learn from it, and make corrections to it. But there was no concerted
 #@ effort to involve people in the writing process.
-In those days, much of our documentation was handled by professional tech writers inside Sun. They would take on a manual, write it, review it, and commit it to our CVS repository. We could all look at it after the fact, learn from it, and make corrections to it. But there was no concerted effort to involve people in the writing process.
+当時のGNOMEのドキュメントは、ほとんどがSunに所属するプロのテクニカルライターによるものだった。
+彼らがマニュアルを書いてレビューし、そしてそれを僕らのCVSリポジトリにコミットしてくれたんだ。
+僕らはそのマニュアルを隅から隅まで見ることができた。そこからいろいろ学んだし、間違いがあれば手直しもした。
+でも、実際の執筆作業に参加しようという流れにはならなかった。
 
 #@ It is not that the Sun writers were trying to be protective or hide things
 #@ behind closed doors. These were professional tech writers. They knew how
