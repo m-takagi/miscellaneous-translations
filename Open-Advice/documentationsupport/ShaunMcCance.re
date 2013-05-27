@@ -57,7 +57,10 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ job had me working on publications tools, and I started working on the tools
 #@ and help viewer used for GNOME documentation. It was not long before I was
 #@ pulled into writing.
-Rewind eight years. I began to get involved with GNOME documentation in 2003. I did not have any real experience as a technical writer at the time. My day job had me working on publications tools, and I started working on the tools and help viewer used for GNOME documentation. It was not long before I was pulled into writing.
+話は8年前にさかのぼる。GNOMEのドキュメンテーションに関わり始めた2003年のことだ。
+当時の僕には、テクニカルライターとしての経験がまったくなかった。
+本業では出版ツールを扱っていて、僕はそのツールやGNOMEドキュメント用のヘルプビューアの開発に関わることになった。
+その後、ドキュメントそのものの執筆にも関わるようになったってわけだ。
 
 #@ In those days, much of our documentation was handled by professional tech
 #@ writers inside Sun. They would take on a manual, write it, review it, and
