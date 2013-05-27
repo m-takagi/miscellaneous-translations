@@ -37,7 +37,11 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ hundreds of pages against a moving target of late-cycle software changes. We
 #@ had people contributing remotely, submitting new pages and correcting existing
 #@ content. It was the most productive I had ever seen our documentation team.
-A few weeks before the release, a group of us got together to work on the documentation. We worked all day, planning, writing, and revising. We wrote hundreds of pages against a moving target of late-cycle software changes. We had people contributing remotely, submitting new pages and correcting existing content. It was the most productive I had ever seen our documentation team.
+リリースを数週間後に控えて、僕たちは集まってドキュメンテーションの作業をしていた。
+朝から晩まで、案を立てては実際に書いて、そして書き直してといった感じだった。
+何百ページにもわたるドキュメントを書いた。書いている間にも、ソフトウェア自体がどんどん変わっていった。
+リモート作業で参加してくれる人たちもいた。新しいページを投稿したり既存のドキュメントの間違いを訂正したりといった作業だ。
+今までにないようなペースでドキュメントを仕上げていった。
 
 #@ What did we finally get right? A lot of factors came together, and I could
 #@ write an entire book about all the nuances of Open Source documentation.
