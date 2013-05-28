@@ -79,7 +79,12 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ Running each page by a group of untrained contributors, however
 #@ enthusiastic, is inviting the very worst kind of bikeshedding\footnote{\url{https://secure.wikimedia.org/wiktionary/en/wiki/bikeshedding}}
 #@ imaginable. It is just not productive.
-It is not that the Sun writers were trying to be protective or hide things behind closed doors. These were professional tech writers. They knew how to do their job. They were good at it. Other people could take on other manuals, but they would write their assignments the way they knew how. Running each page by a group of untrained contributors, however enthusiastic, is inviting the very worst kind of bikeshedding@<fn>{bikeshedding} imaginable. It is just not productive.
+別に、Sunのライターたちが保身をはかって核心を隠していたりしたわけじゃない。
+彼らはプロのライターだった。仕事のやりかたも知っていたし、実際よくやってくれていた。
+他の人たちは別のマニュアルを担当することもできたけど、自分に割り当てたれたものを自己流で作っていくだけだった。
+きちんとした訓練を受けていない、でもやる気だけは人一倍ある。そんな人たちがよってたかってドキュメントを書いていったわけだ。
+どう考えても「自転車置き場の議論」@<fn>{bikeshedding}に陥ってしまうパターンだ。
+まったくもって生産的じゃない。
 
 //footnote[bikeshedding][@<href>{https://secure.wikimedia.org/wiktionary/en/wiki/bikeshedding}]
 
