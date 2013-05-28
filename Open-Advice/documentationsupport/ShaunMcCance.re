@@ -92,7 +92,9 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ assigned to other projects. That left us without our most prolific
 #@ and knowledgeable writers. Worse than that, we were left with no
 #@ community, nobody to pick up the pieces.
-Inevitably, the winds shifted inside Sun and their tech writers were assigned to other projects. That left us without our most prolific and knowledgeable writers. Worse than that, we were left with no community, nobody to pick up the pieces.
+必然的に、Sun社内の空気も変わってきた。Sunのテクニカルライターたちが、別のプロジェクトにアサインされるようになってしまったんだ。
+一番精力的に活動をしていて、一番物知りだったライターさえもプロジェクトを去っていった。
+さらに悪いことに、残された僕らはコミュニティなんて呼べる状態じゃなかった。誰ひとり、この事態をどうにかしようとしなかった。
 
 #@ There are ideas and processes that are standard in the corporate world.
 #@ I have worked in the corporate world. I do not think anybody questions
