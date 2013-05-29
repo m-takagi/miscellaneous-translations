@@ -107,13 +107,16 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 人はみな、仕事を持っている。
 任された業務を遂行する。
 自分の作業を誰かにレビューしてもらうことはあるだろうけど、新入りや経験の浅いライターに作業を外注したりはしない。
-一番デキるライターが一番たくだん書くことだろう。
+一番デキるライターが一番たくさん書くことだろう。
 
 #@ These are all really obvious ideas, and they fail miserably in a community-based
 #@ project. You will never develop a community of contributors if you do everything
 #@ yourself. In a software project, you might get contributors who are skilled and
 #@ persistent enough to contribute. In documentation, that almost never happens.
-These are all really obvious ideas, and they fail miserably in a community-based project. You will never develop a community of contributors if you do everything yourself. In a software project, you might get contributors who are skilled and persistent enough to contribute. In documentation, that almost never happens.
+ごく当たり前のことだけど、残念ながらコミュニティベースのプロジェクトではこれができていない。
+ぜんぶ自分でこなしてしまおうとすると、コミュニティでみんなの協力を得られなくなる。
+ソフトウェアのプロジェクトでは、よくできる人が参加してずっと協力してくれることもあるだろう。
+ドキュメンテーションの世界では、そんなことはまずあり得ない。
 
 #@ Most people who try to contribute to documentation do not do it because they
 #@ want to be tech writers, or even because they love to write. They do it
