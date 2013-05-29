@@ -102,7 +102,12 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ They ask others for reviews, but they do not farm out their work to
 #@ newcomers and less experienced writers. The best writers will probably
 #@ write the most.
-There are ideas and processes that are standard in the corporate world. I have worked in the corporate world. I do not think anybody questions these ideas. People do their job. They take assignments and finish them. They ask others for reviews, but they do not farm out their work to newcomers and less experienced writers. The best writers will probably write the most.
+企業の世界には、彼らなりの考えややりかたがある。
+僕もそんな世界で働いている。企業の世界の考えに疑問を持つ人もいないだろう。
+人はみな、仕事を持っている。
+任された業務を遂行する。
+自分の作業を誰かにレビューしてもらうことはあるだろうけど、新入りや経験の浅いライターに作業を外注したりはしない。
+一番デキるライターが一番たくだん書くことだろう。
 
 #@ These are all really obvious ideas, and they fail miserably in a community-based
 #@ project. You will never develop a community of contributors if you do everything
