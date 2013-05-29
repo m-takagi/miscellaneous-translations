@@ -115,7 +115,7 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ persistent enough to contribute. In documentation, that almost never happens.
 ごく当たり前のことだけど、残念ながらコミュニティベースのプロジェクトではこれができていない。
 ぜんぶ自分でこなしてしまおうとすると、コミュニティでみんなの協力を得られなくなる。
-ソフトウェアのプロジェクトでは、よくできる人が参加してずっと協力してくれることもあるだろう。
+ソフトウェアのプロジェクトでは、スキルのある人が参加してずっと協力してくれることもあるだろう。
 ドキュメンテーションの世界では、そんなことはまずあり得ない。
 
 #@ Most people who try to contribute to documentation do not do it because they
@@ -124,7 +124,14 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ think they know how. They do not know how to code. They are not good at
 #@ graphic design. They are not fluent enough in another language to translate.
 #@ But they know how to write.
-Most people who try to contribute to documentation do not do it because they want to be tech writers, or even because they love to write. They do it because they want to contribute, and documentation is the only way they think they know how. They do not know how to code. They are not good at graphic design. They are not fluent enough in another language to translate. But they know how to write.
+ドキュメンテーションに協力しようって人たちのほとんどは、そうではない。
+彼らは、ソフトウェアを書きたいというよりはむしろテクニカルライターになりたい人だったり、
+ただ単に書くのが好きな人だというだけだったりする。
+彼らがドキュメンテーションに協力するのは「とりあえず何か協力したいけど、
+自分ができるのはドキュメントくらいだなあ」と考えているからだ。
+彼らはコードの書きかたを知らない。グラフィックデザインも得意じゃない。
+別の言語に翻訳するほどの語学力もない。
+でもとりあえず、文章の書きかただけはわかるってわけだ。
 
 #@ This is where professional writers roll their eyes. The fact that you are
 #@ literate does not mean you can write effective user documentation. It is
