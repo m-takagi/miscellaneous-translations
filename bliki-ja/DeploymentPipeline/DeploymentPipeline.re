@@ -1,6 +1,6 @@
 #@ -*- mode: review; coding: utf-8 -*-
 #@ DeploymentPipeline
-= DeploymentPipeline
+= デプロイメントパイプライン
 
 #@ http://martinfowler.com/bliki/DeploymentPipeline.html
 
@@ -24,7 +24,13 @@ tags: @<href>{http://martinfowler.com/tags/delivery.html, delivery} @<href>{http
 #@   problems yielding faster feedback, while later stages provide slower
 #@   and more through probing. Deployment pipelines are a central part
 #@   of <a href = 'ContinuousDelivery.html'>ContinuousDelivery</a>.</p>
-One of the challenges of an automated build and test environment is you want your build to be fast, so that you can get fast feedback, but comprehensive tests take a long time to run. A deployment pipeline is a way to deal with this by breaking up your build into stages. Each stage provides increasing confidence, usually at the cost of extra time. Early stages can find most problems yielding faster feedback, while later stages provide slower and more through probing. Deployment pipelines are a central part of @<href>{http://martinfowler.com/bliki/ContinuousDelivery.html, ContinuousDelivery}.
+自動ビルドやテスト環境を構築するときに問題になることのひとつは、
+ビルドを高速にしてフィードバックをすぐに得られるようにしたいけれども、包括的なテストをしようとすると時間がかかるということだ。
+デプロイメントパイプラインは、この問題に対処するために、ビルドをいくつかの段階に分割する。
+ひとつのステージを通過するごとに信頼性が増すが、それぞれにステージにはそれなりの時間がかかる。
+初期段階で大半の問題をあぶり出してしまって素早くフィードバックし、
+後半ではじっくり時間をかけた調査をする。
+デプロイメントパイプラインは@<href>{http://martinfowler.com/bliki/ContinuousDelivery.html, ContinuousDelivery}の肝となるところだ。
 
 #@ <p>Usually the first stage of a deployment pipeline will do any
 #@   compilation and provide binaries for later stages. Later stages may
