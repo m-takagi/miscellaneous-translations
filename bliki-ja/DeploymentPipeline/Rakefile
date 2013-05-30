@@ -1,0 +1,27 @@
+# -*- coding: utf-8 -*-
+
+desc "build a chapter (ex.) rake build c=target.re"
+task :build do
+  re = ENV['c']
+  html = re.gsub(/re\z/, "html")
+  cmd = "review-compile --target=html --footnotetext --singledirmode --stylesheet=style.css #{re} > tmp"
+  puts cmd
+  system cmd
+  system "mv tmp #{html}"
+end
+
+desc "build all chapters"
+task :build_all do
+  `review-compile --all --target=html --footnotetext --singledirmode --stylesheet=style.css`
+end
+
+task :server do
+  require 'webrick'
+  server = WEBrick::HTTPServer.new({
+      :BindAddress => "127.0.0.1",
+      :Port => 8080
+    })
+  server.mount('/', WEBrick::HTTPServlet::FileHandler, File.dirname(__FILE__))
+  trap("INT"){ server.shutdown }
+  server.start
+end
