@@ -139,7 +139,13 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ what they know, what they want, where they are looking. You need to know
 #@ how to present information in a way they will understand, and where to put
 #@ it so they will actually find it.
-This is where professional writers roll their eyes. The fact that you are literate does not mean you can write effective user documentation. It is not just about putting words on paper. You need to understand your users, what they know, what they want, where they are looking. You need to know how to present information in a way they will understand, and where to put it so they will actually find it.
+プロのライターが聞いたら目をむくような話だ。
+読み書きができるからといって、その人がユーザー向けのドキュメントをうまく書けるとは限らないのにね。
+単に単語を並べていけばいいってものじゃないんだから。
+ユーザーのことをよく知らなければいけない。何をどれくらい知っていて、
+何を知りたがっていて、何を読んでいるのかなどだ。
+そして、彼らが理解できるような書きかたを知っておかなければいけないし、
+それをどこに書けば読んでもらえるかを考えることも大切だ。
 
 #@ Tech writers will tell you that tech writing is not something just anybody
 #@ can do. They are right. And that is exactly why the most important thing
