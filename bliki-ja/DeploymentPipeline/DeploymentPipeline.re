@@ -39,7 +39,12 @@ tags: @<href>{http://martinfowler.com/tags/delivery.html, delivery} @<href>{http
 #@   they may be parallelized over many machines to speed up the build.
 #@   Deploying into production is usually the final stage in a pipeline.
 #@   </p>
-Usually the first stage of a deployment pipeline will do any compilation and provide binaries for later stages. Later stages may include manual checks, such as any tests that can't be automated. Stages can be automatic, or require human authorization to proceed, they may be parallelized over many machines to speed up the build. Deploying into production is usually the final stage in a pipeline.
+一般的に、デプロイメントパイプラインの最初のステージは、
+何らかのコンパイルをしてバイナリを作るという作業だ。これを、それ以降のステージで使うことになる。
+それ以降のステージの中には、自動化できないテストを手動で行うなどということもあるかもしれない。
+自動的に進められるステージもあれば、誰かの承認が必要となるステージもあり得る。
+そして、それらのステージを多数のマシンで並列実行すれば、ビルドの所要時間を短縮できるだろう。
+本番環境へのデプロイは、パイプラインの最後のステージになることが多い。
 
 #@ <p>More broadly the deployment pipeline's job is to detect any
 #@   changes that will lead to problems in production. These can include
