@@ -52,22 +52,27 @@ tags: @<href>{http://martinfowler.com/tags/delivery.html, delivery} @<href>{http
 #@   should enable collaboration between the various groups involved in
 #@   delivering software and provide everyone visibility about the flow
 #@   of changes in the system, together with a thorough audit trail.</p>
-More broadly the deployment pipeline's job is to detect any changes that will lead to problems in production. These can include performance, security, or usability issues. A deployment pipeline should enable collaboration between the various groups involved in delivering software and provide everyone visibility about the flow of changes in the system, together with a thorough audit trail.
+より広い目で見ると、デプロイメントパイプラインの役割は、本番環境に影響を及ぼしうるあらゆる変更を検出することだ。
+ここで言う影響には、パフォーマンスやセキュリティそして使い勝手といった問題も含む。
+デプロイメントパイプラインは、ソフトウェアのデリバリーにいろんな役割で関わる人たちの共同作業を支えるものでなければいけない。
+誰もがシステム上での変更の流れを確認できるようにし、監査証跡としても使えるものだ。
 
 #@ <p>A good way to introduce continuous delivery is to model your
 #@   current delivery process as a deployment pipeline, then examine this
 #@   for bottlenecks, opportunities for automation, and collaboration points.</p>
-A good way to introduce continuous delivery is to model your current delivery process as a deployment pipeline, then examine this for bottlenecks, opportunities for automation, and collaboration points.
+継続的デリバリーをうまく導入するには、まず現在のデリバリープロセスをデプロイメントパイプライン化してみればいい。
+それを精査して、ボトルネックを探したりさらなる自動化の余地を見つけたり、共同でできる作業を検討したりする。
 
 #@ <p>For more information see chapter 5 of the <a href = '/books/continuousDelivery.html'>Continuous Delivery book</a>,
 #@   available as a <a href = 'http://www.informit.com/articles/article.aspx?p=1621865'>free
 #@   download</a>.
 #@   </p>
-For more information see chapter 5 of the @<href>{http://martinfowler.com/books/continuousDelivery.html, Continuous Delivery book}, available as a @<href>{http://www.informit.com/articles/article.aspx?p=1621865, free download}.
+詳細な情報は、書籍『@<href>{http://martinfowler.com/books/continuousDelivery.html, Continuous Delivery}』
+の第5章を参照すること。@<href>{http://www.informit.com/articles/article.aspx?p=1621865, ここで、無料で読める}。
 
 #@ <div class = 'acknowledgements'>
 #@ <h2>Acknowledgements</h2>
 #@ <a href = 'http://continuousdelivery.com/'>Jez Humble</a> provided detailed help with this page.</div>
 #@ </div>
 == Acknowledgements
-@<href>{http://continuousdelivery.com/, Jez Humble} provided detailed help with this page.
+このページを書くにあたり、@<href>{http://continuousdelivery.com/, Jez Humble}にいろいろ助けてもらった。
