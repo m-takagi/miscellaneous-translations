@@ -150,7 +150,9 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ Tech writers will tell you that tech writing is not something just anybody
 #@ can do. They are right. And that is exactly why the most important thing
 #@ professional writers can do for the community is not write.
-Tech writers will tell you that tech writing is not something just anybody can do. They are right. And that is exactly why the most important thing professional writers can do for the community is not write.
+プロのテクニカルライターはきっと、技術文書を書くのは誰にでもできる作業じゃないって言うだろう。
+きっとそれは正しい。
+だからこそ、プロのライターがコミュニティに対してできるいちばん重要なことは「書かないこと」なんだ。
 
 #@ The key to building a successful documentation community is to let others
 #@ make the decisions, do the work, and own the results. It is not enough to
