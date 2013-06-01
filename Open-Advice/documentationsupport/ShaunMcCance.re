@@ -159,7 +159,11 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ just give them busy work. The only way they will care enough to stick around
 #@ is if they are personally invested. A sense of ownership is a powerful
 #@ motivator.
-The key to building a successful documentation community is to let others make the decisions, do the work, and own the results. It is not enough to just give them busy work. The only way they will care enough to stick around is if they are personally invested. A sense of ownership is a powerful motivator.
+ドキュメンテーションのコミュニティを作り上げるための鍵となるのは、
+自分だけでやってしまうのではなく他の人にも判断を任せること。そして実際に作業をさせて、結果を出させるんだ。
+単に作業を割り振るだけではだめだ。
+十分に力を入れて作業を進めてくれるのは、自分が個人的に信頼されているって実感できるときだけだ。
+自分の作業だっていう意識こそが、強力な動機付けになる。
 
 #@ But if you only get inexperienced writers, and you hand all the work
 #@ over to them, how can you ensure you create quality documentation?
