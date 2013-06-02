@@ -170,7 +170,12 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ Uncontrolled crowd-sourcing does not create good results. The role
 #@ of an experienced writer in a community is as a teacher and mentor.
 #@ You have to teach them to write.
-But if you only get inexperienced writers, and you hand all the work over to them, how can you ensure you create quality documentation? Uncontrolled crowd-sourcing does not create good results. The role of an experienced writer in a community is as a teacher and mentor. You have to teach them to write.
+でも、まわりにいるライターが未熟な人たちだけだったとして、
+仮にすべての作業を彼らに丸投げしてしまったとしたら、
+いったいどうやってそのドキュメントの品質を確保できるというんだろう？
+みんなが好き勝手にすすめるクラウドソーシングは、よい結果を生み出さない。
+コミュニティにおける経験豊富なライターの役割は、他のメンバーを指導して育てることだ。
+書きかたを教えてやらなければいけない。
 
 #@ Start by involving people early in the planning. Always plan from the
 #@ bottom up. Top-down planning is not conducive to collaboration. It is
