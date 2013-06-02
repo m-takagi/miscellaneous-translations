@@ -196,7 +196,10 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ dish out everything else. Let other people own topics, or entire groups
 #@ of topics. Make it clear what information they need to provide, but let
 #@ them write. People will learn by doing.
-Write a few pages yourself. It gives people something to imitate. Then dish out everything else. Let other people own topics, or entire groups of topics. Make it clear what information they need to provide, but let them write. People will learn by doing.
+まずは自分で何ページが書いてみよう。これを、他の人たちにお手本として使わせる。
+そして、後はすべて任せてしまおう。それぞれの人に、特定のトピックあるいは一連のトピック群を任せる。
+何を書くべきなのかは明確にしておかなければいけないが、実際に書くのは彼ら自身だ。
+実際にやってみないと、人は成長しない。
 
 #@ Be constantly available to help them out and answer questions. At least
 #@ half the time I spend on documentation is spent answering questions so
