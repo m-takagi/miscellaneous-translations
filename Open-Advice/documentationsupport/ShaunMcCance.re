@@ -184,7 +184,13 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ people can think of the pieces. They can think about individual topics
 #@ to write, tasks people perform, problems people have, questions people
 #@ ask. They can look at forums and mailing lists to see what users ask.
-Start by involving people early in the planning. Always plan from the bottom up. Top-down planning is not conducive to collaboration. It is hard to involve people in crafting a high-level overview when not everybody has the same sense of what goes into that overview. But people can think of the pieces. They can think about individual topics to write, tasks people perform, problems people have, questions people ask. They can look at forums and mailing lists to see what users ask.
+まずは、計画の初期段階からみんなを参加させること。
+そして、計画は常にボトムアップで進めること。
+トップダウンで進めると、なかなか共同作業につながらない。
+高水準の概要を策定する作業にみんなを参加させるには、全員がその概要に関して同じ感覚を持っていなければいけない。
+でも、個別の細かいことを考えるのなら誰にでもできる。
+個別のトピックとか、それを作るために必要な作業とか、それに関する問題点とか疑問点などは考えやすい。
+フォーラムやメーリングリストを眺めれば、ユーザーがどんなところにつまづいているのかがわかるだろう。
 
 #@ Write a few pages yourself. It gives people something to imitate. Then
 #@ dish out everything else. Let other people own topics, or entire groups
