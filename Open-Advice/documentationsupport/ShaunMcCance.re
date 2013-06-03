@@ -206,7 +206,11 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ that other people can get work done. When people submit drafts, review
 #@ the drafts and discuss critiques and corrections with them. Do not just
 #@ make the corrections yourself.
-Be constantly available to help them out and answer questions. At least half the time I spend on documentation is spent answering questions so that other people can get work done. When people submit drafts, review the drafts and discuss critiques and corrections with them. Do not just make the corrections yourself.
+常に、彼らを助けたり質問に答えたりできるようにしておこう。
+私の場合、ドキュメンテーションに関わる時間の少なくとも半分以上は、
+他の人の質問に答えて彼らの作業を進めやすくすることに費やしている。
+草稿が投稿されたらそれをレビューする。内容について批評して、問題があれば訂正させる。
+自分で訂正するのではなく、作者本人になおさせるのだ。
 
 #@ This still leaves you handling the big picture. People are filling in
 #@ parts of the puzzle, but you are still putting it together. As people
