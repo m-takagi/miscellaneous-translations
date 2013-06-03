@@ -26,11 +26,11 @@ tags: @<href>{http://martinfowler.com/tags/delivery.html, delivery} @<href>{http
 #@   of <a href = 'ContinuousDelivery.html'>ContinuousDelivery</a>.</p>
 自動ビルドやテスト環境を構築するときに問題になることのひとつは、
 ビルドを高速にしてフィードバックをすぐに得られるようにしたいけれども、包括的なテストをしようとすると時間がかかるということだ。
-デプロイメントパイプラインは、この問題に対処するために、ビルドをいくつかの段階に分割する。
-ひとつのステージを通過するごとに信頼性が増すが、それぞれにステージにはそれなりの時間がかかる。
-初期段階で大半の問題をあぶり出してしまって素早くフィードバックし、
+デプロイメントパイプラインは、この問題に対処するために、ビルドをいくつかのステージに分割する。
+ひとつのステージを通過するごとに信頼性が増すが、それぞれのステージにはそれなりの時間がかかる。
+前半のステージで大半の問題をあぶり出してしまって素早くフィードバックし、
 後半ではじっくり時間をかけた調査をする。
-デプロイメントパイプラインは@<href>{http://martinfowler.com/bliki/ContinuousDelivery.html, ContinuousDelivery}の肝となるところだ。
+デプロイメントパイプラインは@<href>{http://martinfowler.com/bliki/ContinuousDelivery.html, ContinuousDelivery}の肝となるものだ。
 
 #@ <p>Usually the first stage of a deployment pipeline will do any
 #@   compilation and provide binaries for later stages. Later stages may
@@ -55,7 +55,7 @@ tags: @<href>{http://martinfowler.com/tags/delivery.html, delivery} @<href>{http
 より広い目で見ると、デプロイメントパイプラインの役割は、本番環境に影響を及ぼしうるあらゆる変更を検出することだ。
 ここで言う影響には、パフォーマンスやセキュリティそして使い勝手といった問題も含む。
 デプロイメントパイプラインは、ソフトウェアのデリバリーにいろんな役割で関わる人たちの共同作業を支えるものでなければいけない。
-誰もがシステム上での変更の流れを確認できるようにし、監査証跡としても使えるものだ。
+誰もがシステム上での変更の流れを確認できるようにして、監査証跡としても使えるものだ。
 
 #@ <p>A good way to introduce continuous delivery is to model your
 #@   current delivery process as a deployment pipeline, then examine this
