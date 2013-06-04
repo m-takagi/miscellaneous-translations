@@ -229,4 +229,7 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ documentation, and constantly brings in new contributors. Anybody can
 #@ join in and make a difference, and that is the key to a successful Open
 #@ Source community.
-Eight years later, GNOME has managed to create a documentation team that runs itself, deals with problems, makes decisions, produces great documentation, and constantly brings in new contributors. Anybody can join in and make a difference, and that is the key to a successful Open Source community.
+あれから8年を経て、GNOMEのドキュメンテーションチームはなんとか自律している。
+問題に対応したり方針を決定したりしてすばらしいドキュメントを作り、新しいメンバーもどんどん増えるようになった。
+これからも新しい人にはどんどん参加してもらいたい。彼らがもたらす多様性こそが、
+オープンソースコミュニティを成功に導く鍵なのだから。
