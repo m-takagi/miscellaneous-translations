@@ -24,9 +24,9 @@ tags: @<href>{http://martinfowler.com/tags/delivery.html, delivery} @<href>{http
 #@   problems yielding faster feedback, while later stages provide slower
 #@   and more through probing. Deployment pipelines are a central part
 #@   of <a href = 'ContinuousDelivery.html'>ContinuousDelivery</a>.</p>
-自動ビルドやテスト環境を構築するときに問題になることのひとつは、
+自動ビルドやテスト環境を構築するときに、問題になることがある。そのひとつが、
 ビルドを高速にしてフィードバックをすぐに得られるようにしたいけれども、包括的なテストをしようとすると時間がかかるということだ。
-デプロイメントパイプラインは、この問題に対処するために、ビルドをいくつかのステージに分割する。
+デプロイメントパイプラインは、ビルドをいくつかのステージに分割してこの問題に対処する。
 ひとつのステージを通過するごとに信頼性が増すが、それぞれのステージにはそれなりの時間がかかる。
 前半のステージで大半の問題をあぶり出してしまって素早くフィードバックし、
 後半ではじっくり時間をかけた調査をする。
