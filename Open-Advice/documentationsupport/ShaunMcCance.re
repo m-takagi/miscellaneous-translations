@@ -217,7 +217,12 @@ Shaun McCanceがGNOMEのドキュメンテーションに参加したのは2003�
 #@ get more experienced, they will naturally take bigger and bigger pieces.
 #@ Encourage people to get more involved. Give them more to do. Get them
 #@ to help you help more writers. The community will run itself.
-This still leaves you handling the big picture. People are filling in parts of the puzzle, but you are still putting it together. As people get more experienced, they will naturally take bigger and bigger pieces. Encourage people to get more involved. Give them more to do. Get them to help you help more writers. The community will run itself.
+あなたに残された仕事は、大局的な判断だ。
+各自がパズルのパーツを作ってくれるけれど、それをひとまとめにするのはあなただということだ。
+それぞれのメンバーも、慣れてくればくるほど大きめのパーツを作れるようになるだろう。
+もっと作業に参加してもらえるよう、彼らを勇気づけよう。
+彼らに任せる作業をどんどん増やし、より多くのライターを助けられるようにしよう。
+そこまでくれば、コミュニティは自然に回り出す。
 
 #@ Eight years later, GNOME has managed to create a documentation team
 #@ that runs itself, deals with problems, makes decisions, produces great
