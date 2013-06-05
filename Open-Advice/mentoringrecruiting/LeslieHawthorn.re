@@ -16,14 +16,13 @@ Leslie Hawthorn
 #@ Summer of Code Program, created the contest now known as Google Code-in and
 #@ launched the company’s Open Source Developer Blog.}
 //lead{
-An internationally known community manager, speaker and author, Leslie
-Hawthorn has over 10 years experience in high tech project management, marketing
-and public relations. Recently she joined AppFog as their Community
-Manager, where she is responsible for developer engagement. Prior to AppFog, she
-served as Outreach Manager at Oregon State University’s Open Source Lab and as a
-Program Manager for Google’s Open Source Team, where she managed the Google
-Summer of Code Program, created the contest now known as Google Code-in and
-launched the company’s Open Source Developer Blog.
+世界的に知られたコミュニティマネージャーであり、講演や著作もよく知られているLeslie Hawthornは、
+プロジェクト管理やマーケティングそして広報などで10年以上の経験を持つ。
+最近ではAppFogにコミュニティマネージャーとして合流し、開発者の雇用にも関わっている。
+AppFogに合流する前は、オレゴン州立大学のオープンソース研究所で支援マネージャーとして働いたり
+Googleのオープンソースチームでプログラムマネージャーとして働いたりしていた。
+GoogleではGoogle Summer of Codeプログラムを担当した。これは今のGoogle Code-inだ。
+また、同社のOpen Source Developer Blogの立ち上げにも関わっている。
 //}
 
 #@ \begin{quote}
