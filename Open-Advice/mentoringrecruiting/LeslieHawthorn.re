@@ -35,13 +35,12 @@ GoogleではGoogle Summer of Codeプログラムを担当した。これは今�
 #@ Fogel, Producing Open Source Software
 #@ \end{quote}
 //quote{
-"The most important documentation for initial users is the basics: how to
-quickly set up the software, an overview of how it works, perhaps some guides to
-doing common tasks. Yet these are exactly the things the writers of the
-documentation know all too well -- so well that it can be difficult for them to see
-things from the reader's point of view, and to laboriously spell out the steps
-that (to the writers) seem so obvious as to be unworthy of mention." -- Karl
-Fogel, Producing Open Source Software
+はじめて使用するユーザーにとって必要なドキュメントは、基本をまとめたものです。
+ソフトウェアを手っ取り早くセットアップする方法や動作の概要、そして一般的な作業をするための手引きなどが必要でしょう。
+しかし、これらの内容はまさに、ドキュメントの書き手があまりにもよく知りすぎていることです。
+そのためかえって、物事を読者の視点から眺めたり、また、(ドキュメントの書き手にとっては)言及に値しないほど明白な手順を、骨を折って詳細に説明するのが困難になる可能性があります。
+
+-- Karl Fogel, @<href>{http://producingoss.com/ja/getting-started.html#documentation, オープンソースソフトウェアの育て方}
 //}
 
 #@ When you are first starting work on a FOSS project, the learning curve is steep
