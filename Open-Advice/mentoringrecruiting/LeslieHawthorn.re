@@ -65,16 +65,17 @@ GoogleではGoogle Summer of Codeプログラムを担当した。これは今�
 #@ suddenly discover that riding is not as simplistic as you had thought: at what
 #@ height should your saddle sit? What gear should you be in when climbing a hill?
 #@ When descending one? And do you really need that helmet anyway? (Hint: Yes, you
-#@ do.) 
-To use a simple simile, the process of learning how to use and develop for any
-open source project is much like learning to ride a bicycle. For those who are
-experienced cyclists, "it’s as easy as riding a bicycle." You have probably
-ridden a bike a few times and understand its architecture: saddle, wheels,
-brakes, pedals and handlebars. Yet you climb aboard, head out on your ride and
-suddenly discover that riding is not as simplistic as you had thought: at what
-height should your saddle sit? What gear should you be in when climbing a hill?
-When descending one? And do you really need that helmet anyway? (Hint: Yes, you
-do.) 
+#@ do.)
+簡単に言うと、何かのオープンソースプロジェクトの使いかたや開発について覚えるのは、
+自転車の乗りかたを覚えるようなものだ。
+自転車に乗り慣れている人は、よく「それって、自転車に乗るのと同じくらい簡単だよ」なんて言う。
+確かに、何度かさわってみれば、自転車の構造はすぐに理解できるだろう。サドルがあってホイールがあって、
+ブレーキやペダルやハンドルがある。簡単だ。
+しかし、実際に乗ってみてはじめてわかる。自転車に乗るのが思ったほど単純じゃないってことをね。
+サドルの高さはどれくらいにすればいいの？
+坂を上るときは、ギアをどれに入れればいいの？
+坂を下りるときは？
+ところで、ヘルメットってほんとうに必要なの？
 
 #@ When you first start off cycling, you will not even know what questions to ask
 #@ and you will only find out by having sore knees, aching lungs and a twinge in your back. Even then, your questions will not always yield the answers you need;
