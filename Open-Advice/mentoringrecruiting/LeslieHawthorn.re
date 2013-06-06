@@ -50,13 +50,12 @@ GoogleではGoogle Summer of Codeプログラムを担当した。これは今�
 #@ wondering how you are ever going to be skilled enough to contribute effectively.
 #@ What you may not realize is how much these wise folk have forgotten along their
 #@ path to success.
-When you are first starting work on a FOSS project, the learning curve is steep
-and the path daunting. You may find yourself subscribed to mailing lists or in
-chat rooms with all kinds of "famous" people, like the creator of your
-favorite programming language or the maintainer of your favorite package,
-wondering how you are ever going to be skilled enough to contribute effectively.
-What you may not realize is how much these wise folk have forgotten along their
-path to success.
+フリー／オープンソースソフトウェアのプロジェクトにはじめて参加する人にとっては、
+学習曲線は急勾配だしその道のりは険しいものだ。メーリングリストやチャットに参加すると、周りはいわゆる「有名人」だらけ。
+あのプログラミング言語の作者様だとかあのパッケージのメンテナ様だとかに囲まれて、怖じ気づいてしまう。
+この人たちの中で、自分はいったい何をできるんだろうってね。
+ただ、そんなあなたにも強みがあるってことを知っておこう。
+そういう「すごい人」たちって、かつて自分が初心者だったころの気持ちを忘れてしまっていることが多いんだ。
 
 #@ To use a simple simile, the process of learning how to use and develop for any
 #@ open source project is much like learning to ride a bicycle. For those who are
