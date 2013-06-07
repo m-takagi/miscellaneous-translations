@@ -85,14 +85,13 @@ GoogleではGoogle Summer of Codeプログラムを担当した。これは今�
 #@ fighting with gear changes, figuring out that they had the wrong lights and
 #@ reflectors, and which hand signal indicates a left turn because they have been
 #@ riding for so long that all these matters are simply second nature to them.
-When you first start off cycling, you will not even know what questions to ask
-and you will only find out by having sore knees, aching lungs and a twinge in your back. Even then, your questions will not always yield the answers you need;
-someone might know to tell you to lower your saddle when you tell them your
-knees hurt, but they might also just assume that you are new to this whole thing
-and eventually you will just figure it out on your own. They have forgotten
-fighting with gear changes, figuring out that they had the wrong lights and
-reflectors, and which hand signal indicates a left turn because they have been
-riding for so long that all these matters are simply second nature to them.
+はじめてサイクリングに挑戦するときまでは、いったい何を聞いたらいいのかもわからない。
+膝を痛め、息は上がり、背中もずきずきする。そんな状態になって初めて気づくんだ。
+でも、それで気づいた質問をしてみても、本当に必要な答えが得られるとは限らない。
+膝が痛む理由はサドルが高すぎるからだとわかる人はいるかもしれない。
+でも、そんなことはしばらく乗っているうちに誰でも気づくだろうから、敢えて答えるまでもないと考えてしまうんだ。
+ギアチェンジのしかたとかライトや反射板の選びかたとか手信号の出しかたとかも同じ。
+乗り慣れた人にとってはごく当たり前のことで既に体に染みついているので、それを指摘しなければいけないっていうことを忘れてしまうんだ。
 
 #@ The same scenario holds true when getting started in FOSS. As you are building a
 #@ package for the first time, you will inevitably run into some obscure error
