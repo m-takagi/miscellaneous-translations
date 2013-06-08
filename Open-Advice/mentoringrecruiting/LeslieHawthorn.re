@@ -106,19 +106,19 @@ GoogleではGoogle Summer of Codeプログラムを担当した。これは今�
 #@ What none of us in the FOSS world want to happen is what happens to many: that
 #@ cup of coffee is infinitely better than feeling ignorant and intimidated, so you
 #@ do not try your hand at FOSS any further.
-The same scenario holds true when getting started in FOSS. As you are building a
-package for the first time, you will inevitably run into some obscure error
-message or other kind of fail. And when you ask for help, some friendly soul
-will no doubt tell you that "it’s easy, just do foo, bar and baz." Except for
-you, it is not easy, there may be no documentation for foo, bar is not doing
-what it is supposed to be doing and what is this baz thing anyway with its eight
-disambiguation entries on Wikipedia? You obviously do not want to be a pest, but
-you will need help to actually get something done. Perhaps you keep retrying the
-same steps and keep failing, getting more and more frustrated. Maybe
-you wander off, get a coffee and figure you will come back to the problem later.
-What none of us in the FOSS world want to happen is what happens to many: that
-cup of coffee is infinitely better than feeling ignorant and intimidated, so you
-do not try your hand at FOSS any further.
+フリー／オープンソースソフトウェアの世界に初めて飛び込むときにも、同じようなことが言える。
+何かのパッケージを初めてビルドしようとすると、まず間違いなく、よくわからないエラーメッセージが出たりして失敗するだろう。
+で、周りの人に聞いてみると、優しい誰かがこんなアドバイスをしてくれるんだ。
+「ああ、それって簡単なことだよ。○○してから△▼して、それから★※すればいいよ」
+でも実際は、言うほど簡単じゃない。○○するためのドキュメントがないかもしれないし、
+△▼してみても思ったとおりに動かないかもしれない。さらに
+★※についてWikipediaで調べたら「曖昧さ回避のためのページ」に8つもエントリがあったりするかもしれない。
+教えて君になるのは気が進まないけど、もっときちんと教えてもらわないと先には進めないだろう。
+もう一度同じ手順でやり直してみるけど、結局同じところで失敗する。失敗すればするほど、いらついてくる。
+とりあえず今の時点ではあきらめて、コーヒーでも飲んだあとでもう一度挑戦してみようとするかもしれない。
+そして、その後の流れは、私たちの誰もが望んでいない最悪のパターンになることが多い。
+一杯のコーヒーがあまりにも心地よくて、もうさっきまでの無力感や威圧感がいやになってしまう。
+そして、フリー／オープンソースソフトウェアの世界から手を引いてしまうんだ。
 
 #@ Realize now that you will eventually know those things that the experts around
 #@ you have forgotten or do not articulate because these steps are obvious to them.
