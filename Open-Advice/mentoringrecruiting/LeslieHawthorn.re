@@ -125,11 +125,11 @@ GoogleではGoogle Summer of Codeプログラムを担当した。これは今�
 #@ Every person more knowledgeable than you went through the same wanderings you
 #@ are right now when learning how to do the things you are trying to do. Here are
 #@ a few tips to make your travels easier:
-Realize now that you will eventually know those things that the experts around
-you have forgotten or do not articulate because these steps are obvious to them.
-Every person more knowledgeable than you went through the same wanderings you
-are right now when learning how to do the things you are trying to do. Here are
-a few tips to make your travels easier:
+ここではっきりさせておこう。君もいつかは、今悩んでいることを理解できるようになるんだ。
+君の周りにいる人たちは、もう当時のことをすっかり忘れてしまっていたり、
+あまりにも当たり前すぎてきちんと説明できなくなっていたりするんだけどね。
+周りのすごい人たちもみんな、いま君がやろうとしていることをやり始めたときには同じように悩んでいたんだ。
+そんな君のために、いくつかアドバイスをしよう。
 
 #@ \paragraph*{Don’t wait too long to ask for help} No one wants to be a pest and
 #@ no one enjoys looking clueless. That being said, if you are unable to fix your
@@ -138,7 +138,7 @@ a few tips to make your travels easier:
 #@ channel, forum or mailing list for help. Many projects have online communication
 #@ channels specifically for beginners, so keep an eye out for words like
 #@ \textit{mentor}, \textit{newbie}, and \textit{getting started}.
- : Don’t wait too long to ask for help
+ : 恥ずかしがらずに助けを求めよう
  No one wants to be a pest and no one enjoys looking clueless. That being said, if you are unable to fix your problem after trying to do so for 15 minutes, it is time to ask for help. Make sure you check the project’s website for documentation so you use the right IRC channel, forum or mailing list for help. Many projects have online communication channels specifically for beginners, so keep an eye out for words like @<i>{mentor}, @<i>{newbie}, and @<i>{getting started}.
 
 #@ \paragraph*{Talk about your (thought) process} It is not just a matter of asking
@@ -149,7 +149,7 @@ a few tips to make your travels easier:
 #@ channel or on the mailing list know that you have read the manual by including
 #@ links to the documentation you have read on the topic. If you have not found any
 #@ documentation, a polite mention of the fact is also helpful.
- : Talk about your (thought) process
+ : 自分がどのようにした（考えた）のかを説明してみよう
  It is not just a matter of asking questions, it is knowing the right questions to ask. When getting started, you will not necessarily know what those questions are, so when asking for help, be detailed about what you are trying to accomplish, the steps you have taken, and the problem you have encountered. Let your would-be mentors in the project IRC channel or on the mailing list know that you have read the manual by including links to the documentation you have read on the topic. If you have not found any documentation, a polite mention of the fact is also helpful.
 
 #@ \paragraph*{Know your own value} As a new contributor to a project, you are an
@@ -161,5 +161,5 @@ a few tips to make your travels easier:
 #@ tough problems. When you encounter something truly frustrating, realize you are
 #@ in the spectacular position of helping make sure the next person who comes along
 #@ does not encounter the same difficulties.
- : Know your own value
+ : 自分の価値を知ろう
  As a new contributor to a project, you are an invaluable asset not for your knowledge, but for your ignorance. When first starting work in FOSS, nothing seems (to you) so obvious as to be unworthy of mention. Take notes on the problems you have encountered and how they were fixed, then use those notes to update the project documentation or work with the community to prepare screen casts or other training materials for particularly tough problems. When you encounter something truly frustrating, realize you are in the spectacular position of helping make sure the next person who comes along does not encounter the same difficulties.
