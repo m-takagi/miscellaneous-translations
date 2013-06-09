@@ -139,7 +139,12 @@ GoogleではGoogle Summer of Codeプログラムを担当した。これは今�
 #@ channels specifically for beginners, so keep an eye out for words like
 #@ \textit{mentor}, \textit{newbie}, and \textit{getting started}.
  : 恥ずかしがらずに助けを求めよう
- No one wants to be a pest and no one enjoys looking clueless. That being said, if you are unable to fix your problem after trying to do so for 15 minutes, it is time to ask for help. Make sure you check the project’s website for documentation so you use the right IRC channel, forum or mailing list for help. Many projects have online communication channels specifically for beginners, so keep an eye out for words like @<i>{mentor}, @<i>{newbie}, and @<i>{getting started}.
+ 邪魔者になりたい人なんて誰もいないし、何も手がかりのない状況を楽しめる人もいない。
+ とりあえず15分がんばってみて解決できなければ、そろそろ助けを求める頃合いだ。
+ まずは、そのプロジェクトのウェブサイトでドキュメントを探そう。
+ そうすれば、IRCチャンネルやフォーラムあるいはメーリングリストなど、適切な場所が見つかるだろう。
+ たいていのプロジェクトには、初心者向けのオンラインコミュニケーションの場が用意されている。
+ @<i>{mentor}、@<i>{newbie}、そして@<i>{getting started}といったキーワードに注目して探してみよう。
 
 #@ \paragraph*{Talk about your (thought) process} It is not just a matter of asking
 #@ questions, it is knowing the right questions to ask. When getting started, you
