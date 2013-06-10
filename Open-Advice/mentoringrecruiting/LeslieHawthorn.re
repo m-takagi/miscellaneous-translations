@@ -173,4 +173,13 @@ GoogleではGoogle Summer of Codeプログラムを担当した。これは今�
 #@ in the spectacular position of helping make sure the next person who comes along
 #@ does not encounter the same difficulties.
  : 自分の価値を知ろう
- As a new contributor to a project, you are an invaluable asset not for your knowledge, but for your ignorance. When first starting work in FOSS, nothing seems (to you) so obvious as to be unworthy of mention. Take notes on the problems you have encountered and how they were fixed, then use those notes to update the project documentation or work with the community to prepare screen casts or other training materials for particularly tough problems. When you encounter something truly frustrating, realize you are in the spectacular position of helping make sure the next person who comes along does not encounter the same difficulties.
+ 何かのプロジェクトに参加したばかりの新入りさんの長所は、何かを知っているということではなく、
+ むしろ何もしらないということだ。
+ フリー／オープンソースソフトウェアの世界での活動を始めたばかりのころは、
+ 何を見ても、明白すぎて言及するまでもないなんて感じることはまずないだろう。
+ あなたが遭遇した問題と、それをどのように解決したのかをメモっておこう。
+ それをもとにしてプロジェクトのドキュメントを更新したり、
+ 他の人たちと協力して問題解決のための教材を作ってみたりするといい。
+ スクリーンキャストなどのネタが使えるだろう。
+ もしほんとうにイライラするような問題に遭遇したら、大チャンスだととらえよう。
+ 後に続く人たちが同じ問題にハマらないようにできれば、大きな助けになる。
