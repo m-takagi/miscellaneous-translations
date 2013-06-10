@@ -155,7 +155,13 @@ GoogleではGoogle Summer of Codeプログラムを担当した。これは今�
 #@ links to the documentation you have read on the topic. If you have not found any
 #@ documentation, a polite mention of the fact is also helpful.
  : 自分がどのようにした（考えた）のかを説明してみよう
- It is not just a matter of asking questions, it is knowing the right questions to ask. When getting started, you will not necessarily know what those questions are, so when asking for help, be detailed about what you are trying to accomplish, the steps you have taken, and the problem you have encountered. Let your would-be mentors in the project IRC channel or on the mailing list know that you have read the manual by including links to the documentation you have read on the topic. If you have not found any documentation, a polite mention of the fact is also helpful.
+ これは、単に質問をするときの心がけというだけのことではない。そうすることで、何を聞くべきなのかを知ることにもつながるんだ。
+ はじめてのときは、何を聞くべきかもわからないのが当たり前だ。
+ 助けを求めるときは、自分が何をしようと思っているのかや実際にどんなことをしたのか、
+ そしてどんな問題が発生したのかを詳しく説明しよう。
+ 自分が読んだドキュメントへのリンクも含めておけば、自分がきちんとマニュアルを読んでいることを
+ IRCチャンネルやメーリングリストにいる先輩たちに伝えられる。
+ もしドキュメントが見つからなかったのなら、そのことをきちんと伝えれば、重要な手がかりになる。
 
 #@ \paragraph*{Know your own value} As a new contributor to a project, you are an
 #@ invaluable asset not for your knowledge, but for your ignorance. When first
