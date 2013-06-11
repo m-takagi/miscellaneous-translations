@@ -29,8 +29,13 @@ KévinはKDABで、KDEの技術に関する研究プロジェクトにも関わ�
 #@ adventures: you are young, full of energy, curious, and probably want to change
 #@ the world to your image. That is really all that is needed for most volunteer
 #@ work.
-== Introduction
-Free Culture communities are mostly driven by volunteer efforts. Also most of the people getting into such communities do so during their time at the university. It is somewhat the right period of your life to embark in such adventures: you are young, full of energy, curious, and probably want to change the world to your image. That is really all that is needed for most volunteer work.
+== はじめに
+
+フリーカルチャーのコミュニティは、基本的にボランティアの力で回っている。
+また、そういったコミュニティに関わる人の多くは、大学にいる時間を使ってコミュニティ活動をしている。
+学生時代って、そういう冒険をしてみるのには適した時期だ。
+まだまだ若くてエネルギーが満ちあふれているし、好奇心も旺盛。そしておそらく、自分の手でこの世界を変えてやろうと思っていたりする。
+まさにこれは、ボランティア活動に必要なことばかりだ。
 
 #@ But, at the same time, being a student does not necessarily leave you plenty of
 #@ time to engage with a Free Culture community. Indeed, most of these communities
