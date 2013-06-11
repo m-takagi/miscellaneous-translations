@@ -40,7 +40,8 @@ KévinはKDABで、KDEの技術に関する研究プロジェクトにも関わ�
 #@ But, at the same time, being a student does not necessarily leave you plenty of
 #@ time to engage with a Free Culture community. Indeed, most of these communities
 #@ are rather large, and it can be frightening to contact them.
-But, at the same time, being a student does not necessarily leave you plenty of time to engage with a Free Culture community. Indeed, most of these communities are rather large, and it can be frightening to contact them.
+しかしその一方で、学生だったらフリーカルチャーコミュニティに身を捧げるのが当然だというわけでもない。
+実際、その手のコミュニティの多くは巨大で、飛び込むのにはちょっとした勇気がいる。
 
 #@ It obviously raises a scary question: do Free Culture communities, because they
 #@ don't try to actively outreach to universities, fail to attract the next generation
@@ -48,7 +49,12 @@ But, at the same time, being a student does not necessarily leave you plenty of 
 #@ That is a valid question we tried to explore in the context of a community
 #@ producing software, namely KDE. In this article, we focus on the aspects we did
 #@ not foresee but had to deal with while looking for an answer to this question.
-It obviously raises a scary question: do Free Culture communities, because they don't try to actively outreach to universities, fail to attract the next generation of talented contributors? That is a valid question we tried to explore in the context of a community producing software, namely KDE. In this article, we focus on the aspects we did not foresee but had to deal with while looking for an answer to this question.
+そこで必然的にあがってくる問いがある。
+フリーカルチャーのコミュニティは、次代を担う才能のある若手にとって、魅力あるものと言えるだろうか？
+大学方面への積極的なアプローチが足りないんじゃないだろうか？
+これは、実際に私がKDEのコミュニティの中で考えてきた疑問でもある。
+この記事では、予測できない将来のことにはあまり注目しない。
+でも、この問いへの答えを探るためには将来のことも考えなければいけあかった。
 
 #@ \section*{Building relationship with a local university}
 #@ Really, it all starts by reaching out to the students themselves, and for that,
