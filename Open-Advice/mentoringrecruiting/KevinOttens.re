@@ -15,7 +15,11 @@ Kévin Ottens
 #@ technologies. He still lives in Toulouse where he serves as part time teacher in
 #@ his former university.}
 //lead{
-Kévin Ottens is a long term hacker of the KDE community. He contributed to the KDE Platform at large, with a strong emphasis on API design and frameworks architecture. Graduating in 2007, he holds a PhD in computer science which led him to work particularly on ontologies engineering and multi-agent systems. Kévin's job at KDAB includes developing research projects around KDE technologies. He still lives in Toulouse where he serves as part time teacher in his former university.
+Kévin Ottensは、KDEコミュニティのベテランハッカーだ。
+KDEプラットフォーム全般にまんべんなく貢献しており、中でもAPI設計やフレームワークのアーキテクチャに大きく関わっている。
+2007年にコンピュータサイエンスのPhDを取得した彼は、概念体系工学やマルチエージェントシステムを得意としている。
+KévinはKDABで、KDEの技術に関する研究プロジェクトにも関わっている。
+今もトゥールーズ在住で、出身校で講師をすることもある。
 //}
 
 #@ \section*{Introduction}
