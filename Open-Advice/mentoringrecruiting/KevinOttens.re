@@ -64,8 +64,10 @@ KévinはKDABで、KDEの技術に関する研究プロジェクトにも関わ�
 #@ of its courses of study named IUP ISI which focused on software engineering.
 == 地元の大学との関係を築く
 
-Really, it all starts by reaching out to the students themselves, and for that, the best way is still to get to their universities, trying to show them how welcoming Free Culture communities can be.
-To that effect, we built a relationship with the Paul Sabatier University in Toulouse -- more precisely one of its courses of study named IUP ISI which focused on software engineering.
+何を置いても、まずは学生たち自身に私たちの声を届けるところからだ。
+そのために最適な方法は、彼らの通う大学に取り入って、フリーカルチャーのコミュニティが学生を歓迎しているのを示すことだ。
+その一環として、私たちはトゥールーズのPaul Sabatier Universityとの関係を築いた。
+より詳しく言うと、IUP ISIという講座を開講して、そこでソフトウェア工学を教えるようにしたんだ。
 
 #@ The IUP ISI was very oriented toward ``hands on'' knowledge, and as such had a
 #@ pre-existing program for student projects. A particularly interesting point of
