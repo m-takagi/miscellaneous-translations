@@ -54,7 +54,7 @@ KévinはKDABで、KDEの技術に関する研究プロジェクトにも関わ�
 大学方面への積極的なアプローチが足りないんじゃないだろうか？
 これは、実際に私がKDEのコミュニティの中で考えてきた疑問でもある。
 この記事では、予測できない将来のことにはあまり注目しない。
-でも、この問いへの答えを探るためには将来のことも考えなければいけあかった。
+でも、この問いへの答えを探るためには将来のことも考えなければいけなかった。
 
 #@ \section*{Building relationship with a local university}
 #@ Really, it all starts by reaching out to the students themselves, and for that,
