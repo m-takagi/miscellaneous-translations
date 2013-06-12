@@ -62,8 +62,10 @@ KévinはKDABで、KDEの技術に関する研究プロジェクトにも関わ�
 #@ welcoming Free Culture communities can be. To that effect, we built a
 #@ relationship with the Paul Sabatier University in Toulouse -- more precisely one
 #@ of its courses of study named IUP ISI which focused on software engineering.
-== Building relationship with a local university
-Really, it all starts by reaching out to the students themselves, and for that, the best way is still to get to their universities, trying to show them how welcoming Free Culture communities can be. To that effect, we built a relationship with the Paul Sabatier University in Toulouse -- more precisely one of its courses of study named IUP ISI which focused on software engineering.
+== 地元の大学との関係を築く
+
+Really, it all starts by reaching out to the students themselves, and for that, the best way is still to get to their universities, trying to show them how welcoming Free Culture communities can be.
+To that effect, we built a relationship with the Paul Sabatier University in Toulouse -- more precisely one of its courses of study named IUP ISI which focused on software engineering.
 
 #@ The IUP ISI was very oriented toward ``hands on'' knowledge, and as such had a
 #@ pre-existing program for student projects. A particularly interesting point of
@@ -126,7 +128,7 @@ Moreover, throughout those years the director gave us continuous support and enc
 #@ not even the type of very disciplined or attentive students. You were likely
 #@ having this feeling of drinking from a firehose: a teacher entering a room,
 #@ getting in front of the students and delivering knowledge to you.
-== Realizing teaching is a two-way process
+== 教育とは双方向のプロセスであることを理解する
 
 During those years of building bridges between the KDE community and the IUP ISI course of study, we ended up in teaching positions to support the students in their project related tasks. When you have never taught a classroom full of students, you might still have this image of yourself sitting in a classroom a few years ago. Indeed, most teachers were students once... sometimes not even the type of very disciplined or attentive students. You were likely having this feeling of drinking from a firehose: a teacher entering a room, getting in front of the students and delivering knowledge to you.
 
@@ -183,7 +185,7 @@ As such, you will become a better teacher. Also your goals of getting well train
 #@ to build trust with a university and step outside of your comfort zone by
 #@ improving your teaching? Well, it really boils down to the initial question we
 #@ tried to answer:
-== Conclusion
+== 結論
 
 At the end of the day why would you go through all the effort to build trust with a university and step outside of your comfort zone by improving your teaching? Well, it really boils down to the initial question we tried to answer:
 
