@@ -74,7 +74,10 @@ KévinはKDABで、KDEの技術に関する研究プロジェクトにも関わ�
 #@ that program is the fact that students work in teams mixing students from
 #@ different promotions. Third year and fourth year students get to collaborate on
 #@ a common goal, which usually leads to teams of seven to ten students.
-The IUP ISI was very oriented toward "hands on" knowledge, and as such had a pre-existing program for student projects. A particularly interesting point of that program is the fact that students work in teams mixing students from different promotions. Third year and fourth year students get to collaborate on a common goal, which usually leads to teams of seven to ten students.
+IUP ISIは「実際に手を動かして」知識を得ることを重視していて、
+学生のプロジェクト用の課題があった。
+この課題がおもしろいのは、いろんな学年の学生が混じったチームで作業をするというところだ。
+三年生と四年生が協力して同じ目標を目指したりする。たいていは、10名弱のチームになる。
 
 #@ The first year of our experiment we hooked up with that program, proposing new
 #@ topics for the projects, focusing on software developed within the KDE
