@@ -67,7 +67,7 @@ KévinはKDABで、KDEの技術に関する研究プロジェクトにも関わ�
 何を置いても、まずは学生たち自身に私たちの声を届けるところからだ。
 そのために最適な方法は、彼らの通う大学に取り入って、フリーカルチャーのコミュニティが学生を歓迎しているのを示すことだ。
 その一環として、私たちはトゥールーズのPaul Sabatier Universityとの関係を築いた。
-より詳しく言うと、IUP ISIという講座を開講して、そこでソフトウェア工学を教えるようにしたんだ。
+より詳しく言うと、IUP ISIという講座に協力することにしたんだ。その講座では、ソフトウェア工学を扱っていた。
 
 #@ The IUP ISI was very oriented toward ``hands on'' knowledge, and as such had a
 #@ pre-existing program for student projects. A particularly interesting point of
@@ -84,11 +84,14 @@ IUP ISIは「実際に手を動かして」知識を得ることを重視して�
 #@ community. Henri Massié, director of the course of study, has been very
 #@ welcoming to the idea, and let us put the experiment in place. For that first
 #@ year, we were allocated two slots for KDE related software projects.
-The first year of our experiment we hooked up with that program, proposing new topics for the projects, focusing on software developed within the KDE community. Henri Massié, director of the course of study, has been very welcoming to the idea, and let us put the experiment in place. For that first year, we were allocated two slots for KDE related software projects.
+協力を始めた最初の年に、僕たちはその課題にかかわった。新しいネタを提案したんだ。
+KDEコミュニティで開発しているソフトウェアに関するものだった。講座を仕切っていた
+Henri Massiéはそのアイデアを受け入れてくれ、いろいろ僕らに試させてくれた。
+その年は、KDE関連のソフトウェアプロジェクトの枠を二つ割り当てられた。
 
 #@ To quickly build trust, we decided that year to provide a few guarantees
 #@ regarding the work of the students:
-To quickly build trust, we decided that year to provide a few guarantees regarding the work of the students:
+信頼関係を構築するために、初年度は学生たちの作業に対してこんな保証をすることにした。
 
 #@ \begin{itemize}
 #@   \item to help the teachers have confidence in the topics covered: the chosen
