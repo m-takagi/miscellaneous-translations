@@ -107,10 +107,16 @@ Henri Massiéはそのアイデアを受け入れてくれ、いろいろ僕ら�
 #@   \item finally, to get the students going, we introduced a short course on how
 #@ to develop with Qt and the frameworks produced by KDE;
 #@ \end{itemize}
- * to help the teachers have confidence in the topics covered: the chosen projects were close to the topics taught at the IUP ISI (that is why we targeted a UML modeling tool and a project management tool for that year);
- * to give maximum visibility to the teachers: we provided them a server on which the student production was regularly built and remotely accessible for testing purpose;
- * to ease the engagement of the students with the community: the maintainers of the projects were appointed to play a "customer" role thus pushing requirements to the students and helping them find their way in the ramifications of the community;
- * finally, to get the students going, we introduced a short course on how to develop with Qt and the frameworks produced by KDE;
+ * 自分の扱うトピックについて教師が自信を持てるように支援する。そのために、IUP ISIで教えている内容に近いプロジェクトを選んだ
+ （UMLモデリングツールやプロジェクト管理ツールを初年度に取り上げたのは、そのためだ）。
+ * 教師の可視性を最大にする。そのために、教師用のサーバーを提供して、
+ 学生の作品を定期的にビルドしたりテスト用にリモートアクセスしたりできるようにした。
+ * 学生がコミュニティに参加しやすいようにする。
+ プロジェクトのメンテナが「顧客」の役割を演じるようにした。
+ そして、学生に対して要件を提示したりすることで、
+ コミュニティの中で自分が何をできるのかを学生たちが発見できるようにした。
+ * そして、学生を一歩先に進ませるようにする。
+ 短期コースを用意して、QtとKDEのフレームワークを使った開発方法を教えた。
 
 #@ At the time of this writing, we have been through five years of such projects.
 #@ Small adjustments to the organization have been done here and there, but most of
