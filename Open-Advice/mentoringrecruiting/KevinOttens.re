@@ -124,7 +124,10 @@ Henri Massiéはそのアイデアを受け入れてくれ、いろいろ僕ら�
 #@ more and more interest from the community willing to engage with students and
 #@ of more and more freedom given to us in the topics we could cover in our
 #@ projects.
-At the time of this writing, we have been through five years of such projects. Small adjustments to the organization have been done here and there, but most of the ideas behind it stayed the same. Most of the changes made were the result of more and more interest from the community willing to engage with students and of more and more freedom given to us in the topics we could cover in our projects.
+いまこれを書いている時点で、このプロジェクトに関わってから五年になる。
+大学の現状にあわせていろんなところで微妙に調整をしてはいるが、元となる考えのほとんどは当初のままだ。
+これまでに手を入れた部分のほとんどは、コミュニティ側が学生たちをうまく引き込もうとしはじめたことによるものだ。
+プロジェクトで私たちが扱うトピックについて、徐々にいろんなことができるようになりつつある。
 
 #@ Moreover, throughout those years the director gave us continuous support and
 #@ encouragement, effectively allocating more slots for Free Culture community
