@@ -134,7 +134,9 @@ Henri Massiéはそのアイデアを受け入れてくれ、いろいろ僕ら�
 #@ projects, proving that our integration strategy was right: building trust very
 #@ quickly is key to a relationship between a Free Culture community and a
 #@ university.
-Moreover, throughout those years the director gave us continuous support and encouragement, effectively allocating more slots for Free Culture community projects, proving that our integration strategy was right: building trust very quickly is key to a relationship between a Free Culture community and a university.
+さらに、ここに至るまでずっと、学長からもサポートを受け続けており、フリーカルチャーのコミュニティを扱う枠も増やしてもらった。
+私たちのやりかたは間違っていなかったんだろう。早いうちに信頼関係を築いてしまうこと。
+それが、フリーカルチャーコミュニティと大学との間でうまくやっていく鍵だったんだ。
 
 #@ \section*{Realizing teaching is a two-way process}
 #@ During those years of building bridges between the KDE community and the IUP ISI
