@@ -149,12 +149,18 @@ Henri Massiéはそのアイデアを受け入れてくれ、いろいろ僕ら�
 #@ getting in front of the students and delivering knowledge to you.
 == 教育とは双方向のプロセスであることを理解する
 
-During those years of building bridges between the KDE community and the IUP ISI course of study, we ended up in teaching positions to support the students in their project related tasks. When you have never taught a classroom full of students, you might still have this image of yourself sitting in a classroom a few years ago. Indeed, most teachers were students once... sometimes not even the type of very disciplined or attentive students. You were likely having this feeling of drinking from a firehose: a teacher entering a room, getting in front of the students and delivering knowledge to you.
+KDEコミュニティとIUP ISIコースとの間を取り持つこと数年。この間の私たちの立場は、
+プロジェクト関連のタスクをこなす学生たちをサポートすることだった。
+教室いっぱいの学生を前にして教えたことのない人でも、自分が教室に座って授業を受けていたころのことはきっと覚えていることだろう。
+たいていの教師だって、かつてはその仲間だった。そう。中には態度が悪かった人もいるだろうし、思いやりに欠ける学生だった人もいるだろう。
+教師が教室に入る。教壇に立って前を見る。学生たちに向かって自分の知識を伝える。
+そんなことを考えると、圧倒されてしまうかもしれない。
 
 #@ This stereotype is what most people keep in mind of their years as students and
 #@ the first time they get in a teaching situation they want to reproduce that
 #@ stereotype: coming with knowledge to deliver.
-This stereotype is what most people keep in mind of their years as students and the first time they get in a teaching situation they want to reproduce that stereotype: coming with knowledge to deliver.
+自分の学生時代を振り返れば、ほとんどの人はそんなことを思い出すだろう。自分が教える立場になったときにも、
+そのステレオタイプを再現したくなってしまう。そう、今度は自分が教える側になって。
 
 #@ The good news is that nothing could be further from the truth than this
 #@ stereotype. The bad news is that if you try to reproduce it, you are very likely
