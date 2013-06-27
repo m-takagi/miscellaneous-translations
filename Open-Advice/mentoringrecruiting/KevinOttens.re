@@ -168,7 +168,11 @@ KDEコミュニティとIUP ISIコースとの間を取り持つこと数年。�
 #@ their side to engage with the community. The image you give of yourself is the
 #@ very first thing they will remember of the community: the first time you get in
 #@ the classroom, to them \emph{you are} the community!
-The good news is that nothing could be further from the truth than this stereotype. The bad news is that if you try to reproduce it, you are very likely to scare your students away and face nothing else than lack of motivation on their side to engage with the community. The image you give of yourself is the very first thing they will remember of the community: the first time you get in the classroom, to them @<em>{you are} the community!
+いいニュースと悪いニュースがある。
+いいニュースは、現実の世界もこのステレオタイプからそんなにかけ離れてはいないってこと。
+悪いニュースは、このステレオタイプを再現しようとしたらきっと、学生たちを脅かしてしまうってこと。
+学生たちにとって、コミュニティにかかわる動機が何もなくなってしまう。
+あなたの第一印象が、コミュニティに対する彼らの第一印象になる。教室に足を踏み入れたその瞬間から、@<em>{あなた自身が}コミュニティなんだ！
 
 #@ Not falling into the trap of this stereotype requires you to step back a bit and to realize what teaching is really about. It is not a one way process where one
 #@ delivers knowledge to students. We came to the conclusion that it is instead a
