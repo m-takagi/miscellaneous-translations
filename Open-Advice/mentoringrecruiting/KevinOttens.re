@@ -192,7 +192,7 @@ KDEコミュニティとIUP ISIコースとの間を取り持つこと数年。�
 
 #@ Realizing that fact generates quite a few changes in the way you undertake
 #@ your teaching:
-Realizing that fact generates quite a few changes in the way you undertake your teaching:
+これらの事実を理解すると、何かを教えるときの方法もかなり変わってくる。
 
 #@ \begin{itemize}
 #@   \item You will have to understand the culture of your students. They probably
