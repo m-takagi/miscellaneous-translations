@@ -207,9 +207,17 @@ KDEコミュニティとIUP ISIコースとの間を取り持つこと数年。�
 #@ knowledge while keeping it interesting and entertaining to your audience. It
 #@ will make you a better presenter.
 #@ \end{itemize}
- * You will have to understand the culture of your students. They probably have a fairly different background from you and you will have to adapt your discourse to them; for instance, the students we trained are all part of the so-called Y generation which exhibits fairly different traits regarding leadership, loyalty and trust than previous generations.
- * You will have to reassess your own expertise, since you will need to adapt your discourse to their culture. You will approach your own knowledge from very different angles than what you are used to, which will inevitably lead you to discoveries in fields you assumed you mastered.
- * Finally, you will have to build skills in presenting; a teaching position is really about getting out of your comfort zone to present your own knowledge while keeping it interesting and entertaining to your audience. It will make you a better presenter.
+ * 学生たちの文化を理解する必要がある。
+ 彼らの考えは、あなたとはかなり違っているだろう。会話をするときも、彼らにあわせなければいけない。
+ たとえば、私が教えていた学生たちは、いわゆる
+ 「@<href>{http://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3Y, ジェネレーションY」だった。
+ リーダーシップや忠誠心そして信頼などに対する考えかたが、それ以前の世代とはかなり違っていた。
+ * 自分の専門知識も見直す必要がある。というのも、学生との会話を彼らのノリにあわせなければいけないからだ。
+ 自分の知識を伝えるときには、これまで以上にあらゆる角度から説明することになる。
+ 必然的に、自分が理解していると思い込んでいる分野についても新たな気づきが得られることになるだろう。
+ * プレゼンスキルも磨かなければいけない。
+ 教えるというのは、単に自分の知識をひけらかして満足するための場ではない。
+ 聞き手が興味を持って楽しく聞けるようにする必要がある。よりよいプレゼンターを目指すこと。
 
 #@ As such, you will become a better teacher. Also your goals of getting well
 #@ trained students, and having students engage with a Free Culture community will
