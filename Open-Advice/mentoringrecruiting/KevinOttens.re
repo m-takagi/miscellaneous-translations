@@ -181,7 +181,14 @@ KDEコミュニティとIUP ISIコースとの間を取り持つこと数年。�
 #@ knowledge. You get to deliver your expertise of course -- but to do so efficiently
 #@ you have to adapt to the students' frame of reference all the time. It is a very
 #@ humbling work.
-Not falling into the trap of this stereotype requires you to step back a bit and to realize what teaching is really about. It is not a one way process where one delivers knowledge to students. We came to the conclusion that it is instead a two-way process: you get to create a symbiotic relationship with your student. Both the students and the teacher have to leave the classroom with new knowledge. You get to deliver your expertise of course -- but to do so efficiently you have to adapt to the students' frame of reference all the time. It is a very humbling work.
+この手のステレオタイプの罠に陥らないようにしよう。
+一歩下がって、教えるというのはどういうことなのかを理解しなければいけない。
+教えるというのは、単に知識を学生に伝えるだけの一方通行のプロセスじゃない。
+双方向のやりとりがあるプロセスなんだ。学生との間で、持ちつ持たれつの共存関係を作ることになる。
+学生と教師の両方が、何らかの知識を残さなければいけない。
+教師であるあなたは、講義の内容に関する専門知識を伝える。
+しかしそのためには、学生の反応に常に気を配りつつ、それにあわせていく必要がある。
+とても屈辱的なことだ。
 
 #@ Realizing that fact generates quite a few changes in the way you undertake
 #@ your teaching:
