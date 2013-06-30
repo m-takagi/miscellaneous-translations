@@ -222,7 +222,8 @@ KDEコミュニティとIUP ISIコースとの間を取り持つこと数年。�
 #@ As such, you will become a better teacher. Also your goals of getting well
 #@ trained students, and having students engage with a Free Culture community will
 #@ be better fulfilled.
-As such, you will become a better teacher. Also your goals of getting well trained students, and having students engage with a Free Culture community will be better fulfilled.
+そうすれば、きっといい教師になれるだろう。
+そして、学生たちをきちんと育てて、フリーカルチャーコミュニティに参加させるという目標も達成できるだろう。
 
 #@ \section*{Conclusion}
 #@ At the end of the day why would you go through all the effort
