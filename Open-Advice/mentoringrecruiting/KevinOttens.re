@@ -232,11 +232,13 @@ KDEコミュニティとIUP ISIコースとの間を取り持つこと数年。�
 #@ tried to answer:
 == 結論
 
-At the end of the day why would you go through all the effort to build trust with a university and step outside of your comfort zone by improving your teaching? Well, it really boils down to the initial question we tried to answer:
+結局のところ、いったいなぜそんなに苦労してまで大学との信頼関係を築くのだろう？
+なぜそんなに苦労してまで教えかたを考えるのだろう？
+ここで、最初に挙げた問いに戻る。
 
 #@ \emph{Do Free Culture communities fail to attract new contributors out of
 #@ universities simply because of their inaction?}
-@<em>{Do Free Culture communities fail to attract new contributors out of universities simply because of their inaction?}
+@<em>{フリーカルチャーのコミュニティが若い学生たちを取り込めないのは、単にコミュニティの努力が足りないだけなのだろうか？}
 
 #@ In our experience the answer is \emph{yes}. Through those five years of building
 #@ up a relationship with the IUP ISI, we retained around two students per year on
@@ -245,7 +247,7 @@ At the end of the day why would you go through all the effort to build trust wit
 #@ their life and keep advocating even though they do not contribute directly. And
 #@ right now we have a local KDE team which managed to efficiently organize a two
 #@ day conference for our latest release party.
-In our experience the answer is @<em>{yes}. Through those five years of building up a relationship with the IUP ISI, we retained around two students per year on average. Some of them disappeared after a while, but some of them become very active contributors. The other ones still keep some nostalgia of that period of their life and keep advocating even though they do not contribute directly. And right now we have a local KDE team which managed to efficiently organize a two day conference for our latest release party.
+経験上、その答えは@<em>{イエス}だ。Through those five years of building up a relationship with the IUP ISI, we retained around two students per year on average. Some of them disappeared after a while, but some of them become very active contributors. The other ones still keep some nostalgia of that period of their life and keep advocating even though they do not contribute directly. And right now we have a local KDE team which managed to efficiently organize a two day conference for our latest release party.
 
 #@ Of those former students, not a single one would have engaged with KDE without
 #@ those university projects. We would have completely missed those talents.
