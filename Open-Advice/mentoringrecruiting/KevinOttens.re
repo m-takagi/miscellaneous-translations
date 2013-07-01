@@ -247,9 +247,14 @@ KDEコミュニティとIUP ISIコースとの間を取り持つこと数年。�
 #@ their life and keep advocating even though they do not contribute directly. And
 #@ right now we have a local KDE team which managed to efficiently organize a two
 #@ day conference for our latest release party.
-経験上、その答えは@<em>{イエス}だ。Through those five years of building up a relationship with the IUP ISI, we retained around two students per year on average. Some of them disappeared after a while, but some of them become very active contributors. The other ones still keep some nostalgia of that period of their life and keep advocating even though they do not contribute directly. And right now we have a local KDE team which managed to efficiently organize a two day conference for our latest release party.
+経験上、その答えは@<em>{イエス}だ。
+IUP ISIとの関係を築き上げたこの五年の間、平均して年に二名ほどの学生をコミュニティに巻き込むことができた。
+中にはすぐに去って行った人もいるけれど、アクティブなメンバーになってくれている人もいる。
+直接参加してくれているわけではないけれど、この授業のことを懐かしんでくれている人もいる。
+そして今や、地元のKDEチームは、最新版のリリースパーティを兼ねた二日間のカンファレンスを開催できるほどの規模になった。
 
 #@ Of those former students, not a single one would have engaged with KDE without
 #@ those university projects. We would have completely missed those talents.
 #@ Luckily, we have not been inactive.
-Of those former students, not a single one would have engaged with KDE without those university projects. We would have completely missed those talents. Luckily, we have not been inactive.
+彼らはみな、大学でのプロジェクトがなければKDEに関わることなどなかっただろう。
+すばらしい才能を持つ若者たちを確保し損なうところだった。彼らのおかげで、今もアクティブに活動できるようになっている。
