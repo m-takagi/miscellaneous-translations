@@ -12,10 +12,9 @@ Lydia Pintscher
 #@ Code-in, Season of KDE), is a founding member of KDE's Community Working
 #@ Group and is a board member of KDE e.V.}
 //lead{
-Lydia Pintscher is a people geek and cat herder by nature. Among other
-things, she manages KDE's mentoring programs (Google Summer of Code, Google
-Code-in, Season of KDE), is a founding member of KDE's Community Working
-Group and is a board member of KDE e.V.
+Lydia Pintscherは、生粋のギークで、そして猫好き。
+彼女はKDEのメンタリングプログラム（Google Summer of Code、Google Code-in、Season of KDE）を仕切っている。
+また、KDEのCommunity Working Groupの創設メンバーでもあり、KDE e.V.の役員でもある。
 //}
 
 #@ \noindent{}Free Software has an enemy. It is not who most people on the Internet think it
