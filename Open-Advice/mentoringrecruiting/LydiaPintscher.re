@@ -19,8 +19,9 @@ Lydia Pintscherは、生粋のギークで、そして猫好き。
 
 #@ \noindent{}Free Software has an enemy. It is not who most people on the Internet think it
 #@ is. No, it is a lack of active participation.
-Free Software has an enemy. It is not who most people on the Internet think it
-is. No, it is a lack of active participation.
+フリーソフトウェアには敵がいます。
+と言っても、ネットのみなさんが思ってるようなアイツたちのことじゃありません。
+そうじゃなくって、積極的に関わらないってことこそが敵なんです。
 
 #@ Every single day there are thousands of people out there looking for a way to
 #@ put meaning into their life, looking for ways to do something that truly
