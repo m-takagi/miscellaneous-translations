@@ -34,17 +34,16 @@ Lydia Pintscherは、生粋のギークで、そして猫好き。
 #@ maybe even understand Free Software on a large scale. Free Software projects
 #@ live by converting some of those users into active contributors. This is where
 #@ the problems begin.
-Every single day there are thousands of people out there looking for a way to
-put meaning into their life, looking for ways to do something that truly
-matters. Every single day thousands of lines of code for Free Software projects
-are waiting to be written and debugged, programs are waiting to be promoted and
-translated, artwork is waiting to be created and much more. Sadly, far too often
-the people fail to connect with projects. There are several reasons for
-that. It starts with people not knowing about Free Software at all and its
-benefits and purpose. But we are getting there. People are starting to use and
-maybe even understand Free Software on a large scale. Free Software projects
-live by converting some of those users into active contributors. This is where
-the problems begin.
+来る日も来る日も、そこらじゅうの人たちが自分の生きる意味を探し続け、自分探しをしています。
+来る日も来る日も、何千行ものコードがフリーソフトウェアプロジェクトのために書かれるのを待っています。
+プログラムを紹介したり翻訳したり、アートワークを作ったり、いろんな作業が期待されています。
+残念ながら、人がそういったプロジェクトと巡り会うことはなかなかありません。
+理由はいくつかあります。
+最初は、フリーソフトウェアそのものやフリーソフトウェアの利点そして目的があまり知られていないことが理由でした。
+しかし私たちは、すでにそこはクリアしています。
+フリーソフトウェアはさまざまな場面で使われるようになってきたし、その考えかたについても理解されつつあります。
+フリーソフトウェアプロジェクトがこの先生きのこるには、そういった人たちをプロジェクトにうまく巻き込まなければいけません。
+そこでまた、新たな問題が発生します。
 
 #@ I have managed hundreds of students in mentoring programs and have been doing
 #@ outreach in various forms for Free Software projects. I've worked with
