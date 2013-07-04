@@ -56,17 +56,17 @@ Lydia Pintscherは、生粋のギークで、そして猫好き。
 #@ rare''. Potential contributors often think they are not allowed to contribute.
 #@ The reasons for this are many and they are all misconceptions. The most common
 #@ misconceptions in my experience are:
-I have managed hundreds of students in mentoring programs and have been doing
-outreach in various forms for Free Software projects. I've worked with
-enthusiastic people whose life was changed for the better by their contributions
-to Free Software. But there is one theme I see over and over again and it breaks
-my heart because I now know what talent we are missing out on: not being allowed
-to do awesome. It is best summarized by what a fellow Google Summer of Code
-mentor said: "The insight that most people in Open Source didn’t get allowed to
-work on stuff but just didn’t run fast enough at the right moment seems to be
-rare". Potential contributors often think they are not allowed to contribute.
-The reasons for this are many and they are all misconceptions. The most common
-misconceptions in my experience are:
+私はこれまでに、メンタリングプログラムで何百人もの学生の相手をしてきました。
+そして、いろんなフリーソフトウェアプロジェクトへの支援も続けています。
+同僚はみな、フリーソフトウェアに関わるようになったおかげで人生が変わったと言います。
+しかし、私はこれまでに、何度も何度も同じ光景を見てきました。とても悲しいことでした。
+才能ある人材にどんどん参加して欲しいのに、なかなかそうなってくれないんです。
+Google Summer of Codeのメンターの一人のこのコメントが、それをうまく言い表しています。
+「The insight that most people in Open Source didn’t get allowed to work on stuff but just didn’t run fast enough at the right moment seems to be rare」
+積極的に関わってくれそうな人たちはよく、「自分にはその資格はないんじゃないか」と考えたりします。
+理由はさまざまですが、みんな誤解に基づくものです。
+これまでに経験した、ありがちな誤解をまとめました。
+
 #@ \begin{itemize}
 #@  \item ``I can not write code. There can not possibly be a way for me to
 #@ contribute.''
