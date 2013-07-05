@@ -76,16 +76,16 @@ Google Summer of Codeのメンターの一人のこのコメントが、それ�
 #@  \item ``I am not needed. They must already have enough much more brilliant
 #@ people than me.''
 #@ \end{itemize}
- * "I can not write code. There can not possibly be a way for me to contribute."
- * "I am not really good at this. My help is not needed."
- * "I would just be a burden. They have more important things to worry about."
- * "I am not needed. They must already have enough much more brilliant people than me."
+ * 「コード書けないし、何もできることはなさそう」
+ * 「あんまりスキルがないし、手伝うまでもないんじゃないかなあ」
+ * 「足手まといになりそうだし、みんなの邪魔をしたくない」
+ * 「わざわざ手伝わなくても、賢い人たちがいっぱいいて手が足りてるんでしょ？」
+
 #@ Those are almost always false and I wish I had known a long time ago that they
 #@ are so prevalent. I would have done a lot of my initial outreach efforts
 #@ differently.
-Those are almost always false and I wish I had known a long time ago that they
-are so prevalent. I would have done a lot of my initial outreach efforts
-differently.
+これらはほぼ間違いなく誤解なんですが、なぜか大昔からよく言われています。
+私が彼らを手助けするときには、ちょっと違うやりかたをしてみました。
 
 #@ The easiest way of getting someone out of this situation is to invite
 #@ them personally. ``That workshop we are doing? Oh yes, you should
