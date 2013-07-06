@@ -102,18 +102,15 @@ Google Summer of Codeのメンターの一人のこのコメントが、それ�
 #@ the people you already have are great, but think about all the other
 #@ great people you are missing out on, who could bring new ideas and
 #@ skills to your project.
-The easiest way of getting someone out of this situation is to invite
-them personally. "That workshop we are doing? Oh yes, you should
-come." "That bug in the bug tracker? I'm sure you're the perfect
-person to try to fix it." "That press release we need to get done?
-It would be great if you could read over it and make sure it is
-good." And if that is not possible, make sure that your outreach
-material (you have some, right?) clearly states what kind of people
-you are looking for and what you consider the basic requirements. Make
-sure to especially reach out to people outside your usual contributor
-base because for them this barrier is even bigger. And unless you
-overcome that, you will only recruit who you are -- meaning you will
-get more contributors just like the ones you already have. People like
-the people you already have are great, but think about all the other
-great people you are missing out on, who could bring new ideas and
-skills to your project.
+そんな状況にいる人たちをなんとかしたければ、一番簡単なのは個別に招き入れることです。
+「今度こんなワークショップやるんだけど、来てみない？」
+「今こんなバグ報告がきてるんだけど、たぶんあなたなら何とかできるんじゃないかと思うの」
+「プレスリリースの原稿を書いてみたんだけど、ちょっと読んでみてくれない？どこかおかしいところがないかを確認してほしいの」
+どれも無理そうだったら、自分の手の届く範囲の何か（きっと何かしらあるでしょう？）に
+自分がどんな人材を求めているのかや最低限何ができて欲しいのかを明記しておきましょう。
+特に、いつもプロジェクトに関わってくれている人たち以外の層に向けて届けることが大事です。
+彼らにとって、プロジェクトに参加するための障壁は、私たちの予想以上に高いのですから。
+それを何とか乗り越えない限り、自分の同類たちしか巻き込めません。
+つまり、既にいるメンバーと同じような人たちだけになってしまうということです。
+それはそれでいいことでしょう。でも、それ以外にもいろんなすばらしい人たちがいるってことを考えましょう。
+彼らはきっと、あなたたちのプロジェクトに新たなアイデアやスキルをもたらしてくれるでしょう。
