@@ -15,7 +15,12 @@ Robert Kaye
 #@ drink-mixing robots. Topped with a colorful hair style at all times, you will
 #@ never have a hard time picking him out of a crowd.}
 //lead{
-Robert Kaye combines his love for music and open source into the open music encyclopedia MusicBrainz. Robert founded and leads the California-based non-profit MetaBrainz Foundation in a long term effort to improve the digital music experience. Beyond hacking on MusicBrainz, Robert seeks out interesting festivals like Burning Man and interesting side projects like hacking on drink-mixing robots. Topped with a colorful hair style at all times, you will never have a hard time picking him out of a crowd.
+Robert Kayeは、音楽とオープンソースへの愛を、オープンな音楽百科事典であるMusicBrainzに捧げる。
+Robertはカリフォルニアで非営利組織MetaBrainz Foundationを設立し、率いている。
+デジタル音楽の環境を向上させようという長年にわたる動きの一環だ。
+MusicBrainzをハックするだけでなく、Burning Manみたいなフェスティバルにも取り組んでおり、
+さらにドリンクを混ぜるロボットをハックするなどのサイドプロジェクトにも取り組んでいる。
+いつも派手なヘアスタイルをしているので、人混みの中でも決して彼を見失うことはないだろう。
 //}
 
 #@ \noindent{}In 1998, I was working at Xing Technology in San Luis Obispo, working hard on
