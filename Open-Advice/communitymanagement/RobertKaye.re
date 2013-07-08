@@ -30,7 +30,12 @@ MusicBrainzをハックするだけでなく、Burning Manみたいなフェス�
 #@ was not listed, you could enter the data so that the next person could make use
 #@ of the data. I loved this online collaborative project and typed in several
 #@ hundred CDs over the course of a few years.
-In 1998, I was working at Xing Technology in San Luis Obispo, working hard on our new AudioCatalyst project. It was one of the first integrated MP3 ripping programs that made use of the CDDB database. CDDB was the CD database that allows any player to look up the title and tracklisting for any CD. If the CD was not listed, you could enter the data so that the next person could make use of the data. I loved this online collaborative project and typed in several hundred CDs over the course of a few years.
+1998年当時、私はサンルイスオビスポにあるXing Technologyで、新規プロジェクトAudioCatalystに関わっていた。
+初のMP3リッピング用総合プログラムで、CDDBデータベースを使うものだった。
+CDDBとはCDのデータベースで、あらゆるCDのタイトルやトラックリストを検索できるものだ。
+もし探しているCDが登録されていなければ、自分でそのデータを登録することもできた。
+そうすれば、後に続く人がそのデータを使えるようになるってわけだ。
+私はこの仕組みが大好きだった。数年間で何百枚ものCDを登録したものだ。
 
 #@ One day we were notified that CDDB had been purchased by Escient, a company that
 #@ would later become GraceNote. The CDDB database was taken private so that people
