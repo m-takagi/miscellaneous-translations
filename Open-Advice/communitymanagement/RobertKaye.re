@@ -43,7 +43,11 @@ CDDBとはCDのデータベースで、あらゆるCDのタイトルやトラッ
 #@ not compensate any of the contributors for their efforts; they were ripping off
 #@ the general public with this move. I was quite angry with this move and still am
 #@ to this day.
-One day we were notified that CDDB had been purchased by Escient, a company that would later become GraceNote. The CDDB database was taken private so that people could no longer download the complete database! And on top of that Escient did not compensate any of the contributors for their efforts; they were ripping off the general public with this move. I was quite angry with this move and still am to this day.
+ある日のこと。CDDBがEscientという企業に買収されてしまったことを知った。後のGraceNoteだ。
+CDDBデータベースは非公開になり、データベースのダウンロードもできなくなってしまった！
+しかもEscientは、これまでのCDDBへの貢献者に対して何の補償をするでもなく、ねぎらいの言葉ひとつよこさなかった。
+奴らは私たちから、データベースを略奪していったんだ。
+許せなかったし、今でもその思いは変わらない。
 
 #@ A few months later we were notified by Escient that we would be required to play
 #@ the Escient jingle and display the Escient logo when making a CD lookup in our
