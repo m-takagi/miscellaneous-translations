@@ -44,7 +44,7 @@ CDDBとはCDのデータベースで、あらゆるCDのタイトルやトラッ
 #@ the general public with this move. I was quite angry with this move and still am
 #@ to this day.
 ある日のこと。CDDBがEscientという企業に買収されてしまったことを知った。後のGraceNoteだ。
-CDDBデータベースは非公開になり、データベースのダウンロードもできなくなってしまった！
+CDDBデータベースは非公開になり、データベース全体の一括ダウンロードもできなくなってしまった！
 しかもEscientは、これまでのCDDBへの貢献者に対して何の補償をするでもなく、ねぎらいの言葉ひとつよこさなかった。
 奴らは私たちから、データベースを略奪していったんだ。
 許せなかったし、今でもその思いは変わらない。
@@ -55,7 +55,11 @@ CDDBデータベースは非公開になり、データベースのダウンロ�
 #@ I was complaining about what was happening and how unhappy I was. My friend
 #@ Kevin Murphy said to me: ``Why don’t you start your own open source project to
 #@ compete with these bastards?''
-A few months later we were notified by Escient that we would be required to play the Escient jingle and display the Escient logo when making a CD lookup in our products. That was it! Now I was livid! Later that week at a party with friends I was complaining about what was happening and how unhappy I was. My friend Kevin Murphy said to me: ``Why don’t you start your own open source project to compete with these bastards?''
+数か月後。自分たちのアプリからCDの検索をしようとすると、強制的にEscientのジングルを聞かされるようになり、
+Escientのロゴが表示されるようになってしまった。なんてこった！怒り狂ったよ。
+その週末、友人たちとのパーティの場で、私はそのあたりのことをいろいろ愚痴っていた。
+そのとき、友人のKevin Murphyがこんなことを言ってくれたんだ。
+「自分たちでオープンソースのプロジェクトを立ち上げて、奴らを見返してやればいいんじゃね？」
 
 #@ A few weeks later I stopped working for Xing and had a couple of weeks of spare
 #@ time before I would start at EMusic. I decided to teach myself Perl and web
