@@ -66,7 +66,11 @@ Escientのロゴが表示されるようになってしまった。なんてこ�
 #@ programming and set out to create the CD Index, a non-compatible, non-infringing
 #@ project to compete with CDDB. I hacked on the project during the break, but then
 #@ promptly forgot it once I became a member of the FreeAmp project at EMusic.
-A few weeks later I stopped working for Xing and had a couple of weeks of spare time before I would start at EMusic. I decided to teach myself Perl and web programming and set out to create the CD Index, a non-compatible, non-infringing project to compete with CDDB. I hacked on the project during the break, but then promptly forgot it once I became a member of the FreeAmp project at EMusic.
+その数週間後。私はXingを退職した。新しい職場のEMusicで働き始めるまで半月ほどの空き時間ができたので、
+独学でPerlとWebプログラミングを学び、CD Indexを作った。
+これは、CDDBとの互換性はないし、特にCDDBと競合するわけでもないプロジェクトだった。
+休みの間にこのプロジェクトをハックし続けたけど、EMusicでFreeAmpプロジェクトに参加するようになって、
+CD Indexのことはすっかり忘れてしまった。
 
 #@ Then in March of 1999 Slashdot asked what the open replacement for CDDB was
 #@ going to be. I spent the rest of that day and most of the night finishing the CD
