@@ -79,7 +79,10 @@ CD Indexのことはすっかり忘れてしまった。
 #@ http://slashdot.org/story/99/03/09/0923213/OpenSource-Alternative-to-CDDB}} and
 #@ it promptly posted. As expected, thousands of geeks showed up within minutes and
 #@ my server tipped over and died.
-Then in March of 1999 Slashdot asked what the open replacement for CDDB was going to be. I spent the rest of that day and most of the night finishing the CD Index and deploying it. I submitted a Slashdot story about my project@<fn>{slashdot} and it promptly posted. As expected, thousands of geeks showed up within minutes and my server tipped over and died.
+1999年3月。スラッシュドットに「CDDBの後継になるオープンソースは何？」っていう質問があがった。
+私はその日、一晩中欠けてCD Indexを完成させ、公開した。
+そしてCD Indexについてのストーリーをスラッシュドット@<fn>{slashdot}に投稿し、すぐに記事が公開された。
+予想通り、数分のうちに何千人ものギークがうちのサーバーにアクセスし、サーバーはダウンしてしまった。
 
 //footnote[slashdot][@<href>{http://slashdot.org/story/99/03/09/0923213/OpenSource-Alternative-to-CDDB}]
 
