@@ -93,7 +93,14 @@ CD Indexのことはすっかり忘れてしまった。
 #@ asked. The shouting got louder and more people insisted that I shut the service
 #@ down because it was not perfect. Even amidst the mess, we received over 3000 CD
 #@ submissions during the first 24 hours.
-The masses of people who arrived immediately started shouting for things to happen. There was not even a mailing list or a bug tracker yet; they insisted on having one right now. Because I was new to open source, I did not really know what all was needed to launch an open source project, so I just did as people asked. The shouting got louder and more people insisted that I shut the service down because it was not perfect. Even amidst the mess, we received over 3000 CD submissions during the first 24 hours.
+押し寄せてきた人たちは、すぐにあれこれ騒ぎ始めた。
+そのころはまだメーリングリストもなかったし、バグトラッカーも用意していなかった。
+彼らは「すぐにでも作るべきだ」と言ってきた。
+私はオープンソースの世界にあまり詳しくなかったので、
+プロジェクトを立ち上げるときに何が必要なのかもよく知らなかった。
+なので、みんなの言うことを聞いて、言われたことはやっていった。
+騒ぎ声はさらに大きくなってきた。中には「こんな不完全なサービスなんか、やめてしまえ」という人たちも出てきた。
+そんな混乱の中、最初の24時間で3000枚を超えるCDの情報が登録されたんだ。
 
 #@ Once things calmed down, there were still plenty of people shouting. Greg Stein
 #@ proclaimed that he would write a better version immediately. Mike Oliphant,
