@@ -131,7 +131,13 @@ Alan Coxも参入してきて、SQLデータベースを使っていてスケー
 #@ Honda S2000 roadster, my dot com trophy car. With car payments double my rent, I
 #@ had to decide: Work on my own stuff and sell my dream car, or move to the Bay
 #@ Area and work on someone else’s dream, if I could even find a job there.
-Then when the dot com bust started, I needed to think about what I would do next. It was clear that my job at EMusic was not safe; still I was driving a Honda S2000 roadster, my dot com trophy car. With car payments double my rent, I had to decide: Work on my own stuff and sell my dream car, or move to the Bay Area and work on someone else’s dream, if I could even find a job there.
+やがてドットコムバブルがはじけ、今後の身の振り方を考えざるを得なくなった。
+このままEMusicに居座り続けるのはどう考えても不安だった。
+当時乗っていた車はホンダのS2000ロードスター。ドットコムバブルで手に入れた勲章だ。
+車のローンと家賃の二重の支払いを前に、決断を迫られた。
+今の仕事を続ける代わりにこのすばらしい車を手放すか、
+それともベイエリアに引っ越して新たな夢を探すか。
+とは言え、ベイエリアに行って職が見つかるっていう保証もない。
 
 #@ I decided that a comprehensive music encyclopedia that was user-generated would
 #@ be the most interesting thing to work on. I sold the S2000 and hunkered down to
