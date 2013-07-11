@@ -113,7 +113,18 @@ CD Indexのことはすっかり忘れてしまった。
 #@ quickly lost interest in the project and the CD Index faltered. The other
 #@ projects that people promised they would start (not counting FreeDB) never
 #@ materialized.
-Once things calmed down, there were still plenty of people shouting. Greg Stein proclaimed that he would write a better version immediately. Mike Oliphant, author of Grip, said he was going to work on a new version as well. Alan Cox came and loudly proclaimed that SQL databases would never scale and that I should use DNS to create a better CD lookup service. Wait, what? I was very unhappy with the community that grew out of the Slashdot posting. I did not want a place were people could treat each other without respect and people who felt entitled could shout louder until they got what they wanted. I quickly lost interest in the project and the CD Index faltered. The other projects that people promised they would start (not counting FreeDB) never materialized.
+いったんは収まりかけたけど、それでもまだいろいろ口出ししてくる人はいた。
+Greg Steinは、自分がもっといいやつを作ってやろうと言った。
+Gripの作者であるMike Oliphantも、Gripの新しいバージョンを作ると言い出した。
+Alan Coxも参入してきて、SQLデータベースを使っていてスケールするわけがないと言った。
+もっとまともなCDルックアップサービスを作りたければ、DNSを使うべきだということらしい。
+ねえ、ちょっと待ってよ……。
+私は落ち込んだ。スラッシュドットには、こんなコメントがどんどん投稿されてきたんだ。
+お互い相手を尊重せず、ただ文句を言うだけ。自分の言い分が通るまで大声で叫び続ける。
+そんなのまっぴらだった。
+あっという間にやる気も失せて、CD Indexは行き詰まってしまった。
+「自分がもっといいものを作ってやる」とか言っていたやつらも、
+（FreeDBは別として）誰一人実際に何かを作り上げることはなかった。
 
 #@ Then when the dot com bust started, I needed to think about what I would do
 #@ next. It was clear that my job at EMusic was not safe; still I was driving a
