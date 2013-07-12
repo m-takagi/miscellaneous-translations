@@ -13,7 +13,11 @@ Jono Bacon
 #@ Art of Community, founder of the Community Leadership Summit and co-founder of
 #@ the popular podcast LugRadio.}
 //lead{
-Jono Bacon is a community manager, engineering manager, consultant and author. Currently he works as the Ubuntu Community Manager at Canonical, leading a team to grow, inspire and enthuse the global Ubuntu community. He is the author of Art of Community, founder of the Community Leadership Summit and co-founder of the popular podcast LugRadio.
+Jono Baconは、コミュニティマネージャーやエンジニアリングマネージャーそしてコンサルタントの役割をこなしつつ著書も出版している。
+現在はUbuntuコミュニティマネージャーとしてCanonicalに勤務しており、
+チームを成長させたり世界のUbuntuコミュニティを活発に活動させたりしている。
+著書に『アート・オブ・コミュニティ』があり、Community Leadership Summitを主催している。
+また、有名なポッドキャストLugRadioを立ち上げたメンバーの一人でもある。
 //}
 
 #@ \noindent{}I first learned of Linux and Open Source back in 1998. While the technology was
