@@ -145,7 +145,11 @@ Alan Coxも参入してきて、SQLデータベースを使っていてスケー
 #@ name MusicBrainz came to me and I registered the domain in the middle of the
 #@ party. The next day, motivated by the project’s new name, I started hacking in
 #@ earnest and in the Fall of 2000 I launched musicbrainz.org.
-I decided that a comprehensive music encyclopedia that was user-generated would be the most interesting thing to work on. I sold the S2000 and hunkered down to start working on a new generation of the CD Index. At yet another party, the name MusicBrainz came to me and I registered the domain in the middle of the party. The next day, motivated by the project’s new name, I started hacking in earnest and in the Fall of 2000 I launched musicbrainz.org.
+結局、総合的な音楽百科事典をユーザー主導で作るってのが、いちばんやりがいのある仕事だという結論に達した。
+S2000を売却して、次世代のCD Indexを作ることに本腰を入れ始めた。
+何かのパーティの最中にMusicBrainzという名前を思いついて、その場ですぐドメインを確保したんだ。
+その翌日。プロジェクトに新たな名前がついたことをきっかけに、ハックを再開した。
+そして2000年の秋にmusicbrainz.orgを立ち上げた。
 
 #@ Launched is not the right term here -- I set up the site quietly and then
 #@ wondered how I could avoid another Slashdot-based community of loud screaming
