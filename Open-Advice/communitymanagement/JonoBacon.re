@@ -32,7 +32,8 @@ Jono Baconは、コミュニティマネージャーやエンジニアリング�
 #@ As an angsty teenager complete with long hair and Iron Maiden t-shirt, my path
 #@ was really already mapped out for me in the most traditional sense; I would go
 #@ to school, then college, then university, and then a job.
-As an angsty teenager complete with long hair and Iron Maiden t-shirt, my path was really already mapped out for me in the most traditional sense; I would go to school, then college, then university, and then a job.
+長髪でアイアンメイデンのＴシャツを着たティーンエイジャー。将来の夢も、ごく平凡なものでした。
+高校を出て、大学に行って、卒業して、そしてどこかに就職する。
 
 #@ Fourteen years later, the path I actually took was by no means traditional, and
 #@ that intrinsic fascination with community has taken me around the world and
@@ -43,11 +44,15 @@ As an angsty teenager complete with long hair and Iron Maiden t-shirt, my path w
 #@ \dots
 #@ \newline
 #@ Still with me? OK, let’s roll.
-Fourteen years later, the path I actually took was by no means traditional, and that intrinsic fascination with community has taken me around the world and thrown me into some engrossing challenges. It is interesting to sit back and reflect on this period of time. Well, it might be interesting for me… you might want to skip to the next chapter…
+あれから14年。実際に私がたどってきた道は、そこから大きく外れたものでした。
+コミュニティの魅力に引き込まれ、夢中になってしまったんです。
+当時のことを振り返ってみるのは、とても楽しいことです。
+少なくとも私自身にとっては、ですけどね。
+あ、もしかして、ページを飛ばして次の章に行きたくなってしまいました？
 
 …
 
-Still with me? OK, let’s roll.
+まだついてこれてます？じゃあ、始めましょう。
 
 #@ \section*{Science vs. Art}
 == Science vs. Art
