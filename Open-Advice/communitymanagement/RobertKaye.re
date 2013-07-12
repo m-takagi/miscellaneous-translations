@@ -157,7 +157,12 @@ S2000を売却して、次世代のCD Indexを作ることに本腰を入れ始�
 #@ the CD Index mailing lists. I simply walked away from the CD Index; I wanted
 #@ nothing more to do with it. In the end I decided to add one simple button to the
 #@ FreeAmp web page that mentioned MusicBrainz.
-Launched is not the right term here -- I set up the site quietly and then wondered how I could avoid another Slashdot-based community of loud screaming kids. I never imported data from the CD Index, nor did I mention MusicBrainz on the CD Index mailing lists. I simply walked away from the CD Index; I wanted nothing more to do with it. In the end I decided to add one simple button to the FreeAmp web page that mentioned MusicBrainz.
+いや、「立ち上げた」っていうのはちょっと違うか。
+誰にも言わずにこっそりとサイトを準備してから、
+前みたいにスラッシュドットのガキどもに引っかき回されないためにはどうすればいいのか考えていたんだ。
+CD Indexのデータは取り込まなかったし、MusicBrainzのことはCD Indexのメーリングリストでは一切触れなかった。
+単純にCD Indexからは身を引いた。もうそっとしておいて欲しかったんだ。
+結局、FreeAmpのウェブページにひっそりとボタンを追加してMusicBrainzを紹介することにした。
 
 #@ And a very strange thing happened: people came and checked out the project. It
 #@ was very few people at first, but when a person mentioned something to me, I
