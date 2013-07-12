@@ -177,8 +177,22 @@ CD Indexのデータは取り込まなかったし、MusicBrainzのことはCD I
 #@ Today we have a 501(c)3 non-profit with 3.25 employees in 4 countries, Google,
 #@ the BBC and Amazon as our customers and we are in the black. I doubt that could
 #@ have happened with the CD Index community.
-And a very strange thing happened: people came and checked out the project. It was very few people at first, but when a person mentioned something to me, I would start a conversation and gather as much feedback as I could. I would improve the software based on feedback. I also set a tone of respect on the mailing lists, and every time someone was disrespectful, I would step in and speak up. My efforts directed the focus of the project towards improving the project. I did this for over 3 years before it became clear that this approach was working. The database was growing steadily and the data quality went from abhorrent to good over a number of years. Volunteers come and go, but I am the constant for the project, always setting the tone and direction for the project. Today we have a 501(c)3 non-profit with 3.25 employees in 4 countries, Google, the BBC and Amazon as our customers and we are in the black. I doubt that could have happened with the CD Index community.
+そして、不思議なことが起こった。人が集まってきて、MusicBrainzをチェックアウトしはじめたんだ。
+最初はごく一部の人だけだった。だけど、その中のひとりが何かの意見をくれたのをきっかけに、
+彼らと話をしてできるだけフィードバックを得るようにしはじめた。
+フィードバックを元に、ソフトを改良していった。
+メーリングリストの雰囲気が悪くならないように心がけ、
+誰かが失礼なことを言っていたら、そんなことをやめるよう話し合った。
+とにかく、プロジェクトをうまく進めていくことに注力した。
+三年間続けてみて、このやり方が間違っていないことを実感した。
+データベースは着々と成長していたし、最初はひどかったデータの質も年々向上していった。
+新たな協力者が入ってきては出ていった。それでも私はプロジェクトに関わり続け、
+いつも雰囲気を保つこととプロジェクトの進む道を定めることに注力した。
+今や私たちは、501(c)(3)の非営利組織を設立して四カ国に従業員がいる。
+GoogleやBBCそしてAmazonも顧客に抱え、黒字経営だ。
+CD Indexのコミュニティではまず無理だっただろうね。
 
 #@ I wish I would have known that communities need to grow over time and be
 #@ nurtured with a lot of care.
-I wish I would have known that communities need to grow over time and be nurtured with a lot of care.
+コミュニティは常に成長し続けなければいけないし、そのためにはいろいろ気配りが必要になる。
+もっと早く、それを知っておくべきだった。
