@@ -24,7 +24,10 @@ Jono Baconは、コミュニティマネージャーやエンジニアリング�
 #@ gnarly and the effort required to get a smooth running system was significant,
 #@ the concept of this global collaborative community transfixed me. Back then I
 #@ had no knowledge, limited technical skills, and zits.
-I first learned of Linux and Open Source back in 1998. While the technology was gnarly and the effort required to get a smooth running system was significant, the concept of this global collaborative community transfixed me. Back then I had no knowledge, limited technical skills, and zits.
+はじめてLinuxやオープンソースの世界に触れたのは、1998年のことでした。
+まだまだ技術的にも危なっかしくて不安だったし、システムをうまく動かすのはとても大変なことでした。
+でも、世界中で協力して作業を進めるっていう考えかたに釘付けになったんです。
+当時の私は、無知でスキル的にも平凡なお子様でした。
 
 #@ As an angsty teenager complete with long hair and Iron Maiden t-shirt, my path
 #@ was really already mapped out for me in the most traditional sense; I would go
