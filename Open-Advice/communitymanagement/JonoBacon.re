@@ -89,7 +89,12 @@ Jono Baconは、コミュニティマネージャーやエンジニアリング�
 #@ part magic, but the magic part is not divinely anointed to you by the gods, but
 #@ instead obtained by trying new things, being receptive to feedback, and getting
 #@ a feel for what works and what does not.
-Now, I am not suggesting that community management is this frustratingly hip and introverted artform that only the blessed few with such talents can achieve. What I am instead lamenting is that there is no playbook for how to create a wonderful and inspiring community; it is still one part learned skill and one part magic, but the magic part is not divinely anointed to you by the gods, but instead obtained by trying new things, being receptive to feedback, and getting a feel for what works and what does not.
+別に、コミュニティのマネジメントはこんなにイライラするものだから、選ばれしものにしかできないんだって言いたいわけじゃありません。
+私が残念に思うのは、すばらしいコミュニティを作るための戦略が欠けているってことなんです。
+理屈で身につけられる部分もあれば、魔法としか言えないような部分もあります。
+でも、魔法的な部分は神様があなたを任命してくれるというわけではありません。
+というか、自分で身につけるものなのです。
+何か新しいことに挑戦して、フィードバックを受け入れて、何がうまくいって何が失敗したのかを身をもって感じるということです。
 
 #@ Rather frustratingly, this means that there is no single recipe to follow for
 #@ the magic, but there is still an opportunity to share the learned skills, as I
