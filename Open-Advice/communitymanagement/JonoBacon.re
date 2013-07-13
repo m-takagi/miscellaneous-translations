@@ -74,7 +74,13 @@ Jono Baconは、コミュニティマネージャーやエンジニアリング�
 #@ guitar, it does not mean you are going to write the next Bohemian Rhapsody. The
 #@ formula that generates Bohemian Rhapsody is one part learned skill and one part
 #@ magic.
-Art is different. There is no recipe for producing an incredible song, for creating an amazing painting, or sculpting a beautiful statue. Similarly, there is not really any reproducible set of steps for creating a thriving community. Sure, there are tricks and techniques for achieving components of success, but the same happens for other art-forms; we can all learn the notes and chords on a guitar, it does not mean you are going to write the next Bohemian Rhapsody. The formula that generates Bohemian Rhapsody is one part learned skill and one part magic.
+アートは違います。
+信じられないほどすばらしい曲を作ったりすばらしい絵を描いたり、美しい像を仕上げたりするためのレシピなんかありません。
+同様に、活発なコミュニティを作るための再現可能な手順なんてものも、実は存在しないのです。
+まあ確かに、部分的な成功を収めるための小技やテクニックはあります。でもそれは、アートだって同じでしょう？
+ギターの弾きかたやコードは誰でも勉強できます。でも、勉強したからといって誰もがボヘミアン・ラプソディみたいな曲を書けるわけじゃありません。
+ボヘミアン・ラプソディを作るための法則の一部は勉強で身につけることができます。
+が、一方で魔法としか言えないような部分も存在するのです。
 
 #@ Now, I am not suggesting that community management is this frustratingly hip and
 #@ introverted artform that only the blessed few with such talents can achieve.
