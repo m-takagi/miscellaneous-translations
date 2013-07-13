@@ -55,14 +55,16 @@ Jono Baconは、コミュニティマネージャーやエンジニアリング�
 まだついてこれてます？じゃあ、始めましょう。
 
 #@ \section*{Science vs. Art}
-== Science vs. Art
+== 科学とアートの戦い
 
 #@ I have always believed that community management is less of a science and more
 #@ of an art. I define science as exploring methods of reproducing phenomena
 #@ through clearly understood and definitive steps. In the science world if you
 #@ know the theory and recipe for an outcome, you can often reproduce that outcome
 #@ like anyone else.
-I have always believed that community management is less of a science and more of an art. I define science as exploring methods of reproducing phenomena through clearly understood and definitive steps. In the science world if you know the theory and recipe for an outcome, you can often reproduce that outcome like anyone else.
+私は常々、コミュニティのマネージメントというのは科学よりもアートに近いものだと考えています。
+ここで言う「科学」とは、何らかの現象を再現するための法則を探求するってことです。そのために、明確に理解できてきちんと定義できる手順を踏みます。
+科学の世界では、理論を理解していて結果を得る方法がわかっていれば、同じ結果を誰でも得られます。
 
 #@ Art is different. There is no recipe for producing an incredible song, for
 #@ creating an amazing painting, or sculpting a beautiful statue. Similarly, there
