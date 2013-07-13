@@ -102,7 +102,9 @@ Jono Baconは、コミュニティマネージャーやエンジニアリング�
 #@ Community\footnote{\url{http://artofcommunityonline.org}} and the annual
 #@ Community Leadership
 #@ Summit\footnote{\url{http://communityleadershipsummit.com}}.
-Rather frustratingly, this means that there is no single recipe to follow for the magic, but there is still an opportunity to share the learned skills, as I have sought to do with The Art of Community@<fn>{taoc} and the annual Community Leadership Summit@<fn>{cls}.
+残念なことに、魔法的な部分に関しては、これに従えば大丈夫という手順書があるわけではありません。
+でも、身につけたスキルをみんなで共有する機会はあるでしょう。それを求めて、私は
+The Art of Community@<fn>{taoc}を書いたりCommunity Leadership Summit@<fn>{cls}を開いたりしているのです。
 
 //footnote[taoc][@<href>{http://artofcommunityonline.org}]
 //footnote[cls][@<href>{http://communityleadershipsummit.com}]
