@@ -135,11 +135,28 @@ The Art of Community@<fn>{taoc}を書いたりCommunity Leadership Summit@<fn>{c
 #@ \newline
 #@ Wow, you are persistent. Or bored. Probably bored. There will be an exam at the
 #@ end; that’ll teach you\dots
-Before I get started reflecting, and for those of you who have not bored yourself into oblivion by following my career, I will summarize the communities I have worked with so we can define the context. In a nutshell, I started out in my hairier days by producing one of the UK’s first Linux community websites called Linux UK and got involved in the Linux User Group (LUG) community. I went on to create my own LUG in Wolverhampton in the UK and founded the Infopoint project to encourage LUGs to advocate Linux at computer fairs across the UK. I then went on to contribute to the KDE community, founded the KDE::Enterprise site, got the KDE Usability Study going, and contributed to a few little apps here and there. I then founded the PHP West Midlands user group and started also getting interested in GNOME. I wrote a few apps (GNOME iRiver, XAMPP Control Panel, Lernid, Acire) and also co-designed and wrote some code for a new simplified audio app called Jokosher. Around this time I co-founded the LugRadio podcast which would run for four years with over two million downloads and spawning five live events in the UK and USA. At this time I also started work as an Open Source consultant at the government-funded OpenAdvantage where I really got a chance to cut my teeth in community and working with organizations across the West Midlands to help them to move to Open Source. After a few years at OpenAdvantage I moved on to join Canonical as the Ubuntu community manager and developed a team of four and together we are involved in a wide variety of projects in Ubuntu and Canonical.
+ふりかえりを始める前に、そして私の経歴を長々と聞かされても何のことだかわからなくなるという人のために、
+私がこれまでにかかわってきたコミュニティを簡単にまとめておきます。これでコンテキストを共有できるでしょう。
+ざっくりまとめると、まずはイギリスの初期のLinuxコミュニティのウェブサイト「Linux UK」を作って
+Linuxユーザーコミュニティ（LUG）に参加したところからはじまりました。
+その後、ウルバーハンプトンで新たにLUGを立ち上げたりInfopointプロジェクトを作ったりしました。
+Infopointは、イギリス国内のコンピューターフェアでLinuxを広めるよう各地のLUGに働きかけるプロジェクトでした。
+さらに、KDEコミュニティに参加してKDE::Enterpriseサイトを立ち上げ、KDE Usability Studyを進め、
+あちこちのちょっとしたアプリケーションに貢献をしました。
+その後、PHP West Midlandsユーザーグループを立ち上げ、GNOMEにも関わり始めました。
+いくつかのアプリケーション（GNOME iRiver、XAMPP Control Panel、Lernid、Acire）を作ったし、
+Jokosherというシンプルなオーディオアプリのデザインをしたりちょっとだけコードを書いたりもしました。
+それと前後して、LugRadioというポッドキャストも共同で立ち上げました。これは四年ほど続いて、
+総ダウンロード数は200万を超えました。そして、イギリスとアメリカで合わせて5回のライブイベントも行いました。
+その当時、政府が出資したOpenAdvantageにオープンソースコンサルタントとして関わり始めたのです。
+ここで、コミュニティでの経験を積む機会を得たのです。ウェストミッドランド全域にまたがって、オープンソースへの移行を支援したのです。
+OpenAdvantageで数年間の経験を積んだ私はCanonicalに移り、Ubuntuコミュニティマネージャーとして働き始めました。
+四人のチームで、UbuntuやCanonicalのさまざまなプロジェクトに関わりました。
 
-Still with me?
+…まだ大丈夫？
 
-Wow, you are persistent. Or bored. Probably bored. There will be an exam at the end; that’ll teach you…
+辛抱強いですねえ。っていうか、退屈してきましたかね？たぶん退屈してるでしょう。
+では、最後のテストです。本題に入りましょう……。
 
 #@ \section*{Reflecting}
 == Reflecting
