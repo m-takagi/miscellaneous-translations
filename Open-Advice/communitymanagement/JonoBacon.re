@@ -159,7 +159,7 @@ OpenAdvantageで数年間の経験を積んだ私はCanonicalに移り、Ubuntu�
 では、最後のテストです。本題に入りましょう……。
 
 #@ \section*{Reflecting}
-== Reflecting
+== 内省
 
 #@ So this brings me to the focus of this piece -- the curious question of if I knew what I did today, what would I tell myself? Over the course of my career so far I believe that everything I have learned can be boiled into two broad buckets:
 #@ \begin{itemize}
@@ -174,12 +174,15 @@ OpenAdvantageで数年間の経験を積んだ私はCanonicalに移り、Ubuntu�
 #@ Today I am instead going to focus on the personal life lessons. Approaches and
 #@ practices will always change, but the life lessons do not so much change but
 #@ grow and evolve as we get wiser.
-So this brings me to the focus of this piece -- the curious question of if I knew what I did today, what would I tell myself? Over the course of my career so far I believe that everything I have learned can be boiled into two broad buckets:
+では、本題に入ります。自分が今日何をするのかをすべて知っていたとしたら、自分自身にどんなアドバイスをするでしょう？
+これまでの経験からわかったのは、今まで学んできたことはすべて、大きく二つに分類できるということです。
 
- * Practical -- the tips and tricks of the trade; e.g. approaches to communication mediums, using technology in different ways, event planning techniques, project management approaches etc.
- * Personal -- core life lessons and learnings that affect the approach you take to your world.
+ * 実務的な教訓。つまり、駆け引きのためのヒントやテクニック。たとえばコミュニケーションの方法、テクノロジーのさまざまな使いかた、イベントの計画づくりのテクニック、プロジェクト管理の手法など。
+ * 個人的な教訓。つまり、人生そのものに関する教訓や、世界に対する自分の姿勢に関わる学び。
 
-I am not going to talk much about the practical -- you should read my book for more on that topic (the book also covers a lot of the personal too). Today I am instead going to focus on the personal life lessons. Approaches and practices will always change, but the life lessons do not so much change but grow and evolve as we get wiser.
+ここでは、実務的な教訓についてはあまり取り上げません。そのへんは、私の著書で取り上げているのでそちらをご覧ください
+（著書では、個人的な教訓についてもいろいろ扱っています）。ここでは、個人的な人生の教訓について話しましょう。
+手法や実践は常に変わり続けますが、人生訓に関してはそんなに変わりません。賢くなるにつれて徐々に成長していきます。
 
 #@ \section*{The Importance Of Belief}
 == The Importance Of Belief
