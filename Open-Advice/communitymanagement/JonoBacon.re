@@ -196,7 +196,13 @@ OpenAdvantageで数年間の経験を積んだ私はCanonicalに移り、Ubuntu�
 #@ in providing a fun, safe and free environment to share reading preferences and
 #@ recommendations. It might not change the world, but it is still a good thing and
 #@ something people can get behind.
-Communities are fundamentally networks of people driven by belief. Every community has an ethos and a focus. This could be something as grandiose as documenting all human knowledge or changing the world with Free Software, or it could be as humble as providing a local group for people to get together to talk about their favorite books. Whether life changing or just a bit of fun, each community has a belief system; the humble book club still sees tremendous value in providing a fun, safe and free environment to share reading preferences and recommendations. It might not change the world, but it is still a good thing and something people can get behind.
+コミュニティは、本質的には信頼に基づく人どうしのつながりです。
+あらゆるコミュニティには信念があり、何かに注目しています。
+信念には、たとえば「人類の英知をすべて文書化する」「フリーソフトウェアで世界を変革する」みたいに大仰なものもあれば
+「地元の人たちがあつまって、好きな本のことについて話し合う場を作る」みたいに謙虚なものもあります。
+人生を変えるようなものにせよちょっとした楽しみであるにせよ、それぞれのコミュニティには信頼の体系があります。
+つつましい読書会だって、楽しくて安全で自由な場を提供して感想やおすすめ本を共有できる環境を作るという価値があります。
+それが世界を変えることはないでしょうが、すばらしいことだし、応援できるでしょう。
 
 #@ The underlying often unwritten rule of community is that every contribution from
 #@ a community member must benefit the wider community. This is why it is fun to
