@@ -209,7 +209,10 @@ OpenAdvantageで数年間の経験を積んだ私はCanonicalに移り、Ubuntu�
 #@ write a patch that fixes a Free Software bug, contribute documentation, run a
 #@ free event or otherwise, but it is rare that anyone is willing to contribute as
 #@ a volunteer if their contribution only benefits a single person or company.
-The underlying often unwritten rule of community is that every contribution from a community member must benefit the wider community. This is why it is fun to write a patch that fixes a Free Software bug, contribute documentation, run a free event or otherwise, but it is rare that anyone is willing to contribute as a volunteer if their contribution only benefits a single person or company.
+コミュニティの根底にある、あまり語られることのないルールがあります。
+コミュニティのメンバーからのあらゆる貢献は、より幅広いコミュニティに利益をもたらすものでなければいけないというものです。
+だからこそ私は、進んでフリーソフトウェアのバグ修正のパッチを書いたりドキュメントを書いたりイベントを仕切ったりします。
+仮に自分の貢献が特定の個人や組織にだけしかメリットのないものなのだとしたら、誰が好きこのんでそんなことをするでしょう？
 
 #@ Of course, I am sure all of you cynical bastards are now going to try and find
 #@ an exception, but remember that this decision is typically deeply personal --
