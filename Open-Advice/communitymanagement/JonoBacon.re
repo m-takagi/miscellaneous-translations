@@ -222,7 +222,14 @@ OpenAdvantageで数年間の経験を積んだ私はCanonicalに移り、Ubuntu�
 #@ hundreds of contributors participate in Mono because they do not see it this way
 #@ -- they see their contributions as a valuable and fun way of making it easy to
 #@ empower Free Software developers to write Free Software more easily.
-Of course, I am sure all of you cynical bastards are now going to try and find an exception, but remember that this decision is typically deeply personal -- the community member decides how comfortable they are that their contribution will benefit everyone. As an example, some would argue that any contribution to Mono would only benefit Microsoft and the ubiquity of their .NET framework, but hundreds of contributors participate in Mono because they do not see it this way -- they see their contributions as a valuable and fun way of making it easy to empower Free Software developers to write Free Software more easily.
+ひねくれた人たちはきっと「いや、そんなことはない」と反例を探し始めていることでしょう。でもちょっとまってください。
+コミュニティに貢献するかしないかというのは、あくまでも個人的な判断です。
+コミュニティのメンバーが満足感を得るのは、自分の貢献がみんなに喜ばれるようなときなんです。
+たとえばこんな反例を挙げる人もいるかもしれませんね。
+「Monoに貢献したところで、Microsoftが得をするだけだし.NET Frameworkが広まっていくだけのことだ。
+なのに、何百人もの人がMonoに貢献している。さっきの理屈に反するのでは？」
+彼らがなぜそうしているかというと、その貢献によってフリーソフトウェア開発者がより簡単にフリーソフトウェアを書けるようになるから。
+そこに価値と楽しみを見いだしているのです。
 
 #@ If I was talking to the Jono of 1998 I would really emphasize the importance of
 #@ this belief. I had a hunch about it back then, but I have since seen countless
