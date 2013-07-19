@@ -240,7 +240,14 @@ OpenAdvantageで数年間の経験を積んだ私はCanonicalに移り、Ubuntu�
 #@ masses. The same can be said for the tremendous growth in Wikipedia, the
 #@ incredible coming together of the GNOME community around GNOME 3, the success of
 #@ OpenStreetMap and many other examples.
-If I was talking to the Jono of 1998 I would really emphasize the importance of this belief. I had a hunch about it back then, but I have since seen countless examples of belief truly inspiring people to participate. I have often talked about the story of the kid from Africa who emailed me to tell me how he would walk three hours to and from his nearest Internet cafe to contribute to Ubuntu. He did this because he believed in our mission to bring Free Software to the masses. The same can be said for the tremendous growth in Wikipedia, the incredible coming together of the GNOME community around GNOME 3, the success of OpenStreetMap and many other examples.
+もし1998年のJonoと話をすることができたなら、私はきっとこの考えを強調するでしょう。
+当時の私も何となくそんな気はしていましたが、その後数え切れないほどの実例を見てきたからです。
+私がよく話題にするネタの一つに、アフリカの少年の話があります。
+彼からのメールで知ったのですが、彼は、片道三時間あるいて最寄りのインターネットカフェに行き、
+そこでUbuntuに関する作業をしていたそうです。
+そこまでする理由は、フリーソフトウェアをみんなに届けるという私たちのミッションに賛同してくれているからでした。
+急成長を続けるWikipediaやGNOME 3にまつわるGNOMEコミュニティの連帯感、
+そしてOpenStreetMapの成功などについても同じことが言えます。
 
 #@ Belief though is not a PR stunt. It has to be real. While each of us has
 #@ different belief systems, some map their belief systems to software, some to
