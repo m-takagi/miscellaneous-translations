@@ -185,7 +185,7 @@ OpenAdvantageで数年間の経験を積んだ私はCanonicalに移り、Ubuntu�
 手法や実践は常に変わり続けますが、人生訓に関してはそんなに変わりません。賢くなるにつれて徐々に成長していきます。
 
 #@ \section*{The Importance Of Belief}
-== The Importance Of Belief
+== 信頼関係が大切
 
 #@ Communities are fundamentally networks of people driven by belief. Every
 #@ community has an ethos and a focus. This could be something as grandiose as
@@ -261,7 +261,19 @@ OpenAdvantageで数年間の経験を積んだ私はCanonicalに移り、Ubuntu�
 #@ focus on other work that would benefit other communities, my future kids would
 #@ get a wonderful education and upbringing and this will benefit the world), but
 #@ it would be rubbish.
-Belief though is not a PR stunt. It has to be real. While each of us has different belief systems, some map their belief systems to software, some to education, some to knowledge, some to transparency or whatever else, you can not concoct a belief system unless it serves a valid goal that a group are likely to care about. Sure, it can be obscure, but it has to be real. With the success of Open Source, we have seen some examples of some companies trying to use similar language and approaches around belief, but applying it to self-serving needs. I could invent a belief of ``let’s all work together to help Jono get rich'' and concoct some nonsense of the benefits of this belief (e.g. if I am rich I can focus on other work that would benefit other communities, my future kids would get a wonderful education and upbringing and this will benefit the world), but it would be rubbish.
+信頼関係は、スローガンとして掲げるものではなく、現実問題として扱う必要があります。
+私たちはそれぞれ、いろんな信頼体系を抱えています。
+それをソフトウェアにあてはめる人もいれば、教育にあてはめる人もいるでしょう。
+知識にあてはめる人もいれば、透明性など別のものにあてはめる人もいるでしょう。
+集団として注力できるきちんとした目標につながらないかぎり、そういった信頼関係をまとめあげることはできません。
+そう。曖昧な感じになってしまうかもしれないけど、真剣に考えなければいけないことなんです。
+オープンソースの動きがうまくいきはじめるとともに、いくつかの企業がそれを真似て、同じような言い回しや態度で信頼関係を扱おうとしました。
+ただ、それを利己的な目的で使っていたのです。
+何というか、「さあ、みんなで手を取り合って、Jonoを儲けさせてくれ」って言っているようなものです。
+信頼の利点をそういうもの
+（「もし私が金持ちになったら、他のコミュニティにも関われるようになってそっちのコミュニティにもメリットがあるし、
+将来子供たちにもいい教育を受けさせられる。最終的にそれは、世界の利益につながるよ」など）
+に利用しようとしているのですが、ばかげたことです。
 
 #@ As such, belief is a strong driver for collaboration and contribution, but it
 #@ must be met with respect and balance. While it can be a trigger for incredible
