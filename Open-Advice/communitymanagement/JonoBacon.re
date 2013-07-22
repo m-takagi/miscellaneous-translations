@@ -290,7 +290,7 @@ OpenAdvantageで数年間の経験を積んだ私はCanonicalに移り、Ubuntu�
 そんなテレビ番組もあります）。
 
 #@ \section*{Your Role}
-== Your Role
+== あなたの役割
 
 #@ Community managers play an interesting role these days. In the past I have
 #@ talked about there being two types of community managers; those who go out and
@@ -301,7 +301,14 @@ OpenAdvantageで数年間の経験を積んだ私はCanonicalに移り、Ubuntu�
 #@ is a fine and respectable position to have, but it is more in the area of
 #@ advocacy and public relations, and requires a different set of skills. I have a
 #@ few tips here I think are interesting enough to share.
-Community managers play an interesting role these days. In the past I have talked about there being two types of community managers; those who go out and give presentations and wave their hands around talking about a product or service, and those who work with a community of volunteers to help them to have a fun, productive and enjoyable collaborative experience. I am more interested in the latter -- I feel that is what a real community manager does. The former is a fine and respectable position to have, but it is more in the area of advocacy and public relations, and requires a different set of skills. I have a few tips here I think are interesting enough to share.
+近年、コミュニティマネージャーは興味深い役割を演じています。
+かつて私は、こんなふうに言ったことがあります。
+「コミュニティマネージャーには二種類の人がいます。外部に向けたプレゼンをこなしてプロダクトやサービスについて語る人、
+そしてコミュニティのメンバーとともに働いて、彼らが機嫌良く生産的な活動をできるように支援する人です」
+私はどちらかというと、後者のタイプに興味を持っています。それこそが、コミュニティマネージャーが真にやるべきことだと思うからです。
+前者のタイプも決して悪くはないし、立派な役割だと思います。
+でも、それはどちらかというと広報活動に近いものであり、また別のスキルが求められるものです。
+ここでは、読者のみなさんと共有する価値があると思うヒントをいくつかご紹介します。
 
 #@ The first and probably most important lesson is having a willingness to accept
 #@ that you can and will be wrong sometimes. In my career so far I have got some
