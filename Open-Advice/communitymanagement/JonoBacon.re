@@ -281,7 +281,13 @@ OpenAdvantageで数年間の経験を積んだ私はCanonicalに移り、Ubuntu�
 #@ use religion as a means for you to give them money, or fake psychics who use
 #@ cold reading to latch onto your belief to desperately try and re-connect with a
 #@ lost loved one).
-As such, belief is a strong driver for collaboration and contribution, but it must be met with respect and balance. While it can be a trigger for incredible change, it can also be hugely destructive (e.g. some television preachers who use religion as a means for you to give them money, or fake psychics who use cold reading to latch onto your belief to desperately try and re-connect with a lost loved one).
+このように、信頼関係は、共同作業やコミュニティへの貢献の大きな原動力となります。
+でもそのためには、お互いを尊重してバランスをとらなければいけません。
+信じられないほどの変革をもたらすきっかけともなりえるけれど、
+何もかもをぶち壊してしまう可能性もあるのです
+（たとえば信仰を悪用して伝道師が自分に寄付させるよう仕向けたり、
+インチキ心理学者がコールドリーディングを使って心を開かせ、振られた相手に再アタックさせようとしたり。
+そんなテレビ番組もあります）。
 
 #@ \section*{Your Role}
 == Your Role
