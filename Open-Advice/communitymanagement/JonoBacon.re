@@ -317,7 +317,13 @@ OpenAdvantageで数年間の経験を積んだ私はCanonicalに移り、Ubuntu�
 #@ there. These screw-ups, mishaps and mis-steps have never been out of
 #@ maliciousness or carelessness, they have instead typically been from me
 #@ overshooting the target of what I was trying to do.
-The first and probably most important lesson is having a willingness to accept that you can and will be wrong sometimes. In my career so far I have got some things right and some things wrong. While I believe I am generally on the right path and most of my work is successful, there have been a few turkeys here and there. These screw-ups, mishaps and mis-steps have never been out of maliciousness or carelessness, they have instead typically been from me overshooting the target of what I was trying to do.
+最初に学んだこと（そしておそらく最も大切なこと）は、
+誰だって間違えることはあるという事実を受け入れることです。
+これまでの自分自身を振り返ると、正しく進められたこともあれば間違えてしまったこともありました。
+基本的には正しい道を歩んできたつもりだし、これまでの作業の多くはうまくいったと思っています。
+でも、失敗もあちこちでしてきました。
+大失敗、不運な出来事、手違い。いろいろありましたが、それらは決して悪意や不注意が原因となったものではありません。
+たいていは、やりたいことに対して自分が背伸びしすぎていたことが原因でした。
 
 #@ This seems like a pretty obvious point, but it gets less obvious when you have a
 #@ fairly public role. By and large, community managers are often seen as
