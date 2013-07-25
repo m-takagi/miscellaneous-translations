@@ -345,7 +345,15 @@ OpenAdvantageで数年間の経験を積んだ私はCanonicalに移り、Ubuntu�
 #@ the things they do well and the things they do less well. It is important to
 #@ remember that we often gain respect in people because of their acceptance of
 #@ mistakes -- it shows a well-rounded and honest individual.
-For some community leaders, having the spotlight shone on them causes a defensive mechanism to kick in; they cringe at the idea of making mistakes in public, as if the chattering masses expect a perfect record. This is risky, and what has been seen in the past is that we get public leaders who essentially never accept that they have made a mistake due to this fear of public ridicule. This is not only a fallacy (we all make mistakes), but it also does not set a good example to the community of a leader who is honest and transparent in both the things they do well and the things they do less well. It is important to remember that we often gain respect in people because of their acceptance of mistakes -- it shows a well-rounded and honest individual.
+コミュニティのリーダーたちの中には、あまりにこのことを意識しすぎたせいで身構えてしまう人もいます。
+一般大衆は完璧なリーダーを求めているのだと思い込み、
+人前で間違いを犯してしまったらどうしよう、と萎縮してしまうのです。
+これは危険なことです。これまでにもあった例ですが、大衆の嘲笑を恐れるあまりに、
+自分が間違いを犯したことを決して認めようとしないリーダーがいました。
+これは単に、考え違いをしている（人はみな過ちを犯すもの）だけではなく、
+成功も失敗も受け入れる正直で裏表のないリーダーたちに対して悪いお手本になってしまいます。
+ここで覚えておきたいのは、自らの過ちを認めることで、より尊敬されるようになることが多いということです。
+正直で信頼できる人であると示すことになるからです。
 
 #@ I remember when I first became a manager at Canonical and at the time Colin
 #@ Watson and Scott James Remnant, two original gangstas from the very beginning of
