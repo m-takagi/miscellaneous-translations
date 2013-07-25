@@ -330,7 +330,10 @@ OpenAdvantageで数年間の経験を積んだ私はCanonicalに移り、Ubuntu�
 #@ representatives of a given community. As an example, I know that I am personally
 #@ seen as one of the public faces of Ubuntu, and with that responsibility comes
 #@ the public pressure of how people perceive you.
-This seems like a pretty obvious point, but it gets less obvious when you have a fairly public role. By and large, community managers are often seen as representatives of a given community. As an example, I know that I am personally seen as one of the public faces of Ubuntu, and with that responsibility comes the public pressure of how people perceive you.
+言うまでもないことだと思うかもしれません。でも、公的な立場にいると、なかなかそれに気づかないものなんです。
+一般的に、コミュニティマネージャーはそのコミュニティを代表する人だとみられることが多くなります。
+実際私は、Ubuntuを代表する人たちの一員と見られているようです。
+そして、そういう立場にいると、「周りの人たちは自分をどう見ているのだろう」というプレッシャーがかかります。
 
 #@ For some community leaders, having the spotlight shone on them causes a
 #@ defensive mechanism to kick in; they cringe at the idea of making mistakes in
