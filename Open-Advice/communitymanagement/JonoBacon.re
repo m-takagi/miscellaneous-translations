@@ -365,7 +365,15 @@ OpenAdvantageで数年間の経験を積んだ私はCanonicalに移り、Ubuntu�
 #@ tight-lipped, but it taught me that this kind of openness and honesty is not
 #@ only good as a manager but as a community leader and since then I feel no qualms
 #@ in publicly admitting to mistakes or apologizing if I screw up.
-I remember when I first became a manager at Canonical and at the time Colin Watson and Scott James Remnant, two original gangstas from the very beginning of Canonical and Ubuntu, were also managers on the Ubuntu Engineering Team. We would have our weekly calls with our manager, Matt Zimmerman, and on these calls I would hear Colin and Scott openly accepting that they were not good at this, or had made a mistake with that; they were stunningly humble and accepting of their strengths and weaknesses. As a rookie manager I was a little more tight-lipped, but it taught me that this kind of openness and honesty is not only good as a manager but as a community leader and since then I feel no qualms in publicly admitting to mistakes or apologizing if I screw up.
+Canonicalではじめてマネージャーになった頃のことを思い出します。
+CanonicalやUbuntuの最初期から大活躍していたColin WatsonやScott James Remnantも、
+その当時はUbuntu Engineering Teamのマネージャーでした。
+私たちの上司であるMatt Zimmermanとは毎週連絡を取り合っていましたが、
+その場でColinやScottは、あれがうまくいかなかっただとかこれに失敗しただとかいうことをきちんと認めていました。
+驚くほどの謙虚さで、自分の強みや弱みを受け入れていたのです。
+新米マネージャーだった私にはまだそれほどの度胸はありませんでしたが、
+正直でいることはマネージャーとしてだけではなくコミュニティリーダーとしても大切だということを教わりました。
+それ以来私は、自分の失敗を認めて謝ることを恐れなくなったのです。
 
 #@ \section*{Listening}
 == Listening
