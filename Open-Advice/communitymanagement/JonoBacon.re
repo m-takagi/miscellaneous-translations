@@ -385,7 +385,12 @@ CanonicalやUbuntuの最初期から大活躍していたColin WatsonやScott Ja
 #@ its goals. This is definitely a responsibility, but in addition to the voicing
 #@ of this leadership, it is also important to be a passive listener, providing
 #@ guidance where appropriate and learning new lessons and insight.
-In a similar way, while openness to mistakes is important, another lesson is the importance of being a good listener and learning from our peers. In many cases our communities look to community managers and leaders as people who should always be providing guidance, direction and active navigation of the project and its goals. This is definitely a responsibility, but in addition to the voicing of this leadership, it is also important to be a passive listener, providing guidance where appropriate and learning new lessons and insight.
+間違いから目を背けないことも大切ですが、それと同様に大切なことももうひとつ学びました。
+人の話をよく聴き、仲間から学ぶということです。
+多くのコミュニティでは、コミュニティマネージャーやリーダーと呼ばれる人は、
+いつも適切な指示をしてプロジェクトを正しい方向に導いてくれるものと見なされています。
+その責任があると考えられているのです。でも、そういったリーダーシップを発揮するだけではなく、
+受け身な聞き手であることも大切です。適切な場面では支えをだし、新たな知識を学ぶのです。
 
 #@ Our community members are not just cold, hard, machines who perform work; they
 #@ are living, breathing, human beings with thoughts, opinions, feelings and ideas.
