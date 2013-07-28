@@ -404,7 +404,17 @@ CanonicalやUbuntuの最初期から大活躍していたColin WatsonやScott Ja
 #@ listener is not just important to help us learn and be better at what we do, but
 #@ it is critical in gaining respect and having a great relationship with your
 #@ community.
-Our community members are not just cold, hard, machines who perform work; they are living, breathing, human beings with thoughts, opinions, feelings and ideas. I have seen many examples, and I have accidentally done this before myself, where someone is so used to providing guidance and direction that they sometimes forget to just sit down and listen and learn from someone else’s experience. Every industry is filled with thought leaders and scholars ... famous people who are known for their wisdom, but in my experience some of the most revolutionary life lessons that I have learned have come entirely from non-famous, day-to-day, meat-and-potatoes community members. Being a great listener is not just important to help us learn and be better at what we do, but it is critical in gaining respect and having a great relationship with your community.
+コミュニティのメンバーは、単に作業をこなすだけの冷徹なマシンではありません。
+生身の人間で、それぞれいろんなことを考えて意見を持っているのです。感情やアイデアもあります。
+今までにもいろんな例を見てきたし、実際私もやってしまったことがあるのですが、
+アドバイスをして誰かの方向性を定めるのに慣れてしまった人は、ついつい忘れてしまうんです。
+時には何もせずにただ声を聴き、周りが何をしているのかを学ぶことも必要だってことを。
+あらゆる業界には思想的指導者や学者があふれています。誰もが認める物知りな人たちです。
+でも、私の経験上、人生を変えるような教訓のいくつかは、
+そんな人たちから学んだものではありません。
+特に有名でもない、どこにでもいるごく平凡なコミュニティのメンバーから学んだのです。
+よい聞き手になるというのは、いろいろ学んで賢くなるためだけに必要なのではありません。
+周囲からの敬意を得てコミュニティでの人間関係をよくするためにも欠かせないことです。
 
 #@ \section*{On vs. Off Time}
 == On vs. Off Time
