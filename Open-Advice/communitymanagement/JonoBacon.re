@@ -429,7 +429,14 @@ CanonicalやUbuntuの最初期から大活躍していたColin WatsonやScott Ja
 #@ working on these other projects. As such, as you would naturally expect, when my
 #@ work day ends I start working on these other projects. The lesson here is that
 #@ it is not always clear to your community where the lines are drawn.
-While on the subject of how we engage with our community, I have another take-away that I only truly processed in my own mind fairly recently. Like many people, I have a number of different interests that fill my days. Outside of being married and trying to be the best husband I can be, and my day job as the Ubuntu Community Manager, I also have projects such as Severed Fifth, the Community Leadership Summit, and some other things. As you would naturally expect, my days are committed to my day job -- I do not spend time at work working on these other projects. As such, as you would naturally expect, when my work day ends I start working on these other projects. The lesson here is that it is not always clear to your community where the lines are drawn.
+自分たちがコミュニティとどう関わっていくかを考えるにあたって、
+もうひとつ考えなければいけないことがあります。私個人的にも、つい最近片づけたことです。
+みんなそうでしょうが、私も日々の生活の中でいろんなことに興味を持っています。
+よい夫であろうと努力することもそうだし、Ubuntu Community Managerとしての日々の仕事をこなすこともその一つです。
+でもそれ以外にも、Severed FifthやCommunity Leadership Summitといった別のプロジェクトもあれば、それ以外のこともあります。
+もちろん、昼間は本業に専念します。業務中に他のプロジェクトの作業をしたりはしません。
+なので、他のプロジェクトにとりかかるのは業務時間が終わってからということになります。
+ここで学ぶのは、コミュニティとの間の線引きが必ずしも明確だとは限らないということです。
 
 #@ Over the years I have developed a series of online facilities that I use for my
 #@ work and viewpoints. My Twitter, identi.ca, Facebook pages, my blog, and some
