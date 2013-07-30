@@ -445,7 +445,12 @@ CanonicalやUbuntuの最初期から大活躍していたColin WatsonやScott Ja
 #@ project, and the wealth of timezones across the world, it does not take an
 #@ Einstein to confuse whether I am writing about something as a Jono thing or a
 #@ Canonical thing.
-Over the years I have developed a series of online facilities that I use for my work and viewpoints. My Twitter, identi.ca, Facebook pages, my blog, and some other resources are where I talk about what I do. The challenge is that if you take into account these public resources, my public representation of the Ubuntu project, and the wealth of timezones across the world, it does not take an Einstein to confuse whether I am writing about something as a Jono thing or a Canonical thing.
+長年の間、私はさまざまなオンラインサービスを仕事やプライベートで使っています。
+たとえばTwitterやidenti.ca、Facebookページ、個人blogなどがその一例です。
+問題は、こういった公開リソースやUbuntuプロジェクト上での私の立場、
+そして世界中にさまざまなタイムゾーンがあることを考えると、
+私の個々の発言がJono個人としてのものなのかCanonicalとしての発言なのかが分かりづらくなるということです。
+アインシュタインじゃなくても混乱してしまうでしょう。
 
 #@ This has caused some confusion. As an example, despite my repeated
 #@ clarifications, OpenRespect is not and never has been a Canonical initiative. Of
