@@ -376,7 +376,7 @@ CanonicalやUbuntuの最初期から大活躍していたColin WatsonやScott Ja
 それ以来私は、自分の失敗を認めて謝ることを恐れなくなったのです。
 
 #@ \section*{Listening}
-== Listening
+== 耳を傾ける
 
 #@ In a similar way, while openness to mistakes is important, another lesson is the
 #@ importance of being a good listener and learning from our peers. In many cases
@@ -417,7 +417,7 @@ CanonicalやUbuntuの最初期から大活躍していたColin WatsonやScott Ja
 周囲からの敬意を得てコミュニティでの人間関係をよくするためにも欠かせないことです。
 
 #@ \section*{On vs. Off Time}
-== On vs. Off Time
+== オンとオフ
 
 #@ While on the subject of how we engage with our community, I have another
 #@ take-away that I only truly processed in my own mind fairly recently. Like many
