@@ -459,7 +459,12 @@ CanonicalやUbuntuの最初期から大活躍していたColin WatsonやScott Ja
 #@ projects such as Severed Fifth, The Art of Community and the Community
 #@ Leadership Summit, of which none are, or ever have been, part of my work at
 #@ Canonical.
-This has caused some confusion. As an example, despite my repeated clarifications, OpenRespect is not and never has been a Canonical initiative. Of course, some idiots choose to ignore my clarification of this, but I can see how the confusion could arrive nonetheless. The same thing has happened for other projects such as Severed Fifth, The Art of Community and the Community Leadership Summit, of which none are, or ever have been, part of my work at Canonical.
+これは混乱の元になります。
+たとえば、何度となく説明を繰り返しているのですが、OpenRespectはCanonicalとは一切関係ありません。
+また、これまでにもCanonicalが関わったことはありません。
+もちろん、中には敢えてその説明を無視するような人たちもいるのですが、いくら説明したところである程度の混乱は避けられません。
+Severed FifthやThe Art of Community、そしてCommunity Leadership Summitといった他のプロジェクトでもそれは同じです。
+これらもすべてJono個人として関わっているもので、Canonicalでの業務として関わったことは一切ありません。
 
 #@ The reason why I consider this a lesson is that I have seen, and at one point
 #@ shared, the view that ``of course it is a spare time thing, I posted that at 8pm
