@@ -472,7 +472,11 @@ Severed FifthやThe Art of Community、そしてCommunity Leadership Summitと�
 #@ puts you in a reasonably public position, you can not have the luxury of just
 #@ assuming that; you have to instead assume that people are likely to blur the
 #@ lines and you have to work harder to clarify them.
-The reason why I consider this a lesson is that I have seen, and at one point shared, the view that ``of course it is a spare time thing, I posted that at 8pm at night'' and shrug of concerns of the lines blurring. When you have a job that puts you in a reasonably public position, you can not have the luxury of just assuming that; you have to instead assume that people are likely to blur the lines and you have to work harder to clarify them.
+なぜこんなことを教訓として取り上げたのかというと、これまでにも
+「これは当然、個人的な発言でしょう。だって、今は午後8時ですよ？」と言ったのに
+その線引きが曖昧になっていくという例があったからです。
+もしあなたがそれなりに公的な立場に置かれる仕事をしているのなら、そんな都合良く見てもらえるなんて甘えた考えは捨てましょう。
+人はみな、そのあたりの線引きを曖昧にしたがるものです。できるだけ、線引きを明確にするよう心がけましょう。
 
 #@ \section*{Don’t Travel Too Much}
 == Don’t Travel Too Much
