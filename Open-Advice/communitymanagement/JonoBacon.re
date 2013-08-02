@@ -479,7 +479,7 @@ Severed FifthやThe Art of Community、そしてCommunity Leadership Summitと�
 人はみな、そのあたりの線引きを曖昧にしたがるものです。できるだけ、線引きを明確にするよう心がけましょう。
 
 #@ \section*{Don’t Travel Too Much}
-== Don’t Travel Too Much
+== 移動は控える
 
 #@ On the topic of working for a company that employs you to be a community leader,
 #@ you should always be aware of the risks as well as the benefits of travel. This
@@ -487,7 +487,10 @@ Severed FifthやThe Art of Community、そしてCommunity Leadership Summitと�
 #@ the same faces over and over again at conferences, and it was clear that these
 #@ folks had clearly communicated the benefits of travel to their employer, as I
 #@ had done, but I also came to learn the risks.
-On the topic of working for a company that employs you to be a community leader, you should always be aware of the risks as well as the benefits of travel. This is something I learned fairly early on in my career at Canonical. I would see the same faces over and over again at conferences, and it was clear that these folks had clearly communicated the benefits of travel to their employer, as I had done, but I also came to learn the risks.
+会社があなたをコミュニティリーダーとして雇っている場合は、各地を旅することのメリットだけでなくリスクも考えなければいけません。
+これは、私がCanonicalで働き始めたころに学んだことです。
+各地のカンファレンスでは同じ顔に何度となく出会います。彼らは皆、旅することのメリットを会社に伝えています。
+私もそうでした。でも、リスクがあることもわかったのです。
 
 #@ I would travel and it would not only be tiring work and emotionally exhausting,
 #@ but I would also be away from my email more, on IRC less, unable to attend many
