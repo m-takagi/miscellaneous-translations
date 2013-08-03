@@ -503,7 +503,16 @@ Severed FifthやThe Art of Community、そしてCommunity Leadership Summitと�
 #@ little too far in the other direction, so it is all about balance, but I also
 #@ feel I serve my community better when I am able to take the time to be at the
 #@ office and be online and accessible.
-I would travel and it would not only be tiring work and emotionally exhausting, but I would also be away from my email more, on IRC less, unable to attend many meetings, and have less time to work on my work commitments. As such, my role would largely become that of getting out and visiting events, and while fun, this did not serve my community as well as it should have done. As such, I fairly dramatically cut my travel -- in fact, I went to the Linux Collab Summit a few days ago, and outside of Ubuntu events that I needed to attend, I had not made it to conference for nearly a year. Now I feel the pendulum has swung a little too far in the other direction, so it is all about balance, but I also feel I serve my community better when I am able to take the time to be at the office and be online and accessible.
+旅をすると、心身ともに疲れます。
+それだけではなく、メールもあまりチェックできなくなるしIRCからも遠ざかってしまうし、
+打ち合わせにも参加できないし、他の業務をこなす時間も減ってしまいます。
+そのため、私の役割の大部分は、外出してイベントに参加することになってしまいます。
+楽しいことではありますが、本来やるべきことに比べるとコミュニティにはそれほど役立ちません。
+そこで、私はその手の旅をばっさりやめてしまいました。
+つい数日前にLinux Collab Summitに参加したのですが、どうしても参加しなければいけないUbuntu
+のイベントを別にすると、その手のカンファレンスに出るのはほぼ一年ぶりのことでした。
+今になって、ちょっと極端すぎたかなとも思っています。バランスの問題ですね。
+でも、職場にいてオンラインでつながっているときのほうが、コミュニティの作業がよりはかどることも実感しています。
 
 #@ \section*{Planning}
 == Planning
