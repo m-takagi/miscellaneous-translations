@@ -515,7 +515,7 @@ Severed FifthやThe Art of Community、そしてCommunity Leadership Summitと�
 でも、職場にいてオンラインでつながっているときのほうが、コミュニティの作業がよりはかどることも実感しています。
 
 #@ \section*{Planning}
-== Planning
+== 計画づくり
 
 #@ For some folks, the role of a community leader or community manager is one that
 #@ is less about pre-disposed structure and instead more interrupt-driven. When I
@@ -523,7 +523,11 @@ Severed FifthやThe Art of Community、そしてCommunity Leadership Summitと�
 #@ you do indeed need to be interrupt-driven and able to respond to things that are
 #@ going on, it is also essential to sufficiently plan your work for a given period
 #@ of time.
-For some folks, the role of a community leader or community manager is one that is less about pre-disposed structure and instead more interrupt-driven. When I started out, I used to think this too. While there is absolutely no doubt that you do indeed need to be interrupt-driven and able to respond to things that are going on, it is also essential to sufficiently plan your work for a given period of time.
+人によっては、コミュニティリーダーあるいはコミュニティマネージャーとしての役割が、
+あらかじめ決まったものではなく他からの割り込みに主導されるものであることもあります。
+私がこの職に就き始めたころにも、よくそう思っていました。
+確かに割り込み駆動で動かなければいけないこともあるし、割り込みに応えるだけの力も必要です。
+でも、与えられた時間の中で自分の作業を効率的にこなすための計画づくりも、同様に大切です。
 
 #@ This planning should be done out in the open where possible and serves a few
 #@ functions:
