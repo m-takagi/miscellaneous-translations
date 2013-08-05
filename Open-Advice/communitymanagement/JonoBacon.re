@@ -552,13 +552,22 @@ Severed FifthやThe Art of Community、そしてCommunity Leadership Summitと�
 #@ the Ubuntu Community Manager my planning was fairly personal and ad-hoc -- I
 #@ took the pulse of the community, and I applied my time and resources to tend to
 #@ those areas as I saw fit.
-This planning should be done out in the open where possible and serves a few functions:
+この計画づくりは可能な限りオープンにし、次のような役割を持たせるべきです。
 
- * Shares plans -- it helps the community to understand what you are working on and often opens up the doors for the community to help you.
- * Offers assurances -- it demonstrates that a community leader is doing something. Your community can see your active work happening. This is particularly important, as much of the work of a community leader often happens out of the view of the wider community (e.g. having a one-on-one conversation with a community member), and this lack of visibility can sometimes generate concerns that little is happening in key areas, when instead a lot is going on behind the scenes.
- * Communicates progress up and down the ladder -- this is relevant if you are working for a company. Having some solid planning processes in place demonstrates your active work to your management, and it also re-assures your team that they will always know what to work on and create great value for the community.
+ * 計画を共有する -- あなたが何の作業をしているのかをメンバーが理解する助けになるし、問題が起こったときに助けてもらいやすくなります。
+ * 保証する -- これは、コミュニティリーダーが何かをやっているのを示すことになります。
+ コミュニティのメンバーが、あなたがいま何の対応をしているのかを知ることができるようにするのです。
+ これは特に重要です。というのも、コミュニティリーダーの作業の多くはメンバー全員の目には届かないもの
+ （特定のメンバーとの一対一の会話など）
+ なので、可視性に気を配らないと、実際は背後で何かやっているのに表面的には何も動いていないように見えてしまいます。
+ * はしごを上り下りして、進捗情報をやりとりする -- これは、企業で働いている場合に関わってくることです。
+ マネージャーに対してあなたの作業を説明するときには綿密な計画づくりをし、
+ その一方でチームに対しては、彼らの作業がコミュニティに対して大きな価値をもたらすことを保証します。
 
-Over the years I have put more and more importance in planning, while still retaining enough time and flexibility to be interrupt-driven. When I started as the Ubuntu Community Manager my planning was fairly personal and ad-hoc -- I took the pulse of the community, and I applied my time and resources to tend to those areas as I saw fit.
+経験を積むにつれて、計画づくりの重要性をより実感するようになりました。
+とは言え、今でも、割り込みが入ることに備えて十分な時間と柔軟性は確保しています。
+Ubuntu Community Managerとして働き始めたころ、自分の計画づくりは極めて個人的かつその場しのぎのものでした。
+コミュニティの様子を見ては、自分の時間とリソースを割り当てられるだけ割り当てていたのです。
 
 #@ Today I break goals into a set of projects that each span an Ubuntu cycle,
 #@ gather input from stakeholders, put together a roadmap, track work in
