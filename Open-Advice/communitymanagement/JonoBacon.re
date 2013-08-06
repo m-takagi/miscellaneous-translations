@@ -575,7 +575,10 @@ Ubuntu Community Managerとして働き始めたころ、自分の計画づく�
 #@ my burndown chart, regular meetings, and more. While the current approach
 #@ requires more planning, it helps significantly with the benefits covered in the
 #@ above bullet points.
-Today I break goals into a set of projects that each span an Ubuntu cycle, gather input from stakeholders, put together a roadmap, track work in blueprints, and assess progress using a variety of tools and processes such as my burndown chart, regular meetings, and more. While the current approach requires more planning, it helps significantly with the benefits covered in the above bullet points.
+今では、ゴールをいくつかのプロジェクトに分割するようにしています。
+それぞれをUbuntuのリリースサイクル単位で考え、ステークホルダーから聞いた内容をとりまとめてロードマップを作り、
+詳細な計画を追跡し、バーンダウンチャートや日々のミーティングなどでその進捗を確認します。
+この手法ではより綿密な計画づくりが必要になりますが、先ほど箇条書きでまとめたポイントを満たすことで得られる利点は大きくなります。
 
 #@ \section*{Perception and Conflict}
 == Perception and Conflict
