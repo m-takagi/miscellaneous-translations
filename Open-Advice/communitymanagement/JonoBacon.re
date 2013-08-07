@@ -581,13 +581,14 @@ Ubuntu Community Managerとして働き始めたころ、自分の計画づく�
 この手法ではより綿密な計画づくりが必要になりますが、先ほど箇条書きでまとめたポイントを満たすことで得られる利点は大きくなります。
 
 #@ \section*{Perception and Conflict}
-== Perception and Conflict
+== 感覚と衝突
 
 #@ One thing I often hear about in the world of community management and leadership
 #@ is the view that perception is everything. Typically when I hear this it is in
 #@ response to someone getting the wrong end of the stick about something, often in
 #@ a conflict period.
-One thing I often hear about in the world of community management and leadership is the view that perception is everything. Typically when I hear this it is in response to someone getting the wrong end of the stick about something, often in a conflict period.
+コミュニティの運営やリーダーシップにまつわる話としてよく聞くのが、「考え方は人それぞれ」という見方です。
+この話題がよく出るのは、何かに固執しすぎて間違いを犯してしまった人が弁明するときで、たいていは利害関係が衝突しています。
 
 #@ Of course, perception does indeed play an important part in our lives, but what
 #@ can fuel incorrect or misaligned perceptions is lack of information,
