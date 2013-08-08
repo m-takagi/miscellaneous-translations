@@ -595,7 +595,11 @@ Ubuntu Community Managerとして働き始めたころ、自分の計画づく�
 #@ mis-information, and in some cases, heated tensions and tempers. This can be
 #@ some of the most complex work for a community leader, and I have come away with
 #@ a few lessons learned in this area too.
-Of course, perception does indeed play an important part in our lives, but what can fuel incorrect or misaligned perceptions is lack of information, mis-information, and in some cases, heated tensions and tempers. This can be some of the most complex work for a community leader, and I have come away with a few lessons learned in this area too.
+もちろん、私たちが生きていく上で直感は重要な役割を果たします。
+でも、情報が足りなかったり間違った情報を与えられたりすると、判断を誤る可能性があります。
+場合によっては、イライラしたりカッとなったりしたときにも判断を誤るかもしれません。
+これは、コミュニティのリーダーにとってはとても面倒なことです。
+実は、この件に関しても、ちょっとした教訓があるのです。
 
 #@ Communities are groups of people, and in every group there are often common
 #@ roles that people fill. There is usually someone who is seen as a rockstar and
