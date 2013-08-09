@@ -610,7 +610,16 @@ Ubuntu Community Managerとして働き始めたころ、自分の計画づく�
 #@ someone is being overtly difficult to deal with, it can cause tensions to form
 #@ with other members and bring conflict to an otherwise happy community. We need
 #@ to nip those issues in the bud early.
-Communities are groups of people, and in every group there are often common roles that people fill. There is usually someone who is seen as a rockstar and hero, someone who is sympathetic to concerns and worries and a shoulder to cry on, someone who is overtly outspoken, and often someone who is ... well ... deliberately difficult. Heroes, sympathetic ears and outspoken folks are not particularly challenging, but deliberately difficult people can be complex; if someone is being overtly difficult to deal with, it can cause tensions to form with other members and bring conflict to an otherwise happy community. We need to nip those issues in the bud early.
+コミュニティはいろんな人たちの集まりです。どんなグループにも、いろんな立ち位置の人がいます。
+グループ内で、神様だとかヒーローだとかに祭り上げられている人もいるでしょう。
+心配ごとや悩みを親身になって聞いてくれる人もいるでしょう。
+歯に衣着せず、何でもずけずけと言う人もいるでしょう。
+そして、何というか……ちょっと難しい人もいますね。
+ヒーローとか相談相手とか率直な人とか、そういった人たちは別にいいんです。
+でも、難しい人たちの扱いは複雑です。
+もしそういった態度が表に出ると、他のメンバーとの間も気まずくなり、
+うまくまとまっていたコミュニティに衝突が発生してしまいます。
+そういう問題は、早めに芽を摘んでおかなければいけません。
 
 #@ Part of the challenge here is that people are people, groups are groups, and it
 #@ is not uncommon for a single person or a few people to become known and
