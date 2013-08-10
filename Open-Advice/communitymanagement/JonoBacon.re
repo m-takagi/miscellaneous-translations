@@ -631,7 +631,15 @@ Ubuntu Community Managerとして働き始めたころ、自分の計画づく�
 #@ without the knowledge of the person who it applies to, and because they never
 #@ know, they never have an opportunity to fix it. That is a pretty sucky position
 #@ to be in.
-Part of the challenge here is that people are people, groups are groups, and it is not uncommon for a single person or a few people to become known and complained about behind closed doors as difficult to work with. In addition to this, most people do not want to get involved in any conflict, and as such the person being complained about can sometimes never actually know that people see them this way, as no-one wants to confront them about it. This results in one of the most dangerous situations for a community members -- a reputation is spread, without the knowledge of the person who it applies to, and because they never know, they never have an opportunity to fix it. That is a pretty sucky position to be in.
+難しいのは、人は人、グループはグループということです。
+誰か特定の人に対する不満がつのり、難しい人だと陰口をたたかれるようになるのもよくあることです。
+さらに、たいていの人は、あえて揉めごとに巻き込まれようとはしません。
+そのため、時として、不平を言われている人がそのことに気づけないということもあります。
+誰もそんなことに直面したくないからです。
+その結果、コミュニティのメンバーにとっては最もまずい状況になってしまいます。
+本人の知らぬ間に、悪評をばらまかれてしまうのです。
+そんなことになっているとは気づきようがないので、間違った噂を広められていても訂正のしようがありません。
+非常に嫌な状況です。
 
 #@ A common response to this conclusion is the view that ``they are so difficult to
 #@ deal with that trying to reason with them will fall on deaf ears anyway''. While
