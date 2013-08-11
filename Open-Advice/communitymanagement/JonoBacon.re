@@ -648,7 +648,12 @@ Ubuntu Community Managerとして働き始めたころ、自分の計画づく�
 #@ uncomfortable experience of feeling I need to share with someone the reputation
 #@ that they have developed, and in virtually all cases it has been a real surprise
 #@ to them, and they have almost all modified their behavior based on the feedback.
-A common response to this conclusion is the view that ``they are so difficult to deal with that trying to reason with them will fall on deaf ears anyway''. While this certainly does happen from time to time, do not be so quick to assume this will be the outcome; there have been a few times when I have had the uncomfortable experience of feeling I need to share with someone the reputation that they have developed, and in virtually all cases it has been a real surprise to them, and they have almost all modified their behavior based on the feedback.
+この結論に対するありがちな反応は
+「あの人たちは本当に扱いにくいので、いくらていねいに話をしたところで聞く耳を持たないでしょう」という意見です。
+まあ時にはそんなこともあるでしょうが、それであきらめてしまってはいけません。
+これまでに何度か、そういう不愉快な経験をしたことがあります。悪評の対象となっている当人に、その内容を伝えるという経験です。
+ほぼすべての場合において、彼らにとってそれは初耳だということでした。
+そして、フィードバックした内容に基づいて、彼らは振るまいを改めてくれました。
 
 #@ On a related note, while often not a common part of the daily routine of a
 #@ community leader, conflict will often raise its head here and there. I just
