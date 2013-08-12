@@ -658,7 +658,10 @@ Ubuntu Community Managerとして働き始めたころ、自分の計画づく�
 #@ On a related note, while often not a common part of the daily routine of a
 #@ community leader, conflict will often raise its head here and there. I just
 #@ wanted to share two brief elements about conflict.
-On a related note, while often not a common part of the daily routine of a community leader, conflict will often raise its head here and there. I just wanted to share two brief elements about conflict.
+それに関連した話として、
+コミュニティリーダーの日々のルーチン作業とは離れたところで、
+衝突があちこちでその兆しを見せることがあります。
+ここで、衝突に関して二つのことをお話しようと思います。
 
 #@ The first is understanding how conflict forms. To introduce this, let me tell
 #@ you a little story. Last week a friend of mine flew out to the Bay Area for a
