@@ -691,7 +691,14 @@ Ubuntu Community Managerとして働き始めたころ、自分の計画づく�
 #@ part of, and many of the commentators and onlookers have clearly not had a full
 #@ knowledge of the facts either because they have not picked up on the nuances and
 #@ details of the topic or some parts of the story have not been shared.
-I am not a democrat or a republican; I make my decisions on each issue, and I do not align myself with either party. Where I differ to my friend though is that I am a little more sympathetic to Obama and his daily work. This is because I believe that he, and anyone else in a public position, whether as internationally recognized as the president, or as obscure and specific as a community manager, realizes that the story read and understood by the public is often only a fragment of the full story. There have been cases in the past where something controversial has kicked off in the communities that I have been a part of, and many of the commentators and onlookers have clearly not had a full knowledge of the facts either because they have not picked up on the nuances and details of the topic or some parts of the story have not been shared.
+私は共和党員でもなければ民主党員でもありません。個々の政策については自分の考えで判断するけれど、
+どちらか一方の政党を支持するという立場ではありません。
+私が彼の意見と違っていたのは、私のほうが、オバマ大統領や彼の日々の仕事に共感していたのです。
+なぜなら、彼のような公的な立場にいる人は、一般市民が読んで理解する情報が多くの場合断片的なものであると理解しているだろうからです。
+その点は、世界に知れ渡った大統領であろうとも無名のコミュニティマネージャーであろうと変わらないでしょう。
+かつて私が属していたコミュニティで、ある論争が起こったことがありました。
+でも、論争の当事者もまわりの傍観者も、そのほとんどは論争の対象になっている件について完全な知識を持ち合わせていなかったのです。
+細かいニュアンスを読み取れていなかったり、そもそも一部の話題は全体に共有されていなかったりしたからです。
 
 #@ Now, I know what some of you are going to say -- some parts not shared?! Surely
 #@ we should be transparent? Of course we should, and we should always strive to be
