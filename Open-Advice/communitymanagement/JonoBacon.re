@@ -671,7 +671,14 @@ Ubuntu Community Managerとして働き始めたころ、自分の計画づく�
 #@ health care reform, Wall Street reform, digital rights and more. His agitation
 #@ was not with the policies themselves, but with Obama not doing enough. My
 #@ perspective was a little different.
-The first is understanding how conflict forms. To introduce this, let me tell you a little story. Last week a friend of mine flew out to the Bay Area for a conference. He arrived in the evening, so I picked him up from the airport and we went to the pub to catch up. While there he started telling me how disappointed he was with Obama and his administration. He cited examples of health care reform, Wall Street reform, digital rights and more. His agitation was not with the policies themselves, but with Obama not doing enough. My perspective was a little different.
+まず、衝突がどのように起こるのかを理解することです。
+この件について話す前に、まあちょっと話を聞いてください。
+つい先週のこと。友人が、カンファレンスに参加すべくベイエリアに飛びました。
+到着したのが夜だったので、私は空港まで彼を迎えに行き、それからパブに行きました。
+そこで彼は、自分がいかにオバマ政権に失望しているのかということを語り始めたのです。
+医療補諸制度改革やウォールストリートの改革、そしてデジタル著作権など、いろんな問題を取り上げました。
+その政策自体に反対しているわけではなく、オバマはまだまだ手ぬるいと主張していました。
+が、私の意見はそれとは少し違ったのです。
 
 #@ I am not a democrat or a republican; I make my decisions on each issue, and I do
 #@ not align myself with either party. Where I differ to my friend though is that I
