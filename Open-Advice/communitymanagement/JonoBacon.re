@@ -712,7 +712,16 @@ Ubuntu Community Managerとして働き始めたころ、自分の計画づく�
 #@ around as it would not serve a particularly useful purpose, but with that I have
 #@ to accept that some community critique will only have part of the picture and
 #@ not be aware of some of the behind the scenes shenanigans.
-Now, I know what some of you are going to say -- some parts not shared?! Surely we should be transparent? Of course we should, and we should always strive to be open and honest, but there are some cases when it would be inappropriate to share some parts of the story. This could be because of private conversations with people who do not want their comments shared, and also just being classy in your work and not throwing dirt around. As an example, I have always had a very strong policy of not throwing cheap shots at competitors, no matter what happens. In the past there has been some questionable behavior from some competitors behind the scenes, but I am not going to go out and throw dirt around as it would not serve a particularly useful purpose, but with that I have to accept that some community critique will only have part of the picture and not be aware of some of the behind the scenes shenanigans.
+今きっと、こんなふうに思っていることでしょう。「共有されていなかっただって？！本当に何でも共有しないといけないっての？」
+もちろんそうすべきで、私たちも常にオープンかつ誠実であろうとしていました。
+でも、時には、共有するのは適切ではないと思われる話題もあったのです。
+プライベートな会話の話し相手がその内容を秘密にして欲しがった場合や、
+仕事場のちょっと気取った雰囲気を汚してしまいかねない内容だったりした場合です。
+たとえば私は、たとえ何があったとしても、論争相手に卑劣なコメントを投げたりしないというポリシーを持っています。
+過去に何度か、競合相手が影で何か疑わしい振る舞いをしているということがありました。
+しかし私は、それを表に出して騒ぎ立てたりはしませんでした。そんなことをしてもどうにもならないだろうと考えたからです。
+そのおかげで、裏の不正に気づかないまま、全体像を知らずに私たちを論評しようとする人たちも出てきましたが、
+それは受け入れざるを得ませんでした。
 
 #@ Finally, on the topic of conflict, I believe a real life lesson I have learned
 #@ has been the approach in which critique and successful outcomes should be
