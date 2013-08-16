@@ -730,7 +730,11 @@ Ubuntu Community Managerとして働き始めたころ、自分の計画づく�
 #@ Blogging has also become a medium in which much overzealous opinion can
 #@ sometimes be expressed a little too quickly. Unfortunately, I have a rather
 #@ embarrassing example of someone who fell into this trap: yours truly.
-Finally, on the topic of conflict, I believe a real life lesson I have learned has been the approach in which critique and successful outcomes should be approached. Although blogging has had a hugely positive impact on how people can articulate and share opinions and perspectives, there has been a dark side. Blogging has also become a medium in which much overzealous opinion can sometimes be expressed a little too quickly. Unfortunately, I have a rather embarrassing example of someone who fell into this trap: yours truly.
+最後に、衝突に関して、私が実際に学んだ教訓を挙げましょう。
+批評とうまくいった成果は、近いものであるべきだというものです。
+ブログには大きなメリットがあって、自分の意見や展望を確実に表現したり共有したりできます。しかし、ブログにはダークサイドもありました。
+ブログは、感情的すぎる意見を拙速に表現してしまえる、そんなメディアにもなってしまったのです。
+残念ながら、この件については、実際にその罠に陥ってしまったやっかいな例を知っています。私自身です。
 
 #@ First, a bit of background. There used to be a company called Lindows that made
 #@ a version of Linux that shared many visual and operational similarities to
