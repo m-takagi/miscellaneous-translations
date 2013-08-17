@@ -741,7 +741,10 @@ Ubuntu Community Managerとして働き始めたころ、自分の計画づく�
 #@ Windows. Microsoft frowned at the name ``Lindows'', and a fight started to
 #@ change the name. Lindows initially resisted, but after mounting pressure,
 #@ changed their name to Linspire.
-First, a bit of background. There used to be a company called Lindows that made a version of Linux that shared many visual and operational similarities to Windows. Microsoft frowned at the name ``Lindows'', and a fight started to change the name. Lindows initially resisted, but after mounting pressure, changed their name to Linspire.
+まずは背景を簡単に説明しましょう。
+昔々あるところにLindowsという企業があって、見た目や操作性をWindowsに似せたLinuxを作っていました。
+Microsoftは「Lindows」という名前に不快感を示し、名前を変えるよう迫りました。
+Lindowsは最初のうちは抵抗していたのですが、重圧に耐えきれず、名前をLinspireに変更することになりました。
 
 #@ Now to the issue. Let me take the liberty to explain in the words of the article
 #@ itself:
