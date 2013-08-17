@@ -774,7 +774,7 @@ Lindowsは最初のうちは抵抗していたのですが、重圧に耐えき�
 #@ that will give you a free digital copy of Linspire! Please visit
 #@ \url{http://linspire.com/freespire} for details''. Oh \dots\ thanks.
 #@ \end{quote}
-Now to the issue. Let me take the liberty to explain in the words of the article itself:
+問題のほうに戻ります。その記事自体を見ていただきましょう。
 
 //quote{
  Recently a chap named Andrew Betts decided to take the non-free elements out of Linspire and release the free parts as another Linspire-derived distribution called Freespire. This act of re-releasing distributions or code is certainly nothing new and is fully within the ethos of open source. In fact, many of the distributions we use today were derived from existing tools.
@@ -788,7 +788,9 @@ Unfortunately, Linspire saw this as a problem and asked for the Freespire name t
 #@ entry. I told the story, objected to what I considered hypocrisy given their own
 #@ battle with similar-sounding trademarks, and vented. I wish Guitar Hero had
 #@ existed back then: it would have been a better use of my time.
-I gave Linspire a pretty full-throated kick in the wedding vegetables in my blog entry. I told the story, objected to what I considered hypocrisy given their own battle with similar-sounding trademarks, and vented. I wish Guitar Hero had existed back then: it would have been a better use of my time.
+自分のブログの記事で、私はLinspireを全否定してしまったのです。
+私はまず一連の流れを説明し、それに反対しました。似た名前の製品との商標にからむ争いに、偽善を感じたのです。怒りを爆発させました。
+あのとき「ギターヒーロー」があれば、もっとましな時間の使い方ができたのにと思います。
 
 #@ I was wrong. My article was never going to achieve anything. Shortly after the
 #@ article was published, then-CEO Kevin Carmony emailed me. He was not a happy
