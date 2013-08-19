@@ -798,7 +798,13 @@ Unfortunately, Linspire saw this as a problem and asked for the Freespire name t
 #@ checking in with him first. My blog entry was my first reaction. The reality of
 #@ the story was far less dramatic, and Linspire were not the ogres that I painted
 #@ them to be. I apologized to Kevin and felt like an idiot.
-I was wrong. My article was never going to achieve anything. Shortly after the article was published, then-CEO Kevin Carmony emailed me. He was not a happy bunny. His objection, and it was valid, was that I flew off the handle without checking in with him first. My blog entry was my first reaction. The reality of the story was far less dramatic, and Linspire were not the ogres that I painted them to be. I apologized to Kevin and felt like an idiot.
+間違っていました。私の記事は何の役にも立たなかったのです。
+あれを公開してから間もなく、当時のCEOだったKevin Carmonyからメールをもらいました。
+彼は卑劣なヤツでも何でもなかったのです。
+彼は、文句を言う前になぜ自分に直接確認しなかったのかと問いただしてきました。もっともな意見です。
+私のブログのあの記事は、条件反射的に出してしまったものでした。
+実際はあれほど劇的な話ではなくて、Linspireは私が書いたような悪者ではなかったのです。
+Kevinに誤った後、「ああ、馬鹿なことをしてしまった」と後悔しました。
 
 #@ Many conflict scenarios are resolved in private discussions where people can be
 #@ open and focus on solutions without the noise. Over the years I have seen many
