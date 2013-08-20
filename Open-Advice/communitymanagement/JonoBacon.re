@@ -810,7 +810,8 @@ Kevinに誤った後、「ああ、馬鹿なことをしてしまった」と後
 #@ open and focus on solutions without the noise. Over the years I have seen many
 #@ examples of a furious public blogging war going on while behind the scenes there
 #@ is a calm exchange of opinions and the focus on solutions.
-Many conflict scenarios are resolved in private discussions where people can be open and focus on solutions without the noise. Over the years I have seen many examples of a furious public blogging war going on while behind the scenes there is a calm exchange of opinions and the focus on solutions.
+多くの衝突は、プライベートな議論で解決するものです。プライベートな議論だと、ノイズを気にせずオープンに話し合え、解決策に集中できます。
+これまでにも、ブログ上での言い争いが白熱している一方でその裏側では落ち着いた意見のやりとりを続け、落としどころを探っていた例を数多く見てきました。
 
 #@ \section*{Wrapping Up}
 == Wrapping Up
