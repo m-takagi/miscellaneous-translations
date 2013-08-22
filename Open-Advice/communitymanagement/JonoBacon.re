@@ -1,5 +1,5 @@
 #@ \chapterwithauthor{Jono Bacon}{Hindsight is Almost 20/20}
-= Hindsight is Almost 20/20
+= 後知恵で言うのは簡単
 
 @<href>{https://github.com/Open-Advice/Open-Advice/blob/master/communitymanagement/JonoBacon.tex, The original text} (licenced under CC-BY-SA)
 
@@ -814,7 +814,7 @@ Kevinに誤った後、「ああ、馬鹿なことをしてしまった」と後
 これまでにも、ブログ上での言い争いが白熱している一方でその裏側では落ち着いた意見のやりとりを続け、落としどころを探っていた例を数多く見てきました。
 
 #@ \section*{Wrapping Up}
-== Wrapping Up
+== まとめ
 
 #@ When I started writing this it was much shorter, but I just kept adding one more
 #@ thing, and then one more thing and so on. It is already long enough that I can
@@ -822,8 +822,11 @@ Kevinに誤った後、「ああ、馬鹿なことをしてしまった」と後
 #@ to hang it up here. I could go on forever with little tidbits and experiences
 #@ that I have been fortunate enough to be involved in and expand my horizons, but
 #@ then I would end up writing The Art of Community II: This Time It's Personal.
-When I started writing this it was much shorter, but I just kept adding one more thing, and then one more thing and so on. It is already long enough that I can probably count the number of people reading this bit on one hand, so I am going to hang it up here. I could go on forever with little tidbits and experiences that I have been fortunate enough to be involved in and expand my horizons, but then I would end up writing The Art of Community II: This Time It's Personal.
+最初はもっと短くまとめるつもりだったのに、あれも書きたいこれも書きたいと追加しているうちに、こうなってしまいました。
+ちょっと長くなりすぎたし、そろそろ読者の皆さんもついてこれなくなっているでしょうから、このあたりで筆を置きましょう。
+いろんな小ネタやこれまでの数々の経験を題材にすれば、いくらでも書き続けられるでしょう。でもそうすると、結局、
+個人的な内容だけで"The Art of Community II"を書き上げることになってしまいます。
 
 #@ Life is a constant on-going experience, and I hope your investment in reading
 #@ this has added to it a little.
-Life is a constant on-going experience, and I hope your investment in reading this has added to it a little.
+人生は常に現在進行形の体験です。この文を読んでくださったことも、その一部になることでしょう。
