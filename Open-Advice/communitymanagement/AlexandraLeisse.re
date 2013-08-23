@@ -17,9 +17,12 @@ Alexandra Leisse
 #@ on the web. Despite holding a degree in opera performance, she mostly refuses to
 #@ sing in public.}
 //lead{
-Alexandra Leisse left one stage to enter another and turn her other passion -- software and the web -- into a profession. After a transition period of 12 months of freelancing both in software and opera -- and sinking countless hours into KDE activities, she joined Nokia, Qt Development Frameworks as Web Community Manager.
+Alexandra Leisseはオペラの舞台を去り、情熱を捧げる別の舞台（ソフトウェアやウェブの世界）を仕事として選んだ。
+ソフトウェアに関してもオペラに関してもフリーランスとして12ヶ月ほど過ごし（そしてその間、KDEの活動に没頭し）た後に、
+彼女はNokiaに合流し、ウェブコミュニティマネージャーとしてQt Development Frameworksにかかわることになった。
 
-She is the woman behind the Qt Developer Network and Qt’s community activities on the web. Despite holding a degree in opera performance, she mostly refuses to sing in public.
+彼女は、Qt Developer NetworkやQtコミュニティのウェブでの活動を支える存在だ。
+オペラの学位を持ってはいるものの、人前で歌うことはめったにない。
 //}
 
 #@ \section*{Introduction}
