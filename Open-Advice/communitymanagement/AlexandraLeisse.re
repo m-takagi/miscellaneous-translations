@@ -63,7 +63,13 @@ Lydiaから『things I wish I had known（知っておきたかったこと）�
 #@ with. Still we seemed to have different standpoints. At some point I grew tired
 #@ of his provocations and lost patience. I told him that things are not always as
 #@ easy with people as engineers wish they were.
-I had no idea who this guy was I met during the first day of my job. He entered the room, introduced himself, and started asking tough questions that gave me the impression that all I thought I would be doing was nonsense. He was apparently well informed about my doings in KDE and the people I used to deal with. Still we seemed to have different standpoints. At some point I grew tired of his provocations and lost patience. I told him that things are not always as easy with people as engineers wish they were.
+入社初日に出会った男性社員が誰だったか、今では思い出せません。
+彼が部屋に入ってきて自己紹介した後、厳しく問い詰められました。
+私がやろうとしていることは、ことごとくばかげているのではないかという気持ちになりました。
+KDEで私がやっていたことや、その当時かかわっていた人たちのことも、彼はよく知っているようでした。
+でも、どうも彼と私の立場は違っているようでした。
+彼の挑発に耐えるのが辛くなって、ある時とうとう堪忍袋の緒が切れました。
+「エンジニアさんたちが思っているほど単純なことじゃないんですよ」と彼に伝えたのです。
 
 #@ It was only after he had left after about an hour of discussing that I googled
 #@ his name: Matthias Ettrich. What I read explained a lot about why he asked the
