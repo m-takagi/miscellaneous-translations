@@ -26,26 +26,32 @@ Alexandra Leisseはオペラの舞台を去り、情熱を捧げる別の舞台�
 //}
 
 #@ \section*{Introduction}
-== Introduction
+== はじめに
 
 #@ When Lydia asked me to join her book project under the working title of ``things
 #@ I wish I had known'', my mind went blank. Things I wish I had known but didn't?
 #@ Nothing came to mind.
-When Lydia asked me to join her book project under the working title of ``things I wish I had known'', my mind went blank. Things I wish I had known but didn't? Nothing came to mind.
+Lydiaから『things I wish I had known（知っておきたかったこと）』という仮題の書籍への寄稿依頼を受けて、頭が真っ白になりました。
+知っておきたかったけど知れなかったこと？何も思い浮かばなかったのです。
 
 #@ I am not saying that I didn't need to learn anything, on the contrary. I had to
 #@ learn a lot and I made countless mistakes. But situations or mistakes I would
 #@ have preferred to avoid? I can't think of any.
-I am not saying that I didn't need to learn anything, on the contrary. I had to learn a lot and I made countless mistakes. But situations or mistakes I would have preferred to avoid? I can't think of any.
+別に、学ぶべきことなんて何もなかったというわけじゃありません。
+学ぶべきことはいろいろあったし、数え切れないほどの間違いも犯してきました。
+でも、できることならもう一度やり直してあんな間違いは犯さないようにしたいって思うようなできごとは、どれ一つとしてありません。
 
 #@ All of us have the annoying tendency to look at the things that we could do
 #@ better, the things we do not know, and perceive them as weaknesses. But what
 #@ about weaknesses that are our strengths?
-All of us have the annoying tendency to look at the things that we could do better, the things we do not know, and perceive them as weaknesses. But what about weaknesses that are our strengths?
+私たちは皆、過去を振り返って「あれはもっとうまくやれたんじゃないか」と考える傾向があります。
+無知であることを、自分の弱点だととらえてしまうのです。
+でも、その弱みをむしろ強みだと考えることもできるのではないでしょうか？
 
 #@ Here is my personal story about ignorance, naivety and false perception, and
 #@ about how happy I am I had no clue.
-Here is my personal story about ignorance, naivety and false perception, and about how happy I am I had no clue.
+ここでは、私自身がいかに無知で無邪気で間違った感覚を持っていたかということをお話します。
+そして、それを解決する手がかりがなかったことが、どれほど私にとって幸運だったのかもお話しましょう。
 
 #@ \section*{Names}
 == Names
