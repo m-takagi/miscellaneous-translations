@@ -75,11 +75,15 @@ KDEで私がやっていたことや、その当時かかわっていた人た�
 #@ his name: Matthias Ettrich. What I read explained a lot about why he asked the
 #@ questions he did. If I had known before that he is one of the founders of the
 #@ KDE project I would have likely argued in a very different way -- if at all.
-It was only after he had left after about an hour of discussing that I googled his name: Matthias Ettrich. What I read explained a lot about why he asked the questions he did. If I had known before that he is one of the founders of the KDE project I would have likely argued in a very different way -- if at all.
+一時間ほどのやりとりの後、彼は立ち去りました。そのときふと、彼の名前（Matthias Ettrich）でググッてみたんです。
+その検索結果を読んで、なぜ彼があんなことを言ってきたのかがよくわかりました。
+彼がKDEプロジェクトの創始者の一人だってことをはじめから知っていたら、私の態度も少しは変わっていたでしょう。
+…いや、まったく変わっていたでしょうね。
 
 #@ I had to look up quite some names during the last years, and I was happy every
 #@ single time that I did it \textit{after} the first contact.
-I had to look up quite some names during the last years, and I was happy every single time that I did it @<i>{after} the first contact.
+過去数年間に関わったいろんな人たちの名前をあわてて検索しました。
+その結果を読むたびに、「はじめて会ったときにこのことを@<i>{知らなくて}よかったな」と、ほっとしました。
 
 #@ This is probably my most important point. When I met all these FOSS people for
 #@ the first time I had almost never heard their names before. I did not know about
