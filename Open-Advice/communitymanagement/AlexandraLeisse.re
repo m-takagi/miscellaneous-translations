@@ -89,7 +89,10 @@ KDEで私がやっていたことや、その当時かかわっていた人た�
 #@ the first time I had almost never heard their names before. I did not know about
 #@ their history, their merits, nor their failures. I approached everyone in the
 #@ same way: on eye-level.
-This is probably my most important point. When I met all these FOSS people for the first time I had almost never heard their names before. I did not know about their history, their merits, nor their failures. I approached everyone in the same way: on eye-level. 
+たぶん、これが一番のポイントでしょう。
+これまでFOSS界のいろんな人に会ってきましたが、初対面の前にその名前を知っていたことは全くと言っていいほどありませんでした。
+それまで何をしてきたのかも知らないし、長所や弱点も知らなかったのです。
+誰であろうと区別せず、同じ視点で接しました。
 
 #@ By being ignorant (or naive, as some have called it), I did not feel inferior to
 #@ the people I met when I started my journey into FOSS land. I knew I had a lot to
