@@ -98,7 +98,9 @@ KDEで私がやっていたことや、その当時かかわっていた人た�
 #@ the people I met when I started my journey into FOSS land. I knew I had a lot to
 #@ learn but I never had the impression I had a lower position than others as a
 #@ person.
-By being ignorant (or naive, as some have called it), I did not feel inferior to the people I met when I started my journey into FOSS land. I knew I had a lot to learn but I never had the impression I had a lower position than others as a person.
+無知でいること（あるいは、世間知らずでいることと言ってもいいかもしれません）で、人と会うときに劣等感を覚えたりはしませんでした。
+FOSSの世界に足を踏み入れて以来、ずっとそうです。
+いろいろ学ぶことは多かったのでしょう。でも、他の人と比べて私が人として劣っているという感じはしなかったのです。
 
 #@ \section*{``High-Profile-Project''}
 == ``High-Profile-Project''
