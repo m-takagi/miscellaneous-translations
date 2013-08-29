@@ -110,7 +110,9 @@ FOSSの世界に足を踏み入れて以来、ずっとそうです。
 #@ mailing-lists. I perceived those channels first and foremost as means of
 #@ communication to a very select audience, mainly users of and contributors to the
 #@ project itself.
-I had not religiously followed dot.kde.org nor PlanetKDE, let alone all those countless other FOSS related publications before I started lurking on KDE mailing-lists. I perceived those channels first and foremost as means of communication to a very select audience, mainly users of and contributors to the project itself. 
+私はdot.kde.orgやPlanetKDEの信者だというわけではありません。
+私がKDEのメーリングリスト上でひっそりと活動を始める前にも、数え切れないほどのFOSS関連の情報源があったことは言うまでもありません。
+私はそういったチャネルを、主に選ばれし者たち（そのプロジェクト自体のユーザーやコントリビューターなど）とのやりとりの場だととらえています。
 
 #@ For quite some time, it did not even cross my mind that the articles I published
 #@ on The Dot might be picked up by journalists. I put an effort into writing them
