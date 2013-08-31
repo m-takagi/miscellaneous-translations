@@ -131,10 +131,13 @@ FOSSの世界に足を踏み入れて以来、ずっとそうです。
 #@ new job almost came as a shock to me. It is not that I did not know that people
 #@ read what I write -- I certainly hope they do! -- I simply did not expect it to
 #@ be that much of a topic. It wasn't even summer break.
-Being quoted on ReadWriteWeb after announcing on my blog that I would start a new job almost came as a shock to me. It is not that I did not know that people read what I write -- I certainly hope they do! -- I simply did not expect it to be that much of a topic. It wasn't even summer break.
+新しい仕事が始まりそうだと自分のブログに書いたのがReadWriteWebに引用されたのを知って、びっくりしました。
+自分の書いたものを人に読まれるってことを知らなかったわけではありません。むしろ読んでもらいたかったし。
+びっくりしたのは、自分のブログがそんなに話題になるとは思っていなかったからです。
+夏休みでさえもなかったのに。
 
 #@ Good thing nobody told me; I would not have been able to publish a single line.
-Good thing nobody told me; I would not have been able to publish a single line.
+こんなこと、誰からも教わらなくてよかったと思います。もし知ってたら、一行たりとも書けなかったでしょう。
 
 #@ \section*{The Outsider}
 == The Outsider
