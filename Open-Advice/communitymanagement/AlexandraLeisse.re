@@ -121,7 +121,11 @@ FOSSの世界に足を踏み入れて以来、ずっとそうです。
 #@ people and what I wrote did not appear that important to me either. I wanted to
 #@ reach certain people, and the official channels and my own blog seemed like the
 #@ most efficient way of doing it.
-For quite some time, it did not even cross my mind that the articles I published on The Dot might be picked up by journalists. I put an effort into writing them because I wanted to do a good job rather than because I was afraid of making a fool out of myself in the world's face. The press list was maintained by other people and what I wrote did not appear that important to me either. I wanted to reach certain people, and the official channels and my own blog seemed like the most efficient way of doing it.
+かなり長い間、私がThe Dotに寄稿した記事がジャーナリストに取り上げられることなど、思いもしませんでした。
+記事を書くときにはかなり力を入れました。単にいい仕事がしたかったからというだけのことで、
+別に自分の馬鹿さ加減を世界に晒すのを恐れていたわけではありません。
+寄稿先のリストは別の人が管理していたので、私が書いた内容がどれほどの重要性を持つのか、自分ではわからなかったのです。
+私は特定の人たちに記事を届けたかったのですが、それには公式チャネルや個人ブログに書くのが一番よさそうでした。
 
 #@ Being quoted on ReadWriteWeb after announcing on my blog that I would start a
 #@ new job almost came as a shock to me. It is not that I did not know that people
