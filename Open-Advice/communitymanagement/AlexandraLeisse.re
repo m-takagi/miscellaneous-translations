@@ -149,7 +149,11 @@ FOSSの世界に足を踏み入れて以来、ずっとそうです。
 #@ graduating from university, I had no relevant education in the field, and I was
 #@ mother of a 10 year-old child. On paper at least, it could not get much
 #@ different from the usual suspects one meets inside FOSS projects.
-Some time ago when I attended my first conference I did so with the firm belief that I was different from the other attendees. I saw myself as an outsider because I did not have much in common with anybody else apart from a fuzzy interest in technology: I had been freelancing for some years already after graduating from university, I had no relevant education in the field, and I was mother of a 10 year-old child. On paper at least, it could not get much different from the usual suspects one meets inside FOSS projects.
+かつて私がはじめてカンファレンスに参加した頃のこと。私は他の人たちとは違うんだと、強く信じ込んでいました。
+自分はよそ者だと思っていたのです。技術的なことに何となく興味があるっていうこと以外に、周りの人たちとは何一つ共通点を感じられませんでした。
+既に大学を出て何年かフリーランスとして働いていましたが、現場で実地教育を受けたわけではありません。
+しかも私ときたら、10才の子持ちの母親だったんですから。
+少なくとも紙の上では、FOSSプロジェクトの中で出会いそうな人たちとの違いはそれほど出せませんでした。
 
 #@ In 2008 I attended a KOffice sprint as part of the KDE marketing and promotion
 #@ team to prepare the 2.0 release. The initial idea was to sketch out a series of
