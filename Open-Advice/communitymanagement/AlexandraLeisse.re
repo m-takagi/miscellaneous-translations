@@ -160,7 +160,11 @@ FOSSの世界に足を踏み入れて以来、ずっとそうです。
 #@ promotional activities supporting the release to grow both developer and user
 #@ base, for which there were three of us running a parallel track to the developer
 #@ discussion.
-In 2008 I attended a KOffice sprint as part of the KDE marketing and promotion team to prepare the 2.0 release. The initial idea was to sketch out a series of promotional activities supporting the release to grow both developer and user base, for which there were three of us running a parallel track to the developer discussion.
+2008年に、KOfficeスプリントに参加しました。これは、KDEのマーケティングチームとプロモーションチームが、
+2.0のリリースに向けた準備の一環として開催したものでした。
+もともとの案としては、リリースに向けたプロモーション活動の概要をまとめるのが目的でした。
+開発者やユーザーをより増やすための案を考えようとしていたのです。
+その中で、私を含めた三名が、並行して開発者向けの議論をしました。
 
 #@ We tried to understand how we could position KOffice and adapt communication to
 #@ the intended audience. Pretty soon in the process, we discovered that we had to
