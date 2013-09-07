@@ -173,7 +173,13 @@ FOSSの世界に足を踏み入れて以来、ずっとそうです。
 #@ developers and early adopters. It was a tough sell to some of the developers but
 #@ as outsiders we had the chance to look at the software without thinking of all
 #@ the blood, sweat and tears that went into the code.
-We tried to understand how we could position KOffice and adapt communication to the intended audience. Pretty soon in the process, we discovered that we had to take a step back: at that point, the immaturity of the suite made it impossible to position it as an option for unsuspecting users. We had to stick with developers and early adopters. It was a tough sell to some of the developers but as outsiders we had the chance to look at the software without thinking of all the blood, sweat and tears that went into the code.
+KOfficeをどうやって市場に投入すればいいのか、そして想定ユーザー層にそれをどうやって伝えればいいのかを理解しようとしました。
+議論を始めて間もなく、自分たちが少し後戻りする必要があることがわかりました。
+その当時の状況では、まだプロダクトが十分に成熟しておらず、何の疑いも持たないユーザーにむけた選択肢として提示するのは不可能だったのです。
+開発者やアーリーアダプターたちにターゲットを絞る必要がありました。
+開発者たちにそれを伝えて説得するのは辛いことでしたが、
+自分たちが部外者であることが幸いしました。
+今まで開発にかけられた多大な労力は考えず、純粋にソフトウェアだけを見て判断できたのです。
 
 #@ For a lot of projects, no matter of which kind they are, the core contributors
 #@ have a hard time taking an objective look at the state of affairs. We tend to
