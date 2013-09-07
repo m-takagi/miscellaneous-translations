@@ -187,7 +187,11 @@ KOfficeをどうやって市場に投入すればいいのか、そして想定�
 #@ detail, or the other way around. Sometimes we miss a good opportunity because we
 #@ \textit{think} it has nothing to do with what we are doing -- or that no-one
 #@ would want this in the first place.
-For a lot of projects, no matter of which kind they are, the core contributors have a hard time taking an objective look at the state of affairs. We tend to not see the great accomplishments while we are so focused on the issues in detail, or the other way around. Sometimes we miss a good opportunity because we @<i>{think} it has nothing to do with what we are doing -- or that no-one would want this in the first place.
+多くのプロジェクトにとって、それがどんな種類のプロジェクトであっても、
+コアコントリビューターがその現状を客観的に見るのは難しいものです。
+それまでに達成した偉業を見ようともせず、細かい問題点やそれ以外のことに目を向けてしまう傾向があります。
+時には絶好の機会を逸してしまうこともあります。自分たちがやっていることには関係がない、
+あるいはそもそもこんなものは誰も欲しがっていない、と@<em>{思い込んで}しまうのです。
 
 #@ In all these cases, people outside the project have the potential to inject some
 #@ different viewpoints into the discussion, particularly when it comes to
