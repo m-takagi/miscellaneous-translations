@@ -199,7 +199,11 @@ KOfficeをどうやって市場に投入すればいいのか、そして想定�
 #@ they will ask different questions, will not feel pressured into knowing and
 #@ understanding all technical details, and they can help decisions and
 #@ communication on a higher level.
-In all these cases, people outside the project have the potential to inject some different viewpoints into the discussion, particularly when it comes to prioritization. It is even more helpful if they are not developers themselves: they will ask different questions, will not feel pressured into knowing and understanding all technical details, and they can help decisions and communication on a higher level.
+いずれの場合についても、プロジェクトの外部の人たちが議論に新たな観点を持ち込む可能性を秘めています。
+特に、何かの優先順位を決めるときにはそれが有用でしょう。
+外部の人が開発者でない場合は、さらに役立ちます。
+開発者とは違う疑問を持つでしょうし、技術的な詳細をすべて知って理解しようなどというプレッシャーにも悩まされません。
+そして、一段上のレベルでの議論や決断をする助けにもなるでしょう。
 
 #@ \section*{Conclusion}
 == Conclusion
