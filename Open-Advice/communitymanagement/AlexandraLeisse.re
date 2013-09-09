@@ -206,13 +206,16 @@ KOfficeをどうやって市場に投入すればいいのか、そして想定�
 そして、一段上のレベルでの議論や決断をする助けにもなるでしょう。
 
 #@ \section*{Conclusion}
-== Conclusion
+== 結論
 
 #@ Ignorance is bliss. It is not only true for the individuals who benefits from
 #@ the fearlessness that results from a lack of knowledge but also for the projects
 #@ these individuals join. They bring different views and experiences.
-Ignorance is bliss. It is not only true for the individuals who benefits from the fearlessness that results from a lack of knowledge but also for the projects these individuals join. They bring different views and experiences.
+「知らぬが仏」これに尽きます。
+知識の欠如に起因する大胆さの恩恵を被るのは、何もその人自身だけではありません。
+その人がかかわっているプロジェクトにとってもメリットがあるのです。
+人とは違うものの見方や経験をもたらしてくれるのですから。
 
 #@ And now, go and find yourself a project that interests you, regardless of what
 #@ you think you know.
-And now, go and find yourself a project that interests you, regardless of what you think you know.
+さあ、何か面白そうなプロジェクトを探して飛び込んでみましょう。いま何を知っているのかなんて気にせずに。
