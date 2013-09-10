@@ -1,5 +1,5 @@
 #@ \chapterwithauthor{Alexandra Leisse}{Things I'm Happy I Didn't Know}
-= Things I'm Happy I Didn't Know
+= 知らなくてよかったこと
 
 @<href>{https://github.com/Open-Advice/Open-Advice/blob/master/communitymanagement/AlexandraLeisse.tex, The original text} (licenced under CC-BY-SA)
 
@@ -54,7 +54,7 @@ Lydiaから『things I wish I had known（知っておきたかったこと）�
 そして、それを解決する手がかりがなかったことが、どれほど私にとって幸運だったのかもお話しましょう。
 
 #@ \section*{Names}
-== Names
+== 名声
 
 #@ I had no idea who this guy was I met during the first day of my job. He entered
 #@ the room, introduced himself, and started asking tough questions that gave me
@@ -103,7 +103,7 @@ FOSSの世界に足を踏み入れて以来、ずっとそうです。
 いろいろ学ぶことは多かったのでしょう。でも、他の人と比べて私が人として劣っているという感じはしなかったのです。
 
 #@ \section*{``High-Profile-Project''}
-== ``High-Profile-Project''
+== 「注目のプロジェクト」
 
 #@ I had not religiously followed dot.kde.org nor PlanetKDE, let alone all those
 #@ countless other FOSS related publications before I started lurking on KDE
@@ -140,7 +140,7 @@ FOSSの世界に足を踏み入れて以来、ずっとそうです。
 こんなこと、誰からも教わらなくてよかったと思います。もし知ってたら、一行たりとも書けなかったでしょう。
 
 #@ \section*{The Outsider}
-== The Outsider
+== 部外者
 
 #@ Some time ago when I attended my first conference I did so with the firm belief
 #@ that I was different from the other attendees. I saw myself as an outsider
