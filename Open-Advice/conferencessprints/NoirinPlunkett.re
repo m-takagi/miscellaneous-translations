@@ -19,7 +19,15 @@ Nóirín Plunkett
 #@# When she’s not online, Nóirín’s natural habitat is the dance floor, although
 #@# she’s also a keen harpist and singer, and an excellent sous chef!}
 //lead{
-Nóirín Plunkett is a jack of all trades, and a master of several. A technical writer by day, her Open Source work epitomizes the saying ``if you want something done, ask a busy person''. Nóirín got her Open Source start at Apache, helping out with the httpd documentation project. Within a year, she had been recruited to the conference planning team, which she now leads. She was involved in setting up the Community Development project at Apache and has previously acted as Org Admin for the Google Summer of Code. She sits on the boards of both the Apache Software Foundation and the Open Cloud Initiative. When she’s not online, Nóirín’s natural habitat is the dance floor, although she’s also a keen harpist and singer, and an excellent sous chef!
+Nóirín Plunkettは何でも屋だが、その中のいくつかは師匠クラスの腕を持つ。
+昼間はテクニカルライターをしている彼女のオープンソース界での活躍は、まさに
+「何かしてもらいたければ忙しい人に頼むとよい」という格言そのものだ。
+Nóirínがオープンソースにかかわるきっかけとなったのは、Apacheでhttpdのドキュメンテーションプロジェクトを手伝ったことだ。
+一年ほどして、彼女はカンファレンス準備チームに引き抜かれた。今は彼女がチームを率いている。
+彼女はApacheでCommunity Developmentプロジェクトの立ち上げに参加し、
+かつてはGoogle Summer of CodeでOrg Adminも担当していた。
+Apache Software FoundationとOpen Cloud Initiativeの理事を務めている。
+オフラインでの彼女の居場所はダンスフロアだ。ハープ奏者であり歌手でもある彼女は、実は凄腕の副料理長でもある！
 //}
 
 #@# \noindent{}There is no such thing as a typical path, although mine was perhaps
