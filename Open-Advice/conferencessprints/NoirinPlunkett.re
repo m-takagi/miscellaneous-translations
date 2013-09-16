@@ -38,7 +38,10 @@ Apache Software FoundationとOpen Cloud Initiativeの理事を務めている。
 #@# on various docs and translations, and I got a commit bit on the Apache
 #@# httpd project.
 //noindent
-There is no such thing as a typical path, although mine was perhaps less typical than most. I first got a commit bit in my twenties, by which time I had already spent more than a year working at Microsoft. But after Microsoft I had moved to a foreign country to continue my studies, and it was nice to have a distraction, so I started working on various docs and translations, and I got a commit bit on the Apache httpd project.
+そもそも典型的な経歴というのがあるのかどうかもわかりませんが、私の経歴はおそらくそれとはかけ離れているでしょう。
+私がはじめてコミット権をもらったのは20代のころで、Microsoftで働き始めて1年以上たってからのことでした。
+その後Microsoftを離れ、海外で研究を続けることになりました。その気分転換として、
+いろんなドキュメントや翻訳の作業を始めたのです。そして、Apache httpdプロジェクトのコミット権をもらいました。
 
 #@# As luck would have it, of course, ApacheCon EU was going to be held in
 #@# Dublin the summer I was studying in Munich. But luck is kind to the
