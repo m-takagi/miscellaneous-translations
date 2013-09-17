@@ -47,7 +47,8 @@ Apache Software FoundationとOpen Cloud Initiativeの理事を務めている。
 #@# Dublin the summer I was studying in Munich. But luck is kind to the
 #@# Irish, and with only a little bit of wangling, I persuaded Sun
 #@# Microsystems to sponsor me to attend the conference.
-As luck would have it, of course, ApacheCon EU was going to be held in Dublin the summer I was studying in Munich. But luck is kind to the Irish, and with only a little bit of wangling, I persuaded Sun Microsystems to sponsor me to attend the conference.
+ラッキーなことに、ApacheCon EUがダブリンで開催されようとしていました。私がミュンヘンで研究していた夏のことでした。
+私はサン・マイクロシステムズに、アイルランドまで行ってカンファレンスに参加するための資金を出してもらうようお願いしました。
 
 #@# I have a photo of the
 #@# moment I realized that this Open Source thing was for real, was going
