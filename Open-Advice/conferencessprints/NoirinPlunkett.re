@@ -53,7 +53,7 @@ Apache Software FoundationとOpen Cloud Initiativeの理事を務めている。
 #@# I have a photo of the
 #@# moment I realized that this Open Source thing was for real, was going
 #@# to change the world.
-I have a photo of the moment I realized that this Open Source thing was for real, was going to change the world.
+そのときの写真は今でも持っています。オープンソースというものが存在し、世界を変えようとしつつあるということを私が知ったのが、そのときでした。
 
 #@# It was the evening before the conference. We still had not figured out
 #@# where the fibre was terminated, that was supposed to make up our
