@@ -65,9 +65,12 @@ Apache Software FoundationとOpen Cloud Initiativeの理事を務めている。
 #@# try and find
 #@# the fibre; still no joy. In the end, we found it in the comms cupboard
 #@# of the nightclub in the basement next door.}.
-It was the evening before the conference. We still had not figured out where the fibre was terminated, that was supposed to make up our network backbone. We had checked every corner, cupboard and skirting, to no avail. We had given up for the night, and were busy trying to make sure that the rooms that would be hosting training classes the next day had at least enough connectivity for the trainers to demonstrate their material@<fn>{f01}.
+カンファレンス前日の午後のことでした。
+私たちは、ファイバーの端を必死で探していました。そこからネットワークのバックボーンを引く予定だったのです。
+あらゆるところを隅から隅まで調べましたが、見つかりませんでした。
+その日は探すのをあきらめ、翌日トレーニングクラスを開催する予定の部屋については、とりあえず講師がデモをするための最低限のネットワークを必死で用意しました@<fn>{f01}。
 
-//footnote[f01][The next morning, we checked up in the roof space, to try and find the fibre; still no joy. In the end, we found it in the comms cupboard of the nightclub in the basement next door.]
+//footnote[f01][翌朝になって屋根裏を調べてみましたが、まだファイバーは見つかりませんでした。結局それは、お隣の地下のナイトクラブにある食器棚の中にあったのです。]
 
 #@# And as evening turned into night, and routers slowly revealed their
 #@# Default Configuration secrets, half a dozen volunteers, people I had
