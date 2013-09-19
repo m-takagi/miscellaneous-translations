@@ -75,7 +75,7 @@ Apache Software FoundationとOpen Cloud Initiativeの理事を務めている。
 #@# And as evening turned into night, and routers slowly revealed their
 #@# Default Configuration secrets, half a dozen volunteers, people I had
 #@# only met that afternoon, became friends.
-And as evening turned into night, and routers slowly revealed their Default Configuration secrets, half a dozen volunteers, people I had only met that afternoon, became friends.
+夜がふけるにつれて、ルーターのデフォルト設定の謎が徐々に解けてきました。当日初めて顔を合わせたばかりのボランティアたちとも、そこで友達になりました。
 
 #@# I could not tell you where the half dozen girls I lived with that
 #@# summer in Munich are now. But I am still in contact with each of the
