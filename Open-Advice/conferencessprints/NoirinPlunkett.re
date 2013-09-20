@@ -83,7 +83,11 @@ Apache Software FoundationとOpen Cloud Initiativeの理事を務めている。
 #@# country, another to a different continent. Most of them have changed
 #@# jobs in the meantime, and I have graduated, taking up the grand Irish
 #@# tradition of emigration to find employment.
-I could not tell you where the half dozen girls I lived with that summer in Munich are now. But I am still in contact with each of the people you see in that picture. One of them has moved to a different country, another to a different continent. Most of them have changed jobs in the meantime, and I have graduated, taking up the grand Irish tradition of emigration to find employment.
+あの夏いっしょにミュンヘンで過ごしていた仲間たちが今どこに住んでいるのかはわかりません。
+でも、写真にうつっているメンバーとは、今も連絡を取り合っています。
+外国に引っ越した人もいれば、海を越えて別の大陸に渡った人もいます。
+ほとんどは職を変えています。私は卒業後、アイルランド人の伝統に従って、
+職を探すべく移住しました。
 
 #@# You see, Open Source is all about the people. Really, on almost any
 #@# project you would want to be a part of, the code comes second. People are
