@@ -98,7 +98,13 @@ Apache Software FoundationとOpen Cloud Initiativeの理事を務めている。
 #@# you think is important; but unless you have people with whom you can
 #@# collaborate, discuss, design, and develop, you are probably going to
 #@# lose interest or get stuck before too long.
-You see, Open Source is all about the people. Really, on almost any project you would want to be a part of, the code comes second. People are what distinguish a project that is a joy to work on from one that is a chore; people are what make the difference between a project that is flourishing and one that languishes in the bitbucket. Sure, you will only stay up all night coding on a project if it is solving a problem you think is important; but unless you have people with whom you can collaborate, discuss, design, and develop, you are probably going to lose interest or get stuck before too long.
+ご存じのとおり、オープンソースで大切なのは、結局は人です。
+実際、何かのプロジェクトに関わりたいと思うときは、たいていコードは二の次です。
+そのプロジェクトで雑用をしていても苦にならず、楽しくやれるかどうか。その決め手になるのは、プロジェクトに関わる人たちです。
+にぎわっているプロジェクトとビットの海に消えていくプロジェクトとの違いが、そこにあるのです。
+確かに、重大な問題を解決するためのコーディングなら、徹夜ででもやれるでしょう。
+でも、一緒に協力しあったり議論したり設計や開発を手伝ったりしてくれる仲間がいなければ、
+そのうち興味を失ったり行き詰まったりしてしまうことでしょう。
 
 #@# The true value of conferences, sprints, hackathons, retreats, or
 #@# whatever your community calls their face-to-face moments, is exactly
