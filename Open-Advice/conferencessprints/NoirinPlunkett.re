@@ -113,7 +113,11 @@ Apache Software FoundationとOpen Cloud Initiativeの理事を務めている。
 #@# they begin babbling, and no matter how good people are about being
 #@# friendly and polite in email, there is something lost in those
 #@# communications.
-The true value of conferences, sprints, hackathons, retreats, or whatever your community calls their face-to-face moments, is exactly that. Coming face-to-face with the people you have been working with. Human beings are social animals; babies recognize faces even before they begin babbling, and no matter how good people are about being friendly and polite in email, there is something lost in those communications.
+カンファレンスやスプリント、ハッカソン、リトリート、その他コミュニティのメンバーどうしが顔をあわせる系のイベントの真の価値は、まさにそこにあります。
+これまで一緒に作業をしてきた人たちと、こういった場所で直接会うのです。
+人間は、社会的な生き物です。赤ちゃんはしゃべり始めるより先に顔を見分けるようになります。
+また、いくらフレンドリーで丁寧なメールのやりとりをしていたとしても、
+直接の会話でのコミュニケーションには及びません。
 
 #@# Meeting people face to face gives us an opportunity to recognize the
 #@# humanity in those we might have struggled to get along with; to share
