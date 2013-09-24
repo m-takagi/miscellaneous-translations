@@ -135,9 +135,10 @@ Apache Software FoundationとOpen Cloud Initiativeの理事を務めている。
 #@# wonderful, caring human beings; I hope that in time, changing
 #@# attitudes will stop the minority from thinking that they can get away
 #@# with unreasonable behavior in these venues.}.
-Meeting people face to face gives us an opportunity to recognize the humanity in those we might have struggled to get along with; to share the joy of a job well done with those we love to work with. Therefore, if I could have chosen one piece of advice, to hear when I was starting out, it would be to get out there, to meet people, to put faces to names at every opportunity@<fn>{f02}.
+Meeting people face to face gives us an opportunity to recognize the humanity in those we might have struggled to get along with; to share the joy of a job well done with those we love to work with.
+Therefore, if I could have chosen one piece of advice, to hear when I was starting out, it would be to get out there, to meet people, to put faces to names at every opportunity@<fn>{f02}.
 
-//footnote[f02][Sadly, I do say this with a caveat; as with any large gathering of people, there are risks to attending an Open Source conference. Some are worse than others, but in my own experience, assault in particular seems to be more prevalent in technical communities than in the non-technical. Seek out events that have a published code-of-conduct or anti-harassment policy, and ask for backup if you feel unsafe. The vast majority of the people you will find at an Open Source event are wonderful, caring human beings; I hope that in time, changing attitudes will stop the minority from thinking that they can get away with unreasonable behavior in these venues.]
+//footnote[f02][残念ながら、気をつけておきたいことがあります。人が大勢集まる場ならみんな同じですが、オープンソースのカンファレンスに参加することにもリスクはあります。リスクにはいろいろあるのがですが、経験上、技術系のコミュニティでは非技術系のコミュニティより、特定の何かへの攻撃がよく見られます。イベントを探すときは、行動規範やアンチハラスメントポリシーが明示されているものを探すようにしましょう。もし不安な場合は、バックアップを求めましょう。オープンソースのイベントに関わる人たちのほとんどは、すばらしくて思いやりのある人たちです。いつの日か、マイノリティたちがその場での理不尽な振る舞いから逃げようと考えずに済むようになることを望みます。]
 
 #@# And if you find the opportunities are few and far between, do not be
 #@# afraid to ask. Look for people who are traveling near you, or who
