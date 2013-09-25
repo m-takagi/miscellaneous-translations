@@ -144,7 +144,10 @@ Apache Software FoundationとOpen Cloud Initiativeの理事を務めている。
 #@# afraid to ask. Look for people who are traveling near you, or who
 #@# live where you are traveling; seek sponsorship to attend the larger
 #@# community events; organize an event of your own!
-And if you find the opportunities are few and far between, do not be afraid to ask. Look for people who are traveling near you, or who live where you are traveling; seek sponsorship to attend the larger community events; organize an event of your own!
+そんな機会がほとんど見つからないとかいう人もいるかもしれません。でもあきらめないで。
+旅行で近くにやってきた人に会うとか、旅行先でその土地の人に会うとか。
+大きめのコミュニティのイベントに参加を支援してくれるところを探すとか、
+なんだったら自分でイベントを開催してみるのもいいかも！
 
 #@# It is the richness of our communities that makes Open Source what it
 #@# is, and the shared striving towards common goals. And of course, the
