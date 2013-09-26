@@ -156,4 +156,7 @@ Apache Software FoundationとOpen Cloud Initiativeの理事を務めている。
 #@# people in person, even your email interactions will be much richer,
 #@# much more fulfilling, and much more fruitful, than they had previously
 #@# been.
-It is the richness of our communities that makes Open Source what it is, and the shared striving towards common goals. And of course, the music sessions, the meals, the pints, and the parties! These are the things that bring us together, and you will find that once you have met people in person, even your email interactions will be much richer, much more fulfilling, and much more fruitful, than they had previously been.
+この豊かなコミュニティこそがオープンソースの今の地位を築き、そしてゴールを共有してみんなで協力し合っているのです。
+そしてもちろん、音楽のセッションや食事とお酒、そしてパーティなどもね！
+私たちが集まるのもそのためです。一度顔を合わせて話をすれば、
+メールでのやりとりだってこれまでよりずっと豊かになり、きっと実り多いものになるでしょう。
