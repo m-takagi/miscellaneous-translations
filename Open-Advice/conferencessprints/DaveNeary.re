@@ -18,7 +18,12 @@ Dave Neary
 #@# the GIMP Conference, Ignite Lyon, the Open World Forum, and the MeeGo
 #@# Conference.}
 //lead{
-Dave Neary has been working on Free and Open Source projects since he discovered Linux in 1996. A long-time contributor to GNOME and the GIMP, he has worked full time helping companies come to terms with community-developed software since 2007. In that time, he has worked with projects including OpenWengo, Maemo and MeeGo on projects including event organization, community processes, product management and community metrics. As a volunteer, he has been involved in the organisation of GUADEC, the Desktop Summit, the Libre Graphics Meeting, the GIMP Conference, Ignite Lyon, the Open World Forum, and the MeeGo Conference.
+Dave Nearyがフリーソフトウェア／オープンソースソフトウェアのプロジェクトに関わり始めたのは、彼がLinuxに出会った1996年のことだった。
+長年にわたってGNOMEやGIMPに貢献し続けている彼は、2007年以降はフルタイムでこれらのソフトウェアに関わっている。
+また、OpenWengoやMaemoそしてMeeGoといったプロジェクトにも参加しており、
+イベントを開催したりコミュニティを運営したり、プロダクト管理をしたりしている。
+また、ボランティアとして、さまざまなイベントの運営に強力している。
+GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon、Open World Forum、そしてMeeGo Conferenceなどだ。
 //}
 
 #@# \noindent{}One of the most important things you can do in a Free Software project,
