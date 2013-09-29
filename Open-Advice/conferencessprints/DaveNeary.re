@@ -55,7 +55,8 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
 #@# If you are not careful, the venue will be a huge expense, and you will have
 #@# to find that money somewhere. But if you are smart, you can manage a
 #@# free venue quite easily.
-If you are not careful, the venue will be a huge expense, and you will have to find that money somewhere. But if you are smart, you can manage a free venue quite easily.
+何も考えずに動いていると、会場代がかなり高くつくことになる。何とかして資金を捻出することを強いられるだろう。
+でも、頭を使えば、タダで使える会場を簡単に見つけられる。
 
 #@# Here are a few strategies you might want to try:
 Here are a few strategies you might want to try:
