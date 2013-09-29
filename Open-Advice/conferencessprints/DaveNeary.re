@@ -40,14 +40,17 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
 これまでの経験で学んだことを、いくつか紹介しよう。
 
 #@# \section*{1. Venue}
-== Venue
+== 会場
 
 #@# The starting point for most meetings or conferences is the venue. If
 #@# you are getting a small group (under 10 people) together, then it is
 #@# usually OK just to pick a city, and ask a friend who runs a business or
 #@# is a college professor to book a room for you. Once you get bigger, you
 #@# may need to go through a more formal process.
-The starting point for most meetings or conferences is the venue. If you are getting a small group (under 10 people) together, then it is usually OK just to pick a city, and ask a friend who runs a business or is a college professor to book a room for you. Once you get bigger, you may need to go through a more formal process.
+カンファレンスなどのイベントを主催するときにまず考えることになるのは、会場だ。
+10人未満の小さな集まりなら話は早い。
+開催地を選び、そこで働いている友人だとか先生だとかに部屋を確保してもらえばそれでいい。
+ただ、規模が大きくなってくると、それなりにフォーマルな手続きが必要になる。
 
 #@# If you are not careful, the venue will be a huge expense, and you will have
 #@# to find that money somewhere. But if you are smart, you can manage a
