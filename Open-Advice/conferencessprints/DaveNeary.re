@@ -30,13 +30,14 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
 #@# besides writing code, is to get your key contributors together as often
 #@# as possible.
 //noindent
-One of the most important things you can do in a Free Software project, besides writing code, is to get your key contributors together as often as possible.
+フリーソフトウェアのプロジェクトでは、コードを書く以外にもできることがある。中でも一番重要なのは、鍵となるコントリビューターたちを引き合わせることだ。
 
 #@# I have been fortunate to be able to organize a number of events in the
 #@# past 10 years, and also to observe others and learn from them over that
 #@# time. Here are some of the lessons I have learned over the years from that
 #@# experience:
-I have been fortunate to be able to organize a number of events in the past 10 years, and also to observe others and learn from them over that time. Here are some of the lessons I have learned over the years from that experience:
+私は幸いにも、この10年間でいくつものイベントを運営することができた。また、他の人たちのやり方を見て、学んでもきた。
+これまでの経験で学んだことを、いくつか紹介しよう。
 
 #@# \section*{1. Venue}
 == Venue
