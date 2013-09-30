@@ -96,8 +96,11 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
 #@# also putting cities in competition with each other, and like Olympic
 #@# bids, cities do not like to lose competitions they are in!
 #@# \end{itemize}
- * 別のイベントと抱き合わせにする - the Linux Foundation Collaboration Summit, OSCON, LinuxTag, GUADEC and many other conferences are happy to host workshops or meet-ups for smaller groups.
- The GIMP Developers Conference in 2004 was the first meet-up that I organized, and to avoid the hassle of dealing with a venue, finding a time that suited everyone, and so on, I asked the GNOME Foundation if they would not mind setting aside some space for us at GUADEC -- and they said yes.
+ * 別のイベントと抱き合わせにする - Linux Foundation Collaboration SummitやOSCON、LinuxTag、GUADECなど多くのカンファレンスでは、
+ 少人数でのちょっとしたワークショップや集まりを併催できるようになっている。
+ 私が初めて主催した集まりは2004年のGIMP Developers Conferenceだった。
+ 開催地を決めたりみんなのスケジュールを調整したりといったことにわずらさされたくなかったので、
+ GNOME Foundationに、GUADECの会場を間借りさせてもらえないか聞いてみた。答えはイエスだった。
  Take advantage of the bigger conference's organization, and you get the added benefit of attending the bigger conference at the same time!
  * 近所の大学の空き教室を借りる - This will not work once you go over a certain size, but especially for universities which have academics who are members of the local Linux User Group (LUG), they can talk their department head into booking a lecture theatre and a few classrooms for a weekend.
  Many universities will ask to do a press release and get credit on the conference website, and this is a completely fair deal.
