@@ -59,7 +59,7 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
 でも、頭を使えば、タダで使える会場を簡単に見つけられる。
 
 #@# Here are a few strategies you might want to try:
-Here are a few strategies you might want to try:
+こんな作戦を試してみよう。
 #@# \begin{itemize}
 #@#  \item Piggy-back on another event -- the Linux Foundation Collaboration
 #@# Summit, OSCON, LinuxTag, GUADEC and many other conferences are happy to
@@ -96,40 +96,21 @@ Here are a few strategies you might want to try:
 #@# also putting cities in competition with each other, and like Olympic
 #@# bids, cities do not like to lose competitions they are in!
 #@# \end{itemize}
- * Piggy-back on another event -- the Linux Foundation Collaboration
- Summit, OSCON, LinuxTag, GUADEC and many other conferences are happy to
- host workshops or meet-ups for smaller groups. The GIMP Developers
- Conference in 2004 was the first meet-up that I organized, and to avoid
- the hassle of dealing with a venue, finding a time that suited everyone,
- and so on, I asked the GNOME Foundation if they would not mind setting
- aside some space for us at GUADEC -- and they said yes.
- Take advantage of the bigger conference's organization, and you get the
- added benefit of attending the bigger conference at the same time!
- * Ask local universities for free rooms - This will not work once you go
- over a certain size, but especially for universities which have
- academics who are members of the local Linux User Group (LUG), they can talk
- their department head into booking a lecture theatre and a few classrooms for a
- weekend. Many universities will ask to do a press release and get credit
- on the conference website, and this is a completely fair deal.
- The first Libre Graphics Meeting was hosted free in CPE Lyon, and the
- GNOME Boston Summit has been hosted free for a number of years at MIT.
- * If the venue can not be free, see if you can get someone else to pay
- for it. Once your conference is bigger than about 200 people, most
- venues will require payment. Hosting a conference will cost them a lot,
- and it is a big part of the business model of universities to host
- conferences when the students are gone. But just because the university
- or conference center will not host you for free that does not mean that you have
- to be the one paying. Local regional governments like to be involved with big
- events in their region. GUADEC in Stuttgart, the Gran Canaria Desktop Summit, and this year's Desktop Summit in Berlin have all had the cost of the venue
- covered by the host region. An additional benefit of partnering with the
- region is that they will often have links to local industry and press --
- resources you can use to get publicity and perhaps even sponsorship for
- your conference.
- * Run a bidding process -- by encouraging groups wishing to host the
- conference to put in bids, you are also encouraging them to source a
- venue and talk to local partners before you decide where to go. You are
- also putting cities in competition with each other, and like Olympic
- bids, cities do not like to lose competitions they are in!
+ * 別のイベントと抱き合わせにする - the Linux Foundation Collaboration Summit, OSCON, LinuxTag, GUADEC and many other conferences are happy to host workshops or meet-ups for smaller groups.
+ The GIMP Developers Conference in 2004 was the first meet-up that I organized, and to avoid the hassle of dealing with a venue, finding a time that suited everyone, and so on, I asked the GNOME Foundation if they would not mind setting aside some space for us at GUADEC -- and they said yes.
+ Take advantage of the bigger conference's organization, and you get the added benefit of attending the bigger conference at the same time!
+ * 近所の大学の空き教室を借りる - This will not work once you go over a certain size, but especially for universities which have academics who are members of the local Linux User Group (LUG), they can talk their department head into booking a lecture theatre and a few classrooms for a weekend.
+ Many universities will ask to do a press release and get credit on the conference website, and this is a completely fair deal.
+ The first Libre Graphics Meeting was hosted free in CPE Lyon, and the GNOME Boston Summit has been hosted free for a number of years at MIT.
+ * タダで使える会場がなさそうなら、会場代を出してくれそうな人を探す。
+ Once your conference is bigger than about 200 people, most venues will require payment.
+ Hosting a conference will cost them a lot, and it is a big part of the business model of universities to host conferences when the students are gone.
+ But just because the university or conference center will not host you for free that does not mean that you have to be the one paying.
+ Local regional governments like to be involved with big events in their region.
+ GUADEC in Stuttgart, the Gran Canaria Desktop Summit, and this year's Desktop Summit in Berlin have all had the cost of the venue covered by the host region.
+ An additional benefit of partnering with the region is that they will often have links to local industry and press -- resources you can use to get publicity and perhaps even sponsorship for your conference.
+ * 入札方式にする -- by encouraging groups wishing to host the conference to put in bids, you are also encouraging them to source a venue and talk to local partners before you decide where to go.
+ You are also putting cities in competition with each other, and like Olympic bids, cities do not like to lose competitions they are in!
 
 #@# \section*{2. Budget}
 == Budget
