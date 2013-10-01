@@ -101,10 +101,12 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
  私が初めて主催した集まりは2004年のGIMP Developers Conferenceだった。
  開催地を決めたりみんなのスケジュールを調整したりといったことにわずらさされたくなかったので、
  GNOME Foundationに、GUADECの会場を間借りさせてもらえないか聞いてみた。答えはイエスだった。
- Take advantage of the bigger conference's organization, and you get the added benefit of attending the bigger conference at the same time!
- * 近所の大学の空き教室を借りる - This will not work once you go over a certain size, but especially for universities which have academics who are members of the local Linux User Group (LUG), they can talk their department head into booking a lecture theatre and a few classrooms for a weekend.
- Many universities will ask to do a press release and get credit on the conference website, and this is a completely fair deal.
- The first Libre Graphics Meeting was hosted free in CPE Lyon, and the GNOME Boston Summit has been hosted free for a number of years at MIT.
+ 大規模なカンファレンスの運営チームをうまく活用すれば、大規模なカンファレンスにも同時に参加できるっていうおまけつきだ！
+ * 近所の大学の空き教室を借りる - そこそこの規模になってしまうとこの技は使えない。
+ でも、地元のLinux User Group (LUG)に参加する教師のいるような大学なら特に、
+ 学部に頼んで講堂や教室を週末に貸してくれるかもしれない。
+ たいていの大学では、そんなときにはプレスリリースを求めるだろうし、カンファレンスのサイトに会場提供のクレジットを掲載して欲しいとも言うだろう。まあ妥当な取引だ。
+ 最初のLibre Graphics Meetingはリヨン化学物理電子専門学校を無料で借りて開催したし、GNOME Boston Summitもこの数年ずっと、マサチューセッツ工科大学を無料で使わせていただいている。
  * タダで使える会場がなさそうなら、会場代を出してくれそうな人を探す。
  Once your conference is bigger than about 200 people, most venues will require payment.
  Hosting a conference will cost them a lot, and it is a big part of the business model of universities to host conferences when the students are gone.
