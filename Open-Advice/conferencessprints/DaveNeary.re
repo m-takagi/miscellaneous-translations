@@ -108,12 +108,14 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
  たいていの大学では、そんなときにはプレスリリースを求めるだろうし、カンファレンスのサイトに会場提供のクレジットを掲載して欲しいとも言うだろう。まあ妥当な取引だ。
  最初のLibre Graphics Meetingはリヨン化学物理電子専門学校を無料で借りて開催したし、GNOME Boston Summitもこの数年ずっと、マサチューセッツ工科大学を無料で使わせていただいている。
  * タダで使える会場がなさそうなら、会場代を出してくれそうな人を探す。
- Once your conference is bigger than about 200 people, most venues will require payment.
- Hosting a conference will cost them a lot, and it is a big part of the business model of universities to host conferences when the students are gone.
- But just because the university or conference center will not host you for free that does not mean that you have to be the one paying.
- Local regional governments like to be involved with big events in their region.
- GUADEC in Stuttgart, the Gran Canaria Desktop Summit, and this year's Desktop Summit in Berlin have all had the cost of the venue covered by the host region.
- An additional benefit of partnering with the region is that they will often have links to local industry and press -- resources you can use to get publicity and perhaps even sponsorship for your conference.
+ 200人規模を超えると、タダで使える会場はほとんど見つからなくなる。
+ カンファレンスの開催場所を提供するのにはコストがかかるし、大学にとってもそれは主要なビジネスモデルのひとつだ。
+ でも、大学や会議場が場所を無料で貸してくれないからといって、必ずしもあなたが料金を支払う必要があるわけではない。
+ 地方自治体は、自分の地域内での大規模イベントに関わりたいと思うものだ。
+ シュツットガルトでのGUADEC、Gran Canaria Desktop Summit、そして今年ベルリンで開かれたDesktop Summit。
+これらの開催場所に関する費用は、すべて地方自治体がまかなった。
+地方自治体の協力を得ることには、資金面以外のメリットもある。地方自治体は地元の企業やマスメディアとつながりを持っていることが多いので、
+それをうまく活用すれば広報活動もできるし、うまくすればカンファレンスに協賛してくれるかもしれない。
  * 入札方式にする -- by encouraging groups wishing to host the conference to put in bids, you are also encouraging them to source a venue and talk to local partners before you decide where to go.
  You are also putting cities in competition with each other, and like Olympic bids, cities do not like to lose competitions they are in!
 
