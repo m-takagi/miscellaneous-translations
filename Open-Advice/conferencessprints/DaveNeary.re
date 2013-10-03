@@ -113,11 +113,12 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
  でも、大学や会議場が場所を無料で貸してくれないからといって、必ずしもあなたが料金を支払う必要があるわけではない。
  地方自治体は、自分の地域内での大規模イベントに関わりたいと思うものだ。
  シュツットガルトでのGUADEC、Gran Canaria Desktop Summit、そして今年ベルリンで開かれたDesktop Summit。
-これらの開催場所に関する費用は、すべて地方自治体がまかなった。
-地方自治体の協力を得ることには、資金面以外のメリットもある。地方自治体は地元の企業やマスメディアとつながりを持っていることが多いので、
-それをうまく活用すれば広報活動もできるし、うまくすればカンファレンスに協賛してくれるかもしれない。
- * 入札方式にする -- by encouraging groups wishing to host the conference to put in bids, you are also encouraging them to source a venue and talk to local partners before you decide where to go.
- You are also putting cities in competition with each other, and like Olympic bids, cities do not like to lose competitions they are in!
+ これらの開催場所に関する費用は、すべて地方自治体がまかなった。
+ 地方自治体の協力を得ることには、資金面以外のメリットもある。地方自治体は地元の企業やマスメディアとつながりを持っていることが多いので、
+ それをうまく活用すれば広報活動もできるし、うまくすればカンファレンスに協賛してくれるかもしれない。
+ * 入札方式にする -- カンファレンスの開催を希望する都市による入札方式にすれば、
+ 開催地の確保だけでなく地元企業との事前調整などの様子も見てから行き先を決められる。
+ それぞれ都市どうしで争わせるわけだ。オリンピックの招致合戦を見てもわかるように、みんな負けず嫌いだからね！
 
 #@# \section*{2. Budget}
 == Budget
