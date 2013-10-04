@@ -121,12 +121,14 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
  それぞれ都市どうしで争わせるわけだ。オリンピックの招致合戦を見てもわかるように、みんな負けず嫌いだからね！
 
 #@# \section*{2. Budget}
-== Budget
+== 予算
 
 #@# Conferences cost money. Major costs for a small meet-up might be
 #@# covering the travel costs of attendees. For a larger conference, the
 #@# major costs will be equipment, staff and venue.
-Conferences cost money. Major costs for a small meet-up might be covering the travel costs of attendees. For a larger conference, the major costs will be equipment, staff and venue.
+カンファレンスには金がかかる。
+小さめの集まりなら、主要なコストは参加者の交通費の支援ということになるだろう。
+大規模なカンファレンスになると、設備やスタッフそして会場に関する費用が主になる。
 
 #@# Every time I have been raising the budget for a conference, my rule of
 #@# thumb has been simple:
