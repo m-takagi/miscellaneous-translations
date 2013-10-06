@@ -155,7 +155,9 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
 #@# organizing accommodation, venue, talks, food and drinks, social
 #@# activities and everything else people expect at an event is more
 #@# important than raising money.
-Remember, your primary goal is to get project participants together to advance the project. So getting the word out to prospective attendees, organizing accommodation, venue, talks, food and drinks, social activities and everything else people expect at an event is more important than raising money.
+思いだそう。本来の目的は、プロジェクトのメンバーを同じ場所に集めて、プロジェクトを前進させることだった。
+つまり、参加してくれるであろう人たちに向けたコメントを出したり、宿泊施設や会場そしてトーク、食事、飲み物など参加者がイベントに期待するものを揃えることのほうが、
+資金調達よりもずっと大切だ。
 
 #@# Of course, you need money to be able to do all the rest of that stuff,
 #@# so finding sponsors, fixing sponsorship levels, and selling your
