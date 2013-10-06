@@ -132,15 +132,15 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
 
 #@# Every time I have been raising the budget for a conference, my rule of
 #@# thumb has been simple:
-Every time I have been raising the budget for a conference, my rule of thumb has been simple:
+カンファレンスの予算を確保するとき、私はいつもこんな感じのシンプルなルールで進めている。
 #@# \begin{enumerate}
 #@#  \item Decide how much money you need to put on the event
 #@#  \item Fundraise until you reach that amount
 #@#  \item Stop fundraising, and move on to other things
 #@# \end{enumerate}
- 1. Decide how much money you need to put on the event
- 2. Fundraise until you reach that amount
- 3. Stop fundraising, and move on to other things
+ 1. イベントの開催にどれだけの費用が必要なのかを判断する
+ 2. その額に達するまで資金調達を続ける
+ 3. 資金調達を止めて、別の作業に取りかかる
 
 #@# Raising money is a tricky thing to do. You can literally spend all of
 #@# your time doing it. At the end of the day, you have a conference to put
