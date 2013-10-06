@@ -146,7 +146,9 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
 #@# your time doing it. At the end of the day, you have a conference to put
 #@# on, and the amount of money in the budget is not the major concern of
 #@# your attendees.
-Raising money is a tricky thing to do. You can literally spend all of your time doing it. At the end of the day, you have a conference to put on, and the amount of money in the budget is not the major concern of your attendees.
+資金調達は、簡単なことではない。
+文字通り、全力で取り組むことになるだろう。
+最終的にカンファレンスを終えたときには、どれだけの資金を使ったのかなど参加者は誰も気にしない。
 
 #@# Remember, your primary goal is to get project participants together to
 #@# advance the project. So getting the word out to prospective attendees,
