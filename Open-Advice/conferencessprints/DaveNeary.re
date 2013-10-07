@@ -164,11 +164,12 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
 #@# conference is a necessary evil. But once you have reached the amount of
 #@# money you need for the conference, you really do have better things to
 #@# do with your time.
-Of course, you need money to be able to do all the rest of that stuff, so finding sponsors, fixing sponsorship levels, and selling your conference is a necessary evil. But once you have reached the amount of money you need for the conference, you really do have better things to do with your time.
+もちろん、これらを実現するには資金が必要だ。つまり、スポンサーを探したり支援金額を決めたりしてカンファレンスを売り物にするのも、いわば必要悪だ。
+しかし、カンファレンスに必要な資金を厚めさえすれば、本来やるべきことに時間を割けるようになる。
 
 #@# There are a few potential sources of funds to put on a conference -- I
 #@# recommend a mix of all of these as the best way to raise your budget.
-There are a few potential sources of funds to put on a conference -- I recommend a mix of all of these as the best way to raise your budget.
+カンファレンス開催の資金源をいくつか取り上げる。これらをうまく組み合わせて資金調達するといい。
 
 #@# \begin{itemize}
 #@#  \item Attendees -- While this is a controversial topic among many
