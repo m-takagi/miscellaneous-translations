@@ -279,16 +279,12 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
 #@# specify a provisional budget for each of these events when you are
 #@# drafting your budget.
 #@# \end{itemize}
- * Attendees -- While this is a controversial topic among many
- communities, I think it is completely valid to ask attendees to
- contribute something to the costs of the conference. Attendees benefit
- from the facilities, the social events, and gain value from the conference.
- Some communities consider attendance at their annual event as a kind of
- reward for services rendered, or an incentive to do good work in the
- coming year, but I do not think that's a healthy way to look at it.
- There are a few ways for conference attendees to fund the running of
- the conference:
-   ** Registration fees -- This is the most common way to get money from
+ * 参加者 -- 炎上しそうな話題ではあるが、カンファレンスのコストを参加者に負担してもらうようお願いするのは、全くもって正当なことだと思っている。
+ 参加者たちは、カンファレンス会場の設備やそこでの出会いなどでメリットを得ているのだから。
+ 年に一度のイベントを、これまでにいろいろ貢献してくれたことに対するご褒美だとか、今後もいい仕事をしてもらえるようなきっかけ作りとしてとらえているコミュニティもある。
+ でも、そんなのは健全じゃないと思う。
+ カンファレンスの参加者から運営資金を募る方法は、いくつかある。
+   ** 参加費 -- This is the most common way to get money from
    conference attendees. Most community conferences ask for a token amount
    of fees. I have seen conferences ask for an entrance fee of 20 to 50 Euro,
    and most people have not had a problem paying this.
@@ -296,10 +292,10 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
    no-shows among locals. People place more value on attending an event
    that costs them 10 Euro than one where they can get in for free, even if the
    content is the same.
-   ** Donations -- This is very successfully employed by FOSDEM. Attendees are offered an array of goodies, provided by sponsors (books, magazine
+   ** 寄付 -- This is very successfully employed by FOSDEM. Attendees are offered an array of goodies, provided by sponsors (books, magazine
    subscriptions, t-shirts) in return for a donation. But those who want
    can attend for free.
-   ** Selling merchandising -- Perhaps your community would be happier
+   ** グッズ販売 -- Perhaps your community would be happier
    hosting a free conference, and selling plush toys, t-shirts, hoodies,
    mugs and other merchandising to make some money. Beware: in my
    experience you can expect less from profits from merchandising sales
