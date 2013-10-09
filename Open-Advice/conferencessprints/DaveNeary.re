@@ -284,14 +284,10 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
  年に一度のイベントを、これまでにいろいろ貢献してくれたことに対するご褒美だとか、今後もいい仕事をしてもらえるようなきっかけ作りとしてとらえているコミュニティもある。
  でも、そんなのは健全じゃないと思う。
  カンファレンスの参加者から運営資金を募る方法は、いくつかある。
-   ** 参加費 -- This is the most common way to get money from
-   conference attendees. Most community conferences ask for a token amount
-   of fees. I have seen conferences ask for an entrance fee of 20 to 50 Euro,
-   and most people have not had a problem paying this.
-   A pre-paid fee also has an additional benefit of massively reducing
-   no-shows among locals. People place more value on attending an event
-   that costs them 10 Euro than one where they can get in for free, even if the
-   content is the same.
+   ** 参加費 -- 参加者から資金を得る手段としては、これが最も一般的だ。コミュニティが主催するカンファレンスの多くでは、参加費を徴収している。
+   20ユーロから50ユーロ程度の参加費を取っているカンファレンスを見たことがあるが、それに不満を持つ人はあまりいなかった。
+   参加費を前払い方式にしておけば、ドタキャンを大幅に減らせるというメリットもある。
+   多くの人は、無料のイベントよりも10ユーロ払ったイベントのほうが参加する価値が高いと考えている。たとえ内容に変わりがないとしても、だ。
    ** 寄付 -- This is very successfully employed by FOSDEM. Attendees are offered an array of goodies, provided by sponsors (books, magazine
    subscriptions, t-shirts) in return for a donation. But those who want
    can attend for free.
