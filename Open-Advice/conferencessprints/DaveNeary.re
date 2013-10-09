@@ -288,9 +288,9 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
    20ユーロから50ユーロ程度の参加費を取っているカンファレンスを見たことがあるが、それに不満を持つ人はあまりいなかった。
    参加費を前払い方式にしておけば、ドタキャンを大幅に減らせるというメリットもある。
    多くの人は、無料のイベントよりも10ユーロ払ったイベントのほうが参加する価値が高いと考えている。たとえ内容に変わりがないとしても、だ。
-   ** 寄付 -- This is very successfully employed by FOSDEM. Attendees are offered an array of goodies, provided by sponsors (books, magazine
-   subscriptions, t-shirts) in return for a donation. But those who want
-   can attend for free.
+   ** 寄付 -- これは、FOSDEMで大成功した方法だ。
+   寄付金を出してくれた参加者には、その見返りとしてスポンサーが提供するグッズ（書籍、雑誌の定期購読県、Ｔシャツなど）をプレゼントする。
+   寄付は必須ではなく、無料で参加したい人は無料でも参加できるという方式だ。
    ** グッズ販売 -- Perhaps your community would be happier
    hosting a free conference, and selling plush toys, t-shirts, hoodies,
    mugs and other merchandising to make some money. Beware: in my
