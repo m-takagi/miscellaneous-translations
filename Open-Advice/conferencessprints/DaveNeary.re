@@ -291,12 +291,8 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
    ** 寄付 -- これは、FOSDEMで大成功した方法だ。
    寄付金を出してくれた参加者には、その見返りとしてスポンサーが提供するグッズ（書籍、雑誌の定期購読県、Ｔシャツなど）をプレゼントする。
    寄付は必須ではなく、無料で参加したい人は無料でも参加できるという方式だ。
-   ** グッズ販売 -- Perhaps your community would be happier
-   hosting a free conference, and selling plush toys, t-shirts, hoodies,
-   mugs and other merchandising to make some money. Beware: in my
-   experience you can expect less from profits from merchandising sales
-   than you would get giving a free t-shirt to each attendee with a
-   registration fee.
+   ** グッズ販売 -- カンファレンスそのものは無料で開催して、Ｔシャツやマグカップなどのグッズの販売で資金を得るという方法もある。
+   注意：私の経験上、グッズ販売で得られる収入はそれほど多くない。それよりは、参加費を取って全員に無料でＴシャツを配ったほうが、収入は多くなるだろう。
  * Sponsors -- Media publications will typically agree to ``press
  sponsorship'' -- providing free ads for your conference in their print
  magazine or website. If your conference is a registered non-profit which
