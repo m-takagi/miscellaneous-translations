@@ -293,18 +293,12 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
    寄付は必須ではなく、無料で参加したい人は無料でも参加できるという方式だ。
    ** グッズ販売 -- カンファレンスそのものは無料で開催して、Ｔシャツやマグカップなどのグッズの販売で資金を得るという方法もある。
    注意：私の経験上、グッズ販売で得られる収入はそれほど多くない。それよりは、参加費を取って全員に無料でＴシャツを配ったほうが、収入は多くなるだろう。
- * Sponsors -- Media publications will typically agree to ``press
- sponsorship'' -- providing free ads for your conference in their print
- magazine or website. If your conference is a registered non-profit which
- can accept tax-deductible donations, offer press sponsors the chance to
- invoice you for the services and then make a separate sponsorship grant
- to cover the bill. The end result for you is identical, but it will
- allow the publication to write off the space they donate to you for tax.
- What you really want, though, are cash sponsorships. As the number of
- Free Software projects and conferences has multiplied in recent years,
- the competition for sponsorship dollars has really heated up in recent
- years. To maximize your chances of making your budget target, there are
- a few things you can do.
+ * スポンサー -- 出版メディアが一般的に同意してくれるのは「プレス記事による協力」- つまり、カンファレンスの広告を雑誌やウェブサイトに無料で掲載してくれるというものだ。
+ カンファレンスの運営主体が寄付金控除対象の非営利組織なのだったら、メディアスポンサーから掲載料の請求書を出してもらい、それとは別に掲載料ぶんの寄付金をもらうという手もある。
+ カンファレンス運営側としてはどちらでも結果的に同じことなのだが、メディア側にとっては、税金対策の一環として寄付金を活用することができる。
+ しかし、実際に欲しいのは、金銭的な支援だ。
+ フリーソフトウェアのプロジェクトやカンファレンスは近年増加しているので、スポンサーの確保を巡る争いも年々激化している。
+ 目標の予算を確保するためにできるのは、こんなことだ。
   ** Conference brochure -- Think of your conference as a product you are
   selling. What does it stand for, how much attention does it get, how
   important is it to you, to your members, to the industry and beyond?
