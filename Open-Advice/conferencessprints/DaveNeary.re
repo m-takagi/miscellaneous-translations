@@ -299,22 +299,17 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
  しかし、実際に欲しいのは、金銭的な支援だ。
  フリーソフトウェアのプロジェクトやカンファレンスは近年増加しているので、スポンサーの確保を巡る争いも年々激化している。
  目標の予算を確保するためにできるのは、こんなことだ。
-  ** Conference brochure -- Think of your conference as a product you are
-  selling. What does it stand for, how much attention does it get, how
-  important is it to you, to your members, to the industry and beyond?
-  What is the value proposition for the sponsor?
-  You can sell a sponsorship package on three or four different grounds:
-  perhaps conference attendees are a high-value target audience for the
-  sponsor, perhaps (especially for smaller conferences) the attendees
-  are not what is important, it is the attention that the conference will get
-  in the international press, or perhaps you are pitching to the company
-  that the conference is improving a piece of software that they depend on.
-  Depending on the positioning of the conference, you can then make a
-  list of potential sponsors. You should have a sponsorship brochure that
-  you can send them, which will contain a description of the conference, a
-  sales pitch explaining why it is interesting for the company to sponsor
-  it, potentially press clippings or quotes from past attendees saying how
-  great the conference is, and finally the amount of money you are looking for.
+  ** カンファレンスのパンフレット -- 自分がカンファレンスという商品を売り込んでいると考えよう。
+  それはいったいどんな商品で、どれだけ注目を集めそうで、参加者や業界にとってどれほど重要なものなのだろう？
+  そして、スポンサーに対してはどんな価値を提案できるだろう？
+  スポンサーシップの売り込みかたには、いろんな立場がある。
+  たとえば、カンファレンスの参加者が、そのスポンサーにとって大切な支持者かもしれない。
+  たとえば（特に小規模なカンファレンスなら）、参加者自体はそれほど重要ではなく、カンファレンスの情報が世界中に報道されるのほうが注目を集めるかもしれない。
+  あるいは、その企業が使っているソフトウェアを改良する場所だという売り込みかたもあるかもしれない。
+  カンファレンスの立ち位置にあわせて、スポンサーを引き受けてくれそうなところの一覧を作る。
+  そして、スポンサー候補に向けて送るスポンサー募集パンフレットを準備しなければいけない。
+  パンフレットに含める内容は、カンファレンスについての説明や売り文句（スポンサーになれば自社にとってどんなメリットがあるのか）、
+  過去のカンファレンスに関する報道、過去のカンファレンスの参加者からのコメント、そして希望する金額などだ。
   ** Sponsorship levels -- These should be fixed based on the amount of
   money you want to raise. You should figure on your biggest sponsor
   providing somewhere between 30% and 40% of your total conference budget
