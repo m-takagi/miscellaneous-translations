@@ -310,18 +310,14 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
   そして、スポンサー候補に向けて送るスポンサー募集パンフレットを準備しなければいけない。
   パンフレットに含める内容は、カンファレンスについての説明や売り文句（スポンサーになれば自社にとってどんなメリットがあるのか）、
   過去のカンファレンスに関する報道、過去のカンファレンスの参加者からのコメント、そして希望する金額などだ。
-  ** Sponsorship levels -- These should be fixed based on the amount of
-  money you want to raise. You should figure on your biggest sponsor
-  providing somewhere between 30% and 40% of your total conference budget
-  for a smaller conference. If you are lucky, and your conference gets a
-  lot of sponsors, that might be as low as 20%. Figure on a third as a
-  ball-park figure. That means if you have decided that you need 60,000 Euro
-  then you should set your cornerstone sponsor level at 20,000 Euro, and all
-  the other levels in consequence (say, 12,000 Euro for the second level and
-  6,000 Euro for third level).
-  For smaller conferences and meet-ups, the fundraising process might be
-  slightly more informal, but you should still think of the entire process
-  as a sales pitch.
+  ** 後援のレベル -- 集めたい額にあわせて、後援のレベルも決めておくべきだ。
+  ちょっとしたカンファレンスなら、最大のスポンサーには運営予算の30%から40%程度を出してもらえると見込む。
+  ラッキーなことにスポンサーをたくさん集めることができれば、それ以外のスポンサーには20%程度を出してもらう。
+  その次のレベルについても概算で出しておこう。
+  つまり、運営資金として60,000ユーロが必要なのだとしたら、最上位のスポンサーのレベルは20,000ユーロ程度に設定する。
+  そして、それ以外のレベルもそれにあわせて決めていく（第二レベルは12,000ユーロ、第三レベルは6,000ユーロなど）。
+  小さめのカンファレンスや勉強会なら、資金集めの手順こんなに堅苦しくないかもしれない。
+  でも、売り込み用に、この流れを常に考えておくべきだ。
   ** Calendar -- Most companies have either a yearly or half-yearly
   budget cycle. If you get your submission to the right person at the
   right time, then you could potentially have a much easier conversation.
