@@ -318,17 +318,13 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
   そして、それ以外のレベルもそれにあわせて決めていく（第二レベルは12,000ユーロ、第三レベルは6,000ユーロなど）。
   小さめのカンファレンスや勉強会なら、資金集めの手順こんなに堅苦しくないかもしれない。
   でも、売り込み用に、この流れを常に考えておくべきだ。
-  ** Calendar -- Most companies have either a yearly or half-yearly
-  budget cycle. If you get your submission to the right person at the
-  right time, then you could potentially have a much easier conversation.
-  The best time to submit proposals for sponsorship of a conference in the
-  Summer is around October or November of the year before, when companies
-  are finalizing their annual budget.
-  If you miss this window, all is not lost, but any sponsorship you get
-  will be coming out of discretionary budgets, which tend to get spread
-  quite thin, and are guarded preciously by their owners. Alternatively,
-  you might get a commitment to sponsor your July conference in May, at
-  the end of the first half budget process - which is quite late in the day.
+  ** 時期 -- たいていの企業は、半年あるいは一年サイクルで予算を回している。
+  それを考慮して、適切な人に適切な時期にお願いすれば、ずっと話が早くなるだろう。
+  夏に開催する予定のカンファレンスへの協賛をお願いするのなら、前の年の10月から11月あたりがベストだ。だいたいこのあたりで、翌年の予算が固まる。
+  その時期に間に合わなかったとしても、まだチャンスは残ってはいる。しかし、それ以降に出資してもらえる額は、個人の裁量で使える予算の枠外になるだろう。
+  あまり多額は見込めないし、上層部の目も厳しくなるだろう。
+  あるいは、7月に開催予定のカンファレンスへの出資を、5月になって約束してくれるかもしれない。
+  上半期の決算時期になるからであろうが、それだともう間に合わない。
   ** Approaching the right people -- I am not going to teach anyone sales,
   but my personal secret to dealing with big organizations is to make
   friends with people inside the organizations, and try to get a feel for
