@@ -325,23 +325,17 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
   あまり多額は見込めないし、上層部の目も厳しくなるだろう。
   あるいは、7月に開催予定のカンファレンスへの出資を、5月になって約束してくれるかもしれない。
   上半期の決算時期になるからであろうが、それだともう間に合わない。
-  ** Approaching the right people -- I am not going to teach anyone sales,
-  but my personal secret to dealing with big organizations is to make
-  friends with people inside the organizations, and try to get a feel for
-  where the budget might come from for my event. Your friend will probably
-  not be the person controlling the budget, but getting him or her on
-  board is your opportunity to have an advocate inside the organization,
-  working to put your proposal in front of the eyes of the person who owns
-  the budget.
-  Big organizations can be a hard nut to crack, but Free Software
-  projects often have friends in high places. If you have seen the CTO or
-  CEO of a Fortune 500 company talk about your project in a news article,
-  do not hesitate to drop him or her a line mentioning that, and when the time
-  comes to fund that conference, a personal note asking who the best
-  person to talk to will work wonders. Remember, your goal is not to sell
-  to your personal contact, it is to turn her into an advocate to your
-  cause inside the organization, and create the opportunity to sell the
-  conference to the budget owner later.
+  ** しかるべき人物へのアプローチ -- セールスの方法について説明したいわけじゃない。
+  ただ、大規模な組織を相手に取引をするときには、ちょっとした秘訣があるんだ。
+  それは、中の人と仲良くなること。そして、あいつが開催するイベントになら出資してやろうかなという気持ちにさせること。
+  その人は、おそらく予算を仕切る権限を持ってはいないだろう。でも、中の人をひとりでも仲間に引き入れておくと、
+  その仲間が、予算の執行権限がある人にあなたの案を伝えてくれることだろう。
+  大きな組織はなかなか攻略しづらいものだ。でも、フリーソフトウェアのプロジェクトとこれらの組織の上層部が仲良くなっていることも多い。
+  フォーチュン500企業のCTOやCEOが、何かの記事であなたたちのプロジェクトについて語っているのを見たことがあるだろうか。
+  もしそんなことがあったら、中の人にそれを一言申し添えておこう。
+  カンファレンスへの出資をお願いする時期になったら、その県について誰と話すのがベストかを尋ねればいい。
+  覚えておきたいのは、最終目的は決して組織内の友人に直接売り込むことではないということだ。
+  組織内の友人を味方につけて、予算執行権限のある人が会議でカンファレンスのことを話題にしてくれるよう仕向けるのが狙いなんだ。
  * Also, remember when you are selling sponsorship packages that everything
  which costs you money could potentially be part of a sponsorship
  package. Some companies will offer lanyards for attendees, or offer to
