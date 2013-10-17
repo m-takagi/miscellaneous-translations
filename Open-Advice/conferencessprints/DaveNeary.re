@@ -336,14 +336,11 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
   カンファレンスへの出資をお願いする時期になったら、その県について誰と話すのがベストかを尋ねればいい。
   覚えておきたいのは、最終目的は決して組織内の友人に直接売り込むことではないということだ。
   組織内の友人を味方につけて、予算執行権限のある人が会議でカンファレンスのことを話題にしてくれるよう仕向けるのが狙いなんだ。
- * Also, remember when you are selling sponsorship packages that everything
- which costs you money could potentially be part of a sponsorship
- package. Some companies will offer lanyards for attendees, or offer to
- pay for a coffee break, or ice cream in the afternoon, or a social
- event. These are potentially valuable sponsorship opportunities and you
- should be clear in your brochure about everything that is happening, and
- specify a provisional budget for each of these events when you are
- drafting your budget.
+ * 協賛を募るときに覚えておきたいのは、金がかかる可能性があるものなら何でも協賛の対象にできるということだ。
+ 企業によっては、参加者の名札用のストラップを提供しようと言ってくれるところもあるかもしれない。
+ 休憩時間用にコーヒーやアイスクリームを準備してくれたり、懇親会を開いてくれたりといったオファーもあるだろう。
+ こういった提案もありがたいものだ。協賛を募るパンフレットでも、こういったものも受け付けると明記しておくべきだろう。
+ また、予算案を用意するときには、これらについても暫定的に予算を上げておくべきだ。
 
 #@# \section*{3. Content}
 == Content
