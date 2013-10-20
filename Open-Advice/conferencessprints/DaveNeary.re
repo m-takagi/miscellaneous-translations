@@ -359,7 +359,10 @@ GUADECやOSCONのようにスピーカーを公募しているイベントもあ
 #@# year, and people really do not know what to make of the event, then
 #@# setting the tone by inviting a number of speakers will do a great job of
 #@# helping people know what you are aiming for.
-The strategy you choose will depend largely on the nature of the event. If it is an event in its 10th year with an ever-increasing number of attendees, then a call for papers is great. If you are in your first year, and people really do not know what to make of the event, then setting the tone by inviting a number of speakers will do a great job of helping people know what you are aiming for.
+コンテンツに関してどんな戦略をとるのかは、かなりの部分をそのイベントの性質に依存する。
+たとえば、10周年記念のイベントで参加者の数もうなぎ登りだというのなら、公募制にするのがいいだろう。
+はじめてのイベントで、いったい何をするのかが誰もわからないという場合なら、
+何人かのスピーカーを招待して全体の雰囲気を固めてしまえば、参加者にもその雰囲気が伝わる。
 
 #@# For Ignite Lyon last year, I invited about 40\% of the speakers for the
 #@# first night (and often had to hassle them to put in a submission, and
