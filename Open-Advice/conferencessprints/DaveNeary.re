@@ -343,13 +343,15 @@ GUADECやDesktop Summit、Libre Graphics Meeting、GIMP Conference、Ignite Lyon
  また、予算案を用意するときには、これらについても暫定的に予算を上げておくべきだ。
 
 #@# \section*{3. Content}
-== Content
+== コンテンツ
 
 #@# Conference content is the most important thing about a conference.
 #@# Different events handle content differently -- some events invite a large
 #@# proportion of their speakers, while others like GUADEC and OSCON invite
 #@# proposals and choose talks to fill the spots.
-Conference content is the most important thing about a conference. Different events handle content differently -- some events invite a large proportion of their speakers, while others like GUADEC and OSCON invite proposals and choose talks to fill the spots.
+カンファレンスで一番大切なのは、そのコンテンツだ。
+イベントによってコンテンツの扱いはさまざまで、大半を招待講演でまとめているイベントもあれば、
+GUADECやOSCONのようにスピーカーを公募しているイベントもある。
 
 #@# The strategy you choose will depend largely on the nature of the event.
 #@# If it is an event in its 10th year with an ever-increasing number of
