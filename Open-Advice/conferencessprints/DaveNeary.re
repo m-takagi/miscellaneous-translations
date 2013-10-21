@@ -370,7 +370,10 @@ GUADECやOSCONのようにスピーカーを公募しているイベントもあ
 #@# Graphics Meeting, apart from lightning talks, I think that I contacted
 #@# every speaker first, except two people. Now that the event is in its 6th year,
 #@# there is a call for proposals process which works quite well.
-For Ignite Lyon last year, I invited about 40% of the speakers for the first night (and often had to hassle them to put in a submission, and the remaining 60% came through a submission form. For the first Libre Graphics Meeting, apart from lightning talks, I think that I contacted every speaker first, except two people. Now that the event is in its 6th year, there is a call for proposals process which works quite well.
+去年のIgnite Lyonでは、初日の晩のスピーカーの4割ほどを招待講演にした
+（あとは公募制にし、みんなに応募してもらうようにして残りの6割を埋めた）。
+第一回のLibre Graphics Meetingでは、ライトニングトークを除くほぼすべてのスピーカー（2名を除く）を事前に決めた。
+このイベントは6年目に突入したが、今は公募形式にしてうまく回っている。
 
 #@# \section*{4. Schedule}
 == Schedule
