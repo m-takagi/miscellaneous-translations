@@ -386,7 +386,9 @@ GUADECやOSCONのようにスピーカーを公募しているイベントもあ
 #@# My solution to conference scheduling is very low-tech, but works for me.
 #@# Colored Post-it notes, with a different color for each theme, and an empty
 #@# grid do the job fine. Write the talk titles one per Post-it, add any constraints you have for the speaker, and then fill in the grid.
-My solution to conference scheduling is very low-tech, but works for me. Colored Post-it notes, with a different color for each theme, and an empty grid do the job fine. Write the talk titles one per Post-it, add any constraints you have for the speaker, and then fill in the grid.
+私はこの問題を解決するために使っているのは、とてもローテクな方法だ。でも、一応うまく回っている。
+トークのテーマごとに色を変えた付箋紙と、枠線を引いた時間割表を用意するだけだ。
+一枚の付箋にトークのタイトルを書いて、そのスピーカーに何か制約があればそれも追記する。そして時間割表に付箋を貼っていく。
 
 #@# Taking scheduling off the computer and into real objects makes it really
 #@# easy to see when you have clashes, to swap talks as often as you like,
