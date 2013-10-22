@@ -376,11 +376,12 @@ GUADECやOSCONのようにスピーカーを公募しているイベントもあ
 このイベントは6年目に突入したが、今は公募形式にしてうまく回っている。
 
 #@# \section*{4. Schedule}
-== Schedule
+== スケジュール
 
 #@# It is hard to avoid putting talks in parallel which will appeal to the same people. Every single conference, you hear from people who wanted to
 #@# attend talks which were on at the same time on similar topics.
-It is hard to avoid putting talks in parallel which will appeal to the same people. Every single conference, you hear from people who wanted to attend talks which were on at the same time on similar topics.
+同じような層を相手にしたトークを同じ時間にぶつけてしまわないように調整するのは難しい。
+どんなカンファレンスに参加しても、「あのトークも聞きたかったのに、もうひとつのトークと時間がかぶっていたので行けなかった」という声を聞くことだろう。
 
 #@# My solution to conference scheduling is very low-tech, but works for me.
 #@# Colored Post-it notes, with a different color for each theme, and an empty
