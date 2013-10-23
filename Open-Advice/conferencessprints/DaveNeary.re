@@ -393,14 +393,16 @@ GUADECやOSCONのようにスピーカーを公募しているイベントもあ
 #@# Taking scheduling off the computer and into real objects makes it really
 #@# easy to see when you have clashes, to swap talks as often as you like,
 #@# and then to commit it to a web page when you are happy with it.
-Taking scheduling off the computer and into real objects makes it really easy to see when you have clashes, to swap talks as often as you like, and then to commit it to a web page when you are happy with it.
+コンピューターに頼らずに昔ながらの方法でスケジュール調整をすれば、
+どこがバッティングしているのかを見つけるのも簡単だし、好きなだけトークを入れ替えられる。
+最終的に納得のいくものができたら、それをウェブページに載せればいい。
 
 #@# I used this technique successfully for GUADEC
 #@# 2006\footnote{\url{
 #@# http://blogs.gnome.org/bolsh/2006/05/09/initial-schedule-ready}} and Ross
 #@# Burton re-used it successfully in
 #@# 2007\footnote{\url{http://www.flickr.com/photos/rossburton/467140094}}.
-I used this technique successfully for GUADEC 2006@<fn>{f01} and Ross Burton re-used it successfully in 2007@<fn>{f02}.
+GUADEC 2006@<fn>{f01}ではこの手を使ってうまくいったし、翌2007年@<fn>{f02}でもRoss Burtonが同じ方法を使っていた。
 
 //footnote[f01][@<href>{http://blogs.gnome.org/bolsh/2006/05/09/initial-schedule-ready}]
 //footnote[f02][@<href>{http://www.flickr.com/photos/rossburton/467140094}]
