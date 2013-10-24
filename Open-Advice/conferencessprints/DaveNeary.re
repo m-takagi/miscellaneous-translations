@@ -408,14 +408,17 @@ GUADEC 2006@<fn>{f01}ではこの手を使ってうまくいったし、翌2007�
 //footnote[f02][@<href>{http://www.flickr.com/photos/rossburton/467140094}]
 
 #@# \section*{5. Parties}
-= Parties
+= パーティ
 
 #@# Parties are a trade-off. You want everyone to have fun, and hanging out
 #@# is a huge part of attending a conference. But morning attendance suffers
 #@# after a party. Pity the poor community member who has to drag himself
 #@# out of bed after three hours sleep to go and talk to four people at 9am after
 #@# the party.
-Parties are a trade-off. You want everyone to have fun, and hanging out is a huge part of attending a conference. But morning attendance suffers after a party. Pity the poor community member who has to drag himself out of bed after three hours sleep to go and talk to four people at 9am after the party.
+パーティも善し悪しだ。
+参加者には楽しんでもらいたいものだし、たまり場での交流は、カンファレンスに参加する楽しみのひとつでもある。
+でも、朝一で話す予定の人など、パーティが負担になるかもしれない。
+前夜祭を終えて3時間ばかりの睡眠をとった翌日、朝九時にたった4人の前で話すはめになる人の身にもなってみよう。
 
 #@# Some conferences have too many parties. It is great to have the
 #@# opportunity to get drunk with friends every night. But it is not great to
