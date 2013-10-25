@@ -424,7 +424,10 @@ GUADEC 2006@<fn>{f01}ではこの手を使ってうまくいったし、翌2007�
 #@# opportunity to get drunk with friends every night. But it is not great to
 #@# \textit{actually} get drunk with friends every night. Remember the goal of the
 #@# conference: you want to encourage the advancement of your project.
-Some conferences have too many parties. It is great to have the opportunity to get drunk with friends every night. But it is not great to @<i>{actually} get drunk with friends every night. Remember the goal of the conference: you want to encourage the advancement of your project.
+中には、パーティを開催しすぎなカンファレンスもある。
+友人たちと毎晩飲み明かせる場を用意しておくのはすばらしいことだ。
+でも、@<i>{実際に}友人たちと毎晩飲み明かすというのはあまりよくない。
+そもそも、そのカンファレンスの目的はいったい何だったのか。プロジェクトを少しでも前進させるためではなかったのか。
 
 #@# I encourage one biggish party, and one other smallish party, over the
 #@# course of the week. Outside of that, people will still get together, and
