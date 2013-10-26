@@ -433,7 +433,8 @@ GUADEC 2006@<fn>{f01}ではこの手を使ってうまくいったし、翌2007�
 #@# course of the week. Outside of that, people will still get together, and
 #@# have a good time, but it will be on their dime, and that will keep
 #@# everyone reasonable.
-I encourage one biggish party, and one other smallish party, over the course of the week. Outside of that, people will still get together, and have a good time, but it will be on their dime, and that will keep everyone reasonable.
+私がおすすめするのは、一週間の中で大きめのパーティと小さめのパーティを一度ずつ開催することだ。
+それ以外にも、参加者どうしで勝手にあつまって楽しむこともあるかもしれない。それはそれ。彼らに任せて、参加したい人だけが参加すればいい。
 
 #@# With a little imagination, you can come up with events that do not
 #@# involve loud music and alcohol. Other types of social events can work
