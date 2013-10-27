@@ -450,7 +450,12 @@ GUADEC 2006@<fn>{f01}ではこの手を使ってうまくいったし、翌2007�
 #@# number of conferences. At the annual KDE conference Akademy, there is
 #@# typically a Big Day Out, where people get together for a picnic, some
 #@# light outdoors activity, a boat ride, some sightseeing or something similar.
-At GUADEC we have had a football tournament for the last number of years. During the OpenWengo Summit in 2007, we brought people on a boat ride on the Seine and we went on a classic 19th century merry-go-round afterwards. Getting people eating together is another great way to create closer ties. I have very fond memories of group dinners at a number of conferences. At the annual KDE conference Akademy, there is typically a Big Day Out, where people get together for a picnic, some light outdoors activity, a boat ride, some sightseeing or something similar.
+ここ数年のGUADECでは、毎年サッカーのトーナメントを開催している。
+2007年のOpenWengo Summitでは、ボートでセーヌ川に繰り出した後で19世紀のメリーゴーランドに乗ったりした。
+あと、みんなで一緒に食事をするってのも、仲良くなるためのいい手だ。
+これまでに参加してきたカンファレンスでも、一緒にディナーをしたいい思い出がある。
+毎年開催するKDE Akademyには、Big Day Outというイベントがある。みんなでピクニックにでかけて、
+ボートに乗ったり観光したりといった遊びをするのだ。
 
 #@# \section*{6. Extra costs}
 == Extra costs
