@@ -439,7 +439,8 @@ GUADEC 2006@<fn>{f01}ではこの手を使ってうまくいったし、翌2007�
 #@# With a little imagination, you can come up with events that do not
 #@# involve loud music and alcohol. Other types of social events can work
 #@# just as well, and be even more fun.
-With a little imagination, you can come up with events that do not involve loud music and alcohol. Other types of social events can work just as well, and be even more fun.
+ほんの少し頭を使えば、騒々しい音楽やアルコールの助けを借りなくてもイベントは成り立つだろう。
+そんなのとは違うソーシャルイベントだってあるわけだし、そのほうがずっと楽しい。
 
 #@# At GUADEC we have had a football tournament for the last number of
 #@# years. During the OpenWengo Summit in 2007, we brought people on a boat
