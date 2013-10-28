@@ -478,7 +478,9 @@ GUADEC 2006@<fn>{f01}ではこの手を使ってうまくいったし、翌2007�
 #@# Rental of an overhead projector and microphones for one room for one day can
 #@# cost 300 Euro or more, depending on whether the venue insists that equipment
 #@# be operated by their A/V guy or not.
-Conference venues are hugely expensive for everything they provide. Coffee breaks can cost up to 10 US Dollars per person for a coffee and a few biscuits, bottled water for speakers costs 5 US Dollars per bottle, and so on. Rental of an overhead projector and microphones for one room for one day can cost 300 Euro or more, depending on whether the venue insists that equipment be operated by their A/V guy or not.
+カンファレンスを開催するような会場は、基本的に何から何まで高くつく。
+コーヒーとちょっとしたお菓子を用意しようとすれば1人あたり10ドルほどはかかるだろうし、スピーカー向けに水のペットボトルを用意すれば、それも1本あたり5ドルにもなるといった具合だ。
+プロジェクターとマイクを借りようとすれば、1部屋1日あたり300ユーロ以上取られるかもしれない。中には、それらの危機を操作するための専属の音響スタッフを押しつけてくるところもあるかもしれない。
 
 #@# When you are dealing with a commercial venue, be clear up-front about
 #@# what you are paying for.
