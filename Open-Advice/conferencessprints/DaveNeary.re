@@ -484,7 +484,7 @@ GUADEC 2006@<fn>{f01}ではこの手を使ってうまくいったし、翌2007�
 
 #@# When you are dealing with a commercial venue, be clear up-front about
 #@# what you are paying for.
-When you are dealing with a commercial venue, be clear up-front about what you are paying for.
+商業施設と交渉するときには、結局いくら支払うことになるのかを事前に明確にしておこう。
 
 #@# \section*{7. On-site details}
 == On-site details
