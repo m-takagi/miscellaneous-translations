@@ -458,7 +458,7 @@ GUADEC 2006@<fn>{f01}ではこの手を使ってうまくいったし、翌2007�
 ボートに乗ったり観光したりといった遊びをするのだ。
 
 #@# \section*{6. Extra costs}
-== Extra costs
+== 追加コスト
 
 #@# Watch out for those unforeseen costs! One conference I was involved in,
 #@# where the venue was ``100\% sponsored'' left us with a 20,000 Euro bill for
@@ -466,7 +466,11 @@ GUADEC 2006@<fn>{f01}ではこの手を使ってうまくいったし、翌2007�
 #@# setting up tables and chairs, and equipment rental of whiteboards,
 #@# overhead projectors and so on, had not. At the end of the day, I
 #@# estimate that we used about 60\% of the equipment we paid for.
-Watch out for those unforeseen costs! One conference I was involved in, where the venue was ``100% sponsored'' left us with a 20,000 Euro bill for labor and equipment costs. Yes, the venue had been sponsored, but setting up tables and chairs, and equipment rental of whiteboards, overhead projectors and so on, had not. At the end of the day, I estimate that we used about 60% of the equipment we paid for.
+想定外のコストが発生することがあるので注意しよう。
+かつて私がかかわったカンファレンスの場合、開催地側が「100%出資」してくれるということだったが、
+人件費や設備費などで結局20,000ユーロの支払いが必要になった。
+ああ、確かに会場代は無料だったんだ。でも、テーブルや椅子、ホワイトボード、プロジェクターといった機材は一切含まれていなかった。
+その日が終わってざっと見直してみたところ、実際に使ったのは支払ったうちの60%ほどだった。
 
 #@# Conference venues are hugely expensive for everything they provide.
 #@# Coffee breaks can cost up to 10 US Dollars per person for a coffee and a few
