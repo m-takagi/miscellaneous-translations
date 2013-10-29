@@ -487,14 +487,16 @@ GUADEC 2006@<fn>{f01}ではこの手を使ってうまくいったし、翌2007�
 商業施設と交渉するときには、結局いくら支払うことになるのかを事前に明確にしておこう。
 
 #@# \section*{7. On-site details}
-== On-site details
+== 現場でのあれこれ
 
 #@# I like conferences that take care of the little details. As a speaker, I
 #@# like it when someone contacts me before the conference and says they will
 #@# be presenting me, what would I like them to say? It is reassuring to know
 #@# that when I arrive there will be a hands-free mic and someone who can
 #@# help fit it.
-I like conferences that take care of the little details. As a speaker, I like it when someone contacts me before the conference and says they will be presenting me, what would I like them to say? It is reassuring to know that when I arrive there will be a hands-free mic and someone who can help fit it.
+細かい気配りが行き届いているカンファレンスでありたい。
+スピーカーの立場になって考えてみよう。事前のスタッフとの打ち合わせで「トークの前にあなたについて紹介したいんです」と言われたらとてもうれしい。いったいどんなふうに紹介してくれるんだろう？
+会場にピンマイクがあるのかどうか、そしてマイクを付けるのを手伝ってくれる人がいるのかどうか。そんなことも事前に知っておきたい。
 
 #@# Taking care of all of these details needs a gaggle of volunteers, and it
 #@# needs someone organizing them beforehand and during the event. Spend a
