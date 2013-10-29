@@ -502,7 +502,8 @@ GUADEC 2006@<fn>{f01}ではこの手を使ってうまくいったし、翌2007�
 #@# needs someone organizing them beforehand and during the event. Spend a
 #@# lot of time talking to the local staff, especially the audio/visual
 #@# engineers.
-Taking care of all of these details needs a gaggle of volunteers, and it needs someone organizing them beforehand and during the event. Spend a lot of time talking to the local staff, especially the audio/visual engineers.
+こういったことに対応するには、大量のボランティアが必要だ。また、開催前や開催当日にスタッフを率いるまとめ役も必要になる。
+現地スタッフ、特に音響関係のエンジニアとは十分な打ち合わせをしておこう。
 
 #@# In one conference, the A/V guy would switch manually to a screen-saver
 #@# at the end of a presentation. We had a comical situation during a
