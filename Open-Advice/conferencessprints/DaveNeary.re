@@ -516,7 +516,13 @@ GUADEC 2006@<fn>{f01}ではこの手を使ってうまくいったし、翌2007�
 #@# overhead projector working again! We eventually changed laptops, and the
 #@# A/V engineer realized what the session was, and all went well after that
 #@# -- most of the people involved ended up blaming my laptop.
-In one conference, the A/V guy would switch manually to a screen-saver at the end of a presentation. We had a comical situation during a lightning talk session where after the first speaker, I switched presentations, and while the next presentation showed up on my laptop, we still had the screensaver on the big screen. No-one had talked to the A/V engineer to explain to him the format of the presentation! So we ended up with 4 Linux engineers looking at the laptop, checking connections and running various Xrandr incantations, trying to get the overhead projector working again! We eventually changed laptops, and the A/V engineer realized what the session was, and all went well after that -- most of the people involved ended up blaming my laptop.
+あるカンファレンスでは、トークが終わるごとに音響スタッフが手動でスクリーンセーバーに切り替えるという作業をしていた。
+ライトニングトークのときなんか、大変だったよ。私はスライドを切り替える担当だった。
+最初のスピーカーが話し終わり、手元のノートPCでは既に次の人のスライドに切り替わっているのに、会場のスクリーンはまだスクリーンセーバーのままなんだ。
+ライトニングトークがどういうスタイルのものなのか、誰も音響スタッフに伝えていなかったんだ！
+周りにいた4人のエンジニアが集まって、接続の状態を調べたりXRandRのおまじないを試してみたりして、何とかプロジェクターを動かそうと必死にもがいた。
+最終的に、手元のPCを入れ替えた。そして音響スタッフもようやくライトニングトークのスタイルを把握したようで、そこから先はなんとかうまくいった。
+会場にいたほとんどの人たちは、きっと私のノートPCのせいで問題が起こったのだと思ったことだろう。
 
 #@# Running a conference, or even a smaller meet-up, is time-consuming, and
 #@# consists of a lot of detail work, much of which will never be noticed by
