@@ -529,7 +529,10 @@ GUADEC 2006@<fn>{f01}ではこの手を使ってうまくいったし、翌2007�
 #@# attendees. I have not even dealt with things like banners and posters,
 #@# graphic design, dealing with the press, or any of the other joys that
 #@# come from organizing a conference.
-Running a conference, or even a smaller meet-up, is time-consuming, and consists of a lot of detail work, much of which will never be noticed by attendees. I have not even dealt with things like banners and posters, graphic design, dealing with the press, or any of the other joys that come from organizing a conference.
+カンファレンスだけでなく、もっと小規模な集まりであっても、スタッフはいろんなことに時間を取られてしまう。
+細々した作業が大量にあるけれど、その大半は参加者からはまったく見えないものだ。
+私はこれまで、バナーやポスターを作ったりグラフィックデザインを手がけたりプレス対応をしたりといった、
+カンファレンスを仕切ることで得られるいろんな楽しみとは無縁だった。
 
 #@# The end result is massively rewarding, though. A study I did last year
 #@# of the GNOME project showed that there is a massive project-wide boost
