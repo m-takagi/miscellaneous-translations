@@ -538,4 +538,6 @@ GUADEC 2006@<fn>{f01}ではこの手を使ってうまくいったし、翌2007�
 #@# of the GNOME project showed that there is a massive project-wide boost
 #@# in productivity just after our annual conference, and many of our
 #@# community members cite the conference as the high point of their year.
-The end result is massively rewarding, though. A study I did last year of the GNOME project showed that there is a massive project-wide boost in productivity just after our annual conference, and many of our community members cite the conference as the high point of their year.
+それでも、自分としては得るものが多かったと思っている。
+GNOMEプロジェクトでの昨年の調査が示すように、年次カンファレンスの後はプロジェクト全体の生産性が劇的に向上する。
+そして、コミュニティのメンバーの多くは、その年一番のポイントとしてカンファレンスを挙げている。
