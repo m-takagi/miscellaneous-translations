@@ -9,7 +9,11 @@ Gareth J. Greenaway
 
 #@# \authorbio{Gareth J. Greenaway has been actively involved in the Free \& Open Source community since 1997 after discovering Linux. A majority of this involvement has been gathering like-minded people to learn and experience new elements of Free \& Open Source software. This involvement began with a small Linux Users Group and has expanded into organizing the Southern California Linux Expo, also known as SCALE. As one of the founding members of the event, Gareth currently holds two key positions with the organization. The first role is Conference Operations and the second is Community Relations.}
 //lead{
-Gareth J. Greenaway has been actively involved in the Free & Open Source community since 1997 after discovering Linux. A majority of this involvement has been gathering like-minded people to learn and experience new elements of Free & Open Source software. This involvement began with a small Linux Users Group and has expanded into organizing the Southern California Linux Expo, also known as SCALE. As one of the founding members of the event, Gareth currently holds two key positions with the organization. The first role is Conference Operations and the second is Community Relations.
+Gareth J. Greenawayは、1997年にLinuxと出会ってからずっと、フリー／オープンソースソフトウェアのコミュニティに積極的に関わっている。
+その活動の大半は、同好の士を集めて、フリー／オープンソースソフトウェアに関するいろいろなことを学んだり体験したりといったものだ。
+最初は小さめのLinuxユーザーグループから始まって、今やSouthern California Linux Expo（またの名をSCALE）を主催するほどにもなった。
+このイベントの立ち上げメンバーの1人であるGarethは、現在では組織内で2つの重要な役割を受け持っている。
+カンファレンスの実行委員、そしてコミュニティとしての窓口役だ。
 //}
 
 #@# \noindent{}I started writing this section with what I saw as the requirements and steps for
