@@ -19,7 +19,9 @@ Gareth J. Greenawayは、1997年にLinuxと出会ってからずっと、フリ�
 #@# \noindent{}I started writing this section with what I saw as the requirements and steps for
 #@# organizing a Free \& Open Source conference, however, most of what I found myself saying had been covered by community management expert Dave Neary. So rather than repeat and overlap what Dave had to say, I decided to share various stories from organizing SCALE along with lessons that were learned over the years.
 //noindent
-I started writing this section with what I saw as the requirements and steps for organizing a Free & Open Source conference, however, most of what I found myself saying had been covered by community management expert Dave Neary. So rather than repeat and overlap what Dave had to say, I decided to share various stories from organizing SCALE along with lessons that were learned over the years.
+まずは、フリー／オープンソースソフトウェアのカンファレンスを開催するときの要件や手順について語ろうと思っていた。
+でも、言いたかったことはほとんど、コミュニティ運営のプロであるDave Nearyに言い尽くされてしまった。
+Daveのネタとかぶってしまうのも何なので、ここではSCALEの運営で出会ったいろんなストーリーと、そこから私が学んだことを紹介しよう。
 
 #@# \section*{Too much power!}
 == Too much power!
