@@ -34,7 +34,12 @@ Daveのネタとかぶってしまうのも何なので、ここではSCALEの�
 #@# concerned about the load on electrical circuits or power usage, we had not
 #@# considered it and because of that we ended up tripping the electrical breakers
 #@# for the venue several times throughout the event.
-SCALE was started 9 years ago by members of three local Linux Users Group, growing out of a small regional event organized by one of these LUGs. The first time around was definitely a learning experience. Many lessons were learned, there was quite a bit of running around and the event seemed to fly by very quickly. Because none of us had planned an event where we had to be concerned about the load on electrical circuits or power usage, we had not considered it and because of that we ended up tripping the electrical breakers for the venue several times throughout the event.
+SCALEが始まったのは9年前。地元の3つのLinuxユーザーグループのメンバー立ち上げたのがきっかけだ。
+それぞれのLUGが単独で開く小規模な地域イベントとは違うものだった。
+第一回は、何から何まで学ぶことばかりだった。
+いろいろなことを学んだが、それはイベントのごく一部でしかなかった。イベント自体、何が何だかわからないうちにあっというまに過ぎ去ってしまった。
+電気回路にかかる負荷や電源の使用量などを気にしなければいけないようなイベントなんて、誰も開催したことがなかった。
+当然、そんなことを気にしないといけないなんて誰も思わなかったので、イベントの最中にも何度かブレーカーを落としてしまった。
 
 #@# \section*{It’ll work \dots\ it's wireless!}
 == It’ll work ... it's wireless!
@@ -45,7 +50,9 @@ SCALE was started 9 years ago by members of three local Linux Users Group, growi
 #@# the event. The new location also served as our first lesson in contracts with a
 #@# large organization for things such as A/V equipment, Internet access and
 #@# exhibitor furniture.
-The second SCALE included many of the lessons learned from the previous year but a new venue would result in new lessons. The Los Angeles Convention Center served as the location for SCALE 2, providing much more space to spread out for the event. The new location also served as our first lesson in contracts with a large organization for things such as A/V equipment, Internet access and exhibitor furniture.
+2回目のSCALEでは、前の年に学んだいろんな教訓を活かした。でも、場所が変わればまた新たな問題も出てくるものだ。
+第2回の会場はLos Angeles Convention Centerで、前年よりも広い会場だった。
+この新しい会場では、大組織との間での契約に関する経験を積むことになった。音響機器やインターネットアクセス、そして出展者向けの備品などについての契約だ。
 
 #@# Because of the placement for the event within the convention center, we were
 #@# forced to locate the show's registration counters in an area that while visible
