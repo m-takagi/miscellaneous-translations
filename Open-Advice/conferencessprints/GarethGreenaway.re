@@ -52,7 +52,7 @@ SCALEが始まったのは9年前。地元の3つのLinuxユーザーグルー�
 #@# exhibitor furniture.
 2回目のSCALEでは、前の年に学んだいろんな教訓を活かした。でも、場所が変わればまた新たな問題も出てくるものだ。
 第2回の会場はLos Angeles Convention Centerで、前年よりも広い会場だった。
-この新しい会場では、大組織との間での契約に関する経験を積むことになった。音響機器やインターネットアクセス、そして出展者向けの備品などについての契約だ。
+この新しい会場では、大組織との間での契約に関する経験を積むことになった。音響機器やインターネットアクセス、そして出展者向けの備品などについての経験だ。
 
 #@# Because of the placement for the event within the convention center, we were
 #@# forced to locate the show's registration counters in an area that while visible
@@ -62,7 +62,19 @@ SCALEが始まったのは9年前。地元の3つのLinuxユーザーグルー�
 #@# We suddenly realized that our hours of working, attempting to solve this
 #@# wireless issue had been futile. In the end we ran an Ethernet cable, taped it down securely as best we could and said a small prayer that the fire marshal
 #@# would not make a surprise inspection.
-Because of the placement for the event within the convention center, we were forced to locate the show's registration counters in an area that while visible to arriving attendees would be some distance away from the rest of the show. Our options for providing network access to the registration area were limited as fire regulations prevented running wire, so wireless was the only option. Everything was set up early the day for the show and was working great until mysteriously it was not. The wireless connection providing the much needed network access to the registration counter would simply disappear. There was much troubleshooting, much relocation of equipment and antennas and much frustration. ``It should be working'' was the only conclusion that everyone could come to, with little insight into why it simply was not working. Suddenly one of the team members, who had been standing some distance from the troubleshooting session, called everyone over to where he had been standing. In front of a large window which overlooked a large convention hall on the lower level, suddenly we all saw what it was he wanted us to see. Below us where dozens of flashing, spinning, pulsating lights staring up at us. Hundreds of electronic devices with flashing lights, sirens, blinking LED signs mockingly interfering with the wireless signals of our poor access points. We suddenly realized that our hours of working, attempting to solve this wireless issue had been futile. In the end we ran an Ethernet cable, taped it down securely as best we could and said a small prayer that the fire marshal would not make a surprise inspection.
+コンベンションセンターで開催するイベントの配置上の理由で、受付カウンターの場所をメイン開場から少し離れたところに置かざるを得なかった。
+受付エリアにネットワークを引こうとしても、選択肢は限られていた。防火規則のせいで有線を引くことができなかったので、無線を飛ばすしかなかったんだ。
+開催当日の朝にはすべての準備が完了し、特に問題なく動いていた。が、しばらくして無線がつながらなくなってしまった。原因はわからない。
+受付カウンターで必要なネットワーク環境を提供していた無線の接続が、突然消えてしまったんだ。
+トラブルシューティングが始まった。機材の置き場所を変えてみたりアンテナの向きを変えたりしても復旧せず、フラストレーションが高まる。
+誰が見ても「何も問題はない。これで間違いなく動くはず」としか言えない状態なのに、なぜ使えなくなってしまったのだろう。
+そのとき、少し離れた場所にいた1人のメンバーが叫んだ。「おい、みんな。ちょっとこれを見てくれよ」
+階下にコンベンションホールを見渡せる大きな窓の前に集まった僕たちは、彼が何を見せたがっていたのかすぐにわかった。
+階下のあちこちで、何十ものライトが光ったり開店したり点滅したりしているのが見える。
+そこには何百台もの電子機器があって、それぞれがライトを光らせたりサイレンを鳴らしたりLEDで信号を出したりしていた。
+僕たちが使っているしょぼいアクセスポイントに向かう無線シグナルは、こいつらに邪魔されていたってわけだ。
+無線の問題を解決しようと何時間もやってきた作業が、まったくの無意味だったということを思い知った瞬間だった。
+最終的に、優先のケーブルを這わせることにした。綿密にテーピングして、あとは消防の人が抜き打ち調査に来ないことを祈るだけだった。
 
 #@# \section*{Awards shows, snipers and the case of the missing IBM case}
 == Awards shows, snipers and the case of the missing IBM case
