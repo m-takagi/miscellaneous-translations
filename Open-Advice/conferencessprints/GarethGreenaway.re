@@ -82,7 +82,8 @@ SCALEが始まったのは9年前。地元の3つのLinuxユーザーグルー�
 #@# Perhaps one of the well-known stories from the history of SCALE is the mishaps
 #@# and adventures that took place at SCALE 3. The adventures are well-known because
 #@# as a SCALE attendee that year you could not help but experience them.
-Perhaps one of the well-known stories from the history of SCALE is the mishaps and adventures that took place at SCALE 3. The adventures are well-known because as a SCALE attendee that year you could not help but experience them.
+おそらく、SCALE史上最もよく知られている事件が、SCALE 3での不幸な事件だろう。
+なぜ有名になったかというと、その年のSCALEの参加者全員が、どうすることもできずただそれを受け入れるしかなかったからだ。
 
 #@# The third SCALE was set to take place once again at the L.A. Convention Center,
 #@# the many months of planning and prep work had been done and everything was
