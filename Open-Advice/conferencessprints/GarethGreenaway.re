@@ -95,7 +95,11 @@ SCALEが始まったのは9年前。地元の3つのLinuxユーザーグルー�
 #@# road closures and alternative routes. This was also the first year that SCALE
 #@# would be a 2-day show, the hope being that things would be spread out a bit and
 #@# not feel as rushed and hectic.
-The third SCALE was set to take place once again at the L.A. Convention Center, the many months of planning and prep work had been done and everything was shaping up nicely. About 3 weeks prior to the event we received some information about various road closures around the convention center because of an upcoming awards show. The road closures resulted in there being one way in and out of the convention center, definitely not the ideal situation. Fortunately we had the time to alert everyone coming out for the show about the road closures and alternative routes. This was also the first year that SCALE would be a 2-day show, the hope being that things would be spread out a bit and not feel as rushed and hectic.
+第三回のSCALEの会場は、再びL.A. Convention Center。何ヶ月も前から綿密な計画を君で準備を進め、万事順調だった。
+本番の三週間前になって、こんな情報を受け取った。何かの表彰式があって、会場の周辺の道路が閉鎖されるというのだ。
+その結果、コンベンションセンターへの出入りは一方校からだけになってしまう。どう考えても理想的な状況ではない。
+幸い当日までにはまだ時間があったので、参加者には道路閉鎖の情報と代替ルートを知らせることができた。
+第三回のSCALEは、初めて二日間開催になった年だ。少しでも規模を拡大したかったし、ばたばたして消耗してしまうのは避けたかった。
 
 #@# One of the long standing sponsors and exhibitors that SCALE has had over the
 #@# years is IBM. They have always remained a welcome addition to the show,
