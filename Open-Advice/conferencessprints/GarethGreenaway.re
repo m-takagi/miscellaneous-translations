@@ -112,7 +112,14 @@ SCALEが始まったのは9年前。地元の3つのLinuxユーザーグルー�
 #@# delivered to their booth and no one at the convention center knew the
 #@# whereabouts of the package. Many hours of searching all the possible locations
 #@# within the convention center had not turned up any clues.
-One of the long standing sponsors and exhibitors that SCALE has had over the years is IBM. They have always remained a welcome addition to the show, unfortunately their attendance is also usually met with some difficulty. The day before the event has typically been reserved as a setup day, an opportunity for the SCALE staff to set up and exhibitors to prepare their booths. It is also the day that any packages that exhibitors have delivered arrive. IBM had planned to showcase a new server line at the show and had had one of these servers shipped to the convention center, unfortunately it had not been delivered to their booth and no one at the convention center knew the whereabouts of the package. Many hours of searching all the possible locations within the convention center had not turned up any clues.
+SCALEの古くからのスポンサーで、出展もしていただいている企業の1つがIBMだ。
+IBMの参加はいつも歓迎されていたが、残念ながらいつも何らかのトラブルに遭ってもいた。
+イベントの前日は一般に、準備用の日になっている。SCALEのスタッフが会場の準備をしたり、出展者がブースを用意したりするための日だ。
+またこの日は、出展者が展示するものが届く日でもある。
+IBMはそのときのイベントで新しいサーバーラインを披露するつもりだった。
+そのサーバーの1つを会場に向けて発送していたのだが、不幸なことにブースには届いていなかった。
+会場にいる誰一人として、今その荷物がどこにあるのかを把握していなかったのだ。
+コンベンションセンター内で考え得るあらゆる場所を探しまくったが、手がかりは得られなかった。
 
 #@# As it turned out, the awards show that would be taking place in a few days had
 #@# rented a number of rooms for office space and storage needs. On a whim, the
