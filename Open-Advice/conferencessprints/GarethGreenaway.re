@@ -129,7 +129,11 @@ IBMはそのときのイベントで新しいサーバーラインを披露す�
 #@# boxes and boxes from the floor to the ceiling of tickets for the upcoming awards
 #@# show. Behind these boxes, off in a corner was a large blue case with the IBM
 #@# logo printed across it. Crisis averted!
-As it turned out, the awards show that would be taking place in a few days had rented a number of rooms for office space and storage needs. On a whim, the event coordinator who was assisting in the search suggested perhaps we search one of their storage rooms in hopes that the IBM case had been delivered there accidentally. The room in question was a small storage closet, inside we found boxes and boxes from the floor to the ceiling of tickets for the upcoming awards show. Behind these boxes, off in a corner was a large blue case with the IBM logo printed across it. Crisis averted!
+後でわかったことだが、数日後に開催予定の授賞式のためにいくつかの部屋が押さえられていて、事務所や倉庫として使われていた。
+探索に参加していたイベントコーディネーターが、ふとした気まぐれで、あの倉庫を探してみたらIBMの荷物が見つかるんじゃないかと言い出した。
+問題の部屋は小さめの物置で、床から天井までびっしりと箱が積み上がっていた。来たるべき表彰式のチケットだ。
+そしてその奥の片隅に、大きな青い箱があったんだ。IBMのロゴがプリントされている。
+最悪の事態は回避できた！
 
 #@# The rest of the event ran smoothly and was relatively incident-free. As the
 #@# event wound down a small crowd began to form near some large windows overlooking
