@@ -19,7 +19,8 @@ tags: @<href>{http://martinfowler.com/tags/database.html, database} @<href>{http
 #@#   properly into English. It's an attitude to how we capture and store
 #@#   data, saying that we should only handle data that we really
 #@#   need.
-Datensparsamkeit is a German word that's difficult to translate properly into English. It's an attitude to how we capture and store data, saying that we should only handle data that we really need.
+ドイツ語にはDatensparsamkeitっていう言葉があるんだけど、それに該当する適切な英単語はない。
+この言葉は、データを取得したり保存したりするときの心がけを表すもので、「実際に必要なデータだけを扱うべき」という意味だ。
 
 //indepimage[sketch]
 
@@ -32,7 +33,11 @@ Datensparsamkeit is a German word that's difficult to translate properly into En
 #@#   it later. We set up our smartphone app to ask for location information so
 #@#   if we come up with some way to use that data later, we can. After
 #@#   all, storage is cheap - so why not?
-These days there's a lot of hype around the idea of Big Data - and with it the notion that we should capture and store every bit of data we can get our hands on. We might not have an immediate use for the contacts our users store in their address books, but we'll ask for it anyway in case it comes in useful later. We'll record every click on our website and squirrel it away in case we want to trawl it later. We set up our smartphone app to ask for location information so if we come up with some way to use that data later, we can. After all, storage is cheap - so why not?
+とにかく何でもかんでもビッグデータっていう時代だ。取得できるデータはとりあえず何でもかんでも取っておけという風潮になっている。
+アドレス帳の連絡先情報を今すぐに使うことはないとしても、とりあえずは取得しておく。あとで役立つかもしれないからだ。
+ウェブサイト上でのすべてのクリック操作も、とりあえずは記録しておく。後で何かを調べたくなるかもしれないからだ。
+スマホアプリも、とりあえずは位置情報を取得できるようにしておく。そのうちいつか、何かに役立てられるかもしれないからだ。
+最近はストレージがタダ同然になっているわけだし、取っておかない手はないよね。
 
 #@# The problem with the "capture-it-all" approach is that it raises
 #@#   serious questions of privacy. Even if we trust ourselves to not
