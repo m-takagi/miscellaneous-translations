@@ -47,7 +47,11 @@ tags: @<href>{http://martinfowler.com/tags/database.html, database} @<href>{http
 #@#   where governments have carried out extensive surveillance of their
 #@#   citizens in order to control them. Germany consequently has strong
 #@#   data privacy laws.
-The problem with the "capture-it-all" approach is that it raises serious questions of privacy. Even if we trust ourselves to not abuse the data we collect, each data store represents a target for criminals or government surveillance agencies. This issue is particularly fraught in Germany which has seen successive regimes where governments have carried out extensive surveillance of their citizens in order to control them. Germany consequently has strong data privacy laws.
+この「全部取っとけ」作戦の問題は、深刻なプライバシー問題が発生することだ。
+たとえ「集めたデータは決して悪用しない」と信頼されていたとしても、蓄えたデータは犯罪者たちにとって格好の標的になる。
+政府機関による監視の対象にもなるだろう。
+ドイツでは、この問題は特に深刻なもののなる。というのもドイツでは、政府のきちんとした監視のもとで国民をコントロールするという体制が続いているからだ。
+そのためドイツでは、プライバシーに関するデータを扱う際の法律が定められている。
 
 #@# Datensparsamkeit @<fn>{fn1} is a concept from these privacy laws that is an
 #@#   opposite philosophy to "capture-all-the-things". A translation isn't
