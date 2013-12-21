@@ -61,7 +61,11 @@ tags: @<href>{http://martinfowler.com/tags/database.html, database} @<href>{http
 #@#   that you should always ask yourself why you are capturing or storing
 #@#   data, and look to handle only the minimum amount of data you need
 #@#   for your purpose.
-Datensparsamkeit @<fn>{fn1} is a concept from these privacy laws that is an opposite philosophy to "capture-all-the-things". A translation isn't straightforward (which is why I've retained the German word) but loosely you might translate it as something like "data austerity", "data minimization", "data parsimony", or "data frugality". It means that you should always ask yourself why you are capturing or storing data, and look to handle only the minimum amount of data you need for your purpose.
+Datensparsamkeit@<fn>{fn1}はこういったプライバシー観に基づく考えかたで、「全部取っておけ」とは対極にあるものだ。
+うまい訳語が見つからない（ので、このページのタイトルもドイツ語のままにした）が、意味合い的には
+「データの簡素化」とか「データの最小化」「データの節約」といったあたりが近い。
+つまり、データを取得したり保存したりするときには常に「なぜそれが必要なのか」を自問し、
+目的を達成するために最低限必要なデータだけを扱うようにすべきという意味だ。
 
 #@# An example of this is tracking users on your web site to
 #@#   determine how many unique visitors you have. If the same person
