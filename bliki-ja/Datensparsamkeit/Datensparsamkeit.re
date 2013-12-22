@@ -76,7 +76,13 @@ Datensparsamkeit@<fn>{fn1}はこういったプライバシー観に基づく考
 #@#   used for much more than counting vistors. Datensparsamkeit suggests
 #@#   that you shouldn't store the IP address directly, perhaps instead
 #@#   you should hash it and only store the hash.
-An example of this is tracking users on your web site to determine how many unique visitors you have. If the same person accesses several pages within a few hours, you want to count that as one visit. If they visit several times a month, you still only want to count them as a single visitor. One way to do this is to log IP addresses, you count each IP address as a single person @<fn>{fn2}. But an IP address is very revealing, and could be used for much more than counting vistors. Datensparsamkeit suggests that you shouldn't store the IP address directly, perhaps instead you should hash it and only store the hash.
+こんな例を考えてみよう。自分のウェブサイトを訪れるユーザーの動きを追跡し、ユニークユーザーの数を調べることになった。
+同じ人が数時間以内に複数のページにアクセスした場合は、それらをまとめて一回の訪問と見なしたい。
+同じユーザーが月に何度か訪れるという場合にも、それらは同一ユーザーの訪問と見なしたい。
+ひとつのやりかたとして、IPアドレスを記録した上で同じIPアドレスからの訪問はすべて同一ユーザーと見なすという手がある@<fn>{fn2}。
+しかしIPアドレスにはさまざまな情報が含まれており、訪問者数を数える以外にもいろんなことに使えてしまう。
+このような場合にDatensparsamkeitでは、IPアドレスをそのまま保存するのはやめろという考えかたをする。
+IPアドレスのハッシュを計算して、ハッシュ値だけを保存すれば事足りる。
 
 #@# A similar example involving IP addresses is using them to infer
 #@#   demographic information such as region and country. You can get most
