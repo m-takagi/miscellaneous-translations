@@ -88,7 +88,9 @@ IPアドレスのハッシュを計算して、ハッシュ値だけを保存す
 #@#   demographic information such as region and country. You can get most
 #@#   of this information and practice datensparsamkeit by just logging the first
 #@#   three octets of the IP address.
-A similar example involving IP addresses is using them to infer demographic information such as region and country. You can get most of this information and practice datensparsamkeit by just logging the first three octets of the IP address.
+IPアドレスがらみでもう1つ、似た例がある。IPアドレスを使って、アクセス元の地域や国を推測することだ。
+Datensparsamkeitの精神に則った場合、こういった情報を取得するためにIPアドレス全体を記録する必要はない。
+最初の3オクテットだけ記録すれば十分だ。
 
 #@# Datensparsamkeit isn't just about bad people stealing data, it's
 #@#   also about your relationship with the primary company themselves.
