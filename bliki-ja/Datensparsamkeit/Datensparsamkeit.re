@@ -104,7 +104,13 @@ Datensparsamkeitの精神に則った場合、こういった情報を取得す�
 #@#   who they share their data with. Any breaches of data security must
 #@#   be immediately publicized (instead of covered up, which is the
 #@#   current default).
-Datensparsamkeit isn't just about bad people stealing data, it's also about your relationship with the primary company themselves. The default attitude at the moment is that any data you generate is not just freely usable by the capturer but furthermore becomes their valuable commercial property.  Privacy advocates, including me, think this assumption needs to be changed. Companies should only capture what they need and the burden of demonstrating need should fall on them. In addition, of course, they must be completely transparant about what they capture, what they store, and who they share their data with. Any breaches of data security must be immediately publicized (instead of covered up, which is the current default).
+Datensparsamkeitは別に、データを盗み出すような悪人のことだけを考えているのではない。
+私たちと主要な企業との関係にも関わってくることだ。
+現状、私たちが作り出すあらゆるデータは、収集した側で使い放題だ。それどころか、収集した側にとっては貴重な商売材料にすらなっている。
+プライバシーを気にする人たち（私もそのひとりだ）は、この前提は変わるべきだと考えている。
+企業はほんとうに必要菜データだけを収集すべきだし、何のためにそのデータを収集するのかを説明する責任もある。
+もちろん、何を取得したのかや何を保存したのか、そして誰がそのデータを見るのかといったことも明らかにしなければいけない。
+また、データのセキュリティに関する何らかの違反があれば、すぐにそれを公表しなければいけない（現状は、公表せずに覆い隠してしまうのが一般的だ）。
 
 #@# Even if you don't share my views on personal control of our own
 #@#   data, the risks of security breaches mean that datensparsamkeit is a
