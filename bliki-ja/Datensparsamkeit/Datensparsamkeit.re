@@ -119,18 +119,23 @@ Datensparsamkeitは別に、データを盗み出すような悪人のことだ�
 #@#   that damage? Even if there's no legal liability the publicity will
 #@#   have serious consequences - and thus there is risk for anyone who
 #@#   doesn't practice datensparsamkeit.
-Even if you don't share my views on personal control of our own data, the risks of security breaches mean that datensparsamkeit is a wise course of action. If you hold data that you don't need, and someone steals it and causes damage, shouldn't you be liable for that damage? Even if there's no legal liability the publicity will have serious consequences - and thus there is risk for anyone who doesn't practice datensparsamkeit.
+自分のデータを自己管理することについて、私とは違う考えを持つ人もいるだろう。
+でも、セキュリティ違反があったときのリスクを考えれば、Datensparsamkeitというのは賢明な動きだ。
+もし使う当てのないデータを抱えていたとして、誰かにそれを盗まれて被害を被ったとしよう。あなたはきっと、その損害に対する責任を問われることになるのではないだろうか。
+仮に法的責任を免れたとしても、世間での表眼はがた落ちだ。Datensparsamkeitを実践しない人たちはみな、このリスクを抱えることになる。
 
-== Acknowledgements
+#@# == Acknowledgements
+== 謝辞
 
 #@# <a href = 'http://erik.doernenburg.com/'>Erik D&#xF6;rnenburg</a>
 #@#     introduced me to Datensparsamkeit. The meme "&#x2026; all the things"
 #@#     seems to have been around forever (at least a decade) so I'm glad
 #@#     Korny Sietsma taught me that <a href = 'http://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html'>it started in 2010</a>.
-@<href>{http://erik.doernenburg.com/, Erik Dörnenburg} introduced me to Datensparsamkeit. The meme "… all the things" seems to have been around forever (at least a decade) so I'm glad Korny Sietsma taught me that @<href>{http://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html, it started in 2010}.
+この言葉を教えてくれたのは@<href>{http://erik.doernenburg.com/, Erik Dörnenburg}だった。
+「すべてのものを…」というミームは、少なくともこの十年はずっと存在し続けてきたように思える。Korny Sietsmaに@<href>{http://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html, それは2010年に始まったことだ}と教えてもらったことに感謝する。
 
-//footnote[fn1][Here's some @<href>{http://www.forvo.com/word/datensparsamkeit/, help on pronunciation}]
-//footnote[fn2][I realize that with Network Address Translation, things are rather more involved than this, but I wanted a simple example.]
+//footnote[fn1][読み方は、@<href>{http://www.forvo.com/word/datensparsamkeit/, このように}なる。]
+//footnote[fn2][NATとかを考慮すると話はややこしくなるけど、とりあえずの一例ということでシンプルに考えた。]
 
 
 
