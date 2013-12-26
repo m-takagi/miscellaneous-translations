@@ -143,7 +143,12 @@ IBMはそのときのイベントで新しいサーバーラインを披露す�
 #@# rifles and were members of the Los Angeles Police Department’s SWAT team, there
 #@# in preparation for the awards show that would be starting a few hours from then.
 #@# This definitely made for an exciting departure from the convention center.
-The rest of the event ran smoothly and was relatively incident-free. As the event wound down a small crowd began to form near some large windows overlooking the street outside, as I walked past I realized what it was everyone was looking at. Several figures, all dressed in black, were moving around on the rooftops of the buildings across the street. All of these figures were carrying sniper rifles and were members of the Los Angeles Police Department’s SWAT team, there in preparation for the awards show that would be starting a few hours from then. This definitely made for an exciting departure from the convention center.
+それ以外の問題は特に起こらず、これまでに比べてスムーズに進んだ。
+イベントが終わるころ、窓際に人が集まって外を眺めだした。
+私は少し前に外を歩いてきたところだったので、彼らがいったい何を気にしているのかもすぐにわかった。
+全身黒ずくめの人影が数人、向かいのビルの屋上を歩き回っているのだ。全員、狙撃銃を構えていた。
+彼らはロサンゼルス警察のSWAT部隊で、数時間後に始まる授賞式に備えていたのだ。
+コンベンションセンターからの帰路は、ちょっとした見ものだった。
 
 #@# \section*{No room at the inn}
 == No room at the inn
