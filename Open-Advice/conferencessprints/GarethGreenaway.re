@@ -151,7 +151,7 @@ IBMはそのときのイベントで新しいサーバーラインを披露す�
 コンベンションセンターからの帰路は、ちょっとした見ものだった。
 
 #@# \section*{No room at the inn}
-== No room at the inn
+== 満室
 
 #@# The fourth SCALE resulted in another venue change, this time the switch was to a
 #@# hotel instead of a convention center. As the years went by, more and more people
@@ -163,7 +163,12 @@ IBMはそのときのイベントで新しいサーバーラインを披露す�
 #@# with factors unique to a hotel. One of the most important lessons that we came
 #@# to learn was making sure that all contracts had an agreed-upon cancellation
 #@# policy.
-The fourth SCALE resulted in another venue change, this time the switch was to a hotel instead of a convention center. As the years went by, more and more people were traveling to attend SCALE and staying at local hotels, we decided to explore the possibility of holding SCALE in a hotel. We scouted the area and ended up working with an event coordinator on finding the right venue for the event. Settling on a hotel near the Los Angeles airport, the planning began. Holding an event at the hotel quickly became a source for new lessons on dealing with factors unique to a hotel. One of the most important lessons that we came to learn was making sure that all contracts had an agreed-upon cancellation policy.
+第四回のSCALEは、また会場を変えて行われた。これまでのコンベンションセンターではなく、新たな会場はホテルだった。
+回を重ねるにつれて、遠方からSCALEに参加して近場のホテルに泊まるという人が増えてきていた。そんなこともあって、SCALEをホテルで開催することにしたんだ。
+地域一帯を探し回り、最終的にはイベントコーディネーターの力を借りて、開催に適した会場を見つけた。
+ロサンゼルス空港のそばにあるホテルを会場に決めて、計画を練り始めた。
+ホテルでの開催となると、ホテルに特有のさまざまな問題に立ち向かうことになる。そこでまた、いろんなことを学んだ。
+中でも一番重要なことは、あらゆる契約には両者の合意に基づくキャンセルポリシーがあるということだった。
 
 #@# Roughly five weeks prior to the event we received a call from the venue telling
 #@# us that their corporate entity was canceling our event and giving our space to
