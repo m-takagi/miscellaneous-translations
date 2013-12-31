@@ -175,7 +175,11 @@ IBMはそのときのイベントで新しいサーバーラインを披露す�
 #@# another event. Obviously this came as quite a shock and left us scrambling.
 #@# The contract with the hotel did not include any sort of agreement for
 #@# relocation, but simply stated that they could cancel the event without cause.
-Roughly five weeks prior to the event we received a call from the venue telling us that their corporate entity was canceling our event and giving our space to another event. Obviously this came as quite a shock and left us scrambling. The contract with the hotel did not include any sort of agreement for relocation, but simply stated that they could cancel the event without cause.
+開催を五週間後に控えたある日、会場側から一方的なキャンセル通知を受け取った。
+その会場を当日別のイベントで使うことになったからという理由だった。
+いきなりの通知で、私たちは大騒ぎになった。
+そのホテルとの契約には、代替会場を確保するような合意が一切含まれていなかった。
+そして、ホテル側は理由なしに開催をキャンセルできるという条項は、しっかり含まれていたんだ。
 
 #@# After many phone calls and negotiations with the original venue, eventually they
 #@# were willing to provide some funds to help relocate to another venue. The new
