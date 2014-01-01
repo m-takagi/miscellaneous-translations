@@ -191,21 +191,24 @@ IBMはそのときのイベントで新しいサーバーラインを披露す�
 何とかその年を乗り切ったSCALEチームは、いろんなことを学んだ。今後また契約交渉をするときに、きっと役立つだろう。
 
 #@# \section*{Curtain Call}
-== Curtain Call
+== カーテンコール
 
 #@# All in all, organizing a conference is a rewarding endeavor and a great way to
 #@# give back to the community. Conferences are an important element, they allow in
 #@# person interaction in a world that commonly relies on virtual means of
 #@# communication.
-All in all, organizing a conference is a rewarding endeavor and a great way to give back to the community. Conferences are an important element, they allow in person interaction in a world that commonly relies on virtual means of communication.
+全体を通して見れば、カンファレンスを運営するというのはとてもやりがいのある体験だ。コミュニティへの恩返しにもつながる。
+カンファレンスはコミュニティにとって大事な要素だ。
+普段はネット上でのやりとりに頼っている世界中の人たちが、実際に顔をつきあわせて話し合えるようになる。
 
 #@# Advice I would give to future conference organizers would be:
-Advice I would give to future conference organizers would be:
+今後カンファレンスを運営しようと思っている人たちに向けて、こんなアドバイスを贈りたい。
+
 #@# \begin{itemize}
 #@#  \item Start small, do not cram too much into an event the first year.
 #@#  \item Take chances, make mistakes, do not be afraid to fail.
 #@#  \item Communication is key!
 #@# \end{itemize}
- * Start small, do not cram too much into an event the first year.
- * Take chances, make mistakes, do not be afraid to fail.
- * Communication is key!
+ * 最初は小規模なところから始める。第一回からがんばりすぎない。
+ * どんどんやってみて、どんどん失敗しよう。失敗を恐れちゃいけない。
+ * 結局はコミュニケーションが重要。
