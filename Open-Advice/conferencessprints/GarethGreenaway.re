@@ -186,7 +186,9 @@ IBMはそのときのイベントで新しいサーバーラインを披露す�
 #@# venue was also willing to honor the same terms regarding electrical, Internet
 #@# access and A/V equipment. Everything worked out and the SCALE team had learned
 #@# a valuable lesson when negotiating future contracts.
-After many phone calls and negotiations with the original venue, eventually they were willing to provide some funds to help relocate to another venue. The new venue was also willing to honor the same terms regarding electrical, Internet access and A/V equipment. Everything worked out and the SCALE team had learned a valuable lesson when negotiating future contracts.
+その会場に電話を掛けまくって散々交渉をした結果、新たな開催地を探すための資金をいくらか援助してもらえることになった。
+新たな開催地は、電源やインターネット接続環境そして音響機器に関して元の会場と同じ条件を用意してくれた。
+何とかその年を乗り切ったSCALEチームは、いろんなことを学んだ。今後また契約交渉をするときに、きっと役立つだろう。
 
 #@# \section*{Curtain Call}
 == Curtain Call
