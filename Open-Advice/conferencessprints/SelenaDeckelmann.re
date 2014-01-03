@@ -22,9 +22,16 @@ Selena Deckelmann
 #@# Manual, and Student Guide. She is an advisor to the Ada Initiative and board
 #@# member of Technocation, Inc.}
 //lead{
-Selena Deckelmann is a major contributor to PostgreSQL. She speaks internationally about free software, developer communities and trolling. Her interests include opening up government data with the City of Portland, urban chickens and finding ways to make databases run faster.
+Selena Deckelmannは、PostgreSQLの主要コントリビューターのひとりだ。
+世界各国で、フリーソフトウェアや開発者コミュニティそしてトローリングについて講演している。
+彼女はいろいろなものに関心を寄せている。ポートランド市のデータをオープンにすること、町中で飼われている鶏、そしてデータベースを高速に動かす方法などだ。
 
-She founded Postgres Open, a conference dedicated to the business of PostgreSQL and disruption of the database industry. She founded and co-chaired Open Source Bridge, a developer conference for open source citizens. She founded the PostgreSQL Conference, a successful series of east coast/west coast conferences in the US for PostgreSQL. She is currently on the program committees of PgCon and MySQL Users Conference, and OSCON data. She's a contributing writer for the Google Summer of Code Mentor Manual, and Student Guide. She is an advisor to the Ada Initiative and board member of Technocation, Inc.
+彼女はPostgres Openを立ち上げた。これは、PostgreSQLを使ったビジネスや、データベース業界の分断に特化したカンファレンスだ。
+また、Open Source Bridgeの立ち上げメンバーであり共同主催者でもある。これは、オープンソース業界の開発者向けカンファレンスだ。
+また、PostgreSQL Conferenceの立ち上げにもかかわった。これは、米国の東海岸／西海岸で続いているPostgreSQLのカンファレンスだ。
+そして今、彼女はPgConやMySQL Users ConferenceそしてOSCON dataのプロフラム委員会のメンバーでもある。
+Google Summer of CodeのMentor ManualやStudent Guideの執筆にも参加した。
+Ada Initiativeのアドバイザーであり、Technocation, Inc.の役員でもある。
 //}
 
 #@# \noindent{}Looking back since the first time I booted a PC into Linux in 1994, one thing
