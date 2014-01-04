@@ -45,10 +45,16 @@ Ada Initiativeのアドバイザーであり、Technocation, Inc.の役員でも
 #@# last five years to raise money for unconferences, day-long code sprints and
 #@# multi-day conferences about open source software and culture.
 //noindent
-Looking back since the first time I booted a PC into Linux in 1994, one thing stands out in my experience with open source: I wish I had known how to ask for money. Asking for money is hard. I have written grant proposals, asked for raises, negotiated salaries and consulting hourly rates, and raised funds for non-profit conferences. Through much trial and error, I have developed a process that works! What follows is a distillation of the tricks and techniques I have used over the last five years to raise money for unconferences, day-long code sprints and multi-day conferences about open source software and culture.
+PCにはじめてLinuxを入れてみたのは1994年のことでした。当時を振り返ると、オープンソースとの関わりの中でいちばん強く感じたのは「どうやってお金を集めればいいの？」ってことでした。
+資金援助を頼むのは難しいことです。
+助成金も申請してみたし寄付をお願いもしてみました。賃金やコンサルト料の時給も交渉したし、非営利のカンファレンスを支援したりもしました。
+いろいろやってみて失敗したりして、うまくいくやりかたをようやく見つけたのです。
+ここで紹介するのは、この5年感で私が使ってきた小技やテクニックのエッセンスです。
+私はこれで、オープンソースソフトウェアに関するアンカンファレンスやハッカソン、そして複数日開催のカンファレンスなどの資金を確保しました。
 
 #@# The process of getting money for a conference is really about six steps:
-The process of getting money for a conference is really about six steps: 
+カンファレンスの資金を得るというのは、実際には次の6つのステップがあります。
+
 #@# \begin{enumerate}
 #@#  \item Identify a need.
 #@#  \item Tell someone.
@@ -57,12 +63,12 @@ The process of getting money for a conference is really about six steps:
 #@#  \item Spend the money.
 #@#  \item Say thank you.
 #@# \end{enumerate}
- 1. Identify a need. 
- 2. Tell someone. 
- 3. Ask for money.
- 4. Get the money.
- 5. Spend the money. 
- 6. Say thank you.
+ 1. ニーズを確認する
+ 2. 誰かにそれを伝える
+ 3. 資金援助を要請する
+ 4. 資金を得る
+ 5. 資金を使う
+ 6. お礼を言う
 
 #@# \section*{Identify a need}
 == Identify a need
