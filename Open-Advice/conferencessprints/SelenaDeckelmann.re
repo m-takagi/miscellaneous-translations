@@ -147,11 +147,14 @@ PCにはじめてLinuxを入れてみたのは1994年のことでした。当時
 #@# The Software Freedom Law Center may be able to refer you to an appropriate
 #@# lawyer if you do not have one.
 #@# \end{itemize}
- * Purpose: In a paragraph, explain why you are having the conference. What inspired you to bring people together? And who are the attendees? What will they talk about once they are there?
+ * 目的：このパラグラフでは、なぜカンファレンスを開催するのかを説明します。人を集めようと思った理由は？参加者はどんな人を想定している？そこでどんな話題を扱う？
  @<br>{}@<br>{}
- If you have got a theme, or a specific goal in mind, mention that. Also, explain why you picked the location for the event. Is there some tie to the theme of the conference? Are the right people in that location? Was it sponsored by someone?
+ テーマやゴールがあれば、それについても説明します。また、開催地を選んだ理由も説明しましょう。
+ その開催地は、カンファレンスのテーマと何か関連がある？
+ そこにはカンファレンスに参加するような人がいる？
+ 誰かが提供してくれた？
  @<br>{}@<br>{}
- Finally, share any interesting numbers from previous events, like number of attendees, interesting facts about speakers or details about your chosen location. 
+ 最後に、過去のイベントの参加者数などの数字や、後援者や開催地に関するちょっとした豆知識も取り入れましょう。
  * Sponsorship opportunities and benefits: This section of the prospectus will outline what sponsors can expect from your conference. Typically, this is organized by dollar amount, but could also describe benefits for in-kind or volunteer work.
  @<br>{}@<br>{}
  Start simple. Typically, sponsorships for events with cash are arranged by HR departments looking to hire, or marketing departments looking to advertise products or services.
