@@ -71,14 +71,19 @@ PCにはじめてLinuxを入れてみたのは1994年のことでした。当時
  6. お礼を言う
 
 #@# \section*{Identify a need}
-== Identify a need
+== ニーズを確認する
 
 #@# Your first task as a conference organizer is to explain why you are putting on
 #@# yet another conference, why that conference will be useful to attendees and why
 #@# a sponsor should give you money to do it. This is called ``writing a
 #@# prospectus.''
 #@# The main elements of a prospectus are:
-Your first task as a conference organizer is to explain why you are putting on yet another conference, why that conference will be useful to attendees and why a sponsor should give you money to do it. This is called ``writing a prospectus.'' The main elements of a prospectus are: 
+カンファレンスを運営する立場での最初のタスクは、
+「他にもいろいろあるのに、なぜまた新たなカンファレンスを開催するのか」
+「参加者にとってどんなメリットがあるのか」
+「なぜスポンサーが必要なのか」
+を説明すること。要するに「趣意書を書く」ということです。
+趣意書の内容は、次のとおりです。
 
 #@# \begin{itemize}
 #@# \item Purpose:
