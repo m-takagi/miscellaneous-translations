@@ -155,11 +155,16 @@ PCにはじめてLinuxを入れてみたのは1994年のことでした。当時
  誰かが提供してくれた？
  @<br>{}@<br>{}
  最後に、過去のイベントの参加者数などの数字や、後援者や開催地に関するちょっとした豆知識も取り入れましょう。
- * Sponsorship opportunities and benefits: This section of the prospectus will outline what sponsors can expect from your conference. Typically, this is organized by dollar amount, but could also describe benefits for in-kind or volunteer work.
+ * 後援の受付とそのメリット：
+ ここでは、このカンファレンスを支援すればどんなメリットがあるのかをざっとまとめます。
+ 金額ベースでまとめることが多いですが、物品だとかボランティアの作業で示すこともできます。
  @<br>{}@<br>{}
- Start simple. Typically, sponsorships for events with cash are arranged by HR departments looking to hire, or marketing departments looking to advertise products or services.
+ まずはシンプルに始めましょう。
+ 一般に、イベントへの支援を担当するのは、人事やマーケティング部門です。人事は採用の機会を狙い、マーケティングは自社のプロダクトやサービスを宣伝したがっています。
  @<br>{}@<br>{}
- The types of benefits sponsors ask for include: recognition on a website, mention of sponsorship in email or tweets out to attendees, access to email addresses and/or demographic information about attendees, logo and labels on conference totebags, lanyards or other swag, coffee breaks and lunch, parties, conference booth space and advertising space in a conference program.
+ スポンサーが望む見返りには、たとえばこんなものがあります。
+ ウェブサイト上での紹介、参加者向けのメールやtweetでの紹介、参加者のメールアドレスなどの属性、参加者に配布するトートバッグへのロゴの印刷、
+ コーヒーやランチ、パーティ、ブース出展、自社な宣伝用の講演枠などです。
  @<br>{}@<br>{}
  Also, consider creative things that are unique to you, the conference and the location. For example, Portland has a very popular doughnut shop with a truck delivery service. We got a sponsor and then acquired permission to drive the truck right onto the grounds of our venue and served free doughnuts for breakfast.
  @<br>{}@<br>{}
