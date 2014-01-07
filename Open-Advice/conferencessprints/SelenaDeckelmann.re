@@ -166,9 +166,14 @@ PCにはじめてLinuxを入れてみたのは1994年のことでした。当時
  ウェブサイト上での紹介、参加者向けのメールやtweetでの紹介、参加者のメールアドレスなどの属性、参加者に配布するトートバッグへのロゴの印刷、
  コーヒーやランチ、パーティ、ブース出展、自社な宣伝用の講演枠などです。
  @<br>{}@<br>{}
- Also, consider creative things that are unique to you, the conference and the location. For example, Portland has a very popular doughnut shop with a truck delivery service. We got a sponsor and then acquired permission to drive the truck right onto the grounds of our venue and served free doughnuts for breakfast.
+ また、そのカンファレンスならではのことやその開催地ならではのこともここで検討しましょう。
+ たとえばポートランドには有名なドーナツ屋があって、ドラックを使ったデリバリーサービスを提供しています。
+ 私たちは彼らにスポンサーになってもらい、トラックを会場に乗り入れてもらうようにしました。
+ 朝食として、ドーナツを無料でふるまったのです。
  @<br>{}@<br>{}
- Links to example prospectuses are below. They are all for big conferences, so YMMV. I have made a prospectus before that only had one option for sponsorship, and the benefits were: send one attendee from your company, and the organizers will publicly recognize your company and thank you for your sponsorship.
+ 開催趣意書の一例をまとめました。どれも大規模なカンファレンスばかりなので、あまり参考にはならないかもしれません。
+ 私が以前に作ったある趣意書では、スポンサーシップのオプションはたった1つで、特典は
+ 「1名様を無料で招待し、カンファレンスの後援一覧に貴社名を掲載します」というだけのものでした。
  ** OSCON: @<href>{http://bit.ly/zd62Q6}
  ** Open Source Bridge: @<href>{http://bit.ly/dKWvYJ}
  ** MeeGo San Francisco: @<href>{http://bit.ly/zLUKEN}
