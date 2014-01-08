@@ -177,7 +177,7 @@ PCにはじめてLinuxを入れてみたのは1994年のことでした。当時
  ** OSCON: @<href>{http://bit.ly/zd62Q6}
  ** Open Source Bridge: @<href>{http://bit.ly/dKWvYJ}
  ** MeeGo San Francisco: @<href>{http://bit.ly/zLUKEN}
- * Contract: Always include a contract with your prospectus. This establishes basic expectations and timelines, and can save you a lot of trouble down the road.
+ * 契約：趣意書には常に契約を含めるようにしましょう。これは、基本となる期待値やタイムラインを示すもので、無用なトラブルを防いでくれます。
  @<br>{}@<br>{}
  I am not a lawyer, and so what follows is my experience rather than legal advice. For smaller events, I write a very simple contract that outlines my expectations: sponsors promise to pay by a certain date, and I promise to hold the event on a certain date.
  @<br>{}@<br>{}
