@@ -179,12 +179,17 @@ PCにはじめてLinuxを入れてみたのは1994年のことでした。当時
  ** MeeGo San Francisco: @<href>{http://bit.ly/zLUKEN}
  * 契約：趣意書には常に契約を含めるようにしましょう。これは、基本となる期待値やタイムラインを示すもので、無用なトラブルを防いでくれます。
  @<br>{}@<br>{}
- I am not a lawyer, and so what follows is my experience rather than legal advice. For smaller events, I write a very simple contract that outlines my expectations: sponsors promise to pay by a certain date, and I promise to hold the event on a certain date.
+ 私は法律家ではないので、これはあくまでも経験上の話であって法的なアドバイスではありません。
+ 小さめのイベントのときなら、ごくシンプルな契約で済ませることが多くなります。
+ 「スポンサーは所定の期日までに支払いを済ませ、私たちは所定の日程でイベントを開催する」という程度のものです。
  @<br>{}@<br>{}
- Copying an existing contract is a tricky business, as laws change and vary across states and countries. I consulted a lawyer that was recommended to me by an experienced open source community manager. The law firm was nice enough to create contracts and review contracts with hotels with us on a pro-bono basis. The Software Freedom Law Center may be able to refer you to an appropriate lawyer if you do not have one.
+ 既存の契約をまねして作るのは少し面倒です。法律は常に変わり続けるし、州や国が変われば法もまた変わるからです。
+ 私は専門の法律家に相談しました。オープンソースコミュニティの運営に関する先輩から、紹介してもらったのです。
+ その法律事務所は、開催会場のホテルとの契約を作ったりレビューしたりするのを、無料で手伝ってくれました。
+ もしそういったつてがない場合は、The Software Freedom Law Centerに相談すれば適切な法律家を紹介してくれるでしょう。
 
 #@# Now that you have created the prospectus, you need to talk to some people.
-Now that you have created the prospectus, you need to talk to some people.
+さあ、これで趣意書ができました。次はそれを誰かに伝える番です。
 
 #@# \section*{Tell someone}
 == Tell someone
