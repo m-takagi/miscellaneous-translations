@@ -206,7 +206,9 @@ PCにはじめてLinuxを入れてみたのは1994年のことでした。当時
 #@# people that I know, rather than worrying a whole lot about exactly the right
 #@# people to tell.  Make a list of people to talk to that you know already, and
 #@# start checking them off.
-Over the years, I have learned that I need to start talking RIGHT NOW to the people that I know, rather than worrying a whole lot about exactly the right people to tell.  Make a list of people to talk to that you know already, and start checking them off.
+これまでの経験から学んだのは、とにかく誰でもいいので「一刻も早く」伝えないといけないってことです。
+「誰に伝えればいいのかなあ」などと悩んでいる暇はありません。
+知人の連絡先の一覧を作って、順番に連絡していきましょう。
 
 #@# The best way to start talking about what you are doing is in person or on the
 #@# phone. This way, you are not spamming people, you have their attention, and you
@@ -214,7 +216,11 @@ Over the years, I have learned that I need to start talking RIGHT NOW to the peo
 #@# questions? Or do they get bored? Who else do they think you should talk to? Ask
 #@# for feedback, and how you can make your pitch more appealing, interesting and
 #@# worth their money!
-The best way to start talking about what you are doing is in person or on the phone. This way, you are not spamming people, you have their attention, and you can get immediate feedback about your pitch. Do people get excited? Do they ask questions? Or do they get bored? Who else do they think you should talk to? Ask for feedback, and how you can make your pitch more appealing, interesting and worth their money!
+連絡手段としていちばんいいのは、直接会って話すかあるいは電話を使うことです。
+スパムを送りつける代わりにこういった手段を使えば、相手の気を引けるし、相手の反応もすぐにわかります。
+話を聞いて興奮しているかどうか、何か質問を返してくるかどうか、あまり気乗りしない様子ではないだろうかといったことです。
+もしかしたら、他にその話を伝えるべき人を知っているかもしれません。
+相手の声を聞いて参考にし、今後より魅力的に伝えられるように（より多くの資金を集められるように！）しましょう。
 
 #@# Once you have your verbal pitch down, write it up and send a few emails. Ask for
 #@# feedback on your email and always close the email with a call to action and a
