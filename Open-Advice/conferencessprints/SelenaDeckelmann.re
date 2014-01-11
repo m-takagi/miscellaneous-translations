@@ -192,14 +192,15 @@ PCにはじめてLinuxを入れてみたのは1994年のことでした。当時
 さあ、これで趣意書ができました。次はそれを誰かに伝える番です。
 
 #@# \section*{Tell someone}
-== Tell someone
+== 誰かに伝える
 #@# The most difficult step for me personally is getting the word out about my
 #@# events!
-The most difficult step for me personally is getting the word out about my events! 
+私が個人的に一番苦手としているのがこれ、つまり、イベントの話題を広めることです。
 
 #@# Practice explaining your event in 1-2 sentences. Distill out what excites you,
 #@# and what should excite other people.
-Practice explaining your event in 1-2 sentences. Distill out what excites you, and what should excite other people.
+自分が開催するイベントについて、一言二言程度でまとめてみましょう。
+いったい何がすばらしいのか、他の人たちにどんなすばらしいことがあるのかを凝縮しましょう。
 
 #@# Over the years, I have learned that I need to start talking RIGHT NOW to the
 #@# people that I know, rather than worrying a whole lot about exactly the right
