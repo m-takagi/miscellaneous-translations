@@ -226,7 +226,9 @@ PCにはじめてLinuxを入れてみたのは1994年のことでした。当時
 #@# feedback on your email and always close the email with a call to action and a
 #@# timeline for response.  Keep track of who responds, how they respond and when
 #@# you should follow up with each person.
-Once you have your verbal pitch down, write it up and send a few emails. Ask for feedback on your email and always close the email with a call to action and a timeline for response.  Keep track of who responds, how they respond and when you should follow up with each person.
+口頭である程度語り尽くしたら、それを文字に起こしてメールでも伝えましょう。
+連絡はメールでもらうようにお願いしておき、いつ返事がきてもすぐに対応できるようにしておきましょう。
+いつ誰から返事があったのか、そしてどんな対応をすべきなのかをきちんと追いかけておくことです。
 
 #@# \section*{Ask for money}
 == Ask for money
