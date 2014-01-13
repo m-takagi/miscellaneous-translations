@@ -231,12 +231,15 @@ PCにはじめてLinuxを入れてみたのは1994年のことでした。当時
 いつ誰から返事があったのか、そしてどんな対応をすべきなのかをきちんと追いかけておくことです。
 
 #@# \section*{Ask for money}
-== Ask for money
+== 資金援助を要請する
 #@# Armed with your prospectus, and your finely tuned pitch, start approaching
 #@# companies to fund your event. Whenever I start a new conference, I make a list
 #@# of questions about my conference and answer each with a list of people and
 #@# companies:
-Armed with your prospectus, and your finely tuned pitch, start approaching companies to fund your event. Whenever I start a new conference, I make a list of questions about my conference and answer each with a list of people and companies: 
+趣意書で身を固め、説明の口上もまとまってきたら、イベントへの出資を依頼するための企業まわりを始めましょう。
+私が新たなカンファレンスを始めるときにはいつも、カンファレンスに関するこんな質問リストを作ります。
+そして、それぞれの問いにあてはまる人物や企業を挙げていきます。
+
 #@# \begin{itemize}
 #@# \item Which people do I know who will think this is an amazing idea and will
 #@# advocate for my event? (Cheerleaders)
