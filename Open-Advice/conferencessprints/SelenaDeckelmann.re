@@ -250,11 +250,11 @@ PCにはじめてLinuxを入れてみたのは1994年のことでした。当時
 #@# \item Which free and open source projects would like to recruit developers?
 #@# (Open Source Recruiters)
 #@# \end{itemize}
- * Which people do I know who will think this is an amazing idea and will advocate for my event? (Cheerleaders)
- * Who would be really fun to have around at the conference? (Mavens)
- * Which companies have products that they want to pitch at my event? (Marketing)
- * Who would want to hire the people who attend? (Recruiters)
- * Which free and open source projects would like to recruit developers? (Open Source Recruiters)
+ * 知人の中で、すばらしいアイデアだとして私に賛同してくれそうな人は誰？（チアリーダー）
+ * このカンファレンスを真に楽しんでくれそうな人は誰？（目利き）
+ * このイベントで自社製品を展示したいと考えるであろう企業はどこ？（マーケティング）
+ * カンファレンスの参加者を自社で採用したいと思う人は誰？（リクルーター）
+ * カンファレンスの参加者を自分たちのプロジェクトに巻き込みたいと考えるフリー／オープンソースのプロジェクトはどれ？（オープンソースリクルーター）
 
 #@# Using these lists, send your prospectus out into the world! Here is an overview
 #@# of how I organize the asking process:
