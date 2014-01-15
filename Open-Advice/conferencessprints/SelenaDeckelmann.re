@@ -266,7 +266,13 @@ PCにはじめてLinuxを入れてみたのは1994年のことでした。当時
 #@# a few keynotes or special events. Hopefully this drives registrations a bit, and
 #@# helps make sponsors feel like the conference is definitely going to happen, and
 #@# that things are going well.
-Using these lists, send your prospectus out into the world! Here is an overview of how I organize the asking process: I start by sending prospectuses to my Cheerleaders. I also drop a copy of the prospectus with the Mavens, and invite them to attend the conference or speak. I then contact Marketing companies, Recruiters and Open Source Recruiters (sometimes there is overlap!). Meanwhile, I typically have opened registration for the conference and announced a few keynotes or special events. Hopefully this drives registrations a bit, and helps make sponsors feel like the conference is definitely going to happen, and that things are going well.
+このリストを使って、用意した趣意書をばらまきましょう。
+私は、だいたいこんな流れで進めています。
+まずは、チアリーダーたちに趣意書を送ります。
+そして、目利きの人たちにも趣意書を送り、彼らにはカンファレンスでの講演も依頼してみます。
+その後で、マーケティングやリクルーターそしてオープンソースリクルーターたちにも連絡を取ります（ときには、これらのいくつかを兼ね備えている人や企業もあります）。
+そうこうしている間に一般の参加者募集も始めます。その際には、いくつかのキーノートやスペシャルイベントの情報も公開します。
+そうすれば、参加登録にもいくらか弾みが付くでしょうし、スポンサーにも良い感触を与えられます。そしてすべてがうまく進むようになるでしょう。
 
 #@# \section*{Get the money}
 == Get the money
