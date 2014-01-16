@@ -275,22 +275,27 @@ PCにはじめてLinuxを入れてみたのは1994年のことでした。当時
 そうすれば、参加登録にもいくらか弾みが付くでしょうし、スポンサーにも良い感触を与えられます。そしてすべてがうまく進むようになるでしょう。
 
 #@# \section*{Get the money}
-== Get the money
+== 資金を得る
 #@# If everything goes according to plan, companies and people start offering you
 #@# money. When this happens you need two very important things:
-If everything goes according to plan, companies and people start offering you money. When this happens you need two very important things: 
+ここまでの流れがうまく進めば、いろんな企業や個人から資金提供のオファーがはじまるでしょう。
+そのときに必要となるのが、次の2点です。
+
 #@# \begin{itemize}
 #@# \item An invoice template
 #@# \item A bank account to hold the money
 #@# \end{itemize}
- * An invoice template
- * A bank account to hold the money
+ * 請求書のテンプレート
+ * 振込先の銀行口座
 
 #@# Invoice templates are simple. I have a Google Spreadsheet that I just update for
 #@# each invoice. You could easily use Open Office or even TeX (please, someone send
 #@# me a LaTeX invoice template!) Examples of what invoices look like are available
 #@# at \url{http://www.freetemplatesdepot.com}.
-Invoice templates are simple. I have a Google Spreadsheet that I just update for each invoice. You could easily use Open Office or even TeX (please, someone send me a LaTeX invoice template!) Examples of what invoices look like are available at @<href>{http://www.freetemplatesdepot.com}.
+請求書のテンプレートは、シンプルなものでかまいません。
+私はGoogle Spreadsheetを使っていて、請求のたびにそれを更新しています。
+Open Officeを使ってもいいでしょうし、何ならTeXだってかまいません（もし誰かLaTeXで請求書を作っている人がいたら、ぜひ見てみたいです！）
+請求書のサンプルは@<href>{http://www.freetemplatesdepot.com}にあります。
 
 #@# The most important elements of invoices are: the word INVOICE, a number for the
 #@# invoice that is unique, the name and contact information of the sponsor, what the
