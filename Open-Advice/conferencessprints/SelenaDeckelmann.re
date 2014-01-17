@@ -302,7 +302,9 @@ Open Officeを使ってもいいでしょうし、何ならTeXだってかまい
 #@# sponsor is expected to pay, terms of the invoice (when the sponsor should pay
 #@# by, and what the penalty is for non-payment) and the total amount due. Then you
 #@# need to send a copy of this form to the company. Keep a copy for yourself!
-The most important elements of invoices are: the word INVOICE, a number for the invoice that is unique, the name and contact information of the sponsor, what the sponsor is expected to pay, terms of the invoice (when the sponsor should pay by, and what the penalty is for non-payment) and the total amount due. Then you need to send a copy of this form to the company. Keep a copy for yourself!
+請求書に書く内容の中で大切なものは、まずは「請求書」という表題。
+それ以外には、請求書ごとの個別の請求番号、スポンサー名と連絡先、支払額、支払条件（締め切り、未払いの際のペナルティなど）、請求額の合計などです。
+これらを書いた請求書を各企業に送ります。もちろん、そのコピーを手元に残しておくこと。
 
 #@# Some companies may require simple or complicated forms to be filled out and
 #@# signed to identify you or your organization as a vendor. Paperwork. Ugh! Payment
