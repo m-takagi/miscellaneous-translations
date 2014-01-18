@@ -312,7 +312,11 @@ Open Officeを使ってもいいでしょうし、何ならTeXだってかまい
 #@# companies are typically yearly. Find out whether a company even \textit{has}
 #@# available budget for your event, and whether you can get into their budget the
 #@# following year if you missed the current year’s window.
-Some companies may require simple or complicated forms to be filled out and signed to identify you or your organization as a vendor. Paperwork. Ugh! Payment cycles for large companies can be up to two months. Also, budget cycles for companies are typically yearly. Find out whether a company even @<i>{has} available budget for your event, and whether you can get into their budget the following year if you missed the current year’s window.
+中には、ちょっとした書類にサインをして返送するよう求めてくる企業もあるあもしれません。あなたをその企業の取引先として登録するためでしょう。
+事務処理ってやつですね。面倒だこと！
+大きな企業だと、請求から支払いまで2か月ほどかかることもあります。
+また、たいていの企業の予算は年単位になっています。請求先の企業の当年度の予算がまだ残っているかどうか、
+仮に残っていないとして、翌年度の予算から支払ってくれそうかどうかを調べましょう。
 
 #@# The bank account can be your personal bank account, but this puts you at risk.
 #@# For a many-thousand-dollar event, you may wish to find an NGO or non-profit
