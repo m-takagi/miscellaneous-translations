@@ -324,11 +324,14 @@ Open Officeを使ってもいいでしょうし、何ならTeXだってかまい
 #@# for-profit, you should consult an accountant about how to organize the funds.
 #@# Finding a non-profit to work with may be as simple as contacting a foundation
 #@# associated with an open source project.
-The bank account can be your personal bank account, but this puts you at risk. For a many-thousand-dollar event, you may wish to find an NGO or non-profit organization that can hold and dispense funds for you. If your conference is for-profit, you should consult an accountant about how to organize the funds. Finding a non-profit to work with may be as simple as contacting a foundation associated with an open source project. 
+銀行口座は自分の個人口座を使ってもかまいませんが、それにはリスクがあります。
+数千ドル単位の額を扱うイベントなら、どこか資金管理をしてくれそうなNGOや非営利団体を探してみるのもいいでしょう。
+営利目的のカンファレンスなら、会計士に資金管理の方法を相談すべきです。
+非営利団体を探すのは、オープンソースプロジェクトに関する財団に連絡をつけるのと同じくらい単純なことです。
 
 #@# Now on to what makes this whole process worthwhile - spending your hard-earned
 #@# sponsorships!
-Now on to what makes this whole process worthwhile - spending your hard-earned sponsorships!
+さあ、ここまでの苦労がようやく実を結びます。苦労して集めたお金を、使ってみましょう！
 
 #@# \section*{Spend money}
 == Spend money
