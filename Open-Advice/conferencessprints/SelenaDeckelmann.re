@@ -334,16 +334,18 @@ Open Officeを使ってもいいでしょうし、何ならTeXだってかまい
 さあ、ここまでの苦労がようやく実を結びます。苦労して集めたお金を、使ってみましょう！
 
 #@# \section*{Spend money}
-== Spend money
+== 資金を使う
 #@# Now that your sponsors have paid, you can spend the money.
-Now that your sponsors have paid, you can spend the money. 
+スポンサーからの入金があれば、ようやくそれを使えるようになります。
 
 #@# Create a budget that details what you want to spend money on, and when you will
 #@# need to spend it. I recommend getting 3 quotes for products and services you are
 #@# unfamiliar with, just so you can get a sense of what a fair price is. Let
 #@# companies you are contacting know that you are going through a competitive bid
 #@# process.
-Create a budget that details what you want to spend money on, and when you will need to spend it. I recommend getting 3 quotes for products and services you are unfamiliar with, just so you can get a sense of what a fair price is. Let companies you are contacting know that you are going through a competitive bid process. 
+予算案を作り、いつどこで資金を使うのかを詳細にまとめましょう。
+あまりなじみのないプロダクトやサービスを使うときは、少なくとも3社からの見積もりを取りましょう。そうすれば、妥当な相場がつかめます。
+見積もりを依頼するときには、「他者にも見積もりを依頼していて、いちばんいいところを使うつもりである」と伝えましょう。
 
 #@# Once I establish a relationship with a company, I tend to do business with them
 #@# year after year. I like having relationships with vendors, and find that even if
