@@ -351,7 +351,10 @@ Open Officeを使ってもいいでしょうし、何ならTeXだってかまい
 #@# year after year. I like having relationships with vendors, and find that even if
 #@# I pay slightly more than if I aggressively bid things out every year, I end up
 #@# saving time and getting better service from a vendor that knows me well.
-Once I establish a relationship with a company, I tend to do business with them year after year. I like having relationships with vendors, and find that even if I pay slightly more than if I aggressively bid things out every year, I end up saving time and getting better service from a vendor that knows me well. 
+一度利用したら、次回以降も同じところにお願いするよう心がけています。
+ベンダーと仲良くなっておきたいんです。
+毎年入札形式にして少しでもいい条件のところを使うという手もありますが、
+そんなことに時間を掛けるよりも、こちらのことをよく知っているところによりよいサービスをしてもらったほうがいいと考えました。
 
 #@# For small events, you can keep track of expenses in a fairly simple spreadsheet.
 #@# For larger projects, asking an accountant, or using dedicated accounting software
