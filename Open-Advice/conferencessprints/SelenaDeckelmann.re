@@ -360,7 +360,9 @@ Open Officeを使ってもいいでしょうし、何ならTeXだってかまい
 #@# For larger projects, asking an accountant, or using dedicated accounting software
 #@# can help. Here is a list of Quicken alternatives that are free (to varying degrees
 #@# and in varying aspects!): \url{http://bit.ly/9RRgu0}
-For small events, you can keep track of expenses in a fairly simple spreadsheet. For larger projects, asking an accountant, or using dedicated accounting software can help. Here is a list of Quicken alternatives that are free (to varying degrees and in varying aspects!): @<href>{http://bit.ly/9RRgu0}
+小さめのイベントなら、支出の管理はちょっとしたスプレッドシートで十分対応できます。
+大規模なイベントの場合は、会計士にお願いするか、あるいは専用の会計ソフトウェアを使えばいいでしょう。
+無料で使えるQuicken的なソフトウェアの一覧が@<href>{http://bit.ly/9RRgu0}にあります（まあほんとに多種多様ですね！）。
 
 #@# What is most important is to keep track of all your expenses, and to not spend
 #@# money that you do not have! If you are working with a non-profit to manage the
