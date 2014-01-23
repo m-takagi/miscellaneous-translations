@@ -367,7 +367,8 @@ Open Officeを使ってもいいでしょうし、何ならTeXだってかまい
 #@# What is most important is to keep track of all your expenses, and to not spend
 #@# money that you do not have! If you are working with a non-profit to manage the
 #@# event’s money, ask them for help and advice before getting started.
-What is most important is to keep track of all your expenses, and to not spend money that you do not have! If you are working with a non-profit to manage the event’s money, ask them for help and advice before getting started.
+大事なのは、支出をきちんと管理すること。そして、ありもしないお金を使ってしまわないことです！
+非営利団体と協力してイベントの資金管理をする場合は、始める前にまず彼らに相談しましょう。
 
 #@# \section*{Say thank you}
 == Say thank you
