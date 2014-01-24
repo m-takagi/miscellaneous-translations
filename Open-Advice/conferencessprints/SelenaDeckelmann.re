@@ -371,11 +371,13 @@ Open Officeを使ってもいいでしょうし、何ならTeXだってかまい
 非営利団体と協力してイベントの資金管理をする場合は、始める前にまず彼らに相談しましょう。
 
 #@# \section*{Say thank you}
-== Say thank you
+== お礼を言う
 #@# There are many ways to say thank you to the people and companies that supported
 #@# your event. Most importantly, follow up on all the promises you made in the
 #@# prospectus. Communicate as each commitment is met!
-There are many ways to say thank you to the people and companies that supported your event. Most importantly, follow up on all the promises you made in the prospectus. Communicate as each commitment is met!
+イベントに協力してくれた人たちへの感謝を伝えるには、いろんな方法があります。
+いちばん大切なのは、趣意書で約束したことはきちんと守るということです。
+約束をきちんと果たしたことを、伝えましょう。
 
 #@# During the event, find ways of connecting with the sponsors, by designating a
 #@# volunteer to check in with them and checking in with them yourself.
