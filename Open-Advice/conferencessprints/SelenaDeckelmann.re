@@ -381,17 +381,21 @@ Open Officeを使ってもいいでしょうし、何ならTeXだってかまい
 
 #@# During the event, find ways of connecting with the sponsors, by designating a
 #@# volunteer to check in with them and checking in with them yourself.
-During the event, find ways of connecting with the sponsors, by designating a volunteer to check in with them and checking in with them yourself.
+イベントの開催中に、スポンサー各社と連絡を取り合う手段を見つけておきます。それ用に専任の担当者を割り当ててもいいでしょう。
+もちろん、その担当を引き受けてくれたボランティア自身の連絡先も忘れずに聞いておきます。
 
 #@# After the event, be sure to individually thank sponsors and volunteers for their
 #@# contributions. A non-profit I work with sends thank-you notes individually to
 #@# each sponsor at the start of the new year.
-After the event, be sure to individually thank sponsors and volunteers for their contributions. A non-profit I work with sends thank-you notes individually to each sponsor at the start of the new year.
+イベントが終わったら、スポンサーやボランティアのみなさんに個別に感謝することを忘れないようにしましょう。
+私が関わっているある非営利団体は、これまでに協力してくれたスポンサー各社に向けて、個別に年賀状を送っています。
 
 #@# Generally speaking, communication is the compost of fundraising! Giving
 #@# attention and building genuine relationships with sponsors helps find more
 #@# sponsors, and build your reputation as a great event organizer.
-Generally speaking, communication is the compost of fundraising! Giving attention and building genuine relationships with sponsors helps find more sponsors, and build your reputation as a great event organizer.
+簡単に言えば、コミュニケーションを取り合うことこそが資金集めの肝なんです！
+常に注意を払い、スポンサーといい関係を築いておけば、他のスポンサーを集める手助けにもなるでしょう。
+そして、あなたのイベントの主催者としての評価も上がります。
 
 #@# \section*{Lessons learned}
 == Lessons learned
