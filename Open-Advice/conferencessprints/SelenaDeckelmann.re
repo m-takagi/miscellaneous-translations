@@ -398,10 +398,11 @@ Open Officeを使ってもいいでしょうし、何ならTeXだってかまい
 そして、あなたのイベントの主催者としての評価も上がります。
 
 #@# \section*{Lessons learned}
-== Lessons learned
+== 教訓
 #@# After creating and running dozens of events, the two most important aspects of
 #@# it all have been finding mentors and learning to communicate well.
-After creating and running dozens of events, the two most important aspects of it all have been finding mentors and learning to communicate well. 
+これまでにいろんなイベントを開催してきましたが、最も大切だったのは次の2点でした。
+まずはメンターを見つけること。そして、うまくコミュニケーションする方法を学ぶことです。
 
 #@# Mentors helped me turn rants into essays, messes into prospectuses, and
 #@# difficult conversations into opportunities. I found mentors at companies that
