@@ -402,7 +402,7 @@ Open Officeを使ってもいいでしょうし、何ならTeXだってかまい
 #@# After creating and running dozens of events, the two most important aspects of
 #@# it all have been finding mentors and learning to communicate well.
 これまでにいろんなイベントを開催してきましたが、最も大切だったのは次の2点でした。
-まずはメンターを見つけること。そして、うまくコミュニケーションする方法を学ぶことです。
+まずは師匠を見つけること。そして、うまくコミュニケーションする方法を学ぶことです。
 
 #@# Mentors helped me turn rants into essays, messes into prospectuses, and
 #@# difficult conversations into opportunities. I found mentors at companies that
@@ -410,7 +410,11 @@ Open Officeを使ってもいいでしょうし、何ならTeXだってかまい
 #@# found mentors among volunteers who dedicated hundreds of hours to write software
 #@# for my events, recruit speakers, document what we were doing, and carry the
 #@# conference on after me.
-Mentors helped me turn rants into essays, messes into prospectuses, and difficult conversations into opportunities. I found mentors at companies that sponsored my conferences and gave detailed, sometimes painful, feedback. And I found mentors among volunteers who dedicated hundreds of hours to write software for my events, recruit speakers, document what we were doing, and carry the conference on after me. 
+師匠たちのおかげで単なる暴言がちょっとしたエッセイにまとまったし、ごちゃごちゃしていたものがきちんとした趣意書にまとまりました。
+そして、うまく進まなかった会話もチャンスに変えることができました。
+私が師匠を見つけたのは、カンファレンスの協賛企業の中からでした。彼らからは、詳細な（時には耳の痛い）フィードバックをいただきました。
+また、ボランティアのみなさんの中からも師匠を見つけました。
+何百時間も割いてイベント用のソフトウェアを書いてくれた人、講演者を集めてくれた人、イベントについて記事にまとめてくれた人、そして私を引き継いでカンファレンスの運営を続けてくれた人などです。
 
 #@# Learning to communicate well takes time, and the opportunity to make a lot of
 #@# mistakes. I learned the hard way that not developing a relationship with the
