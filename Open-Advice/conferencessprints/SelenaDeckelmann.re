@@ -421,8 +421,10 @@ Open Officeを使ってもいいでしょうし、何ならTeXだってかまい
 #@# best sponsors means no sponsorship the following year! I also found that people
 #@# are incredibly forgiving when mistakes happen, as long as you communicate early
 #@# and often.
-Learning to communicate well takes time, and the opportunity to make a lot of mistakes. I learned the hard way that not developing a relationship with the best sponsors means no sponsorship the following year! I also found that people are incredibly forgiving when mistakes happen, as long as you communicate early and often.
+コミュニケーションの方法を学ぶには時間がかかりましたし、その間いろいろ間違いもしでかしました。
+いちばんのスポンサーとうまい関係を築けなかったせいで翌年はスポンサーになってくれなかったりなど、つらいできごともありました。
+そんな中でわかったのは、もし間違いを犯してもたいていの人は寛容だということです。素早く密接なコミュニケーションがとれている限りは。
 
 #@# Good luck with your fundraising, and please let me know if you find this
 #@# helpful.
-Good luck with your fundraising, and please let me know if you find this helpful.
+みなさんも、資金集めをがんばってください。この文章が参考になれば幸いです。
