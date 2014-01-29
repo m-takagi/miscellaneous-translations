@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ops="http://www.idpf.org/2007/ops" xml:lang="ja">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <meta name="generator" content="ReVIEW" />
+  <title>BranchByAbstraction</title>
+</head>
+<body>
+<h1><a id="h"></a>BranchByAbstraction</h1>
+<div class="lead">
+<p>Martin Fowler's blikiの&quot;<a href="http://martinfowler.com/bliki/BranchByAbstraction.html" class="link">BranchByAbstraction</a>&quot;の翻訳。</p>
+</div>
+<p>2014/1/7</p>
+<p class="flushright">tags: <a href="http://martinfowler.com/tags/version%20control.html" class="link">version control</a> <a href="http://martinfowler.com/tags/continuous%20integration.html" class="link">continuous integration</a></p>
+<p>&quot;Branch by Abstraction&quot; is a technique <a href="#fn-fn01">*1</a> for making a large-scale change to a software system in gradual way that allows you to release the system regularly while the change is still in-progress.</p>
+<p>We begin with a situation where various parts of the software system are dependent on a module, library, or framework that we wish to replace</p>
+<div class="image">
+<img src="images/step-1.png" alt="" />
+</div>
+<p>We create an abstraction layer that captures the interaction between one section of the client code and the current supplier. We change that section of the client code to call the supplier entirely through this abstraction layer.</p>
+<div class="image">
+<img src="images/step-2.png" alt="" />
+</div>
+<p>We gradually move all client code over to use the abstraction layer until all interaction with the supplier is done by the abstraction layer. As we do this we take the opportunity to improve the unit test coverage of the supplier through this abstraction layer.</p>
+<div class="image">
+<img src="images/step-3.png" alt="" />
+</div>
+<p>We build a new supplier that implements the features required by one part of the client code using the same abstraction layer <a href="#fn-fn02">*2</a>. Once we are ready we switch that section of the client code to use the new supplier.</p>
+<div class="image">
+<img src="images/step-4.png" alt="" />
+</div>
+<p>We gradually swap out the flawed supplier until all the client code uses the new supplier. Once the flawed supplier isn't needed, we can delete it. We may also choose to delete the abstraction layer once we no longer need it for migration.</p>
+<div class="image">
+<img src="images/step-5.png" alt="" />
+</div>
+<p>My description above describes a common case, but there are plenty of variation that can occur.  Sometimes you can't  swap-out the supplier for only some clients, you have to do it all at once. Sometimes you can break down the features of the supplier into different sub-components and carry out this whole procedure one sub-component at a time.</p>
+<p>Despite these variations, there is a common theme. Use an abstraction layer to allow multiple implementations to co-exist in the software system. Use the notion of one abstraction and multiple implementations to perform the migration from one implementation to the other. Ensure that the system builds and runs correctly at all times, so you can continue to use <a href="http://martinfowler.com/delivery.html" class="link">Continuous Delivery</a> while you are doing the replacement. Look for as many ways as possible to make changes gradually.</p>
+
+<h2><a id="h-1"></a>Further Reading</h2>
+<p><a href="http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/" class="link">Jez Humble describes</a> how his team used Branch-by-Abstraction to replace both an object-relational mapping framework (ibatis to hibernate) and the web UI framework (velocity/JsTemplate to Ruby on Rails) for ThoughtWorks's Continuous Delivery tool &quot;Go&quot;.</p>
+<p>Paul Hammant provides <a href="http://paulhammant.com/blog/branch_by_abstraction.html" class="link">more details</a> of using Branch-by-Abstraction, particularly as an alternative to using version-control branching.</p>
+
+<h2><a id="h-2"></a>Acknowledgements</h2>
+<p>Thanks to Paul Hammant for his detailed suggestions as well as being an important primary source.</p>
+<div class="footnote"><p class="footnote">[<a id="fn-fn01">*1</a>] This technique has been around for a long time, although it never got a popular name. Paul Hammant introduced the term &quot;Branch by Abstraction&quot; while arguing in favor of <a href="http://paulhammant.com/2013/04/05/what-is-trunk-based-development/" class="link">Trunk Based Development</a> (he credits Stacy Curl with originally coming up with it). This name seems to have caught on and is now the term I most commonly hear.</p></div>
+<div class="footnote"><p class="footnote">[<a id="fn-fn02">*2</a>] While we are building the new feature we can use <a href="http://martinfowler.com/FeatureToggle.html" class="link">FeatureToggles</a> to run the new supplier in test environments and compare its behavior to the flawed supplier.</p></div>
+</body>
+</html>
