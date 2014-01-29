@@ -1,6 +1,6 @@
 #@ -*- mode: review; coding: utf-8 -*-
 #@ BranchByAbstraction
-= BranchByAbstraction
+= 抽象化によるブランチ
 
 #@ http://martinfowler.com/bliki/BranchByAbstraction.html
 
@@ -19,15 +19,18 @@ tags: @<href>{http://martinfowler.com/tags/version%20control.html, version contr
 #@#   for making a large-scale change to a software system in gradual way
 #@#   that allows you to release the system regularly while the change is
 #@#   still in-progress.</p>
-"Branch by Abstraction" is a technique @<fn>{fn01} for making a large-scale change to a software system in gradual way that allows you to release the system regularly while the change is still in-progress.
+「抽象化によるブランチ」というテクニック@<fn>{fn01}は、ソフトウェアシステムへの大規模な変更を徐々に進めていくときに使われるものだ。
+これを使えば、変更がまだ完了していなくても、定期的にシステムをリリースできるようになる。
 
 #@# <p>We begin with a situation where various parts of the software
 #@#   system are dependent on a module, library, or framework that we
 #@#   wish to replace</p>
-We begin with a situation where various parts of the software system are dependent on a module, library, or framework that we wish to replace
+こんな状況を考えてみよう。システムのかなりの部分が依存しているモジュール（あるいはライブラリやフレームワーク）があって、それをリプレイスしようとしている。
 
 #@# <p><img src = 'images/branch-by-abstraction/step-1.png'></img></p>
 //indepimage[step-1]
+
+※Flawed Supplier…欠陥のあるモジュール
 
 #@# <p>We create an abstraction layer that captures the interaction
 #@#   between one section of the client code and the current supplier.
