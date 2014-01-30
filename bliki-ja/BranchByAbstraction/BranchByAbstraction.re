@@ -120,7 +120,7 @@ Thanks to Paul Hammant for his detailed suggestions as well as being an importan
 #@#       coming up with it). This name seems to have caught on and is now
 #@#       the term I most commonly hear.
 #@#     </p>
-//footnote[fn01][This technique has been around for a long time, although it never got a popular name. Paul Hammant introduced the term "Branch by Abstraction" while arguing in favor of @<href>{http://paulhammant.com/2013/04/05/what-is-trunk-based-development/, Trunk Based Development} (he credits Stacy Curl with originally coming up with it). This name seems to have caught on and is now the term I most commonly hear.]
+//footnote[fn01][このテクニックは別に目新しいものではないが、これまできちんと名付けられたことがなかった。「抽象化によるブランチ」という言葉を使い始めたのはPaul Hammantで、@<href>{http://paulhammant.com/2013/04/05/what-is-trunk-based-development/, Trunkでの開発}よりもずっといいと主張した（彼曰く、もともとはStacy Curlが思いついた言葉だそうだ）。今やこの用語は一般的になり、よく効くようになった。]
 
 #@# <p><span class = 'num'>2: </span>
 #@#       While we are building the new feature we can use
