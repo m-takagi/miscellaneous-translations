@@ -36,7 +36,8 @@ tags: @<href>{http://martinfowler.com/tags/version%20control.html, version contr
 #@#   between one section of the client code and the current supplier.
 #@#   We change that section of the client code to call the supplier
 #@#   entirely through this abstraction layer.</p>
-We create an abstraction layer that captures the interaction between one section of the client code and the current supplier. We change that section of the client code to call the supplier entirely through this abstraction layer.
+抽象化レイヤーを作って、クライアントのコードとモジュールとのやりとりをそこに閉じ込める。
+クライアントのコードの中でモジュールを呼び出しているところをすべて書き換えて、この抽象化レイヤーを経由させる。
 
 #@# <p><img src = 'images/branch-by-abstraction/step-2.png'></img></p>
 //indepimage[step-2]
@@ -46,7 +47,8 @@ We create an abstraction layer that captures the interaction between one section
 #@#   abstraction layer. As we do this we take the opportunity to
 #@#   improve the unit test coverage of the supplier through this
 #@#   abstraction layer.</p>
-We gradually move all client code over to use the abstraction layer until all interaction with the supplier is done by the abstraction layer. As we do this we take the opportunity to improve the unit test coverage of the supplier through this abstraction layer.
+各クライアントについて、この抽象化レイヤーを使うよう徐々に書き換えていく。そして最終的には、モジュールとのやりとりをすべて抽象化レイヤーに閉じ込める。
+こうすることで、モジュールに対するユニットテストのカバレッジを改善できるようになる。この抽象化レイヤーをテスト通してテストできるからだ。
 
 #@# <p><img src = 'images/branch-by-abstraction/step-3.png'></img></p>
 //indepimage[step-3]

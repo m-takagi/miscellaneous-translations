@@ -21,11 +21,11 @@
 <img src="images/step-1.png" alt="" />
 </div>
 <p>※Flawed Supplier…欠陥のあるモジュール</p>
-<p>We create an abstraction layer that captures the interaction between one section of the client code and the current supplier. We change that section of the client code to call the supplier entirely through this abstraction layer.</p>
+<p>抽象化レイヤーを作って、クライアントのコードとモジュールとのやりとりをそこに閉じ込める。クライアントのコードの中でモジュールを呼び出しているところをすべて書き換えて、この抽象化レイヤーを経由させる。</p>
 <div class="image">
 <img src="images/step-2.png" alt="" />
 </div>
-<p>We gradually move all client code over to use the abstraction layer until all interaction with the supplier is done by the abstraction layer. As we do this we take the opportunity to improve the unit test coverage of the supplier through this abstraction layer.</p>
+<p>各クライアントについて、この抽象化レイヤーを使うよう徐々に書き換えていく。そして最終的には、モジュールとのやりとりをすべて抽象化レイヤーに閉じ込める。こうすることで、モジュールに対するユニットテストのカバレッジを改善できるようになる。この抽象化レイヤーをテスト通してテストできるからだ。</p>
 <div class="image">
 <img src="images/step-3.png" alt="" />
 </div>
