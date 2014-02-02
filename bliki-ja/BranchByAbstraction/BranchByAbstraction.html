@@ -29,11 +29,11 @@
 <div class="image">
 <img src="images/step-3.png" alt="" />
 </div>
-<p>We build a new supplier that implements the features required by one part of the client code using the same abstraction layer <a href="#fn-fn02">*2</a>. Once we are ready we switch that section of the client code to use the new supplier.</p>
+<p>そして、クライアントに必要な機能を実装した新しいモジュールを作る。このとき、新しいモジュールも先ほどの抽象化レイヤーを使うようにする<a href="#fn-fn02">*2</a>。準備が整ったら、その機能を使うクライアントのコードを変更し、新しいモジュールを使うように切り替える。</p>
 <div class="image">
 <img src="images/step-4.png" alt="" />
 </div>
-<p>We gradually swap out the flawed supplier until all the client code uses the new supplier. Once the flawed supplier isn't needed, we can delete it. We may also choose to delete the abstraction layer once we no longer need it for migration.</p>
+<p>それ以外のクライアントについても、問題のあるモジュールから新しいモジュールへ徐々に切り替えていく。古いモジュールが不要になった時点で、古いモジュールは削除できる。この移行作業が終わったら、抽象化レイヤーはそのままでもかまわないし消してしまってもかまわない。</p>
 <div class="image">
 <img src="images/step-5.png" alt="" />
 </div>

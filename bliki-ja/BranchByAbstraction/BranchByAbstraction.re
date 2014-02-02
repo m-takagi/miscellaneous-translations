@@ -57,7 +57,8 @@ tags: @<href>{http://martinfowler.com/tags/version%20control.html, version contr
 #@#   one part of the client code using the same abstraction layer <a href = '#footnote-toggle'>[2]</a>. Once
 #@#   we are ready we switch that section of the client code to use the
 #@#   new supplier.</p>
-We build a new supplier that implements the features required by one part of the client code using the same abstraction layer @<fn>{fn02}. Once we are ready we switch that section of the client code to use the new supplier.
+そして、クライアントに必要な機能を実装した新しいモジュールを作る。このとき、新しいモジュールも先ほどの抽象化レイヤーを使うようにする@<fn>{fn02}。
+準備が整ったら、その機能を使うクライアントのコードを変更し、新しいモジュールを使うように切り替える。
 
 #@# <p><img src = 'images/branch-by-abstraction/step-4.png'></img></p>
 //indepimage[step-4]
@@ -66,7 +67,9 @@ We build a new supplier that implements the features required by one part of the
 #@#   code uses the new supplier. Once the flawed supplier isn't needed,
 #@#   we can delete it. We may also choose to delete the abstraction
 #@#   layer once we no longer need it for migration.</p>
-We gradually swap out the flawed supplier until all the client code uses the new supplier. Once the flawed supplier isn't needed, we can delete it. We may also choose to delete the abstraction layer once we no longer need it for migration.
+それ以外のクライアントについても、問題のあるモジュールから新しいモジュールへ徐々に切り替えていく。
+古いモジュールが不要になった時点で、古いモジュールは削除できる。
+この移行作業が終わったら、抽象化レイヤーはそのままでもかまわないし消してしまってもかまわない。
 
 #@# <p><img src = 'images/branch-by-abstraction/step-5.png'></img></p>
 //indepimage[step-5]
