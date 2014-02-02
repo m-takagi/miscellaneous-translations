@@ -37,8 +37,8 @@
 <div class="image">
 <img src="images/step-5.png" alt="" />
 </div>
-<p>My description above describes a common case, but there are plenty of variation that can occur.  Sometimes you can't  swap-out the supplier for only some clients, you have to do it all at once. Sometimes you can break down the features of the supplier into different sub-components and carry out this whole procedure one sub-component at a time.</p>
-<p>Despite these variations, there is a common theme. Use an abstraction layer to allow multiple implementations to co-exist in the software system. Use the notion of one abstraction and multiple implementations to perform the migration from one implementation to the other. Ensure that the system builds and runs correctly at all times, so you can continue to use <a href="http://martinfowler.com/delivery.html" class="link">Continuous Delivery</a> while you are doing the replacement. Look for as many ways as possible to make changes gradually.</p>
+<p>この例はあくまでも一般的なものだが、実際はいろんなバリエーションがあり得る。一部のクライアントだけを先に移行するのが不可能で、全部一括で移行せざるを得ないことだってあるだろう。あるいは、元のモジュールをいくつかのサブコンポーネントに分割して、サブコンポーネント単位で先ほどのプロセスを繰り返すことも考えられる。</p>
+<p>こういったバリエーションがあるにせよ、その狙いはすべて共通している。抽象化レイヤーを使って、複数の実装を一つのソフトウェアシステム内で共存できるようにすることだ。抽象化レイヤーを一枚増やすことで、一つの実装からもう一つの実装への移行を行っている。どの時点であってもシステムがきちんとビルドできて実行できることが保証されているので、<a href="http://martinfowler.com/delivery.html" class="link">継続的デリバリー</a>を実現しながらリプレイスを進められる。段階的な変更の進めかたについては、いろんな方法を探ってみよう。</p>
 
 <h2><a id="h-1"></a>Further Reading</h2>
 <p><a href="http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/" class="link">Jez Humble describes</a> how his team used Branch-by-Abstraction to replace both an object-relational mapping framework (ibatis to hibernate) and the web UI framework (velocity/JsTemplate to Ruby on Rails) for ThoughtWorks's Continuous Delivery tool &quot;Go&quot;.</p>

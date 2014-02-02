@@ -80,7 +80,9 @@ tags: @<href>{http://martinfowler.com/tags/version%20control.html, version contr
 #@#   once. Sometimes you can break down the features of the supplier into
 #@#   different sub-components and carry out this whole procedure one
 #@#   sub-component at a time. </p>
-My description above describes a common case, but there are plenty of variation that can occur.  Sometimes you can't  swap-out the supplier for only some clients, you have to do it all at once. Sometimes you can break down the features of the supplier into different sub-components and carry out this whole procedure one sub-component at a time.
+この例はあくまでも一般的なものだが、実際はいろんなバリエーションがあり得る。
+一部のクライアントだけを先に移行するのが不可能で、全部一括で移行せざるを得ないことだってあるだろう。
+あるいは、元のモジュールをいくつかのサブコンポーネントに分割して、サブコンポーネント単位で先ほどのプロセスを繰り返すことも考えられる。
 
 #@# <p>Despite these variations, there is a common theme. Use an
 #@#   abstraction layer to allow multiple implementations to co-exist in
@@ -90,7 +92,12 @@ My description above describes a common case, but there are plenty of variation 
 #@#   times, so you can continue to use <a href = '/delivery.html'>Continuous Delivery</a> while you are
 #@#   doing the replacement. Look for as many ways as possible to make
 #@#   changes gradually.</p>
-Despite these variations, there is a common theme. Use an abstraction layer to allow multiple implementations to co-exist in the software system. Use the notion of one abstraction and multiple implementations to perform the migration from one implementation to the other. Ensure that the system builds and runs correctly at all times, so you can continue to use @<href>{http://martinfowler.com/delivery.html, Continuous Delivery} while you are doing the replacement. Look for as many ways as possible to make changes gradually.
+こういったバリエーションがあるにせよ、その狙いはすべて共通している。
+抽象化レイヤーを使って、複数の実装を一つのソフトウェアシステム内で共存できるようにすることだ。
+抽象化レイヤーを一枚増やすことで、一つの実装からもう一つの実装への移行を行っている。
+どの時点であってもシステムがきちんとビルドできて実行できることが保証されているので、
+@<href>{http://martinfowler.com/delivery.html, 継続的デリバリー}を実現しながらリプレイスを進められる。
+段階的な変更の進めかたについては、いろんな方法を探ってみよう。
 
 #@# <h2>Further Reading</h2>
 == Further Reading
