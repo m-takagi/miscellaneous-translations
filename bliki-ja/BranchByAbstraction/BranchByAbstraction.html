@@ -40,9 +40,9 @@
 <p>この例はあくまでも一般的なものだが、実際はいろんなバリエーションがあり得る。一部のクライアントだけを先に移行するのが不可能で、全部一括で移行せざるを得ないことだってあるだろう。あるいは、元のモジュールをいくつかのサブコンポーネントに分割して、サブコンポーネント単位で先ほどのプロセスを繰り返すことも考えられる。</p>
 <p>こういったバリエーションがあるにせよ、その狙いはすべて共通している。抽象化レイヤーを使って、複数の実装を一つのソフトウェアシステム内で共存できるようにすることだ。抽象化レイヤーを一枚増やすことで、一つの実装からもう一つの実装への移行を行っている。どの時点であってもシステムがきちんとビルドできて実行できることが保証されているので、<a href="http://martinfowler.com/delivery.html" class="link">継続的デリバリー</a>を実現しながらリプレイスを進められる。段階的な変更の進めかたについては、いろんな方法を探ってみよう。</p>
 
-<h2><a id="h-1"></a>Further Reading</h2>
-<p><a href="http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/" class="link">Jez Humble describes</a> how his team used Branch-by-Abstraction to replace both an object-relational mapping framework (ibatis to hibernate) and the web UI framework (velocity/JsTemplate to Ruby on Rails) for ThoughtWorks's Continuous Delivery tool &quot;Go&quot;.</p>
-<p>Paul Hammant provides <a href="http://paulhammant.com/blog/branch_by_abstraction.html" class="link">more details</a> of using Branch-by-Abstraction, particularly as an alternative to using version-control branching.</p>
+<h2><a id="h-1"></a>あわせて読みたい</h2>
+<p><a href="http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/" class="link">Jez Humbleによる解説記事</a>がある。ThoughtWorksの継続的デリバリーツールである「Go」を使って、抽象化によるブランチでのO/Rマッピングフレームワークの移行（ibatisからhibernateへ）とウェブUIフレームワークの移行（velocity/JsTemplateからRuby on Railsへ）を実現した例だ。</p>
+<p>Paul Hammantも、抽象化によるブランチの使い方について<a href="http://paulhammant.com/blog/branch_by_abstraction.html" class="link">詳しく説明</a>している。特に、バージョン管理のブランチとの違いの説明がある。</p>
 
 <h2><a id="h-2"></a>Acknowledgements</h2>
 <p>Thanks to Paul Hammant for his detailed suggestions as well as being an important primary source.</p>

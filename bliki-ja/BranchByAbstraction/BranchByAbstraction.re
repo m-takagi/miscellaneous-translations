@@ -100,19 +100,22 @@ tags: @<href>{http://martinfowler.com/tags/version%20control.html, version contr
 段階的な変更の進めかたについては、いろんな方法を探ってみよう。
 
 #@# <h2>Further Reading</h2>
-== Further Reading
+== あわせて読みたい
 
 #@# <p><a href = 'http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/'>Jez
 #@#     Humble describes</a> how his team used Branch-by-Abstraction to
 #@#      replace both an object-relational mapping framework (ibatis to
 #@#     hibernate) and the web UI framework (velocity/JsTemplate to Ruby
 #@#     on Rails) for ThoughtWorks's Continuous Delivery tool "Go". </p>
-@<href>{http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/, Jez Humble describes} how his team used Branch-by-Abstraction to replace both an object-relational mapping framework (ibatis to hibernate) and the web UI framework (velocity/JsTemplate to Ruby on Rails) for ThoughtWorks's Continuous Delivery tool "Go".
+@<href>{http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/, Jez Humbleによる解説記事}がある。
+ThoughtWorksの継続的デリバリーツールである「Go」を使って、抽象化によるブランチでのO/Rマッピングフレームワークの移行（ibatisからhibernateへ）と
+ウェブUIフレームワークの移行（velocity/JsTemplateからRuby on Railsへ）を実現した例だ。
 
 #@# <p>Paul Hammant provides <a href = 'http://paulhammant.com/blog/branch_by_abstraction.html'>more
 #@#     details</a> of using Branch-by-Abstraction, particularly as an
 #@#     alternative to using version-control branching.</p>
-Paul Hammant provides @<href>{http://paulhammant.com/blog/branch_by_abstraction.html, more details} of using Branch-by-Abstraction, particularly as an alternative to using version-control branching.
+Paul Hammantも、抽象化によるブランチの使い方について@<href>{http://paulhammant.com/blog/branch_by_abstraction.html, 詳しく説明}している。
+特に、バージョン管理のブランチとの違いの説明がある。
 
 #@# <h2>Acknowledgements</h2>
 == Acknowledgements
