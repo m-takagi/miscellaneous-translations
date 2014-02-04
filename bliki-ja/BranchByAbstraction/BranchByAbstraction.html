@@ -44,11 +44,11 @@
 <p><a href="http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/" class="link">Jez Humbleによる解説記事</a>がある。ThoughtWorksの継続的デリバリーツールである「Go」を使って、抽象化によるブランチでのO/Rマッピングフレームワークの移行（ibatisからhibernateへ）とウェブUIフレームワークの移行（velocity/JsTemplateからRuby on Railsへ）を実現した例だ。</p>
 <p>Paul Hammantも、抽象化によるブランチの使い方について<a href="http://paulhammant.com/blog/branch_by_abstraction.html" class="link">詳しく説明</a>している。特に、バージョン管理のブランチとの違いの説明がある。</p>
 
-<h2><a id="h-2"></a>Acknowledgements</h2>
-<p>Thanks to Paul Hammant for his detailed suggestions as well as being an important primary source.</p>
+<h2><a id="h-2"></a>謝辞</h2>
+<p>Paul Hammantにはいろいろ助言をもらった。また、彼はこの概念の名付け親でもある。</p>
 
 <h2><a id="h-3"></a>Notes</h2>
 <div class="footnote"><p class="footnote">[<a id="fn-fn01">*1</a>] このテクニックは別に目新しいものではないが、これまできちんと名付けられたことがなかった。「抽象化によるブランチ」という言葉を使い始めたのはPaul Hammantで、<a href="http://paulhammant.com/2013/04/05/what-is-trunk-based-development/" class="link">Trunkでの開発</a>よりもずっといいと主張した（彼曰く、もともとはStacy Curlが思いついた言葉だそうだ）。今やこの用語は一般的になり、よく効くようになった。</p></div>
-<div class="footnote"><p class="footnote">[<a id="fn-fn02">*2</a>] While we are building the new feature we can use <a href="http://martinfowler.com/FeatureToggle.html" class="link">FeatureToggles</a> to run the new supplier in test environments and compare its behavior to the flawed supplier.</p></div>
+<div class="footnote"><p class="footnote">[<a id="fn-fn02">*2</a>] 新しいフィーチャーの開発中は、<a href="http://martinfowler.com/FeatureToggle.html" class="link">FeatureToggles</a>を使える。新しいモジュールをテスト環境で動かして、その動きを元のモジュールの動きと比べればいい。</p></div>
 </body>
 </html>

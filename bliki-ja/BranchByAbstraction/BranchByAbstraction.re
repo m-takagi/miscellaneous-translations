@@ -118,11 +118,11 @@ Paul Hammantも、抽象化によるブランチの使い方について@<href>{
 特に、バージョン管理のブランチとの違いの説明がある。
 
 #@# <h2>Acknowledgements</h2>
-== Acknowledgements
+== 謝辞
 
 #@# Thanks to Paul Hammant for his detailed
 #@#   suggestions as well as being an important primary source.
-Thanks to Paul Hammant for his detailed suggestions as well as being an important primary source.
+Paul Hammantにはいろいろ助言をもらった。また、彼はこの概念の名付け親でもある。
 
 #@# <h2>Notes</h2>
 == Notes
@@ -142,4 +142,4 @@ Thanks to Paul Hammant for his detailed suggestions as well as being an importan
 #@#       <a href = 'FeatureToggle.html'>FeatureToggles</a> to run the new supplier in test
 #@#       environments and compare its behavior to the flawed supplier.
 #@#     </p>
-//footnote[fn02][While we are building the new feature we can use @<href>{http://martinfowler.com/FeatureToggle.html, FeatureToggles} to run the new supplier in test environments and compare its behavior to the flawed supplier.]
+//footnote[fn02][新しいフィーチャーの開発中は、@<href>{http://martinfowler.com/FeatureToggle.html, FeatureToggles}を使える。新しいモジュールをテスト環境で動かして、その動きを元のモジュールの動きと比べればいい。]
