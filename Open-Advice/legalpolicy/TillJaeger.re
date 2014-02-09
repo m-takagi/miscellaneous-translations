@@ -20,7 +20,14 @@ Till Jaeger
 #@# of Free and Open Source Software. He was a member of the Committee C in the
 #@# GPLv3 drafting process.}
 //lead{
-Dr. Till Jaeger has been a partner at JBB Rechtsanwaelte since 2001. He is a Certified Copyright and Media Law Attorney and advises large and medium-sized IT businesses as well as government authorities and software developers on matters involving contracts, licensing and online use. One particular focus of his work is on the legal issues created by Free and Open Source Software. He is co-founder of the Institute for Legal Aspects of Free & Open Source Software (ifrOSS). He provides advice on compliance with open source licenses and on compatibility issues, and helps developers and software companies to enforce licenses. Till represented the gpl-violations.org project in several lawsuits to enforce the GPL and has published several articles and books related to legal questions of Free and Open Source Software. He was a member of the Committee C in the GPLv3 drafting process.
+Dr. Till Jaegerは、2001年からJBB Rechtsanwaelteを共同経営している。
+著作権法やメディア関連が専門の弁護士で、中規模から大規模のIT企業や政府機関、そしてソフトウェア開発者たちに、契約やライセンスなどの助言をしている。
+中でも力を入れている活動が、フリー／オープンソースソフトウェアにかかわる法的な課題だ。
+彼はInstitute for Legal Aspects of Free & Open Source Software (ifrOSS)の共同創業者だ。
+オープンソースライセンスへのコンプライアンスや互換性に関する問題への助言をしたり、開発者やソフトウェア企業がライセンスを守るよう手助けしたりしている。
+Tillはgpl-violations.orgプロジェクトにおけるいくつかの訴訟を担当し、GPLを守らせようとしている。
+また、フリー／オープンソースソフトウェアに関する法的な疑問についての記事や書籍を執筆している。
+彼はGPLv3ドラフトプロセスにおいてCommittee Cのメンバーだった。
 //}
 
 #@# \noindent{}One thing upfront: I am not a geek. I never have been one, and have no
