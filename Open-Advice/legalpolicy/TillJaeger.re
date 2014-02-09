@@ -33,7 +33,7 @@ Tillはgpl-violations.orgプロジェクトにおけるいくつかの訴訟を�
 #@# \noindent{}One thing upfront: I am not a geek. I never have been one, and have no
 #@# intention of becoming one in the future.
 //noindent
-One thing upfront: I am not a geek. I never have been one, and have no intention of becoming one in the future.
+あらかじめおことわり。私はギークじゃないし、ギークだったこともない。今後もギークになるつもりはない。
 
 #@# Instead, I am a lawyer. Most people who read this book probably tend to
 #@# sympathize more with geeks than with lawyers. Nevertheless, I do not want to
@@ -41,7 +41,12 @@ One thing upfront: I am not a geek. I never have been one, and have no intention
 #@# busy developing software is something I \textit{did} know about FOSS in early
 #@# 1999 when our ways first crossed. But there were also quite a few things I did
 #@# not know.
-Instead, I am a lawyer. Most people who read this book probably tend to sympathize more with geeks than with lawyers. Nevertheless, I do not want to hide this fact. That the FOSS community is not necessarily fond of lawyers but busy developing software is something I @<i>{did} know about FOSS in early 1999 when our ways first crossed. But there were also quite a few things I did not know.
+私は弁護士だ。
+読者の皆さんのほとんどは、ギークのほうが弁護士よりも身近に感じることだろう。
+だが私は、自分が弁護士であることを隠すつもりはない。
+FOSSのコミュニティは決して弁護士連中をよく思っておらず、ただひたすらソフトウェアを書きたいだけだということ。
+これが、1999年初頭に私がはじめてこの業界に出会ったときに知ったことだった。
+でも、その当時は気づかなかったこともいくつかあった。
 
 #@# In 1999, while completing my doctoral thesis that focused on a classical
 #@# copyright topic, I was assessing the scope of moral rights. In this context I
