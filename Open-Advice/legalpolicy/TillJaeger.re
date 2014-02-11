@@ -66,14 +66,17 @@ FOSSのコミュニティは決して弁護士連中をよく思っておらず�
 そして、すぐにわかった。これら二つの言葉には共通の何かがあって、違ってはいるものの一緒に使われることが多いということを。
 
 #@# There are three things I wish I had known back then:
-There are three things I wish I had known back then:
+当時の私に知っておいて欲しかったことが、三つある。
 
 #@# First, my technical knowledge, particularly in the field of software, was
 #@# insufficient. Second, I did not really know the community and what mattered to
 #@# the people who were part of it. Last but not least, I did not know much about
 #@# foreign jurisdictions back then. It would have been useful to know all that from
 #@# the beginning.
-First, my technical knowledge, particularly in the field of software, was insufficient. Second, I did not really know the community and what mattered to the people who were part of it. Last but not least, I did not know much about foreign jurisdictions back then. It would have been useful to know all that from the beginning.
+まず、技術的な知識（特にソフトウェアがらみの知識）が足りなさすぎた。
+次に、コミュニティのこと。メンバーにとってコミュニティがいかに大切なものなのかも知っておくべきだった。
+最後にもうひとつ、大切なこと。当時の私は、外国の法律についてあまり詳しく知らなかった。
+これらすべてを最初から知っていれば、とても役立ったことだろう。
 
 #@# Since that time, I have learned a fair bit, and just as the community is happy
 #@# to share its achievements I am happy to share my lessons\footnote{The ``Institut
