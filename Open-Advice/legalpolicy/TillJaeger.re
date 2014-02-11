@@ -58,7 +58,12 @@ FOSSのコミュニティは決して弁護士連中をよく思っておらず�
 #@# interested in and open to investigate new copyright questions, I soon found out
 #@# that the two words \textit{do} have something in common, that they are
 #@# \textit{different} and yet they are best used together...
-In 1999, while completing my doctoral thesis that focused on a classical copyright topic, I was assessing the scope of moral rights. In this context I spent a while pondering about the question of how moral rights of programmers are safeguarded by the GPL, which allows others to modify their programs. This is how I first got in contact with FOSS. At the time, ``free'' and ``open'' certainly had different meanings, but the difference was not worth arguing about in the world I was living in. However, since I was free to do what I was interested in and open to investigate new copyright questions, I soon found out that the two words @<i>{do} have something in common, that they are @<i>{different} and yet they are best used together...
+1999年。古典的な著作権に関する博士論文を書く際に、私は著作者人格権の評価も進めていた。
+プログラマーの著作者人格権に、GPLがどのような影響を及ぼすのかについても考えた。GPLでは、第三者がプログラムを書き換えることを認めている。
+それが、私とFOSSとの最初の出会いだった。
+そこでは「フリー」と「オープン」は違うものだとされていた。でも、当時の私には、その違いをとやかく議論する価値があるとは思えなかった。
+でも、興味のあることは何でも自由（フリー）にできたし、著作権に関するいろんな疑問を調べる余地も開かれていた（オープン）。
+そして、すぐにわかった。これら二つの言葉には共通の何かがあって、違ってはいるものの一緒に使われることが多いということを。
 
 #@# There are three things I wish I had known back then:
 There are three things I wish I had known back then:
