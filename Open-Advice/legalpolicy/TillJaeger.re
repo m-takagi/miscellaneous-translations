@@ -83,9 +83,10 @@ FOSSのコミュニティは決して弁護士連中をよく思っておらず�
 #@# f\"ur Rechtsfragen der Freien und Open Source Software'' (Institute for Legal
 #@# Questions on Free and Open Source Software) offers, inter alia, a collection of
 #@# FOSS related literature and court decisions; see www.ifross.org for details.}:
-Since that time, I have learned a fair bit, and just as the community is happy to share its achievements I am happy to share my lessons@<fn>{f01}:
+それ以降、私は多くのことを学んだ。
+コミュニティの人が自分たちの経験を喜んで共有させてくれるのにならって、私も自分が学んだことをここで公開しておきたい@<fn>{f01}。
 
-//footnote[f01][The ``Institut für Rechtsfragen der Freien und Open Source Software'' (Institute for Legal Questions on Free and Open Source Software) offers, inter alia, a collection of FOSS related literature and court decisions; see www.ifross.org for details.]
+//footnote[f01][「Institut für Rechtsfragen der Freien und Open Source Software」(Institute for Legal Questions on Free and Open Source Software)が、FOSSがらみの文献や判例を数多く提供している。詳細はwww.ifross.orgを参照。]
 
 #@# \paragraph*{Technical knowledge}
 === Technical knowledge
