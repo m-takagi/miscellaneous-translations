@@ -89,12 +89,16 @@ FOSSのコミュニティは決して弁護士連中をよく思っておらず�
 //footnote[f01][「Institut für Rechtsfragen der Freien und Open Source Software」(Institute for Legal Questions on Free and Open Source Software)が、FOSSがらみの文献や判例を数多く提供している。詳細はwww.ifross.orgを参照。]
 
 #@# \paragraph*{Technical knowledge}
-=== Technical knowledge
+=== 技術的な知識
 
 #@# How is software architecture shaped? What is the technical structure of software
 #@# like? Which licenses are compatible with each other and which are not, and how
 #@# and why? How is the Linux kernel structured?
-How is software architecture shaped? What is the technical structure of software like? Which licenses are compatible with each other and which are not, and how and why? How is the Linux kernel structured?
+ソフトウェアのアーキテクチャとは、いったい何なのだろう？
+技術的に見て、ソフトウェアの構造はどうなっているのだろう？
+いろんなライセンスがあるけど、どれとどれが互換性があってどれとどれは互換性がないのだろう？
+具体的にどこが違うのだろう？なぜ違うのだろう？
+Linuxカーネルの構造はどうなっているのだろう？
 
 #@# To name one example, the important question of what constitutes a ``derivative
 #@# work'' according to the GPL determines how the software may be licensed.
@@ -107,7 +111,7 @@ How is software architecture shaped? What is the technical structure of software
 To name one example, the important question of what constitutes a ``derivative work'' according to the GPL determines how the software may be licensed. Everything that counts as derived from GPL-licensed software must be distributed under the GPL. To assess whether a certain software is a ``derivative work'' or not requires profound technical understanding. The interaction of program modules, linking, IPC, plugins, framework technology, header files and so on determines, among other criteria, whether a program is formally inseparable, which helps to determine whether it is derived from another program or not.
 
 #@# \paragraph*{Knowledge of the industry and the community}
-=== Knowledge of the industry and the community
+=== 業界のこと、そしてコミュニティのこと
 
 #@# Besides these functionality issues I had no profound understanding of the idea
 #@# behind FOSS and the motivation of the developers and the companies that use
@@ -123,7 +127,7 @@ To name one example, the important question of what constitutes a ``derivative w
 Besides these functionality issues I had no profound understanding of the idea behind FOSS and the motivation of the developers and the companies that use FOSS. Neither did I really know about its philosophical background, nor was I familiar with practical issues such as ``who is a maintainer?'' or ``how do version control systems work?'' In order to serve your clients best, these matters are no less important than your proficiency in technical aspects. Our clients ask us about legal aspects of forming business models such as dual licensing, ``open core'', support and services contracts, code development and code contribution agreements. We consult clients concerning what FOSS might have in store for their companies or institutions. We also advise developers on what they can do about infringement of their copyrights, and draft and negotiate contracts for them. In order to serve such clients comprehensively, it is important to be familiar with the different points of view.
 
 #@# \paragraph*{Comparative law knowledge}
-=== Comparative law knowledge
+=== 外国の法律
 
 #@# The third thing a FOSS lawyer needs is knowledge about foreign jurisdictions, at
 #@# least a few, and the more the better. In order to construe the different
