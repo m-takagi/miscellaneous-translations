@@ -108,7 +108,13 @@ Linuxカーネルの構造はどうなっているのだろう？
 #@# modules, linking, IPC, plugins, framework technology, header files and so on
 #@# determines, among other criteria, whether a program is formally inseparable,
 #@# which helps to determine whether it is derived from another program or not.
-To name one example, the important question of what constitutes a ``derivative work'' according to the GPL determines how the software may be licensed. Everything that counts as derived from GPL-licensed software must be distributed under the GPL. To assess whether a certain software is a ``derivative work'' or not requires profound technical understanding. The interaction of program modules, linking, IPC, plugins, framework technology, header files and so on determines, among other criteria, whether a program is formally inseparable, which helps to determine whether it is derived from another program or not.
+一例をあげると、GPLにおける「二次的著作物」にあたるのはいったい何なのか、という重要な疑問がある。
+これが、ソフトウェアをどのようにライセンスするのかにかかわってくる。
+GPLのもとで配布されているソフトウェアの派生物とみなされるものはすべて、同じくGPLのもとで配布しなければいけない。
+何かのソフトウェアが「二次的著作物」にあたるのか否かを評価するには、技術的に深い知識を持っている必要がある。
+モジュール間のやりとり、ライブラリのリンク、プロセス間通信、プラグイン、フレームワーク、ヘッダファイルなどが、
+そのプログラムが切り離せないものなのかどうかの判断基準になる。
+そしてそれが、別のプログラムの派生物であるかどうかの判断につながる。
 
 #@# \paragraph*{Knowledge of the industry and the community}
 === 業界のこと、そしてコミュニティのこと
