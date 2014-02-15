@@ -130,7 +130,15 @@ GPLのもとで配布されているソフトウェアの派生物とみなさ�
 #@# they can do about infringement of their copyrights, and draft and negotiate
 #@# contracts for them. In order to serve such clients comprehensively, it is
 #@# important to be familiar with the different points of view.
-Besides these functionality issues I had no profound understanding of the idea behind FOSS and the motivation of the developers and the companies that use FOSS. Neither did I really know about its philosophical background, nor was I familiar with practical issues such as ``who is a maintainer?'' or ``how do version control systems work?'' In order to serve your clients best, these matters are no less important than your proficiency in technical aspects. Our clients ask us about legal aspects of forming business models such as dual licensing, ``open core'', support and services contracts, code development and code contribution agreements. We consult clients concerning what FOSS might have in store for their companies or institutions. We also advise developers on what they can do about infringement of their copyrights, and draft and negotiate contracts for them. In order to serve such clients comprehensively, it is important to be familiar with the different points of view.
+そういった機能的な課題に加えて、FOSSの背後にある考えかたも十分には理解できていなかった。
+いったい何が開発者を動かしているのか、何がFOSSを使う企業を動かしているのか、それをわかっていなかった。
+その背景にある哲学を知ることもなかったし、現実の課題、たとえば「メンテナ—は誰？」「バージョン管理システムとは？」といったことにもなじみがなかった。
+クライアントの役に立とうとするなら、こういったことも技術的な面と同じくらい重要だ。
+顧客が私たちに聞いてくるのは、ビジネスモデルの法的な側面だ。デュアルライセンスのことや「オープンコア」のこと、
+サポートやサービスの契約について、コードの開発や貢献に関する同意などがそれにあたる。
+私たちは、自社に役立つFOSSがあるだろうかと考えているクライアントに助言する。
+また、開発者が著作憲違反に対して何ができるのかをアドバイスしたり、契約書の草案作成や契約交渉をしたりする。
+こういったクライアントに総合的に対応するには、いろいろな物の見方になじんでおくことが大切だ。
 
 #@# \paragraph*{Comparative law knowledge}
 === 外国の法律
