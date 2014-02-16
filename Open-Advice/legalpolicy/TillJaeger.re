@@ -153,7 +153,12 @@ GPLのもとで配布されているソフトウェアの派生物とみなさ�
 #@# Licenses that have been drafted by lawyers from the United States may thus be
 #@# construed as including online distribution, which might be relevant and helpful
 #@# in court proceedings\footnote{\url{http://www.ifross.org/Fremdartikel/LGMuenchenUrteil.pdf}, Cf. Welte v. Skype, 2007}.
-The third thing a FOSS lawyer needs is knowledge about foreign jurisdictions, at least a few, and the more the better. In order to construe the different licenses, it is essential to be familiar with the perspective of the people who have drafted it. In most cases the U.S. legal system is of key importance. For example, the GPL was drafted with U.S. legal concepts in mind. In the United States, ``distribution'' includes online distribution, whereas under the German Copyright system there is a distinction between offline and online distribution. Licenses that have been drafted by lawyers from the United States may thus be construed as including online distribution, which might be relevant and helpful in court proceedings@<fn>{f02}.
+FOSSに関わる法律家が知っておくべき3つめのことは、外国の法律だ。少なくとも数カ国、できればもっと多く知っているほうが望ましい。
+さまざまなライセンスを解釈するには、そのライセンスの草稿を書いた人たちの物の見方になじんでおくことが欠かせない。
+大半の場合は、米国の法体系が最重要ポイントになる。
+たとえばGPLは、米国の法の精神を念頭に置いて作られた。
+米国では、「配布」と言えばオンラインでの配布も含まれる。一方、ドイツの著作権システムは、オフラインの配布とオンラインの配布を区別している。
+つまり、米国人の法律家が書いたライセンスの場合は、オンラインの配布も含まれていると考えられるだろう。公判の際には、このあたりが関係してくるし、役立つ。@<fn>{f02}。
 
 //footnote[f02][@<href>{http://www.ifross.org/Fremdartikel/LGMuenchenUrteil.pdf}, Cf. Welte v. Skype, 2007]
 
