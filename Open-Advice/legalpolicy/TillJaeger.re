@@ -163,10 +163,12 @@ FOSSに関わる法律家が知っておくべき3つめのことは、外国の
 //footnote[f02][@<href>{http://www.ifross.org/Fremdartikel/LGMuenchenUrteil.pdf}, Cf. Welte v. Skype, 2007]
 
 #@# \section*{Always Learning}
-== Always Learning
+== 常に学び続ける
 
 #@# So, all this is useful to know. And as software keeps on being developed and
 #@# modified to provide solutions for the needs of the day, so my mind will
 #@# hopefully keep on finding answers to the challenges the vibrant FOSS community
 #@# poses to a lawyer's mind.
-So, all this is useful to know. And as software keeps on being developed and modified to provide solutions for the needs of the day, so my mind will hopefully keep on finding answers to the challenges the vibrant FOSS community poses to a lawyer's mind.
+そう。これらすべて、知っていると役立つものばかりだ。
+ソフトウェアは、日々開発や手直しが続けられている。日々のニーズに対するソリューションを提供するためだ。
+願わくば私たちも、FOSSコミュニティが弁護士たちに突きつける問いかけへの答えを求め続けたい。
