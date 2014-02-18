@@ -18,7 +18,14 @@ Shane Coughlan
 #@# knowledge of Internet technologies, management best practice, community building
 #@# and Free/Open Source Software.}
 //lead{
-Shane Coughlan is an expert in communication methods and business development. He is best known for building bridges between commercial and non-commercial stakeholders in the technology sector. His professional accomplishments include establishing a legal department for the FSFE, the main NGO promoting Free Software in Europe, building a professional network of over 270 legal and technical experts across 27 countries, co-founding a binary code compliance tool project and aligning corporate and community interests to launch the first law review dedicated to Free/Open Source Software. Shane has extensive knowledge of Internet technologies, management best practice, community building and Free/Open Source Software.
+
+Shane Coughlanは、コミュニケーション手法や事業発展の専門家だ。
+技術分野における、営利目的のステークホルダーと非営利のステークホルダーとの間の橋渡し役として知られている。
+彼の業績は数多い。FSFEにおける法務部門の設立、欧州におけるフリーソフトウェアの推進のためのNGO、
+27か国にまたがる270人以上の法律家や技術者のネットワークづくり、
+バイナリコードコンプライアンスツールのプロジェクトの共同設立、
+企業とコミュニティの利害関係を調整した上でのフリー／オープンソースソフトウェア専門の法律レビューの立ち上げなどがある。
+Shaneの得意とする分野は、インターネット関連技術・ベストプラクティスの管理・コミュニティビルディング・そしてフリー／オープンソースソフトウェアだ。
 //}
 
 #@# \noindent{}When I started to work in Free Software I was struck by the perceived
@@ -87,7 +94,7 @@ This was probably a system shock to parties who had been doing Free Software for
 #@# individuals, projects and businesses changed, occasionally with conflict and
 #@# disruption, but never at the cost of long-term cooperation or of undermining the
 #@# core value of Free Software.
-And yet… Everything worked out fine. Free Software is everywhere, and appears to be in an almost unassailable position as a mainstream component of the Information Technology industry. Projects like the Linux kernel or the Apache server have continued to grow, to innovate and to attract new stakeholders, both commercial and non-commercial. The balance of power between individuals, projects and businesses changed, occasionally with conflict and disruption, but never at the cost of long-term cooperation or of undermining the core value of Free Software.
+And yet窶ｦ Everything worked out fine. Free Software is everywhere, and appears to be in an almost unassailable position as a mainstream component of the Information Technology industry. Projects like the Linux kernel or the Apache server have continued to grow, to innovate and to attract new stakeholders, both commercial and non-commercial. The balance of power between individuals, projects and businesses changed, occasionally with conflict and disruption, but never at the cost of long-term cooperation or of undermining the core value of Free Software.
 
 #@# From my perspective in the legal field -- which after all is merely a formal
 #@# language that provides a context for interaction through mutually understood and
