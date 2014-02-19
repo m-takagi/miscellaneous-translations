@@ -37,7 +37,9 @@ Shaneの得意とする分野は、インターネット関連技術・ベスト
 #@# themselves as the community rather than those more aligned with business
 #@# interests, but it was prevalent.
 //noindent
-When I started to work in Free Software I was struck by the perceived difference between the ``community'' and the ``business'' stakeholders in this field. The informal assertion often aired at the time essentially proposed that there were developers interested in hacking and there were commercial parties who would use their output in objectionable ways if not closely monitored. It was a generally baseless assumption, and almost entirely limited to parties who identified themselves as the community rather than those more aligned with business interests, but it was prevalent.
+私がフリーソフトウェアの世界で働き始めたときにぶつかったのが、この業界には「コミュニティ」の人と「ビジネス」の人がいて、それぞれ考えかたが違っているという事実だった。
+表だって声高に叫ぶことはなかったが、ハックするのが大好きな開発者がいる一方で、隙あらば彼らの成果を搾取してやろうと企むビジネスの人たちがいると言われていた。
+根拠のない推測に過ぎないし、だいたいそんなことを言っているのはビジネス側でなくコミュニティ側の人たちばかりだったが、そんな思いが広まっていた。
 
 #@# Despite being primarily associated with the community side of things, I resisted
 #@# the concept that there were two inherently hostile parties facing each other
