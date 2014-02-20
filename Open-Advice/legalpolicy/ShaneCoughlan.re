@@ -51,7 +51,11 @@ Shaneの得意とする分野は、インターネット関連技術・ベスト
 #@# could feel the tension in the air, I could hear the arguments at booths and in
 #@# meetings, and I could observe the sharp comments or blowing off of steam at
 #@# conferences. But what did it all mean?
-Despite being primarily associated with the community side of things, I resisted the concept that there were two inherently hostile parties facing each other down over the future of Free Software. It sounded too simple to frame the dynamics of contribution, use and support as the interplay between noble creators and devious freeloaders. Indeed, it sounded more like a situation where complexity, change and uncertainty had lead to the creation of simplistic narratives to provide comfort for parties moving out of their comfort zone. I could feel the tension in the air, I could hear the arguments at booths and in meetings, and I could observe the sharp comments or blowing off of steam at conferences. But what did it all mean?
+別にコミュニティ側に肩入れするわけではないが、私は「フリーソフトウェアの世界には二つの敵対勢力がある」という考えかたには反対だった。
+立派な開発者たちとひねくれたフリーライダーたちとの間のさまざまなやりとりは、そんな風に一言で言い切ってしまえるほど単純ではなかった。
+状況はもっと複雑で変化に富み、不確かなところもある。確かに、単純なストーリーでまとめてしまえばスッキリするし、どちらの勢力も満足するだろう。
+緊迫した空気は感じられたし、会議のブースでも激しい議論があった。またカンファレンスでも、厳しい意見が飛び交っていた。
+でも、ほんとうにそれがすべてなのだろうか。
 
 #@# Whether we were talking about Free Software project contribution, project
 #@# management or license compliance, the relationships between stakeholders were
