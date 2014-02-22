@@ -67,7 +67,13 @@ Shaneの得意とする分野は、インターネット関連技術・ベスト
 #@# cross-communication of the rules, norms and reasons behind the licenses and
 #@# other formal measures to govern this field, but that in itself does not
 #@# translate into knowing how to engage with the issue effectively.
-Whether we were talking about Free Software project contribution, project management or license compliance, the relationships between stakeholders were often accompanied by assumptions, lack of communication and negative emotion. This in turn lead to greater complexity and a corresponding increase in the difficulty of making unified decisions or resolving issues. I was aware that one of the biggest challenges was how to build bridges between individuals, projects and businesses, a necessary step to ensure common understanding and cross-communication of the rules, norms and reasons behind the licenses and other formal measures to govern this field, but that in itself does not translate into knowing how to engage with the issue effectively.
+フリーソフトウェアプロジェクトへの貢献について話しているときも、プロジェクト管理の話をしているときも、
+あるいはライセンスへの準拠について話をしているときも、
+ステークホルダーたちの間にはいつもコミュニケーションの欠如や否定的感情がつきまとっていた。
+これがさらに複雑さを増す元になり、意思統一をしたり課題を解決したりするのが難しくなった。
+一番の困難は、個人やプロジェクトと経営層の間の橋渡しをすることだと気づいた。
+考えを共有し、ライセンスの背後にあるルールや基準そしてその理由、その他の公式な基準について知ることが必要だった。
+しかしそれは、単に課題を効率的に処理する方法を知るというだけのことではなかった。
 
 #@# This was at the tipping point when GPLv3 was being drafted, Linux-based
 #@# technology was beginning to appear in all sorts of consumer electronics, and
