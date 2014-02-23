@@ -101,7 +101,12 @@ Shaneの得意とする分野は、インターネット関連技術・ベスト
 #@# It was not where the original contributors had expected to encounter
 #@# middle-management and output-orientated development focus. No wonder a few noses
 #@# were out of joint.
-This was probably a system shock to parties who had been doing Free Software for a long time. For much of its evolution Free Software was not just about technical exploration and perfection, but also social interaction. It provided a way for intelligent though occasionally awkward people to share a common interest, to challenge each other, and to cooperate inside carefully delineated and predictable lines. Like stamp collecting, train spotting or Star Trek, it was a place where detail-orientated people could converge, and it had the additional benefit of providing broader feel-good social benefits as an output. It was not where the original contributors had expected to encounter middle-management and output-orientated development focus. No wonder a few noses were out of joint.
+これは恐らく、フリーソフトウェアを長年使い続けてきた人たちにとっては、その根底を覆されるような衝撃だっただろう。
+これまでのフリーソフトウェアの成長は、決して技術的な探求や完全性の追求だけで起こったものではなかった。そこにはソーシャルなつながりがあったのだ。
+同じ興味を持った、賢いけれども時に扱いづらい人たちが集まり、お互いに切磋琢磨しあい、注意深く用意された予測可能な線の範囲内で協力する手段があった。
+切手集めだとか鉄道、あるいはスタートレックなどと同様、ある種のオタクが集まるところだった。そして彼らの成果は、社会全体にメリットをもたらすというおまけもあった。
+決して、開発者が上司に自分の開発成果を報告しなければいけないような世界ではなかった。
+中にはきっと、それが気に入らない人もいただろう。
 
 #@# And yet\dots\ Everything worked out fine. Free Software is everywhere, and
 #@# appears to be in an almost unassailable position as a mainstream component of
@@ -111,7 +116,7 @@ This was probably a system shock to parties who had been doing Free Software for
 #@# individuals, projects and businesses changed, occasionally with conflict and
 #@# disruption, but never at the cost of long-term cooperation or of undermining the
 #@# core value of Free Software.
-And yet窶ｦ Everything worked out fine. Free Software is everywhere, and appears to be in an almost unassailable position as a mainstream component of the Information Technology industry. Projects like the Linux kernel or the Apache server have continued to grow, to innovate and to attract new stakeholders, both commercial and non-commercial. The balance of power between individuals, projects and businesses changed, occasionally with conflict and disruption, but never at the cost of long-term cooperation or of undermining the core value of Free Software.
+And yet… Everything worked out fine. Free Software is everywhere, and appears to be in an almost unassailable position as a mainstream component of the Information Technology industry. Projects like the Linux kernel or the Apache server have continued to grow, to innovate and to attract new stakeholders, both commercial and non-commercial. The balance of power between individuals, projects and businesses changed, occasionally with conflict and disruption, but never at the cost of long-term cooperation or of undermining the core value of Free Software.
 
 #@# From my perspective in the legal field -- which after all is merely a formal
 #@# language that provides a context for interaction through mutually understood and
