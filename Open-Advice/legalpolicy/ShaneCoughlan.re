@@ -83,7 +83,12 @@ Shaneの得意とする分野は、インターネット関連技術・ベスト
 #@# work, there was significant funding available for events, and a lot of the
 #@# software stopped being about fun, and started to be about milestones,
 #@# deliverables, quality assurance and usability.
-This was at the tipping point when GPLv3 was being drafted, Linux-based technology was beginning to appear in all sorts of consumer electronics, and Free Software was at the brink of becoming mainstream. Change was in the air and business investment around major Free Software projects was spiking. Suddenly there were major corporation employees actually doing a lot of the difficult work, there was significant funding available for events, and a lot of the software stopped being about fun, and started to be about milestones, deliverables, quality assurance and usability.
+転機があった。それはGPLv3の草稿が作られているときで、その頃にLinuxベースのテクノロジーが家電業界に進出し始めた。
+フリーソフトウェアがメインストリームに登場したのだ。
+噂は広まり、ビジネス業界が主要なフリーソフトウェアプロジェクトにどんどん出資しだすようになった。
+大企業の社員たちが、難しい仕事を突然引き受けてくれるようになった。イベントには多額の協賛金が集まるようになった。
+そして、単なる趣味で作っていたソフトウェアの多くが変わっていった。
+マイルストーンだの成果物だの、品質保証だのユーザビリティだのと言い出すようになったのだ。
 
 #@# This was probably a system shock to parties who had been doing Free Software for
 #@# a long time. For much of its evolution Free Software was not just about
