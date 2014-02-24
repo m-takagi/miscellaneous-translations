@@ -116,7 +116,10 @@ Shaneの得意とする分野は、インターネット関連技術・ベスト
 #@# individuals, projects and businesses changed, occasionally with conflict and
 #@# disruption, but never at the cost of long-term cooperation or of undermining the
 #@# core value of Free Software.
-And yet… Everything worked out fine. Free Software is everywhere, and appears to be in an almost unassailable position as a mainstream component of the Information Technology industry. Projects like the Linux kernel or the Apache server have continued to grow, to innovate and to attract new stakeholders, both commercial and non-commercial. The balance of power between individuals, projects and businesses changed, occasionally with conflict and disruption, but never at the cost of long-term cooperation or of undermining the core value of Free Software.
+それにもかかわらず…すべてがうまく進んだ。
+フリーソフトウェアをあらゆるところで目にするようになったし、IT業界の本流として無視できない立ち位置を確立した。
+LinuxカーネルやApacheサーバーなどのプロジェクトは成長を続け、新たなステークホルダーたち（ビジネス的な人もいれば、非営利の人もいる）を引きつけている。
+個人やプロジェクトと企業との間の力関係は変わった。時には衝突や混乱を伴うこともあったが、長期的な協力関係を損ねたり、フリーソフトウェアの価値を落とすようなことは決してなかった。
 
 #@# From my perspective in the legal field -- which after all is merely a formal
 #@# language that provides a context for interaction through mutually understood and
