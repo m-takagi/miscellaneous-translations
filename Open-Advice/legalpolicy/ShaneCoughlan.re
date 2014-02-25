@@ -128,7 +128,9 @@ LinuxカーネルやApacheサーバーなどのプロジェクトは成長を続
 #@# company employees in projects, or in change itself. The real problem lay in the
 #@# gap between a displaced previous elite and their newer, occasionally very
 #@# different, fellow stakeholders.
-From my perspective in the legal field -- which after all is merely a formal language that provides a context for interaction through mutually understood and enforceable rules -- the tension in Free Software did not lie in the introduction of increased commercial activity, in the increased participation of company employees in projects, or in change itself. The real problem lay in the gap between a displaced previous elite and their newer, occasionally very different, fellow stakeholders.
+法律家としての視点（要するに、お互いにわかり合えて実施できるルールを使ったやりとりをするための形式言語）で見れば、
+フリーソフトウェアの世界の緊張感の原因は、カネのにおいがし始めたこととか企業の従業員が関わり始めたこととか「昔とは変わってしまった」とかいうこととは関係ない。
+そもそもの問題は、昔から関わっていた選ばれし者たちと、彼らとはまったく違う新たなステークホルダーたちとの間の溝だ。
 
 #@# The challenge was to create a level playing field where the different interests
 #@# could co-exist with mutual respect. Free Software needed to become a place where
