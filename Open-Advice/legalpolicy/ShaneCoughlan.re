@@ -140,7 +140,10 @@ LinuxカーネルやApacheサーバーなどのプロジェクトは成長を続
 #@# more formalized transactions, which in turn act as an essential precursor for
 #@# any large economic activity, especially in the context of an international or
 #@# global community.
-The challenge was to create a level playing field where the different interests could co-exist with mutual respect. Free Software needed to become a place where information like the proper remit and obligations of a license or requirements for code submissions to a project could be obtained by any party at any time. Subjectivity and vagueness needed to take a backseat to allow the formation of more formalized transactions, which in turn act as an essential precursor for any large economic activity, especially in the context of an international or global community.
+大変だったのは、さまざまな立場の人たちがお互い尊重し合いながら共存できる場を用意することだった。
+フリーソフトウェアには、ライセンスされた権限や義務、あるいはプロジェクトにコードを提供するときの要件といった情報を、いつでも誰でも取得できるような場所が必要だった。
+主観や曖昧さなどはとりあえず脇に置いておかないと、きちんとしたやりとりができない。
+大規模な経済取引をするときにはそれが必須の前提になる。特に、国際的なコミュニティではなおさらそうだ。
 
 #@# What had worked in the early days -- be it the trust of a few parties or the
 #@# common understanding reached by a similar group with similar interests -- could
