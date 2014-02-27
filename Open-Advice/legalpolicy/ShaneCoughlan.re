@@ -152,7 +152,9 @@ LinuxカーネルやApacheサーバーなどのプロジェクトは成長を続
 #@# the previous contributors to Free Software and new stakeholders must lead to a
 #@# collapse of cooperation and perhaps of the progress made. But such a grim
 #@# outcome would presuppose conditions that simply did not exist.
-What had worked in the early days -- be it the trust of a few parties or the common understanding reached by a similar group with similar interests -- could no longer act as social or economic drivers for the future of the field. At times this seemed like an insurmountable barrier and that the tensions between the previous contributors to Free Software and new stakeholders must lead to a collapse of cooperation and perhaps of the progress made. But such a grim outcome would presuppose conditions that simply did not exist.
+最初のころ（ごく一部の身内だけで集まっていたり、同じ興味を持つようなグループどうしで認識を共有していたりしたころ）にうまくいっていたやりかたは、その業界を拡大していくうえでの原動力にはなり得ない。
+フリーソフトウェアへの初期の貢献者たちと後から参入したステークホルダーたちとの間には越えられない壁と対立があって、それが必然的に、互いの協力関係や今後の運営に悪影響を及ぼすことになる。
+でも、こんな残念な結果になるというのは、これまで単に存在しなかった条件を前提にしている。
 
 #@# Free Software provided a lot of value to different people and organizations
 #@# based on some very simple concepts like the freedom to use, modify, improve and
