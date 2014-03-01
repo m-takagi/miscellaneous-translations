@@ -184,7 +184,12 @@ LinuxカーネルやApacheサーバーなどのプロジェクトは成長を続
 #@# value, then challenges in governance are unlikely to undermine that value, but
 #@# instead will provide a method of refining both the governance mechanisms and the
 #@# people in a position to apply them.
-The changes in Free Software all looked a little confusing at the time, but essentially break down into three useful lessons that will be familiar to students of history or political science. Firstly, whenever there is an elite, it will seek to preserve its status and it will communicate the perceived challenge as a negative development in an attempt to undermine it. Secondly, despite the inherent tendency of any power base to be conservative, static engagement with a changing field will only result in moving the opportunity for improvement from existing parties to third parties. Finally, if something has value, then challenges in governance are unlikely to undermine that value, but instead will provide a method of refining both the governance mechanisms and the people in a position to apply them.
+フリーソフトウェアの世界における変化は、どれも入り組んでいてわかりにくい。しかし、そこから得られる教訓は、本質的には次の3つになる。
+歴史や政治学を学んだ人には、どれもおなじみのものだろう。
+まず、エリートはいつだって、自分の立場を守り続けようとするものだということ。そういう人は、自分の立場を危うくする企てとして変化をとらえる。
+次に、あらゆる権力は保守的になる傾向があるものの、変化させるということは、改善のチャンスを既存の参加者から新規参入者に移すことであるということ。
+最後に、何らかの価値のあるものを支配しようという試みが、その価値をおとしめることはない。
+そうではなく、管理の仕組みとそれを行う立場の人を見直そうということだ。
 
 #@# The development of Free Software as a mainstream technology saw increased
 #@# professionalization in both the approach of developers and in the management of
