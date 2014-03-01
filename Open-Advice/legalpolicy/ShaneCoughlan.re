@@ -166,7 +166,12 @@ LinuxカーネルやApacheサーバーなどのプロジェクトは成長を続
 #@# one social group is joined by another. The same applies whether we are talking
 #@# about a fishing spot, a country welcoming immigrants (or not), or two businesses
 #@# merging.
-Free Software provided a lot of value to different people and organizations based on some very simple concepts like the freedom to use, modify, improve and share technology. These concepts allowed a great deal of flexibility, and as long as people recognized their value and continued to respect them, challenges over secondary items like project governance or license gray areas were -- in the long run -- pretty much irrelevant. The rest was mainly noise, the normal communication spike with all its trappings of drama that inevitably occurs when one social group is joined by another. The same applies whether we are talking about a fishing spot, a country welcoming immigrants (or not), or two businesses merging.
+フリーソフトウェアは、いろんな人たちやいろんな組織に大きな価値をもたらした。
+自由に使えて自由に改造できて、自由に改良したものを自由に享有できるテクノロジーという、非常にシンプルな考えかたが、そのベースになっている。
+この考えかたのおかげで、フリーソフトウェアの柔軟性が非常に高まった。
+そのベースになる価値を理解して尊重しさえすれば、プロジェクトの運営やライセンス上のグレーゾーンなどの問題は、長期的には些細なものだった。
+それ以外はたいていノイズで、通常のコミュニケーションでも普通にあり得るものだった。ある集団に別の集団が合流するときには、必然的に発生するものだ。
+釣りのポイントの話をしているときだって、移民を受け入れるかどうかを考えるときだって、会社が合併するときだって、全部同じだ。
 
 #@# The changes in Free Software all looked a little confusing at the time, but
 #@# essentially break down into three useful lessons that will be familiar to
