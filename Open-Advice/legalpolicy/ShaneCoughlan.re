@@ -199,4 +199,7 @@ LinuxカーネルやApacheサーバーなどのプロジェクトは成長を続
 #@# disregarding license terms or the upset caused by a move away from beer and
 #@# t-shirt culture -- we are left with a stronger, more coherent and more valuable
 #@# field.
-The development of Free Software as a mainstream technology saw increased professionalization in both the approach of developers and in the management of projects. It also saw greater respect for licenses on the part of individuals, projects and companies. This was no bad thing, and despite a few rocky moments along the way -- you can take your pick from inter-community fighting, companies disregarding license terms or the upset caused by a move away from beer and t-shirt culture -- we are left with a stronger, more coherent and more valuable field.
+フリーソフトウェア開発がメインストリームのテクノロジーとなり、開発手法の面でもプロジェクト運営の面でもプロ化が進んできた。
+またそれと同時に、そのライセンスについても、個人やプロジェクトそして企業から尊重されるようになってきた。
+何も悪いことはなかった。時には問題もあったが
+（コミュニティ間の争いだとかライセンス条項を無視する企業とか、あるいはビールとＴシャツの文化がなくなってしまうことへの戸惑いとか）、より強力でわかりやすく、価値のある場を残せたと思っている。
