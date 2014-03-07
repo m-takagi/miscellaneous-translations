@@ -15,7 +15,11 @@ Jeff Mitchell
 #@# most of his FOSS time is spent as a sysadmin for KDE and a core developer of
 #@# Tomahawk Player. Jeff currently lives in Boston, USA.}
 //lead{
-Jeff Mitchell spends his working days dabbling in all sorts of computer and networking technologies, his off-time dabbling in all sorts of FOSS projects and most enjoys a confluence of both. After serving as a system administrator in a professional capacity between 1999-2005, he has since kept his skills sharp by performing volunteer work for various workplace and FOSS projects. These days, most of his FOSS time is spent as a sysadmin for KDE and a core developer of Tomahawk Player. Jeff currently lives in Boston, USA.
+Jeff Mitchellはふだん、コンピューターやネットワーク技術に関するありとあらゆる作業をしている。
+業務以外でもさまざまなFOSSプロジェクトに関わっており、そのどちらも楽しんでいる。
+1999年から2005年にかけてシステム管理者として働いた彼は、その後さまざまな職場やFOSSプロジェクトで自分の腕を磨いていった。
+最近は、FOSSがらみでは、KDEのシステム管理者やTomahawk Playerのコア開発者としての作業が主になっている。
+Jeffはボストン在住だ。
 //}
 
 #@# \noindent{}Recently I was part of a group interviewing a potential new sysadmin at
