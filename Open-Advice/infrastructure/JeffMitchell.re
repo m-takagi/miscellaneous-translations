@@ -31,7 +31,11 @@ Jeffはボストン在住だ。
 #@# The meaning of that statement was not immediately clear to us, until the
 #@# following exchange occurred:
 //noindent
-Recently I was part of a group interviewing a potential new sysadmin at work. We had gone through a few dozen resumes and had finally brought our first candidate in for an interview. The candidate -- let’s call him John -- had experience with smaller, lab-style computer clusters as well as larger data center operations. At first, things were proceeding apace, except that he had an odd answer to a few of our questions: ``I’m a sysadmin.'' The meaning of that statement was not immediately clear to us, until the following exchange occurred:
+最近、職場で新しいシステム管理者を雇うためのグループ面接にかかわった。
+数十名の経歴書を見た上で、まず1人めの候補者を面接した。
+その候補者（仮にJohnとしよう）は、小規模なコンピュータークラスターの経験もあれば大規模なデータセンターの運用経験もあるという人だった。
+最初のうちは特に問題なく進んでいたけれど、いくつかの質問に対しては「私はシステム管理者です」と奇妙な答えを返すだけだった。
+何が言いたいのかよくわからなかったけど、以下のようなやりとりを経て、ようやくその意味を理解した。
 
 #@# \begin{quote}
 #@# \textbf{Me}: So you’ve said that you don’t have Cisco IOS experience, but what about
@@ -42,13 +46,13 @@ Recently I was part of a group interviewing a potential new sysadmin at work. We
 #@# \textbf{John, exasperated}: I’m a \emph{sysadmin}.
 #@# \end{quote}
 //quote{
-@<b>{Me}: So you’ve said that you don’t have Cisco IOS experience, but what about networking in general?
+@<b>{私}: さっきCiscoのIOSは経験がないって言ってたけど、一般的なネットワーク構築に関してはどうなの？
 
-@<b>{John}: Well, I’m a sysadmin.
+@<b>{John}: えーと、私はシステム管理者です。
 
-@<b>{Me}: Right, but -- how about networking concepts? Routing protocols like BGP or OSPF, VLANs, bridges ...
+@<b>{私}: うん。だけど、ネットワーク構築の概念はわかるよね？BGPやOSPFみたいなルーティングプロトコルとか、VLANとか、ブリッジとか…。
 
-@<b>{John, exasperated}: I’m a @<em>{sysadmin}.
+@<b>{若干いらついたJohn}: だから、私は@<em>{システム管理者}だって言ってるでしょ！
 //}
 
 #@# That was when we understood what he was saying. John had not been telling us that he knew
