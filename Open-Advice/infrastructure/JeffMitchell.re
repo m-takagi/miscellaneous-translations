@@ -61,7 +61,11 @@ Jeffはボストン在住だ。
 #@# John was a \emph{systems} administrator; claiming such was his hand-waving way of
 #@# indicating that those tasks belonged to network administrators.
 #@# Probably unsurprisingly, John did not get the job.
-That was when we understood what he was saying. John had not been telling us that he knew of the various things we were asking about because he was a sysadmin; he was telling us that because he was a sysadmin he did @<em>{not} know about those things. John was a @<em>{systems} administrator; claiming such was his hand-waving way of indicating that those tasks belonged to network administrators. Probably unsurprisingly, John did not get the job.
+ようやく、彼が何を言っているのかを理解した。
+彼が言いたかったのは、「私はシステム管理者だから、あなたがたが言っているようなこともみんな知っている」と伝えたかったわけではなかったのだ。
+要するに「私はシステム管理者だから、あなたがたが言っているようなことは@<em>{知らない}」と伝えようとしていたのだ。
+Johnはあくまでも@<em>{システム}の管理者であり、私たちが言っているようなことはネットワーク管理者のタスクだろうと言いたかったようだ。
+お察しのとおり、Johnは不採用となった。
 
 #@# \paragraph*{}For many open source projects, specialization is a curse, not a blessing.
 #@# Whether a project falls into one category or the other often depends on the size
