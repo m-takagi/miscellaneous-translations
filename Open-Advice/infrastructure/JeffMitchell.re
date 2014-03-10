@@ -74,7 +74,10 @@ Johnはあくまでも@<em>{システム}の管理者であり、私たちが言
 #@# leaving, whether on good, bad or unfortunate terms. It is no different for open
 #@# source project sysadmins, although the general scarcity of these seems to allow
 #@# projects to adopt sometimes dangerous tolerances.
-\paragraph*{}For many open source projects, specialization is a curse, not a blessing. Whether a project falls into one category or the other often depends on the size of the development team; specialization to the degree of single points of failure can mean serious disruption to a project in the event of a developer leaving, whether on good, bad or unfortunate terms. It is no different for open source project sysadmins, although the general scarcity of these seems to allow projects to adopt sometimes dangerous tolerances.
+多くのオープンソースプロジェクトにとって、何かに特化してしまうのは忌むべきことである。決して喜ばしいことではない。
+プロジェクトがどのカテゴリーに収まるのかは、開発チームの規模で決まることが多い。
+あまりに特化してしまってそこが単一障害点になると、その開発者が何らかの理由でプロジェクトを去ったときに、大混乱を引き起こしてしまう。
+オープンソースプロジェクトのシステム管理者だって同じことだ。しかし、そんな人材はあまり多くないので、危険な人物をやむを得ず受け入れてしまうプロジェクトもある。
 
 #@# The most egregious example I have seen involved one particular project whose
 #@# documentation site (including all of their installation and configuration
