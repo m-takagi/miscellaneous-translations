@@ -84,7 +84,10 @@ Johnはあくまでも@<em>{システム}の管理者であり、私たちが言
 #@# documentation) was down for over a month. The reason: the server had crashed,
 #@# and the only person with access to that server was sailing around on a ``pirate
 #@# ship'' with members of Sweden’s Pirate Party. That really happened.
-The most egregious example I have seen involved one particular project whose documentation site (including all of their installation and configuration documentation) was down for over a month. The reason: the server had crashed, and the only person with access to that server was sailing around on a ``pirate ship'' with members of Sweden’s Pirate Party. That really happened.
+これまでで最悪の経験は、とあるプロジェクトのドキュメンテーションサイト（インストールとか設定に関するドキュメントも含む）が1か月以上ダウンしたことだった。
+その理由が何だったかというと、サーバーがクラッシュしたときに、そのサーバーにアクセスできる唯一の人物がスウェーデンの海賊パーティに参加中だったからだ。
+まさに「海賊船」で航海中だったんだ。
+これ、本当にあった話。
 
 #@# However, not all single points of failure are due to absentee system
 #@# administrators; some are artificial. One large project’s system administration
