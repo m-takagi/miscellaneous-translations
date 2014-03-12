@@ -102,7 +102,14 @@ Johnはあくまでも@<em>{システム}の管理者であり、私たちが言
 #@# personally knew someone, by which he meant how well he knew that individual \emph{in
 #@# person}. Imagine how well that scales to a distributed global team of system
 #@# administrators.
-However, not all single points of failure are due to absentee system administrators; some are artificial. One large project’s system administration access rights decisions were handled by a single lead administrator, who not only reserved some access rights solely for himself (you guessed it: yes, he did disappear for a while and yes, that did cause problems) but made decisions about how access rights should be given out based on whether he himself trusted the candidate. ``Trust'' in this case was based on one thing; it was not based on how many community members vouched for that person, how long that person had been an active and trusted contributor to that project, or even how long he had known that individual as a part of that project. Rather, it was based on how well he personally knew someone, by which he meant how well he knew that individual @<em>{in person}. Imagine how well that scales to a distributed global team of system administrators.
+しかし、すべての単一障害点の原因がシステム管理者の不在だというわけではない。人為的な原因であることもある。
+ある大規模プロジェクトでは、システムの管理者権限の付与に関わるのはたった一人のリード管理者だけだった。
+彼だけにしか権限のないところもいくつかあった（そう、お察しのとおり、彼がいないときに問題になることもあった）
+し、誰にどんな権限を与えるかの基準になるのは、リード管理者自身がその人を信頼しているかどうかだけだった。
+ここで言う「信頼」の基準はたったひとつ。コミュニティのメンバーのうち何人がその人を保証しているかだとか、
+その人がどれだけの期間プロジェクトに貢献してきたかだとか、そのプロジェクトの中でとの程度認知されているだとか、そんなことは関係なかった。
+唯一の基準は、リード開発者がその人のことを個人的に知っているかどうか。つまり、@<em>{直接}会ったことがあるかどうかということだった。
+世界中に広がるチームになったときに、そんなことでうまくいくだろうか。
 
 #@# Of course, this example only goes to show that it is very difficult for open
 #@# source sysadmins to walk the line between security and capability. Large
