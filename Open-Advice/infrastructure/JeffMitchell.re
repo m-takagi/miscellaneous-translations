@@ -125,7 +125,13 @@ Johnはあくまでも@<em>{システム}の管理者であり、私たちが言
 #@# is blissfully diverse; as a result, human dynamics, trust, intuition and how to
 #@# apply these concepts to any particular open source project are broad topics that are far
 #@# out of scope of this short essay.
-Of course, this example only goes to show that it is very difficult for open source sysadmins to walk the line between security and capability. Large corporations can afford redundant staff, even when those staff are segmented into different responsibilities or security domains. Redundancy is important, but what if the only current option for redundant system administration is taking the first guy that randomly pops into your IRC channel and volunteers to help? How can you reasonably trust that person, their skills, or their motives? Unfortunately, only the project’s contributors, or some subset of them, can determine when the right person has come along, using the same Web of Trust model that underpins much of the rest of the open source world. The universe of open source projects, their needs, and those willing to contribute to any particular project is blissfully diverse; as a result, human dynamics, trust, intuition and how to apply these concepts to any particular open source project are broad topics that are far out of scope of this short essay.
+もちろん、この例が示しているのは単に、オープンソースプロジェクトのシステム管理者がセキュリティと能力との間を行き来するのが難しいということに過ぎない。
+大企業なら、さまざまな責務やセキュリティ領域に分かれる場合であっても、余分にスタッフを雇って冗長化できるだろう。
+冗長化は確かに大切だ。でも、システム管理者を冗長化するための方法が、IRCチャネルにいる誰かをピックアップしてお手伝いをお願いすることだけだったとしたらどうだろう。
+その人が信頼できるかどうか、技術の有無、やる気があるかどうかなどを、どうやって判断するのだろう。
+残念ながら、プロジェクトへの貢献者として適切かどうかを判断するには、オープンソースの世界を固めている「Web of Trust」モデルに頼るしかない。
+オープンソースプロジェクトの世界はさまざまで、そのニーズや特定のプロジェクトに貢献したいという気持ちもさまざまだ。
+なので、人間工学や信頼、直感そしてそれらをオープンソースプロジェクトにあてはめるといった内容は、この短い文章ではとても語りつくせない。
 
 #@# \paragraph*{}One key thing has made walking that security/capability line far easier,
 #@# however: the rise of distributed version control systems, or DVCSes.
