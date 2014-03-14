@@ -146,7 +146,17 @@ Johnはあくまでも@<em>{システム}の管理者であり、私たちが言
 #@# ran an ``rm -rf'' on his entire checkout, \emph{intending} to destroy all code
 #@# in the project. Fortunately, he was not a sysadmin with access to the central repository, and too drunk
 #@# to remember his copy was simply a checkout.)
-\paragraph*{}One key thing has made walking that security/capability line far easier, however: the rise of distributed version control systems, or DVCSes. In the past, access control was paramount because the heart of any open source project -- its source code -- was centralized. I realize that many out there will now be thinking ``Jeff, you should know better than that; the heart of a project is its community, not its code!'' My response is simple: community members come and go, but if someone accidentally runs ``rm -rf'' on the entire centralized VCS tree of your project and you lack backups, how many of those community members are going to be willing to stick around and help recreate everything from scratch?  (This is actually based on a real example, where a drunk community member angry at some code he was debugging ran an ``rm -rf'' on his entire checkout, @<em>{intending} to destroy all code in the project. Fortunately, he was not a sysadmin with access to the central repository, and too drunk to remember his copy was simply a checkout.)
+しかし、セキュリティと能力との間を行き来するのをとても簡単にするできごとがあった。分散型バージョン管理システム（DVCS）の登場だ。
+かつては、アクセス権限の管理が最重要だった。あらゆるオープンソースプロジェクトの肝であるそのソースコードは、中央管理されていたからだ。
+「Jeff、君はいったい何を言っているんだ。プロジェクトの肝はコミュニティであって、コードなんかじゃないよ！」
+きっとそう思った人も多いだろう。
+でも、考えてみて欲しい。コミュニティのメンバーは常に入れ替わるものだ。
+でも、中央管理型のVCSを使っていたとして、もし誰かが間違ってプロジェクトのVCSツリーで「rm -rf」を実行してしまったらどうなるだろう。もしバックアップがなかったとしたら？
+そのとき、もういちどゼロから何もかも作り直していこうと思えるメンバーが、コミュニティの中にどれくらいいるだろうか
+（これは非現実的な話ではなく、実話に基づく例だ。酔っ払ったメンバーが、デバッグ中のコードに腹を立てて、チェックアウトしたツリー全体を「rm -rf」してしまった。
+プロジェクトの全コードを@<em>{意図的に}消し去ろうとしたんだ。
+幸いなことに、彼には中央レポジトリへのアクセス権限がなかった。
+そして、泥酔していたせいで、自分が消そうとしているのが単なるローカルコピーだということにも気づかなかった）。
 
 #@# A project’s code is its heart; its community members are its lifeblood. Without
 #@# either, you are going to have a hard time keeping a project alive. With a centralized VCS,
