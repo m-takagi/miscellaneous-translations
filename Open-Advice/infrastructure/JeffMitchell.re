@@ -165,7 +165,12 @@ Johnはあくまでも@<em>{システム}の管理者であり、私たちが言
 #@# that different people had of different parts of the tree, but for most projects the history
 #@# of the code is as important as the current code itself, and you will still have
 #@# lost all of it.
-A project’s code is its heart; its community members are its lifeblood. Without either, you are going to have a hard time keeping a project alive. With a centralized VCS, if you did not have the foresight to set up regular backups, maybe you could get lucky and be able to cobble together the entire source tree from checkouts that different people had of different parts of the tree, but for most projects the history of the code is as important as the current code itself, and you will still have lost all of it.
+プロジェクトの心臓がコードだとしたら、血液にあたるのがコミュニティのメンバーだ。
+どちらか一方でも欠けると、プロジェクトの存続は難しい。
+中央管理型のVCSを使っていて、定期的なバックアップをするだけの先見の明がなかった場合のことを考えよう。
+各メンバーがチェックアウトしたツリーをかき集めれば、ソースツリー全体を復元できることだろう。
+しかし、たいていのプロジェクトにとっては、現状のコードだけでなくそこに至るまでの履歴も同じくらい重要だ。
+現状のツリーが復元できたところで、過去の履歴は失われたままだ。
 
 #@# That is no longer the case. When every local clone has all of the history for a
 #@# project and nightly backups can be performed by having a cron job run something as simple
