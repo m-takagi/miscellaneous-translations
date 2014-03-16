@@ -189,7 +189,19 @@ Johnはあくまでも@<em>{システム}の管理者であり、私たちが言
 #@# bit more like Time Lords. It also means if you are not on a DVCS, stop reading
 #@# this very moment and go switch to one. It is not just about workflows and tools. If
 #@# you care about the safety of your code and your project, you will switch.
-That is no longer the case. When every local clone has all of the history for a project and nightly backups can be performed by having a cron job run something as simple as ``git pull'', the centralized repository is now just a coordination tool. This takes its status down a few notches. It still has to be protected against threats both internal and external: unpatched systems are still vulnerable to known exploits, a malicious sysadmin can still wreak havoc, an ineffective authentication system can allow malicious code into your codebase, and an accidental ``rm -rf'' of the centralized repository can still cause loss of developer time. But these challenges can be overcome, and in the day and age of cheap VPS and data center hosting, absentee sysadmins can be overcome too. (Better make sure you have redundant access to DNS, though! Oh, and, put your websites in a DVCS repository too, and make branches for local modifications. You will thank me later.) So, DVCSes give your project redundant hearts nearly for free, which is a great way to help open source sysadmins sleep at night and makes us all feel a little bit more like Time Lords. It also means if you are not on a DVCS, stop reading this very moment and go switch to one. It is not just about workflows and tools. If you care about the safety of your code and your project, you will switch.
+今やそんな心配はない。
+ローカルのクローンにもプロジェクトの歴史がすべて含まれるようになり、日時のバックアップも単純に"git pull"をcronで実行するだけでよくなった。
+中央リポジトリは、今や単なる共同作業の場でしかなくなったのだ。
+内外の脅威に対する防御が必要だという点は変わらない。パッチを当てていないシステムは既知の攻撃に対して脆弱だし、
+悪意のあるシステム管理者が破壊行為をするかもしれない。認証システムが不十分だと悪意のあるコードが取り込まれてしまうかもしれないし、
+中央リポジトリで"rm -rf"されてしまうと開発者に時間を取らせてしまうことには変わりがない。
+でも、こういった問題は対応可能だし、安価なVPSやデータセンターホスティングが使える今では、システム管理者が不在でもなんとかできるだろう
+（ああ、DNSへの冗長アクセスも忘れないようにね！あと、ウェブサイトのソースもDVCSのリポジトリに入れておくこと。そしてローカルでの変更用のブランチを作るんだ）。
+つまり、DVCSを使えば、自分たちのプロジェクトの心臓をほぼ無料で冗長化できるということだ。
+システム管理者は安心して眠れるようになるだろうし、まるで自分たちが『ドクター・フー』のタイム・ロードになったかのように思えることだろう。
+もしまだDVCSを使っていないというのなら、これを読むのをいったん中断して、今切り替えよう。
+単なるワークフローだとかツールだとかの問題ではない。
+自分たちのコードやプロジェクトの安全を考えれば、切り替えたほうがいい。
 
 #@# \paragraph*{}Source code redundancy is a must, and in general the greater amount of
 #@# redundancy you can manage, the more robust your systems. It may also seem
