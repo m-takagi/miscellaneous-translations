@@ -215,7 +215,13 @@ Johnはあくまでも@<em>{システム}の管理者であり、私たちが言
 #@# alternative) to finding redundant system administrators is spreading the load,
 #@# having other project members each pick up a skill or two until redundancy is
 #@# achieved.
-\paragraph*{}Source code redundancy is a must, and in general the greater amount of redundancy you can manage, the more robust your systems. It may also seem obvious that you want sysadmin redundancy; what you may not find obvious is that redundant sysadmins are not as important as redundant skillsets. John, the systems administrator, worked in data centers and companies with redundant sysadmins but rigid, defined skillsets. While that worked for large companies that could pay to acquire new sysadmins with particular skillsets on-demand, most open source projects do not have that luxury. You have to make do with what you can get. This of course means that an alternative (and sometimes the only alternative) to finding redundant system administrators is spreading the load, having other project members each pick up a skill or two until redundancy is achieved.
+ソースコードの冗長化は必須だ。一般論として、冗長化をすればするほどシステムは堅牢になる。
+また、これも明らかなことだが、システム管理者も冗長化しておきたいところだ。ただ実は、システム管理者の冗長化よりもスキルセットの冗長化のほうが大切だ。
+システム管理者のジョンが働いていたデータセンターや企業では、確固たるスキルセットを備えたシステム管理者を冗長化していた。
+必要なスキルセットを持つシステム管理者を必要に応じて雇えるような大企業ならそれでもいいが、たいていのオープンソースプロジェクトにはそんな余裕がない。
+いま手に入るものでなんとかする必要がある。
+システム管理者の冗長化ができない場合の代替策（もしかしたら唯一の代替策かも）は、負荷分散をすることだ。
+必要菜スキルセットの一部を満たしている他プロジェクトのメンバーを選び、一部を任せるなどして冗長化を達成すればいい。
 
 #@# It is really no different from the developer or artwork side of a project; if half of
 #@# your application is written in C++ and half is written in Python, and only one
