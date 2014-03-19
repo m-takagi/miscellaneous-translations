@@ -232,7 +232,12 @@ Johnはあくまでも@<em>{システム}の管理者であり、私たちが言
 #@# becomes more valuable, which should not come as a shock; acquiring new skillsets
 #@# is a byproduct of further education, and more educated personnel are more
 #@# valuable. (This also makes their CV more valuable, which should provide a good driving force.)
-It is really no different from the developer or artwork side of a project; if half of your application is written in C++ and half is written in Python, and only one developer knows Python, a departure from the project by that developer will cause massive short-term problems and could cause serious long-term problems as well. Encouraging developers to branch out and become familiar with more languages, paradigms, libraries, and so on means that each of your developers becomes more valuable, which should not come as a shock; acquiring new skillsets is a byproduct of further education, and more educated personnel are more valuable. (This also makes their CV more valuable, which should provide a good driving force.)
+プロジェクトの開発者やデザイナーの立場であっても、同じことだ。
+たとえばC++とPythonで書かれているアプリケーションがあったとしよう。プロジェクト内にPythonがわかる開発者が1人しかいなかったときに、
+もしその開発者がプロジェクトを離れてしまったら、短期的には大問題になる。そして、そのままにしておけば長期的な問題の原因にもなるだろう。
+他の分野にも手を広げ、いろんな言語やパラダイムそしてライブラリにもなじんでおくよう開発者に促しておけば、
+それぞれの開発者の価値がより高まる。当たり前のことだ。新たな知識は新たなスキルセットの獲得につながるので、知識がある人ほど価値も高まる
+（そうすれば各自の経歴書もより価値が高まる。これはよいきっかけになるだろう）。
 
 #@# Most open source developers that I know find it a challenge and a pleasure to
 #@# keep testing new waters, as that is the behavior that led them to open source
