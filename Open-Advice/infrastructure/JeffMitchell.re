@@ -246,7 +246,11 @@ Johnはあくまでも@<em>{システム}の管理者であり、私たちが言
 #@# relevant to the sysadmin are always emerging, and there are often ways to use
 #@# existing or older technologies in novel ways to enhance infrastructure or
 #@# improve efficiency.
-Most open source developers that I know find it a challenge and a pleasure to keep testing new waters, as that is the behavior that led them to open source development in the first place. Similarly, open source system administrators are in scarce supply, and can not afford to get stuck in a rut. New technologies relevant to the sysadmin are always emerging, and there are often ways to use existing or older technologies in novel ways to enhance infrastructure or improve efficiency.
+私の知るオープンソース開発者の多くは、新しいことにチャレンジし続けることに喜びを見いだしている。
+そういう気持ちがあったからこそ、オープンソースの開発の世界に入ってきたのだろう。
+オープンソースのシステム管理者は数少ないのだし、既存の慣習に凝り固まっている余裕はない。
+システム管理に関する新たなテクノロジーも常に出続けているし、既存の古いテクノロジーの新たな活用法が出てくることもある。
+それらを使ってインフラを強化したり、効率を上げたりできるだろう。
 
 #@# John was not a good candidate because he brought little value; he brought little
 #@# value because he had never pushed outside of his defined role. Open source
