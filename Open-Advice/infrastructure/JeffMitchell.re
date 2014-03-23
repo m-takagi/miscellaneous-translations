@@ -259,4 +259,9 @@ Johnはあくまでも@<em>{システム}の管理者であり、私たちが言
 #@# infrastructure technologies that could desperately use a hand; this decreases
 #@# the overall capability of the open source community. To the successful open
 #@# source administrator, there is no such thing as a comfort zone.
-John was not a good candidate because he brought little value; he brought little value because he had never pushed outside of his defined role. Open source sysadmins falling into that trap do not just hurt the project they are currently involved with, they reduce their value to other projects using different infrastructure technologies that could desperately use a hand; this decreases the overall capability of the open source community. To the successful open source administrator, there is no such thing as a comfort zone.
+Johnが不採用になった理由は、彼にはほとんど価値がなかったからだ。
+なぜ価値がなかったかというと、自分に与えられた役割だけで満足してそこから外に飛び出そうとしなかったからだ。
+オープンソースのシステム管理者がこんな罠にはまってしまうと、自分が関わっているプロジェクトを傷つけるだけでは済まなくなる。
+違う基盤技術を使っている別のプロジェクトが人手不足になっていたとしても、助けることができない。
+これはつまり、オープンソースコミュニティ全体としての可能性を狭めてしまうことになる。
+オープンソースの世界で管理者として成功しようと思ったら、常に動き続けることが必要だ。
