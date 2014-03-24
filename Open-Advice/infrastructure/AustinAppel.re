@@ -13,7 +13,9 @@ Austin Appel
 #@# to pick locks. In the open source world, he does a host of things for the Rockbox
 #@# project and previously volunteered for the One Laptop Per Child project.}
 //lead{
-Austin ``scorche'' Appel is an information security professional who spends his time breaking into things previously thought secure (with permission, of course). He is often seen around security/hacker conferences teaching people how to pick locks. In the open source world, he does a host of things for the Rockbox project and previously volunteered for the One Laptop Per Child project.
+Austin "scorche" Appelは情報セキュリティのプロで、これまで安全だと見なされていたものを（許可を得た上で）崩していくことに時間を割いている。
+セキュリティに関するカンファレンスなどでは、鍵のピッキングの方法を教えている姿をよく見かける。
+オープンソースの世界ではRockboxプロジェクトを運営しており、かつてはOne Laptop Per Childプロジェクトにも協力していた。
 //}
 
 #@# \noindent{}Backups are good. Backups are great. A competent admin always keeps current
