@@ -26,7 +26,14 @@ Austin "scorche" Appelは情報セキュリティのプロで、これまで安�
 #@# dire need. However, this should never happen, right? At any other time, what does
 #@# having backups do for you and your server environment?
 //noindent
-Backups are good. Backups are great. A competent admin always keeps current backups.  This much can be gathered from any manual on server administration. The problem is that backups are only really used when absolutely necessary. If something drastic happens to the server or its data and one is forced to fall back on something, the backups will come to the rescue in the moment of most dire need. However, this should never happen, right? At any other time, what does having backups do for you and your server environment?
+「バックアップが大事」
+「バックアップこそがすべて」
+「デキる管理者は、いつだって最新のバックアップを持っている」
+サーバー管理のマニュアルには、たいていこんなことが書いてある。
+問題は、バックアップを実際に使うのは、本当に必要に迫られたときだけだということである。
+一大事が起こって、サーバーやデータの復旧を迫られたとしよう。バックアップがあれば助けになるだろう。
+しかし、そんな一大事が起こることは、まずない。
+それ以外の平穏無事なときにもバックアップを取っておくというのは、いったい何の意味があるのだろうか？
 
 #@# Before going further, it is important to note that the advice espoused is for
 #@# the smaller open source project server administrators out there -- the silent
