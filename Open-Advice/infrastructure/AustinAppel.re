@@ -40,7 +40,10 @@ Austin "scorche" Appelは情報セキュリティのプロで、これまで安�
 #@# majority. If you maintain services that would cause a large amount of
 #@# frustration, and even perhaps harm if they experienced any downtime, please take
 #@# this with a very small grain of salt.
-Before going further, it is important to note that the advice espoused is for the smaller open source project server administrators out there -- the silent majority. If you maintain services that would cause a large amount of frustration, and even perhaps harm if they experienced any downtime, please take this with a very small grain of salt.
+話を進める前にひとこと断っておくと、今回のアドバイスは小規模なオープンソースプロジェクトのサーバー管理者向けのもの、
+つまり、サイレントマジョリティ向けのものだ。
+いざダウンしてしまうと大勢の人をイライラさせてしまったり、それだけではなく傷つけてしまったりするようなサービスを管理しているという人は、
+話を割り引いて聞いて欲しい。
 
 #@# For the rest of us who work with countless smaller projects with limited
 #@# resources, we rarely have a separate test and production server. In fact, with
