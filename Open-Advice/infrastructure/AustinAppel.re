@@ -61,7 +61,17 @@ Austin "scorche" Appelは情報セキュリティのプロで、これまで安�
 #@# are often several versions behind the curve, and come with a host of potentially
 #@# serious security vulnerabilities. Rest assured that this is not the only way to play
 #@# the game though.
-For the rest of us who work with countless smaller projects with limited resources, we rarely have a separate test and production server. In fact, with all of the many services that an open source project typically needs to maintain (version control, web services, mailing lists, forums, build bots, databases, bug/feature trackers, etc.), separate testing environments are often the stuff we can only dream about. Unfortunately, the typical approach to system administration is to tread lightly and only upgrade the systems when absolutely necessary, to avoid risking dependency issues, broken code, or any of the other million things that could go wrong. The reason you are nervous is not because you may be inexperienced. It is important to know that you are not alone in this. Whether or not we admit it to others, many of us have been (and likely still are) in this position. The sad fact is that this inaction -- stemming from the fear of breaking a ``working'' system -- often leads to running services which are often several versions behind the curve, and come with a host of potentially serious security vulnerabilities. Rest assured that this is not the only way to play the game though.
+それ以外の多くの人たち、つまり、数え切れないほどの小規模プロジェクトで限られたリソースの中で管理者を務めている人たちにとって、
+本番環境とは別にテスト環境を用意できるなどということはめったにない。
+オープンソースプロジェクトで管理すべきサービスはいろいろある（バージョン管理システムやウェブページ、
+メーリングリスト、フォーラム、自動ビルド、データベース、バグ追跡など）が、それぞれにテスト環境を用意することなど夢のまた夢であることが多い。
+残念なことに、そんなシステムの管理といえば、必要に迫られるまではできるだけ手を付けずそっとしておくということが多い。
+依存関係を壊してしまったりコードを壊してしまったり、その他何かを間違えてしまうリスクが多すぎるからだ。
+そんなふうに神経質になってしまうのは、決してあなたの経験が浅いからではない。
+同じような仲間が他にもいることを知っておこう。
+認めると認めざるとに関わらず、私たちの多くはそんな経験をしてきた（そして今もそうであるという人も多い）。
+ただ、こんな風に何もしないでいる（「動いている」システムが壊れるのを怖がっている）と、深刻なセキュリティ問題を抱えたままでサービスを動かすことになってしまう。
+でも、それ以外にもやり方はある。
 
 #@# People tend to play a game differently when they have infinite lives as compared
 #@# to needing to start over from the start as soon as one mistake is made. Why
