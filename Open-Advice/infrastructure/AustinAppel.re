@@ -84,7 +84,14 @@ Austin "scorche" Appelは情報セキュリティのプロで、これまで安�
 #@# state-of-mind. There is no reason to fear as long as you have your safety net of
 #@# backed-up files beneath you as you jump. After all, system administration is
 #@# constantly a learning experience.
-People tend to play a game differently when they have infinite lives as compared to needing to start over from the start as soon as one mistake is made. Why should server administration be any different? Approaching the concept of backups with an offensive mindset can change your whole view of administrating systems. Instead of living in fear from a complete dist-upgrade (or equivalent command for yum, pacman, etc.), when armed with backups, one is free to update the packages on a server secure in the knowledge that the changes can always be rolled back if things turn sour. The key to getting over this is all about a state-of-mind. There is no reason to fear as long as you have your safety net of backed-up files beneath you as you jump. After all, system administration is constantly a learning experience.
+何か間違いを犯したとき、すぐに最初からやり直す必要があるほど切羽詰まっていなければ、人は別の方法を試したがる傾向がある。
+サーバー管理者だって、同じことだ。
+バックアップの概念に対して攻撃的な視点で迫れば、システム管理に対する見方が完全に変わるかもしれない。
+dist-upgrade（あるいは、yumやpacmanなどのそれ的なコマンド）を怖がることをやめよう。
+バックアップをきちんととっておけば、サーバーのパッケージを安心してアップデートできる。もし何かまずいことが起これば、いつでも元に戻せるのだから。
+これを乗り越える鍵は、結局のところ心の状態だ。
+バックアップファイルというセーフティネットがあるのだから、ジャンプすることを怖がる理由は何もない。
+結局のところ、システム管理とは常に学び続けることだ。
 
 #@# Of course, if you do not validate your backups, relying on backups in this way
 #@# becomes a very dangerous game.  Fortunately, experienced system administrators
