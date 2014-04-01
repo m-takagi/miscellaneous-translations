@@ -109,7 +109,17 @@ dist-upgrade（あるいは、yumやpacmanなどのそれ的なコマンド）�
 #@# While this may not always be the best idea to do every time in all situations
 #@# due to likely taking much longer than a normal rsync and increased io usage,
 #@# this ensures that the files are intact.
-Of course, if you do not validate your backups, relying on backups in this way becomes a very dangerous game.  Fortunately, experienced system administrators know that the commandment ``keep current backups'' is always followed by ``validate your backups.'' Again, this is another mantra that people like to recite.  What does not fit as elegantly into a catchy mantra is how quickly and easily validating backups can be accomplished. The best way to tell that a backup works is, of course, to restore it (preferably on an identical system not currently active). But again, in the absence of such luxuries, a bit more creativity is required. This is where (at least for files) checksums can help you determine the integrity of your backed-up files. In rsync, for example, the default method it uses to determine which files have been modified is to check the time of last modification and size of the file.  However, by using the “-c” option, rsync will use a 128-bit MD4 checksum to determine whether files have changed or not. While this may not always be the best idea to do every time in all situations due to likely taking much longer than a normal rsync and increased io usage, this ensures that the files are intact.
+もちろん、きちんとバックアップできているのかを確かめもせず、バックアップに頼り切っているというのは危険だ。
+経験豊富なシステム管理者なら「最新のバックアップをとっておく」というのが、「正しくバックアップできているかを検証する」
+とセットであることをよく知っている。「バックアップするだけじゃなくて、検証も忘れずに」。覚えておこう。
+ここで問題になるのが、いかに手早くかつお手軽にバックアップを検証できるか、ということだ。
+バックアップがうまくいったを確かめる方法として一番いいのは、もちろん実際にリストアしてみることだ（同じ構成の、今は使っていないシステムにリストアするのが望ましい）。
+でも、そんな贅沢な環境がない場合もある。そんな場合は一工夫が必要だ。
+少なくともファイルレベルでは、チェックサムを使えばバックアップの整合性を確かめられる。
+たとえばrsyncの場合、ファイルが更新されたかどうかを確かめるデフォルトの方法は、最終更新時刻とサイズをチェックすることだ。
+しかし、rsyncの"-c"オプションを使えば、128ビットのMD4チェックサムを使ってファイルの更新を確かめるようになる。
+毎回そうするのが正解だとは限らない（通常のrsyncよりも時間がかかるようになるしシステムへの負荷も高くなる）が、
+これを使えば、ファイルに損傷がないことを保証できる。
 
 #@# The role of system administrator can be a stressful one at times.  However,
 #@# there is no need to make it more so than it needs to be.  With the proper frame
