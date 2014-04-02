@@ -126,4 +126,7 @@ dist-upgrade（あるいは、yumやpacmanなどのそれ的なコマンド）�
 #@# of mind, some ostensibly single-purpose defense-seeming tasks can be used as
 #@# valuable tools to allow you to nimbly move forward with your sanity intact with
 #@# the speed appreciated by all open source projects.
-The role of system administrator can be a stressful one at times.  However, there is no need to make it more so than it needs to be.  With the proper frame of mind, some ostensibly single-purpose defense-seeming tasks can be used as valuable tools to allow you to nimbly move forward with your sanity intact with the speed appreciated by all open source projects.
+システム管理者という役割は、どうしてもストレスが多くなってしまうこともある。
+でも、必要以上にストレスを感じることはない。
+適切な考えかたで進めれば、表向きは受け身に見えるタスクも有用な道具として使える。
+正気を保ったままで素早く前進できるようになり、それはきっと、あらゆるオープンソースプロジェクトで喜ばれることだろう。
