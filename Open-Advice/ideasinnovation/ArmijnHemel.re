@@ -16,7 +16,10 @@ Armijn Hemel
 #@# has his own consultancy (Tjaldur Software Governance Solutions) specialized
 #@# in detection and resolution of GPL license violations.}
 //lead{
-Armijn Hemel has been using free software since 1994, when his brother came home with a stack of floppies with an early version of FreeBSD. A year later the switch to Linux was made and he has been using Unix(-like) systems ever since then, both at home, during his studies at Utrecht University and at work. Since 2005, Armijn has been part of the core team of gpl-violations.org and has his own consultancy (Tjaldur Software Governance Solutions) specialized in detection and resolution of GPL license violations.
+Armijn Hemelがフリーソフトウェアを使い始めたのは1994年のこと。初期のFreeBSDが入ったフロッピーディスクを兄が持ち帰ってきたのがきっかけだった。
+1年後にはLinuxに転向したが、その当時からずっと、家でもユトレヒト大学でも職場でもUnix系のシステムを使い続けている。
+2005年には、gpl-violations.orgのコアチームの一員となり、コンサルタント会社（Tjaldur Software Governance Solutions）を設立した。
+GPL違反を見つけたり解決したりするのが専門だ。
 //}
 
 #@# \noindent{}Back in 1999 I was just getting started in FLOSS activism. I had already
@@ -36,6 +39,7 @@ Back in 1999 I was just getting started in FLOSS activism. I had already been us
 #@# advanced (or, annoying, if you wish) features of PowerPoint. Back in that time
 #@# there was no OpenOffice.org and choices were pretty limited to LaTeX and
 #@# Magicpoint, which are more tailored to delivering text content, than to showing
+
 #@# whirly effects. I wanted to make the program cross platform and back then I
 #@# thought Java would be the best choice for this. The idea was to make a
 #@# presentation program, written in Java, which would have support for all those
