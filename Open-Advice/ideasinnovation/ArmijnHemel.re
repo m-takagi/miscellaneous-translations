@@ -33,7 +33,16 @@ GPL違反を見つけたり解決したりするのが専門だ。
 #@# and with your own project that is not much of an issue. The second reason is
 #@# probably youthful arrogance.
 //noindent
-Back in 1999 I was just getting started in FLOSS activism. I had already been using Linux and FreeBSD for a number of years then, but I was merely a user and I wanted to actually contribute something back. The best way I thought for contributing back was to write code. I could not find any existing project I would be comfortable working on, so I decided to start my own project. In hindsight the reason why I did that was probably a mixture of various things. One factor was insecurity whether or not my code was actually good enough to be accepted in an existing project (I was, and still am, no brilliant programmer) and with your own project that is not much of an issue. The second reason is probably youthful arrogance.
+話は1999年にさかのぼる。私がFLOSSの世界で積極的に動き始めたころのことだ。
+LinuxやFreeBSDを使い始めてから数年はたっていたものの、当時の私は単なる1ユーザーに過ぎず、何かしらの恩返しをしたいと思っていた。
+とりあえず、一番いいのはコードを書くことだよなあ、と考えた私は、
+自分が気持ちよく貢献できそうなプロジェクトを探してみた。が、見つからなかった。
+そこで、自分でプロジェクトを立ち上げることにした。
+今思えば、そんな行動に至った背景にはいろいろな要素があったのだろう。
+そのひとつは「自分のコードが既存のプロジェクトに受け入れられるほどのできばえなのか不安」ということだった
+（その当時も、そして今も、決して私はスーパープログラマーではない）。
+自分のプロジェクトなら、そんな心配はいらない。
+自分のプロジェクトを立ち上げたもうひとつの理由は、いわゆる若気の至りってやつだろう。
 
 #@# My idea was to make a presentation program, which would fancy more of the
 #@# advanced (or, annoying, if you wish) features of PowerPoint. Back in that time
