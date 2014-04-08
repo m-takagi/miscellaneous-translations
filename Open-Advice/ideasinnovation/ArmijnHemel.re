@@ -53,7 +53,13 @@ LinuxやFreeBSDを使い始めてから数年はたっていたものの、当�
 #@# thought Java would be the best choice for this. The idea was to make a
 #@# presentation program, written in Java, which would have support for all those
 #@# whirly effects. I made up my mind and started the project.
-My idea was to make a presentation program, which would fancy more of the advanced (or, annoying, if you wish) features of PowerPoint. Back in that time there was no OpenOffice.org and choices were pretty limited to LaTeX and Magicpoint, which are more tailored to delivering text content, than to showing whirly effects. I wanted to make the program cross platform and back then I thought Java would be the best choice for this. The idea was to make a presentation program, written in Java, which would have support for all those whirly effects. I made up my mind and started the project.
+当時の私が考えたのは、プレゼンソフトを作ろうということだった。
+PowerPointみたいな高機能（っていうかウザい機能）なものではなく、もっとしゃれたものにしたかった。
+その当時はOpenOffice.orgもなかったし、LaTeXやMagicpointくらいしか選択肢がなかった。
+これらはどちらかというとテキストの表示に特化していて、エフェクトをかけたりというものではなかった。
+クロスプラットフォームのプログラムにしたかったので、Javaで書くのがいいだろうと考えた。
+つまり、Javaでプレゼンソフトを書いて、いろんなエフェクトに対応できるようにしようということだ。
+そんなことを考えて、プロジェクトを立ち上げた。
 
 #@# Infrastructure-wise everything was there: there was a mailing list, there was a
 #@# website, there was source code control (CVS). But there was no actual code for
