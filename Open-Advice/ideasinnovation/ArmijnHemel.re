@@ -66,7 +66,10 @@ PowerPointみたいな高機能（っていうかウザい機能）なもので�
 #@# people to work on. The only things I had were some ideas of what I wanted to do,
 #@# an itch to scratch and the right buzzwords. I actually wanted people to join in
 #@# creating this program and make it a truly collaborative project.
-Infrastructure-wise everything was there: there was a mailing list, there was a website, there was source code control (CVS). But there was no actual code for people to work on. The only things I had were some ideas of what I wanted to do, an itch to scratch and the right buzzwords. I actually wanted people to join in creating this program and make it a truly collaborative project.
+インフラに関しては、すべて揃っていた。メーリングリストがあったしウェブサイトもあった。ソース管理（CVS）もあった。
+唯一なかったのは、コードだった。みんなで作業を進めていくためにはコードが必要だ。
+私がやりたいことは、まだ私の頭の中にぼんやりとしたアイデアとしてしか存在しなかった。
+なんとか仲間を集めてそのアイデアを形にし、真の共同プロジェクトにしたかった。
 
 #@# I started making designs (with some newly acquired UML knowledge) and sent them
 #@# around. Nothing happened. I tried to get people involved, but collaboratively
