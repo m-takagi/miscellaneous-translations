@@ -78,7 +78,13 @@ PowerPointみたいな高機能（っていうかウザい機能）なもので�
 #@# silently died, without ever producing a single line of code. Every month I was
 #@# reminded by the mailing list software that the project once existed, so I asked
 #@# it to be taken offline.
-I started making designs (with some newly acquired UML knowledge) and sent them around. Nothing happened. I tried to get people involved, but collaboratively working on a design is very hard (besides, it is probably not the best way to create software in the first place). After a while I gave up and the project silently died, without ever producing a single line of code. Every month I was reminded by the mailing list software that the project once existed, so I asked it to be taken offline.
+覚えたばかりのUMLを使って設計をして、みんなに送ってみた。
+何も起こらなかった。
+なんとか仲間を集めようとしたけど、設計に協力してくれる人を見つけるのは至難の業だった
+（て言うか、そもそもソフトウェアを作るとっかかりとしては、あまりいい方法じゃなかったのかもしれない）
+しばらくして、そのプロジェクトは静かに死んでいった。コードを1行たりとも書くことなく。
+毎月はじめのメーリングリストからのメールで「ああ、そんなプロジェクトもあったなあ」と気づかされた。
+つらいので、結局メーリングリストは廃止してもらった。
 
 #@# I learned a very valuable, but somewhat painful, lesson: when you announce
 #@# something and when you want people to get involved in your project, at least
