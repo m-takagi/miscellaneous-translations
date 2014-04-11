@@ -93,7 +93,10 @@ PowerPointみたいな高機能（っていうかウザい機能）なもので�
 #@# a basis for people to work with and improve upon. Otherwise your project will go
 #@# where many many projects, including my own failed project, have gone: into
 #@# oblivion.
-I learned a very valuable, but somewhat painful, lesson: when you announce something and when you want people to get involved in your project, at least make sure there is some code available. It does not have to be all finished, it is OK if it is rough (in the beginning that is), but at least show that there is a basis for people to work with and improve upon. Otherwise your project will go where many many projects, including my own failed project, have gone: into oblivion.
+つらい経験だったけど、大切なことも学んだ。
+何かをアナウンスして仲間を集めるときには、最低限何かのコードがないと話にならないってことだ。
+別に完動品でなくてもかまわない。（とりあえずは）おおざっぱな感じでかまわない。みんなで改良していくための元ネタがあると示すことが大事なんだ。
+じゃないと、私の最初のプロジェクトを含めた数多くのプロジェクトと同じ道、つまり忘却の彼方に追いやられてしまう。
 
 #@# I eventually found my niche to help advance FLOSS, by making sure that the legal
 #@# underpinnings of FLOSS are tight through the gpl-violations.org project. In
