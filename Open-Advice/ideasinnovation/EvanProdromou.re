@@ -12,7 +12,9 @@ Evan Prodromou
 #@# developer, documentation writer, and occasional bomb-throwing crank. He lives in
 #@# Montreal, Quebec.}
 //lead{
-Evan Prodromou is the founder of Wikitravel, StatusNet and the Open Source social network Identi.ca. He has participated in Open Source software for 15 years as a developer, documentation writer, and occasional bomb-throwing crank. He lives in Montreal, Quebec.
+Evan Prodromouは、WikitravelやStatusNet、そしてオープンソースのソーシャルネットワークであるIdenti.caを立ち上げた。
+15年にわたり、開発者やドキュメント書きとしてオープンソースソフトウェアに関わっている。時には炎上の種となることもある。
+ケベック州モントリオール在住。
 //}
 
 #@# \noindent{}The most important characteristic of the Open Source project founder, in the
