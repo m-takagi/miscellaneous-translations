@@ -104,4 +104,7 @@ PowerPointみたいな高機能（っていうかウザい機能）なもので�
 #@# programs and found them to be increasingly irritating and distracting too much
 #@# from the content. I am happily using LaTeX beamer and occasionally (and less
 #@# happily) OpenOffice.org/LibreOffice to make presentations.
-I eventually found my niche to help advance FLOSS, by making sure that the legal underpinnings of FLOSS are tight through the gpl-violations.org project. In retrospect I have never used, nor missed, the whirly effects in presentation programs and found them to be increasingly irritating and distracting too much from the content. I am happily using LaTeX beamer and occasionally (and less happily) OpenOffice.org/LibreOffice to make presentations.
+最終的に私は、FLOSSの世界で自分の力を生かせる場所を発見した。FLOSSの世界の法的な土台をgpl-violations.orgプロジェクトで確立したんだ。
+あれ以来、プレゼンソフトのエフェクトを使うことはなかったし、使いたいと思うこともなかった。
+そんなものを使ったら見ている人もイライラするし、本論から気をそらされてしまうと気づいたからだ。
+今はLaTeX beamerで満足してる。不本意ながら、時にはOpenOffice.org/LibreOfficeでプレゼンを作ることもあるけれどね。
