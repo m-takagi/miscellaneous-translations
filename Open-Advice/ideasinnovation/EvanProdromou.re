@@ -22,7 +22,13 @@ Evan Prodromouは、WikitravelやStatusNet、そしてオープンソースの�
 #@# mule-headed persistence in the face of overwhelming factual evidence. If your
 #@# software is so important, why has someone else not written it already? Maybe it is not even possible. Maybe nobody else wants what you are making. Maybe you are not good enough to make it. Maybe someone else already did, and you are just not good enough at Googling to find it.
 //noindent
-The most important characteristic of the Open Source project founder, in the first weeks or months before releasing their software into the world, is mule-headed persistence in the face of overwhelming factual evidence. If your software is so important, why has someone else not written it already? Maybe it is not even possible. Maybe nobody else wants what you are making. Maybe you are not good enough to make it. Maybe someone else already did, and you are just not good enough at Googling to find it.
+オープンソースプロジェクトのトップが、ソフトウェアを世に送り出す直前に考えなければいけないことがある。
+どうしようもない現実を前にした、頑固なまでのこだわりだ。
+こいつがそんなにすばらしいソフトウェアなのだとしたら、いったいなぜ他の人はこれまで手がけなかったんだろう？
+他の人たちにはそもそも不可能だったのかもしれない。
+こんなソフト、誰も欲しがっていないのかもしれない。
+そもそも自分にもうまく作れていないのかもしれない。
+あるいは、他の人がもう作っているけど、自分のググり力が弱いせいで発見できていないだけかもしれない。
 
 #@# Keeping the faith through that long, dark night is hard; only the most
 #@# pig-headed, opinionated, stubborn people make it through. And we get to exercise
