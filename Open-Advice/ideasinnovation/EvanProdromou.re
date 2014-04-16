@@ -36,7 +36,15 @@ Evan Prodromouは、WikitravelやStatusNet、そしてオープンソースの�
 #@# language to use? Application architecture? Coding standards? Icon colors?
 #@# Software license? Version control system? If you are the only one who works on
 #@# (or knows about!) the project, you get to decide, unilaterally.
-Keeping the faith through that long, dark night is hard; only the most pig-headed, opinionated, stubborn people make it through. And we get to exercise all our most strongly-held programmer's opinions. What is the best programming language to use? Application architecture? Coding standards? Icon colors? Software license? Version control system? If you are the only one who works on (or knows about!) the project, you get to decide, unilaterally.
+長く辛い夜、信念を貫き続けるのはたいへんで、頑固で意固地な、強い人だけが成し遂げられることだ。
+そして私たちは、頑固なプログラマーたちのいろんな意見に振り回されることになる。
+最高のプログラミング言語はどれ？
+アプリケーションのアーキテクチャは？
+コーディング規約は？
+アイコンの色は？
+ライセンスはどうする？
+バージョン管理システムは？
+もしそのプロジェクトの中で自分だけが作業をしている（自分だけしかわからない）のなら、これらはすべて自分で決めなければいけない。
 
 #@# When you eventually launch, though, that essential characteristic of stubborn
 #@# determination and strong opinion becomes a detriment, not a benefit. Once you have launched, you will need exactly the opposite skill to make compromises to make your software more useful to other people. And a lot of those compromises will feel really wrong.
