@@ -48,7 +48,9 @@ Evan Prodromouは、WikitravelやStatusNet、そしてオープンソースの�
 
 #@# When you eventually launch, though, that essential characteristic of stubborn
 #@# determination and strong opinion becomes a detriment, not a benefit. Once you have launched, you will need exactly the opposite skill to make compromises to make your software more useful to other people. And a lot of those compromises will feel really wrong.
-When you eventually launch, though, that essential characteristic of stubborn determination and strong opinion becomes a detriment, not a benefit. Once you have launched, you will need exactly the opposite skill to make compromises to make your software more useful to other people. And a lot of those compromises will feel really wrong.
+笑ってるかもしれないけど、本質的に頑固で意地っ張りという性質は、害になりこそすれ得になることはない。
+いざプロジェクトが立ち上がったら、必要なのはその正反対のスキルだ。みんなにとって使いやすいソフトウェアにするためには、妥協が必要になる。
+妥協するって、ホントに気分が悪いものだよ。
 
 #@# It is hard to take input from ``outsiders'' (e.g., people who are not you). First, because they focus on such trivial, unimportant things -- your variable naming convention, say, or the placement of particular buttons. And second, because they are invariably wrong -- after all, if what you have done is not the right way to do it, you would not have done it that way in the first place. If your way was not the right way, why would your code be popular?
 It is hard to take input from ``outsiders'' (e.g., people who are not you). First, because they focus on such trivial, unimportant things -- your variable naming convention, say, or the placement of particular buttons. And second, because they are invariably wrong -- after all, if what you have done is not the right way to do it, you would not have done it that way in the first place. If your way was not the right way, why would your code be popular?
