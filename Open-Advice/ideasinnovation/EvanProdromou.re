@@ -53,7 +53,11 @@ Evan Prodromouは、WikitravelやStatusNet、そしてオープンソースの�
 妥協するって、ホントに気分が悪いものだよ。
 
 #@# It is hard to take input from ``outsiders'' (e.g., people who are not you). First, because they focus on such trivial, unimportant things -- your variable naming convention, say, or the placement of particular buttons. And second, because they are invariably wrong -- after all, if what you have done is not the right way to do it, you would not have done it that way in the first place. If your way was not the right way, why would your code be popular?
-It is hard to take input from ``outsiders'' (e.g., people who are not you). First, because they focus on such trivial, unimportant things -- your variable naming convention, say, or the placement of particular buttons. And second, because they are invariably wrong -- after all, if what you have done is not the right way to do it, you would not have done it that way in the first place. If your way was not the right way, why would your code be popular?
+「外部の人たち」（要するに、他人）の声を取り入れるのって、難しい。
+だってあいつらって、ホントにどうでもいいことばっかり気にするんだから。
+ほら、変数の命名規則だとかボタンを表示する場所だとかさ。
+それにあいつらって、いつも間違ったことを言う。
+「そのやり方っておかしいんじゃない？」とか言ってくるけど、やり方がおかしかったのならそもそもここまでできあがらなかったはずじゃないか。
 
 #@# But ``wrong'' is relative. If making a ``wrong'' choice makes your software more
 #@# accessible for end users, or for downstream developers, or for administrators or
