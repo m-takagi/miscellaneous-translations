@@ -62,7 +62,9 @@ Evan Prodromouは、WikitravelやStatusNet、そしてオープンソースの�
 #@# But ``wrong'' is relative. If making a ``wrong'' choice makes your software more
 #@# accessible for end users, or for downstream developers, or for administrators or
 #@# packagers, is that not really right?
-But ``wrong'' is relative. If making a ``wrong'' choice makes your software more accessible for end users, or for downstream developers, or for administrators or packagers, is that not really right?
+でも「間違い」って、相対的なものなんだ。
+もし「間違った」選択をしたせいで、エンドユーザーや開発者やパッケージ作者などにとってそのソフトウェアが使いやすくなるのだとしたら、
+それって本当に「間違い」なのだろうか？
 
 #@# And the nature of these kind of comments and contributions is usually negative.
 #@# Community feedback is primarily reactive, which means it is primarily critical.
