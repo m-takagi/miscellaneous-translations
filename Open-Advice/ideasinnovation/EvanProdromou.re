@@ -72,7 +72,13 @@ Evan Prodromouは、WikitravelやStatusNet、そしてオープンソースの�
 #@# organization of the hashtable.c module.'' or ``Great job on laying out that
 #@# sub-sub-sub-menu.''? People give feedback because they do not like the way things work right now with your software. They also might not be diplomatic in
 #@# delivering that news.
-And the nature of these kind of comments and contributions is usually negative. Community feedback is primarily reactive, which means it is primarily critical. When was the last time you filed a bug report to say, ``I really like the organization of the hashtable.c module.'' or ``Great job on laying out that sub-sub-sub-menu.''? People give feedback because they do not like the way things work right now with your software. They also might not be diplomatic in delivering that news.
+この手のコメントや貢献って、本質的にネガティブなものだ。
+コミュニティからのフィードバックはそもそも受け身なもの。つまり、批判的なものだということだ。
+自分がバグレポートをするときのことを思い起こしてみよう。
+「このhashtable.cの構造って、最高にイカしているよなあ」とか「このメニュー項目をこんな奥深くの階層に置いたのは、すばらしい判断だなあ」
+などと思ったことが、一度でもあっただろうか。
+人がフィードバックを送るときっていうのは、基本的にそのソフトウェアについて気に入らないところがあるときだろう。
+気を遣ってやわらかい言い回しで報告してくれるとも限らない。
 
 #@# It is hard to respond to this kind of feedback positively. Sometimes, we flame
 #@# posters on our development mailing lists, or close bug reports with a sneer and
