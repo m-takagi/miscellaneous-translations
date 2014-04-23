@@ -85,7 +85,11 @@ Evan Prodromouは、WikitravelやStatusNet、そしてオープンソースの�
 #@# a WONTFIX. Worse, we withdraw into our cocoon, ignoring outside suggestions or
 #@# feedback, cuddling up with the comfortable code that fits our preconceptions and
 #@# biases perfectly.
-It is hard to respond to this kind of feedback positively. Sometimes, we flame posters on our development mailing lists, or close bug reports with a sneer and a WONTFIX. Worse, we withdraw into our cocoon, ignoring outside suggestions or feedback, cuddling up with the comfortable code that fits our preconceptions and biases perfectly.
+この手のフィードバックに、前向きに対応するのは難しい。
+開発者向けメーリングリストでちょっとした炎上を引き起こしたり、
+バグレポートに対して、あざ笑いながら「WONTFIX」と対応したりしてしまうこともある。
+さらにまずいのは、自分の殻に引きこもってしまって一切の提案やフィードバックを無視し、
+自分の期待通りのコードを必死で守ろうとしてしまうことだ。
 
 #@# If your software is just for you, you can keep the codebase and surrounding
 #@# infrastructure as a personal playground. But if you want your software to be
