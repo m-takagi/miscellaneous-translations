@@ -97,7 +97,10 @@ Evan Prodromouは、WikitravelやStatusNet、そしてオープンソースの�
 #@# you are going to need to build up a thriving, organic community of users, core
 #@# committers, admins and add-on developers. People need to feel like they own the
 #@# software, in the same way that you do.
-If your software is just for you, you can keep the codebase and surrounding infrastructure as a personal playground. But if you want your software to be used, to mean something to other people, to (maybe) change the world, then you are going to need to build up a thriving, organic community of users, core committers, admins and add-on developers. People need to feel like they own the software, in the same way that you do.
+もしそのソフトウェアが自分専用なのだったら、コードベースや基盤まわりを自分好みに保てる。
+でも、もしそのソフトウェア他の人につかってもらいたいとか、それで世界を変えたいとか思っているのなら、
+コミュニティを育てる必要がある。ユーザーやコアコミッター、管理者、そしてアドオンの開発者などをまとめていくわけだ。
+彼らもまた、自分たちがそのソフトウェアを育てているのだと考えたいものだ。
 
 #@# It is hard to remember that each one of those dissenting voices is the tiny
 #@# corner of the wedge. Imagine all the people who hear about your software and
