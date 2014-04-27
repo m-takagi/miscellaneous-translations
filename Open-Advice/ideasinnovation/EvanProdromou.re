@@ -111,7 +111,14 @@ Evan Prodromouは、WikitravelやStatusNet、そしてオープンソースの�
 #@# through, there are likely about 100 people who want to see change for
 #@# every one person to get the message through. So listening to those voices, when
 #@# they do reach you, is critical.
-It is hard to remember that each one of those dissenting voices is the tiny corner of the wedge. Imagine all the people who hear about your software and never bother to try it. Those who download it but never install it. Those who install it, get stuck, and silently give up. And those who do want to give you feedback, but can not find your bug-report system, developers mailing list, IRC channel or personal email address. Given the barriers to getting a message through, there are likely about 100 people who want to see change for every one person to get the message through. So listening to those voices, when they do reach you, is critical.
+なかなか意識しづらいことだが、こういった批判的なフィードバックは、実は大勢のうちのほんの一握りでしかない。
+あなたのソフトウェアの噂を聞いたけれど、結局試そうともしなかった人だっているだろう。
+とりあえずダウンロードして、それで満足してしまっている人だっている。
+インストールしてはみたものの、うまく使いこなせなくて、それっきりほったらかしの人もいるだろう。
+フィードバックをしようとしているのに、バグ報告システムやメーリングリスト、IRCなどの連絡先を見つけられない人もいる。
+こういった障害があることを考えると、手元に届いた意見のそれぞれについて、同じことを考えている人が
+少なくとも100人くらいはいると見ておくべきだ。
+なので、手元に届いた声にはきちんと耳を傾けることが大切だ。
 
 #@# The project leader is responsible for maintaining the vision and purpose of the
 #@# software. We can not vacillate, swinging back and forth based on this or that
