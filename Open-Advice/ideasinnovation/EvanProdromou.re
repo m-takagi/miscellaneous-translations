@@ -125,7 +125,10 @@ Evan Prodromouは、WikitravelやStatusNet、そしてオープンソースの�
 #@# email from random users. And if there is a core principle at stake, then, of
 #@# course, it is important to hold that core steady. No one else but the project
 #@# leader can do that.
-The project leader is responsible for maintaining the vision and purpose of the software. We can not vacillate, swinging back and forth based on this or that email from random users. And if there is a core principle at stake, then, of course, it is important to hold that core steady. No one else but the project leader can do that.
+プロジェクトリーダーには、ソフトウェアのビジョンや目的を維持し続けるという任務がある。
+あちこちのいろんなユーザーからのメールに振り回されて、土台が揺らいでしまってはいけない。
+そして、もし中核となる原則が脅かされているのならば、もちろんそれを守ることが重要だ。
+それができるのは、プロジェクトリーダーをおいて他にいない。
 
 #@# But we have to think: are there non-core issues that can make your software more
 #@# accessible or usable? Ultimately the measure of our work is in how we reach people, how our software is used, and what it is used for. How much does our personal idea about what is ``right'' really matter to the project and to the community? How much is just what the leader likes, personally? If those non-core issues exist, reduce the friction, respond to the demand, and make the changes. It is going to make the project better for everyone.
