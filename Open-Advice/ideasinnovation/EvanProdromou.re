@@ -132,4 +132,9 @@ Evan Prodromouは、WikitravelやStatusNet、そしてオープンソースの�
 
 #@# But we have to think: are there non-core issues that can make your software more
 #@# accessible or usable? Ultimately the measure of our work is in how we reach people, how our software is used, and what it is used for. How much does our personal idea about what is ``right'' really matter to the project and to the community? How much is just what the leader likes, personally? If those non-core issues exist, reduce the friction, respond to the demand, and make the changes. It is going to make the project better for everyone.
-But we have to think: are there non-core issues that can make your software more accessible or usable? Ultimately the measure of our work is in how we reach people, how our software is used, and what it is used for. How much does our personal idea about what is ``right'' really matter to the project and to the community? How much is just what the leader likes, personally? If those non-core issues exist, reduce the friction, respond to the demand, and make the changes. It is going to make the project better for everyone.
+でも、考えないといけない。中核となる課題以外のものの中に、ソフトウェアをより使いやすくできるものがないだろうか？
+結局のところ、私たちの作業の評価基準は、それがどれだけ人々に届いたのかやそのソフトウェアがどれだけの人にどのように使われたのかということだ。
+「こうあるべき」みたいなアイデアが、いったいそのプロジェクトやコミュニティに対してどれだけ影響するものなのだろう？
+リーダーの個人的な好みにすぎないのでは？
+もし中核となる課題以外のものの中にそういったものがあれば、摩擦を減らして要求に応え、変化させていこう。
+そうすることで、みんなにとってよりよいプロジェクトになるだろう。
