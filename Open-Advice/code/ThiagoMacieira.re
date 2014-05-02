@@ -14,7 +14,9 @@ Thiago Macieira
 #@# people. These days, Thiago lives in Oslo, Norway and when he's not working on
 #@# Qt, he tries (with limited success) to improve his skills at StarCraft 2.}
 //lead{
-Thiago Macieira holds a double degree in Engineering and an MBA, but his involvement in Open Source predates those, getting close to 15 years now. An active participant in the KDE, Qt and MeeGo communities, he's been a software engineer and product manager for Qt, giving presentations and listening to people. These days, Thiago lives in Oslo, Norway and when he's not working on Qt, he tries (with limited success) to improve his skills at StarCraft 2.
+Thiago Macieiraは工学とMBAのふたつの学位を持つが、オープンソースにはそれ以前から関わっており、かれこれ15年のつきあいになる。
+KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフトウェアエンジニアかつプロダクトマネージャーであり、講演などもしている。
+最近はノルウェーのオスロに住んでおり、Qtの作業をしていないときはStarCraft 2の腕を磨いている（が、なかなかうまくいかない）。
 //}
 
 #@# \noindent{}Problems are a routine we are faced with almost every day of our lives and
