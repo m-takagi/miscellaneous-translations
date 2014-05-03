@@ -27,7 +27,10 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# professional life is no different and solving professional problems becomes part
 #@# of the job description.
 //noindent
-\noindent{}Problems are a routine we are faced with almost every day of our lives and solving them is so recurrent we often do not realize we are doing it. They may be situations as simple as figuring out the best path to get to a destination or how to set the items in the fridge so they fit. Only when we fail to solve them immediately do we take notice, since we have to stop and think about them. The professional life is no different and solving professional problems becomes part of the job description.
+私たちの日常生活は、問題で満ちあふれている。なのに、その問題を解決するためにどんなことをしているのかについては、あまり顧みられない。
+考えるまでもなくあっという間に正解が見つかったり、適切な処理をしたりできるほどにシンプルな問題だからなのかもしれない。
+解決に手間取るようになってはじめて、問題を意識する。いったん立ち止まって考える必要が出てくるからだ。
+専門家の場合もそれは一緒だ。プロフェッショナルな問題を解決すれば、それは職歴になる。
 
 #@# Problem solving was the topic of my inaugural class when I started my
 #@# engineering degree. In that overcrowded amphitheatre last century, our professor
