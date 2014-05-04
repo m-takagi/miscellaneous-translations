@@ -41,7 +41,14 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# - but most would fall in-between. He then proceeded to give examples on how the
 #@# mentality of ``problem solver'' helped him in his professional and personal
 #@# life, including one unexpected live example when the projector failed on us.
-Problem solving was the topic of my inaugural class when I started my engineering degree. In that overcrowded amphitheatre last century, our professor explained to roughly 700 freshmen how engineers are problem solvers and our professional lives would be moving from one problem to be solved to another. Some problems would be small and we would solve them in no time; some others would be so big we would need to have a project setting and a team to crack them - but most would fall in-between. He then proceeded to give examples on how the mentality of ``problem solver'' helped him in his professional and personal life, including one unexpected live example when the projector failed on us.
+問題解決は、工学部で学び始めたときの授業のトピックのひとつでもあった。
+前世紀のこと。満員の講義室で700人ほとの新入生を前にして、
+エンジニアがどのようにして問題を解決するのかや、プロのエンジニアは問題解決を繰り返す日々を送ることなどを教授が説明した。
+中には、あっという間に解決できるような些細な問題もある。
+また、プロジェクトを立ち上げてチームで対応せざるを得ないような大きな問題もある。
+でも大半は、その両極端の間に位置する。
+教授はその後、実例を挙げて、「問題解決者」としてのメンタリティが日々の生活にどのように役立ってきたかを説明した。
+プロジェクターの表示がおかしくなるという、予期せぬ実例にもその場で対応していた。
 
 #@# The ability to solve problems is a skill we can hone with practice and some
 #@# ground work. Practice is something one must acquire only through experience, by
