@@ -14,7 +14,9 @@ Martin Fowler's blikiの"@<href>{http://martinfowler.com/bliki/UnitTest.html, Un
 #@#   programs. Like most software development terminology, however, it's
 #@#   very ill-defined, and I see confusion can often occur when people
 #@#   think that it's more tightly defined than it actually is.</p>
-Unit testing is often talked about in software development, and is a term that I've been familiar with during my whole time writing programs. Like most software development terminology, however, it's very ill-defined, and I see confusion can often occur when people think that it's more tightly defined than it actually is.
+ソフトウェア開発において、ユニットテスティングの話題になることが多い。私がプログラムを書きはじめて以来ずっと、ユニットテスティングという言葉はおなじみだった。
+しかし、ソフトウェア開発用語の常として、ユニットテスティングという用語もきちんと定義できていない。
+ユニットテスティングという用語の意味を実際よりも厳密にとらえてしまったせいで、混乱してしまっている人もよく見かける。
 
 #@# <img src = 'images/unitTest/sketch.png'></img>
 //indepimage[sketch]
@@ -25,7 +27,11 @@ Unit testing is often talked about in software development, and is a term that I
 #@#   for this style of testing might be "xunit testing.") Unit testing
 #@#   also became a signature activity of <a href = 'ExtremeProgramming.html'>ExtremeProgramming</a> (XP), and led
 #@#   quickly to <a href = 'TestDrivenDevelopment.html'>TestDrivenDevelopment</a>.</p>
-Although I'd done plenty of unit testing before, my definitive exposure was when I started working with Kent Beck and used the @<href>{http://martinfowler.com/bliki/Xunit.html, Xunit} family of unit testing tools. (Indeed I sometimes think a good term for this style of testing might be "xunit testing.") Unit testing also became a signature activity of @<href>{http://martinfowler.com/bliki/ExtremeProgramming.html, ExtremeProgramming} (XP), and led quickly to @<href>{http://martinfowler.com/bliki/TestDrivenDevelopment.html, TestDrivenDevelopment}.
+もちろんそれ以前からもユニットテスティングはやってきていたのだが、それを人前で公表したのは、Kent Beckと仕事をして
+@<href>{http://martinfowler.com/bliki/Xunit.html, Xunit}系のツールを使い始めたころのことだった
+（この種のテストのことは、ユニットテスティングっていうより「xunitテスティング」って呼んだほうがいいと思うんだ）。
+ユニットテスティングはその後@<href>{http://martinfowler.com/bliki/ExtremeProgramming.html, ExtremeProgramming}（XP）の看板アクティビティとなり、
+そして@<href>{http://martinfowler.com/bliki/TestDrivenDevelopment.html, TestDrivenDevelopment}が誕生した。
 
 #@# <p>There were definitional concerns about XP's use
 #@#   of unit testing right from the early days. I have a distinct memory
@@ -34,7 +40,9 @@ Although I'd done plenty of unit testing before, my definitive exposure was when
 #@#   asked him for his definition and he replied with something like "in
 #@#   the morning of my training course I cover 24 different definitions of
 #@#   unit test."</p>
-There were definitional concerns about XP's use of unit testing right from the early days. I have a distinct memory of a discussion on a usenet discussion group where us XPers were berated by a testing expert for misusing the term "unit test." We asked him for his definition and he replied with something like "in the morning of my training course I cover 24 different definitions of unit test."
+XPが始まった頃から、XP界での「ユニットテスティング」の定義には懸念があった。
+当時のusenetでの議論を思い出す。XPな人たちが、テスティングのエキスパートたちに「おまえたちは『ユニットテスト』という言葉の意味をはき違えている」とつるし上げられたんだ。
+「じゃあ、本当の意味を教えてくださいな」というと、答えは「ワシの研修に参加しろ。午前中に、ユニットテストの24の定義を教えてやろう」みたいな感じだった。
 
 #@# <p>Despite the variations, there are some common elements. Firstly
 #@#   there is a notion that unit tests are low-level, focusing on a small
@@ -43,7 +51,10 @@ There were definitional concerns about XP's use of unit testing right from the e
 #@#   the only difference being the use of some sort of unit testing
 #@#   framework <a href = '#footnote-dev-write'>[1]</a>. Thirdly unit tests are
 #@#   expected to be significantly faster than other kinds of tests. </p>
-Despite the variations, there are some common elements. Firstly there is a notion that unit tests are low-level, focusing on a small part of the software system. Secondly unit tests are usually written these days by the programmers themselves using their regular tools - the only difference being the use of some sort of unit testing framework @<fn>{fn01}. Thirdly unit tests are expected to be significantly faster than other kinds of tests.
+定義はひとそれぞれだが、共通するところもいくつかある。
+まず、ユニットテストは詳細レベルのテストで、ソフトウェアシステムの小さなパーツを対象とするものだ。
+次に、ユニットテストは通常、普段使っているツールを用いてプログラマー自身が書くものだ。なんらかのユニットテスティングフレームワークを使うことがあるかもしれない@<fn>{fn01}。
+そして、ユニットテストは、他のテストよりもすばやく実行できるものと見なされている。
 
 #@# <p>So there's some common elements, but there are also differences.
 #@#   One difference is what people consider to be a <i>unit</i>.
@@ -56,7 +67,14 @@ Despite the variations, there are some common elements. Firstly there is a notio
 #@#   closely related classes and treat them as a single unit. Rarely I
 #@#   might take a subset of methods in a class as a unit. However you
 #@#   define it doesn't really matter.</p>
-So there's some common elements, but there are also differences. One difference is what people consider to be a @<i>{unit}. Object-oriented design tends to treat a class as the unit, procedural or functional approaches might consider a single function as a unit. But really it's a situational thing - the team decides what makes sense to be a unit for the purposes of their understanding of the system and its testing. Although I start with the notion of the unit being a class, I often take a bunch of closely related classes and treat them as a single unit. Rarely I might take a subset of methods in a class as a unit. However you define it doesn't really matter.
+こんなふうに共通する部分もあれば、それぞれ違っている部分もある。
+違う部分のひとつとして挙げられるのが、何をもって@<i>{ユニット}とするのかという点だ。
+オブジェクト指向設計では、ひとつのクラスを「ユニット」と扱うことが多い。
+一方、手続き型や関数型のアプローチでは、ひとつの関数を「ユニット」と見なすかもしれない。
+でも、実際のところ、これは状況によるものだ。何を「ユニット」と見なすのかは、チームがそのシステムやテストをどのように理解しているのかに応じて決めるものだ。
+私は、とりあえずひとつのクラスを「ユニット」として始めたいと思っているが、関連するクラス群を一括で「ユニット」と扱うこともよくある。
+逆に、ひとつのクラスの中の一部のメソッドだけを「ユニット」とすることは、めったにない。
+これはあくまでも私の考えなので、他の人がどう思うかは特に気にしない。
 
 #@# <h2>Isolation</h2>
 == Isolation
