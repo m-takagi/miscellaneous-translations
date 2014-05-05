@@ -151,7 +151,7 @@ xunitテスティングは二つの学派に分裂した。私は両者を@<href
 そのリソースが十分に安定していて、かつ高速にやりとりできるのなら、ユニットテストで直接それを使わない理由はないと思っている。
 
 #@# <h2>Speed</h2>
-== Speed
+== スピード
 
 #@# <p>The common properties of unit tests &#x2014; small scope, done by the
 #@#     programmer herself, and fast &#x2014; mean that they can be run very
@@ -163,7 +163,13 @@ xunitテスティングは二つの学派に分裂した。私は両者を@<href
 #@#     I want to know right away. If I've introduced the defect with my
 #@#     last change it's much easier for me to spot the bug because I don't
 #@#     have far to look.</p>
-The common properties of unit tests &#x2014; small scope, done by the programmer herself, and fast &#x2014; mean that they can be run very frequently when programming. Indeed this is one of the key characteristics of @<href>{http://martinfowler.com/bliki/SelfTestingCode.html, SelfTestingCode}. In this situation programmers run unit tests after any change to the code. I may run unit tests several times a minute, any time I have code that's worth compiling. I do this because should I accidentally break something, I want to know right away. If I've introduced the defect with my last change it's much easier for me to spot the bug because I don't have far to look.
+ユニットテストに共通する性質（スコープが小さい、プログラマー自身が実行する、高速に行う）はつまり、
+プログラミングの際に頻繁にユニットテストを実行できるということを意味する。
+実際これは、@<href>{http://martinfowler.com/bliki/SelfTestingCode.html, SelfTestingCode}の鍵となる特性でもある。
+プログラマーは、コードに変更を加えるたびにユニットテストを実行する。
+私の場合は、コンパイルできるコードがあるときにはいつもテストを実行するので、実行頻度は1分間に数回のレベルになる。
+もし間違ってどこかを壊してしまったときには、すぐに気づけるようにしたいからだ。
+不具合の原因となった変更の直後にその不具合に気づければ、バグを見つけるのもたやすくなる。今いじったところだけを見ればいいわけだ。
 
 #@# <p>When you run unit tests so frequently, you may not run all
 #@#     the unit tests. Usually you only need to run those tests that are
@@ -172,7 +178,10 @@ The common properties of unit tests &#x2014; small scope, done by the programmer
 #@#     run the test suite. I'll call this suite the <b>compile
 #@#     suite</b>, since it what I run it whenever I think of compiling -
 #@#     even in an interpreted language like Ruby.</p>
-When you run unit tests so frequently, you may not run all the unit tests. Usually you only need to run those tests that are operating over the part of the code you're currently working on. As usual, you trade off the depth of testing with how long it takes to run the test suite. I'll call this suite the @<b>{compile suite}, since it what I run it whenever I think of compiling - even in an interpreted language like Ruby.
+このように高速にユニットテストを回すときには、必ずしも毎回すべてのテストを実行しなくてもかまわない。
+通常は、今作業中のコード周りのテストだけを実行すればいいだろう。
+テストの深さをある程度犠牲にして、テストスイートの実行時間を取ることになる。
+私はこの手のテストスイートを@<b>{コンパイルスイート}と呼ぶ。「コンパイルしようかな」と思ったとき（Rubyみたいなインタプリタ型の言語でも同じだ）に常に実行するからだ。
 
 #@# <p>If you are using Continuous Integration you should run a test
 #@#     suite as part of it. It's common for this suite, which I call the
@@ -183,7 +192,12 @@ When you run unit tests so frequently, you may not run all the unit tests. Usual
 #@#     have the opportunity - when you take a break, or have to go to a
 #@#     meeting. The faster the commit suite is, the more often you can run
 #@#     it. <a href = '#footnote-pipeline'>[2]</a></p>
-If you are using Continuous Integration you should run a test suite as part of it. It's common for this suite, which I call the <b>commit suite</b>, to include all the unit tests. It may also include a few @<href>{http://martinfowler.com/bliki/BroadStackTest.html, BroadStackTests}. As a programmer you should run this commit suite several times a day, certainly before any shared commit to version control, but also at any other time you have the opportunity - when you take a break, or have to go to a meeting. The faster the commit suite is, the more often you can run it. @<fn>{fn02}
+継続的インテグレーションを使っているなら、テストスイートもその一環で実行すべきだ。
+このときの使うテストスイート（私は@<b>{コミットスイート}と呼ぶ）には、すべてのユニットテストを含めるのが一般的だ。
+それ以外に、いくつかの@<href>{http://martinfowler.com/bliki/BroadStackTest.html, BroadStackTests}を含めることもある。
+プログラマーとして、このコミットスイートは1日に何度か実行すべきだ。バージョン管理システムへのコミットの前に行うのはもちろん、
+それ以外の場合でも、たとえば休憩前や打ち合わせに出る前などに行うといい。
+コミットスイートの実行速度が上がれば上がるほど、より頻繁に実行できるようになる。@<fn>{fn02}
 
 #@# <p>Different people have different standards for the speed of unit tests
 #@#     and of their test suites.  <a href = 'http://david.heinemeierhansson.com/2014/slow-database-test-fallacy.html'>David
@@ -192,7 +206,13 @@ If you are using Continuous Integration you should run a test suite as part of i
 #@#     Bernhardt</a> finds that unbearably slow, insisting on a compile suite
 #@#     of around 300ms and <a href = 'http://dan.bodar.com/2012/02/28/crazy-fast-build-times-or-when-10-seconds-starts-to-make-you-nervous/'>Dan Bodart</a> doesn't want his commit suite to be
 #@#     more than ten seconds</p>
-Different people have different standards for the speed of unit tests and of their test suites. @<href>{http://david.heinemeierhansson.com/2014/slow-database-test-fallacy.html, David Heinemeier Hansson} is happy with a compile suite that takes a few seconds and a commit suite that takes a few minutes. @<href>{https://www.destroyallsoftware.com/blog/2014/tdd-straw-men-and-rhetoric, Gary Bernhardt} finds that unbearably slow, insisting on a compile suite of around 300ms and @<href>{http://dan.bodar.com/2012/02/28/crazy-fast-build-times-or-when-10-seconds-starts-to-make-you-nervous/, Dan Bodart} doesn't want his commit suite to be more than ten seconds
+ユニットテストやテストスイートの実行速度については、人によっていろんな意見がある。
+@<href>{http://david.heinemeierhansson.com/2014/slow-database-test-fallacy.html, David Heinemeier Hansson}
+は、コンパイルスイートが数秒で実行できて、コミットスイートが数分で終わるようなら問題ないと考えている。
+@<href>{https://www.destroyallsoftware.com/blog/2014/tdd-straw-men-and-rhetoric, Gary Bernhardt}
+は、それでは我慢できないようだ。コンパイルスイートは300ms程度で実行できるべきだと言う。
+また、@<href>{http://dan.bodar.com/2012/02/28/crazy-fast-build-times-or-when-10-seconds-starts-to-make-you-nervous/, Dan Bodart}
+は、コミットスイートに10秒以上かけたくないとしている。
 
 #@# <p>I don't think there's an absolute answer here. Personally I don't
 #@#     notice a difference between a compile suite that's sub-second or a
@@ -203,9 +223,14 @@ Different people have different standards for the speed of unit tests and of the
 #@#     that when they detect a bug there's a sufficiently small amount of
 #@#     work to look through that you can find it quickly.</p>
 #@# </div>
-I don't think there's an absolute answer here. Personally I don't notice a difference between a compile suite that's sub-second or a few seconds. I like Kent Beck's rule of thumb that the commit suite should run in no more than ten minutes. But the real point is that your test suites should run fast enough that you're not discouraged from running them frequently enough. And frequently enough is so that when they detect a bug there's a sufficiently small amount of work to look through that you can find it quickly.
+絶対的な答えがあるとは思っていない。
+コンパイルスイートが1秒以内で終わろうが数秒かかろうが、個人的にはあまり差がないと思っている。
+私はKent Beckの経験則（コミットスイートは10分以内で実行できるべき）を好む。
+が、その本質は、頻繁に実行するのが苦にならない程度に、テストを高速に実行できるべきだということだ。
+そして、「頻繁に」というのは、最小限の手間で手早くバグを見つけられる程度にということだ。
 
 #@# <h2>Notes</h2>
+== 備考
 
 //footnote[fn01][I say "these days" because this is certainly something that has changed due to XP. In the turn-of-the-century debates, XPers were strongly criticized for this as the common view was that programmers should never test their own code. Some shops had specialized unit testers whose entire job would be to write unit tests for code written earlier by developers. The reasons for this included: people having a conceptual blindness to testing their own code, programmers not being good testers, and it was good to have a adversarial relationship between developers and testers. The XPer view was that programmers could learn to be effective testers, at least at the unit level, and that if you involved a separate group the feedback loop that tests gave you would be hopelessly slow. Xunit played an essential role here, it was designed specifically to minimize the friction for programmers writing tests.]
 
