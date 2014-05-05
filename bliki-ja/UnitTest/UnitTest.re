@@ -77,7 +77,7 @@ XPが始まった頃から、XP界での「ユニットテスティング」の�
 これはあくまでも私の考えなので、他の人がどう思うかは特に気にしない。
 
 #@# <h2>Isolation</h2>
-== Isolation
+== 分離
 
 #@# <p>A more important distinction is whether the unit you're testing
 #@#     should be isolated from its collaborators. Imagine you're testing an
@@ -87,7 +87,12 @@ XPが始まった頃から、XP界での「ユニットテスティング」の�
 #@#     product or customer classes here, because a fault in the customer
 #@#     class would cause the order class's tests to fail. Instead you use
 #@#     <a href = 'TestDouble.html'>TestDoubles</a> for the collaborators.</p>
-A more important distinction is whether the unit you're testing should be isolated from its collaborators. Imagine you're testing an order class's price method. The price method needs to invoke some functions on the product and customer classes. If you follow the principle of collaborator isolation you don't want to use the real product or customer classes here, because a fault in the customer class would cause the order class's tests to fail. Instead you use @<href>{http://martinfowler.com/bliki/TestDouble.html, TestDoubles} for the collaborators.
+もっと重要な違いがある。テスト対象のユニットを、他のコンポーネントから分離すべきか否かというところだ。
+orderクラスのpriceメソッドをテストしているとしよう。
+priceメソッドの内部では、productクラスやcustomerクラスの機能を実行する必要がある。
+他のコンポーネントから分離するという原則に従うなら、ここで実際のproductクラスやcustomerクラスを使うのは避けたい。
+たとえばcustomerクラスの挙動に問題があったときに、orderクラスのテストも失敗してしまうからだ。
+そんな時には、実際のコンポーネントの代わりに@<href>{http://martinfowler.com/bliki/TestDouble.html, テストダブル}を使う。
 
 #@# <img src = 'images/unitTest/isolate.png'></img>
 //indepimage[isolate]
@@ -98,7 +103,11 @@ A more important distinction is whether the unit you're testing should be isolat
 #@#     credit card verification system). We didn't find it difficult to
 #@#     track down the actual fault, even if it caused neighboring tests
 #@#     to fail. So we felt isolation wasn't an issue in practice.</p>
-But not all unit testers use this isolation. Indeed when xunit testing began in the 90's we made no attempt to isolate unless communicating with the collaborators was awkward (such as a remote credit card verification system). We didn't find it difficult to track down the actual fault, even if it caused neighboring tests to fail. So we felt isolation wasn't an issue in practice.
+でも、ユニットテストでわざわざそんなことはしない、という人もいる。
+実際、90年代にxunitテスティングが始まったころは、よっぽどのことがない限りこんな細工はしなかった
+（「よっぽどのこと」とは、たとえば外部のクレジット審査システムを使っているなどの場合だ）。
+たとえテスト対象以外のところが問題でテストが失敗していたとしても、その原因を探るのはそれほど苦にならないと考えられていた。
+なので、実際のところ、わざわざ分離するほどの問題だとは思わなかったのだ。
 
 #@# <p>Indeed this lack of isolation was one of
 #@#     the reasons we were criticized for our use of the term "unit
@@ -106,7 +115,9 @@ But not all unit testers use this isolation. Indeed when xunit testing began in 
 #@#     these tests are tests of the behavior of a single unit. We write
 #@#     the tests assuming everything other than that unit is working
 #@#     correctly.</p>
-Indeed this lack of isolation was one of the reasons we were criticized for our use of the term "unit testing". I think that the term "unit testing" is appropriate because these tests are tests of the behavior of a single unit. We write the tests assuming everything other than that unit is working correctly.
+分離を気にしなかったことも、当時「おまえらのユニットテスティングは間違っている」と批判された原因のひとつだろう。
+でも私は、それもまた「ユニットテスティング」だと思っていた。だって、単体のユニットの振る舞いをテストしているという点では同じなのだから。
+私たちは、テスト対象のユニット以外はすべて正常に動くものだという前提のもとで、テストを書いている。
 
 #@# <p>As xunit testing became more popular in the 2000's the notion of
 #@#     isolation came back, at least for some people. We saw the rise of
@@ -115,7 +126,11 @@ Indeed this lack of isolation was one of the reasons we were criticized for our 
 #@#     styles</a>. Classic xunit testers don't worry about isolation but
 #@#     mockists do. Today I know and respect xunit testers of both styles
 #@#     (personally I've stayed with classic style). </p>
-As xunit testing became more popular in the 2000's the notion of isolation came back, at least for some people. We saw the rise of Mock Objects and frameworks to support mocking. Two schools of xunit testing developed, which @<href>{http://martinfowler.com/articles/mocksArentStubs.html, I call the classic and mockist styles}. Classic xunit testers don't worry about isolation but mockists do. Today I know and respect xunit testers of both styles (personally I've stayed with classic style).
+2000年代に入ってxunitテスティングがはやりだしたころに、分離主義がふたたび登場してきた。
+モックオブジェクトや、モッキングをサポートするフレームワークが現れたのだ。
+xunitテスティングは二つの学派に分裂した。私は両者を@<href>{http://martinfowler.com/articles/mocksArentStubs.html, 古典派そしてモック主義者と呼んでいる}。
+古典派のxunitテスターは分離など気にしないが、モック主義者は分離を気にする。
+どちらの考えかたも理解できるし、どちらの考えかたも尊重している（ただ、個人的には、古典派の考えに近い）。
 
 #@# <p>Even a classic tester like myself uses test doubles when there's an
 #@#     awkward collaboration. They are invaluable to remove
@@ -128,7 +143,12 @@ As xunit testing became more popular in the 2000's the notion of isolation came 
 #@#     as an absolute rule. If talking to the resource is stable and fast
 #@#     enough for you then there's no reason not to do it in your unit
 #@#     tests.</p>
-Even a classic tester like myself uses test doubles when there's an awkward collaboration. They are invaluable to remove @<href>{http://martinfowler.com/articles/nonDeterminism.html#RemoteServices, non-determinism when talking to remote services}. Indeed some classicist xunit testers also argue that any collaboration with external resources, such as a database or filesystem, should use doubles. Partly this is due to non-determinism risk, partly due to speed. While I think this is a useful guideline, I don't treat using doubles for external resources as an absolute rule. If talking to the resource is stable and fast enough for you then there's no reason not to do it in your unit tests.
+私みたいな古株のテスターだって、扱いづらい外部コンポーネントがあればテストダブルを使う。
+@<href>{http://martinfowler.com/articles/nonDeterminism.html#RemoteServices, リモートサービスとの通信時の非決定論}を取り除けるという価値は計り知れない。
+古典主義者の中にも、データベースやファイルシステムなどの外部リソースについてはテストダブルを使うべきだと主張する人がいる。
+非決定論のリスクや、スピードのリスクを考慮した意見だ。
+有用な指針だとは思うが、私は「外部リソースにはテストダブルを使う」と絶対的に決めてしまう気にはならない。
+そのリソースが十分に安定していて、かつ高速にやりとりできるのなら、ユニットテストで直接それを使わない理由はないと思っている。
 
 #@# <h2>Speed</h2>
 == Speed
