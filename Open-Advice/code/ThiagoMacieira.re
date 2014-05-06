@@ -56,7 +56,11 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# Getting started in solving problems, however, is something one can learn. If
 #@# experience is the toolbox we carry when facing new issues, the techniques of
 #@# problem solving are the instructions on how to use the tools in the toolbox.
-The ability to solve problems is a skill we can hone with practice and some ground work. Practice is something one must acquire only through experience, by trial and failure, therefore it is not something that a book could teach. Getting started in solving problems, however, is something one can learn. If experience is the toolbox we carry when facing new issues, the techniques of problem solving are the instructions on how to use the tools in the toolbox.
+問題解決能力は、訓練で磨き上げることのできるスキルだ。
+訓練とは、実際に経験し、試行錯誤をすることでしか得られないものだ。本を読んで覚えられるものではない。
+しかし、問題解決については、学ぶこともできる。
+新たな問題に直面したときの道具箱になるのがこれまでの経験だとしたら、
+道具箱の道具をどう使えばいいのかを書いた説明書にあたるのが、問題解決のテクニックだ。
 
 #@# \section*{Phrasing the question correctly}
 == Phrasing the question correctly
