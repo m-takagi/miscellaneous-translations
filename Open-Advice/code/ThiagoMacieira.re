@@ -63,14 +63,17 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 道具箱の道具をどう使えばいいのかを書いた説明書にあたるのが、問題解決のテクニックだ。
 
 #@# \section*{Phrasing the question correctly}
-== Phrasing the question correctly
+== 問いを正しく言い表す
 
 #@# The question we are trying to answer is the direction we are going to go when
 #@# trying to solve the problem. Ask the wrong question and the answers may be
 #@# irrelevant, invalid or just plainly wrong. Consequently, asking the correct
 #@# question is paramount. Moreover, asking the correct question correctly is
 #@# important, since it provides clues as to what we are seeking.
-The question we are trying to answer is the direction we are going to go when trying to solve the problem. Ask the wrong question and the answers may be irrelevant, invalid or just plainly wrong. Consequently, asking the correct question is paramount. Moreover, asking the correct question correctly is important, since it provides clues as to what we are seeking.
+問題を解決するときの道しるべとなるのが、答えを出そうとしている問いだ。
+もし問い自体が間違っていれば、返ってくる答えも無意味なものになるだろうし、単に間違っているかもしれない。
+つまり、適切な問いかけが大切だということだ。
+さらに、適切な問いかけをすることで、問題解決の手がかりが得られることもある。
 
 #@# The most useless problem statement that one can face is ``it doesn’t work'', yet
 #@# we seem to get it far too often. It is a true statement, as evidently something
