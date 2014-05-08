@@ -79,7 +79,9 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# we seem to get it far too often. It is a true statement, as evidently something
 #@# is off. Nevertheless, the phrasing does not provide any clue as to where to
 #@# start looking for answers.
-The most useless problem statement that one can face is ``it doesn’t work'', yet we seem to get it far too often. It is a true statement, as evidently something is off. Nevertheless, the phrasing does not provide any clue as to where to start looking for answers.
+問題設定として一番無意味なのは「うまく動かない」というものだ。残念ながら、こういう問いをよく見かける。
+確かに動かないのだろう。何かが足りないのだから。
+しかし、こんな問いでは、まず何を調べればいいのかの手がかりがつかめない。
 
 #@# Bug-tracking systems often request that the bug reporter describe the actions
 #@# taken that led up to the problem being seen, the description of what happened
