@@ -90,7 +90,11 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# the question to be asked: why did this happen, why did this other behavior not
 #@# happen? While this is not the only way for creating the question, applying this
 #@# technique to problems may certainly help.
-Bug-tracking systems often request that the bug reporter describe the actions taken that led up to the problem being seen, the description of what happened (that is, the symptom) and a description of what was expected to happen. The comparison between the symptom and the expected behavior is a good source for the question to be asked: why did this happen, why did this other behavior not happen? While this is not the only way for creating the question, applying this technique to problems may certainly help.
+バグ追跡システム上でバグを報告しようとすると、「そのバグを再現する手順」「いったいどんな現象が発生したのか（いわゆる症状）」、
+そして「報告者が期待していた動き」を説明するよう求められる。
+「実際どうなったのか」と「どうなってほしかったのか」を比較すれば、よい問いが導ける。
+「なぜこうなったのか？」「なぜこうならなかったのか？」
+これが質問を作るための唯一の方法だとは言わないが、このテクニックはとてもよい助けとなるだろう。
 
 #@# Phrasing the problem and the question correctly, in all its details, is also a
 #@# way to further describe the problem statement. First, we must realize that the problem very likely does not lie where we are expecting it to be -- if it did, we would have probably solved the problem by now. Explaining all the details of the problem at hand provides the help-givers with more information to work with. In addition, even if counter-intuitively, the act of describing the problem in its entirety often leads to finding the solution, so much so that many development groups require ``stuck'' developers to perform this task, either by discussing it with a colleague or talking to a ``naïve'' entity, like a rubber duck or Mr. Potato-Head.
