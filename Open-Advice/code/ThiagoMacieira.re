@@ -114,7 +114,11 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# it does solve the entire problem. In turn, this also shows the necessity of
 #@# asking the right question, stating the complete problem: without the full
 #@# question, the solution may be equally incomplete.
-In addition, one must return to the question every now and then, so as to not lose sight of what the goal is. While executing activities to solve the problem, care must be taken not to concentrate exclusively on a particular piece of the problem, forgetting the overall objective. For the same reason, it is necessary to re-examine the initial question when a possible solution is found, to ensure it does solve the entire problem. In turn, this also shows the necessity of asking the right question, stating the complete problem: without the full question, the solution may be equally incomplete.
+さらに、ときどき質問に立ち戻り、目標を見失わないようにする必要がある。
+問題を解決しようとしているときには、特定の部分だけに注目してしまわないよう、全体的な目で捕らえることを心がける。
+同じ理由で、何かの解法が見つかったときは、最初の問いをもう一度見直す必要がある。ほんとうにその解法で問題全体が解決できるのかを確かめるためだ。
+同じくこれは、適切な問いを発する必要性を示すものでもある。
+問いが不完全なら、解決策も同じく不完全になってしまう。
 
 #@# \section*{\textit{Divide et conquera}}
 == @<i>{Divide et conquera}
