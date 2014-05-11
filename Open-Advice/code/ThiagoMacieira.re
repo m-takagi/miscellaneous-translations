@@ -98,7 +98,13 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 
 #@# Phrasing the problem and the question correctly, in all its details, is also a
 #@# way to further describe the problem statement. First, we must realize that the problem very likely does not lie where we are expecting it to be -- if it did, we would have probably solved the problem by now. Explaining all the details of the problem at hand provides the help-givers with more information to work with. In addition, even if counter-intuitively, the act of describing the problem in its entirety often leads to finding the solution, so much so that many development groups require ``stuck'' developers to perform this task, either by discussing it with a colleague or talking to a ``naïve'' entity, like a rubber duck or Mr. Potato-Head.
-Phrasing the problem and the question correctly, in all its details, is also a way to further describe the problem statement. First, we must realize that the problem very likely does not lie where we are expecting it to be -- if it did, we would have probably solved the problem by now. Explaining all the details of the problem at hand provides the help-givers with more information to work with. In addition, even if counter-intuitively, the act of describing the problem in its entirety often leads to finding the solution, so much so that many development groups require ``stuck'' developers to perform this task, either by discussing it with a colleague or talking to a ``naïve'' entity, like a rubber duck or Mr. Potato-Head.
+問題をうまく表現して適切な問いを作るのは、問題設定をさらにきちんとするための手段でもある。
+まず知っておくべきことは、その問題について、今自分たちはきちんと把握しきれていないということだ。
+仮にきちんと把握できているのなら、おそらくその時点で問題を解決できていることだろう。
+問題の詳細をきちんと説明できるようになれば、助けてくれる人たちに対してよりよい情報を提供できるあらだ。
+さらに、直感には反するかもしれないが、問題について説明するという行為自体が、その答えの発見につながることも多い。
+それもあって、開発者たちの中では、「困っている」人に自分で問題を説明させてみることが多い。
+たとえば同僚に対して説明させたり、アヒルのおもちゃやミスター・ポテトヘッドに向かって話させたりといったことをする。
 
 #@# In addition, one must return to the question every now and then, so as to not
 #@# lose sight of what the goal is. While executing activities to solve the problem,
