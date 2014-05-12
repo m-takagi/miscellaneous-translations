@@ -121,13 +121,16 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 問いが不完全なら、解決策も同じく不完全になってしまう。
 
 #@# \section*{\textit{Divide et conquera}}
-== @<i>{Divide et conquera}
+== @<i>{分割統治}
 
 #@# Experience in helping others trying to solve their problems online has shown me
 #@# that in general people treat their issues as monolithic, indivisible stumbling
 #@# blocks that must be dealt with as a whole. As such, a large problem poses a very
 #@# difficult question to be answered in its entirety.
-Experience in helping others trying to solve their problems online has shown me that in general people treat their issues as monolithic, indivisible stumbling blocks that must be dealt with as a whole. As such, a large problem poses a very difficult question to be answered in its entirety.
+他の人が問題を解決しようとしているのをオンラインで助けていると、
+たいていの人が問題を一枚岩の大きな塊だととらえてしまっていることがわかる。
+分割できず、全体を一気に片付けざるを得ないと思い込んでしまっているようだ。
+そのため、大規模な問題から難しい問いが生まれ、完璧に答えるのが難しくなってしまう。
 
 #@# In truth, the vast majority of those issues can be further broken down into
 #@# smaller problems, each of which are easier to deal with and determine if they
