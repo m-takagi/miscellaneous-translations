@@ -141,7 +141,12 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# we are required to know about the operating internals of the system at hand. In
 #@# reality, the problem solver will only break down as far as his knowledge of the
 #@# subject will permit and then work on the issue from there.
-In truth, the vast majority of those issues can be further broken down into smaller problems, each of which are easier to deal with and determine if they are the root cause of the problem, not to mention the possibility of there being multiple sources for the symptom experienced. Repeating this operation just a couple of times will yield much smaller problems to tackle and, therefore, quicker solutions. However, the more divisions we are forced to make, the more we are required to know about the operating internals of the system at hand. In reality, the problem solver will only break down as far as his knowledge of the subject will permit and then work on the issue from there.
+実際、この手の問題の大半は、さらに小さな問題に分割できる。
+そうしたほうが個々の問題を扱いやすくなるし、根本的な原因がどれなのかも判断しやすくなる。
+また、言うまでもなく、過去に経験したのと同じ症状に出くわす可能性も高くなる。
+問題の分割を何度か繰り返せば、より取り組みやすい問題を用意することができ、すばやい解決につながる。
+しかし、問題を分割しようとすればするほど、システムの内部の動きを熟知しておく必要に迫られる。
+実際、問題解決者は、自分が知っている範囲までしか問題を分割できず、自分が分割できる範囲まで分割した時点で問題に対応していく。
 
 #@# For software development, the subsystems being used are often good hints at
 #@# where to break up the problem. For example, if the problem involves a TCP/IP
