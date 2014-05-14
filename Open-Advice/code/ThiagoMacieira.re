@@ -158,7 +158,13 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# investigating why it is not displayed properly. Alternatively, one could feed
 #@# dummy data to the display functions and then verify that said data does get
 #@# displayed properly.
-For software development, the subsystems being used are often good hints at where to break up the problem. For example, if the problem involves a TCP/IP transmission of data, two possible divisions are the sender and the receiver: it is of no use to look for the problem on the receiver’s end if the sender is not transmitting the data properly. Similarly, a graphical application that is not showing the data that it is fetching from a database has a clear division: it would be a good idea to verify that the database access works before investigating why it is not displayed properly. Alternatively, one could feed dummy data to the display functions and then verify that said data does get displayed properly.
+ソフトウェア開発の場合、利用しているサブシステムを手がかりにして、問題をかみ砕いていくことが多い。
+たとえばTCP/IPの送信にからむ問題なら、送信側の問題と受信側の問題に分けて考えられる。
+送信側が適切にデータを送信できていない場合は、受信側をいくら調べたところで問題は解決しない。
+同様に、グラフィックアプリケーションでデータベースから取得したデータを正しく表示できないという問題も、
+切り分けは明確だ。まずはデータベースへのアクセスがきちんとできていることを確認してから、
+なぜ適切に表示されないのかを調べればいい。
+あるいは、適当なダミーデータを与えて表示機能を調べ、与えたデータがきちんと表示されることを先に確かめてもいい。
 
 #@# Even when the groupings are not clear, dividing the problem can still help shed
 #@# light on the issue. In fact, almost every division is helpful, as it reduces the
