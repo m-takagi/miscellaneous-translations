@@ -173,7 +173,10 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# half may be of use. This technique, called bisecting, is recommended if the
 #@# divisions created from the subsystems and interfaces have not yet revealed a
 #@# solution.
-Even when the groupings are not clear, dividing the problem can still help shed light on the issue. In fact, almost every division is helpful, as it reduces the amount of code to be inspected, and with it the complexity to be dealt with. At an extreme, simply dividing the code in two and searching for the problem in one half may be of use. This technique, called bisecting, is recommended if the divisions created from the subsystems and interfaces have not yet revealed a solution.
+どこで切り分けたらいいのかが明確でないときでも、問題を分割してみれば、課題をあぶり出すヒントになる。
+分割が害になることはほとんどない。というのも、調査対象のコードは減るし、それに伴って複雑性も減少するからだ。
+極論を言えば、何も考えずにコードを二分割して、一方だけで問題を探してみるというのでも役立つ。
+いわゆる二分探索というやつだが、これは、サブシステム単位やインターフェイス単位で分けてもうまく解決できなかった場合にも使える。
 
 #@# The end-product of a sequence of proper divisions is a small, self-contained
 #@# example showing the problem. At this stage, one of three options is usually
