@@ -184,7 +184,12 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# and the expectations were wrong; or a bug was found on the lower layer of code.
 #@# An advantage of the process is that it also produces a test-case to be sent in a
 #@# bug report, should a bug turn out to be the cause.
-The end-product of a sequence of proper divisions is a small, self-contained example showing the problem. At this stage, one of three options is usually right: the problem can be identified and located; the code is actually correct and the expectations were wrong; or a bug was found on the lower layer of code. An advantage of the process is that it also produces a test-case to be sent in a bug report, should a bug turn out to be the cause.
+適切に分割していけば、最終的には、問題そのものを示す小さなサンプルに行き着く。
+ここまできたら、次の三つのいずれかになるだろう。
+問題が特定できて、その場所がわかる。あるいはコード自体は正しくて、私たちが間違った思い込みをしている。
+または、コードそのものよりも低いレイヤーでのバグが見つかる。
+こういう流れを経る利点は、バグレポートを送る際に使えるテストケースができて、
+バグの原因をはっきりさせられるということだ。
 
 #@# \section*{Boundary conditions}
 == Boundary conditions
