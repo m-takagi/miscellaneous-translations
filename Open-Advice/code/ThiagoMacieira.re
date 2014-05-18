@@ -217,7 +217,12 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# must be valid before it can be dereferenced or that an object must not have been
 #@# disposed of before it can be used. Complex preconditions are very likely to be
 #@# documented for the software being used.
-In software systems, the boundary conditions are often referred to as ``preconditions'', which are conditions that must be met before a certain action is allowed. Verifying that the preconditions have been met is a good exercise in the searching for an answer, for a violation of the preconditions is definitely a problem that needs solving -- even if it is not the root cause of the original problem. Examples of preconditions can be as simple as the fact that a pointer must be valid before it can be dereferenced or that an object must not have been disposed of before it can be used. Complex preconditions are very likely to be documented for the software being used.
+ソフトウェアシステムにおける境界条件は「事前条件」と呼ばれることが多い。これは、何らかのアクションを許可するための前提として満たす必要がある条件という意味だ。
+事前条件を満たしているかどうかを確かめるというのは、答えを見つけるためのよい方法だ。
+事前条件に違反しているのなら、それは解決すべき問題に間違いないだろう。たとえそれが、問題の根本原因でないにしてもだ。
+シンプルな事前条件の例としては、「ポインタをデリファレンスする際にはそのポインタが有効でなければならない」
+や「オブジェクトを実際に利用する前に、破棄してはいけない」などがある。
+複雑な事前条件は、おそらくそのソフトウェアのドキュメントに書かれていることだろう。
 
 #@# Another interesting group of boundary conditions is characterized,
 #@# interestingly, by what is not permitted: the undefined behavior. This type of
