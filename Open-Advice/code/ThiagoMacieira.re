@@ -192,7 +192,7 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 バグの原因をはっきりさせられるということだ。
 
 #@# \section*{Boundary conditions}
-== Boundary conditions
+== 境界条件
 
 #@# An issue similar to dividing the problem is that of the boundary conditions. In
 #@# mathematics and physics, boundary conditions are the set of values for the
@@ -202,7 +202,11 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# simple: unlike mathematics and physics, the variables in software systems are
 #@# far too many, which means that the boundary conditions for them are equally
 #@# manyfold.
-An issue similar to dividing the problem is that of the boundary conditions. In mathematics and physics, boundary conditions are the set of values for the variables that determine the region of validity of the equations being solved. For software, boundary conditions are the set of conditions that must be met for the code to perform properly. Usually, the boundary conditions are far from simple: unlike mathematics and physics, the variables in software systems are far too many, which means that the boundary conditions for them are equally manyfold.
+問題の分割に似た課題がもうひとつある。境界条件だ。
+数学や物理学における境界条件とは、方程式を解くときの妥当な値域を定義するものだ。
+ソフトウェアにおける境界条件は、コードが適切に動作するための条件群のことを指す。
+通常、境界条件は、シンプルとはほど遠いものになる。
+数学や物理学の場合と異なり、ソフトウェアシステムには大量の変動要素がある。つまり、境界条件の数もそれと同様に多くなるということだ。
 
 #@# In software systems, the boundary conditions are often referred to as
 #@# ``preconditions'', which are conditions that must be met before a certain action
