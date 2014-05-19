@@ -36,7 +36,7 @@
 <h2><a id="h-3"></a>境界条件</h2>
 <p>問題の分割に似た課題がもうひとつある。境界条件だ。数学や物理学における境界条件とは、方程式を解くときの妥当な値域を定義するものだ。ソフトウェアにおける境界条件は、コードが適切に動作するための条件群のことを指す。通常、境界条件は、シンプルとはほど遠いものになる。数学や物理学の場合と異なり、ソフトウェアシステムには大量の変動要素がある。つまり、境界条件の数もそれと同様に多くなるということだ。</p>
 <p>ソフトウェアシステムにおける境界条件は「事前条件」と呼ばれることが多い。これは、何らかのアクションを許可するための前提として満たす必要がある条件という意味だ。事前条件を満たしているかどうかを確かめるというのは、答えを見つけるためのよい方法だ。事前条件に違反しているのなら、それは解決すべき問題に間違いないだろう。たとえそれが、問題の根本原因でないにしてもだ。シンプルな事前条件の例としては、「ポインタをデリファレンスする際にはそのポインタが有効でなければならない」や「オブジェクトを実際に利用する前に、破棄してはいけない」などがある。複雑な事前条件は、おそらくそのソフトウェアのドキュメントに書かれていることだろう。</p>
-<p>Another interesting group of boundary conditions is characterized, interestingly, by what is not permitted: the undefined behavior. This type of boundary conditions is very common when dealing with specifications, which try to be very explicit in how software should behave. A good example of this are the compilers and language definitions. Strictly speaking, dereferencing a null pointer is an undefined behavior: the most common consequence is a processor exception being trapped and the program terminating, but other behaviors are permitted too, including working perfectly.</p>
+<p>もうひとつ、境界条件としておもしろいものがある。許可されざるもの、すなわち未定義の挙動だ。この種の境界条件は、仕様を扱う際に頻出する。仕様というものは、そもそもソフトウェアの振る舞いを明確に定めようとするものだ。よい例としては、コンパイラの仕様や言語仕様などがある。厳密に言うと、nullポインタのデリファレンスがどのような挙動になるかは未定義だ。プロセッサが例外を捕捉してプログラムが終了するというのが一般的だが、それ以外の挙動も許されており、ふつうに動き続けても問題ない。</p>
 
 <h2><a id="h-4"></a>The right tool for the right job</h2>
 <p>If engineers are problem-solvers, the engineer’s motto is ``use the right tool for the right job''. It may seem obvious, as no one is expected to use a hammer to solve an electronic problem. Nonetheless, cases of using the wrong tool are quite common, often due to ignorance of the existence of a better tool.</p>

@@ -232,7 +232,11 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# pointer is an undefined behavior: the most common consequence is a processor
 #@# exception being trapped and the program terminating, but other behaviors are
 #@# permitted too, including working perfectly.
-Another interesting group of boundary conditions is characterized, interestingly, by what is not permitted: the undefined behavior. This type of boundary conditions is very common when dealing with specifications, which try to be very explicit in how software should behave. A good example of this are the compilers and language definitions. Strictly speaking, dereferencing a null pointer is an undefined behavior: the most common consequence is a processor exception being trapped and the program terminating, but other behaviors are permitted too, including working perfectly.
+もうひとつ、境界条件としておもしろいものがある。許可されざるもの、すなわち未定義の挙動だ。
+この種の境界条件は、仕様を扱う際に頻出する。仕様というものは、そもそもソフトウェアの振る舞いを明確に定めようとするものだ。
+よい例としては、コンパイラの仕様や言語仕様などがある。
+厳密に言うと、nullポインタのデリファレンスがどのような挙動になるかは未定義だ。
+プロセッサが例外を捕捉してプログラムが終了するというのが一般的だが、それ以外の挙動も許されており、ふつうに動き続けても問題ない。
 
 #@# \section*{The right tool for the right job}
 == The right tool for the right job
