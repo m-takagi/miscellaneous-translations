@@ -239,13 +239,15 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 プロセッサが例外を捕捉してプログラムが終了するというのが一般的だが、それ以外の挙動も許されており、ふつうに動き続けても問題ない。
 
 #@# \section*{The right tool for the right job}
-== The right tool for the right job
+== 適切な道具で適切な仕事を
 
 #@# If engineers are problem-solvers, the engineer’s motto is ``use the right tool
 #@# for the right job''. It may seem obvious, as no one is expected to use a hammer
 #@# to solve an electronic problem. Nonetheless, cases of using the wrong tool are
 #@# quite common, often due to ignorance of the existence of a better tool.
-If engineers are problem-solvers, the engineer’s motto is ``use the right tool for the right job''. It may seem obvious, as no one is expected to use a hammer to solve an electronic problem. Nonetheless, cases of using the wrong tool are quite common, often due to ignorance of the existence of a better tool.
+エンジニアの仕事が問題解決だとしたら、そのモットーは「適切な道具を使って適切な仕事を」だ。
+「何を当たり前のことを言ってるんだ」と思うかもしれない。電子機器の障害にハンマーで立ち向かおうなんて人はいないだろうからね。
+でもみんな、道具の使いかたを間違えていることがあまりにも多い。もっと適切な道具があることに、気づけていないんだ。
 
 #@# Some of these tools are the bread-and-butter of software development, like the
 #@# compiler and the debugger. Inability to use these tools is unforgivable: the
