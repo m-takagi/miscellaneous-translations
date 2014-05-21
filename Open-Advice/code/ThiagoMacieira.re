@@ -257,7 +257,12 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# program crashes, being able to determine the location of the crash as well as
 #@# variables being accessed in that section of the code may help determine the root
 #@# cause and thus point to the solution.
-Some of these tools are the bread-and-butter of software development, like the compiler and the debugger. Inability to use these tools is unforgivable: the professional who finds himself in an environment with new or unknown tools, such as when switching positions or jobs, must dedicate some time to learning them, becoming familiar with their functionalities and limitations. For example, if a program crashes, being able to determine the location of the crash as well as variables being accessed in that section of the code may help determine the root cause and thus point to the solution.
+コンパイラやデバッガのように、ソフトウェア開発において不可欠な道具もある。
+これらの道具が使いづらければ、とてもやっていけない。
+転職などで新しい道具や未知の道具を使うことになったら、プロとしては、
+ある程度の時間をとってその使いかたを学ぶ必要がある。どんな機能があってどんな制約があるのかを知り、慣れていくのだ。
+プログラムがクラッシュしたときにその場所を特定したり、クラッシュした部分からアクセスしている変数を調べたりできれば、
+根本原因を調べて解決に導くための助けになる。
 
 #@# Some other tools are more advanced, belong to a niche, are not very widely
 #@# known, or are available only under cost or conditions which cannot be met by the
