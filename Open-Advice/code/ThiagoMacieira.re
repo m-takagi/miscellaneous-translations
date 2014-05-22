@@ -275,7 +275,15 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# consumer devices. A different example is the valgrind suite of tools, which
 #@# include thread checkers and memory debuggers and is readily available for free,
 #@# but are part of the advanced, niche tools and are not taught at schools.
-Some other tools are more advanced, belong to a niche, are not very widely known, or are available only under cost or conditions which cannot be met by the engineer. Yet they can be incredibly useful in helping elucidate problems. Such tools may be static code checker tools, thread checkers, memory debuggers, hardware event loggers, etc. For instance, development hardware often contains a way to control it via a special interface like JTAG or dump all instructions executed and processor state, but this requires having special hardware and tools, which are not readily available and usually cost more than volume, consumer devices. A different example is the valgrind suite of tools, which include thread checkers and memory debuggers and is readily available for free, but are part of the advanced, niche tools and are not taught at schools.
+ニッチな用途向けであまり知られてはいないが、もっと高度な道具もある。
+あるいは、コストや利用条件の関係で、エンジニアたちにはあまり縁のないような道具もある。
+しかしそれらだって、問題を解明するためにはとても便利なものだ。
+静的コードチェックツールやスレッドチェッカー、メモリデバッガ、ハードウェアイベントロガーなどが、その種の道具の一例だ。
+たとえば、開発用のハードウェアには、制御用の特殊なインターフェイス（JTAGなど）が用意されていることが多い。
+また、実行したすべての命令とプロセッサの状態をダンプできるものもある。
+しかし、これらを使うには、特別なハードウェアや道具が必要で、一般的なコンシューマ向け機器よりも値が張る。
+それ以外には、valgrindのツール群もある。ここにはスレッドチェッカーやメモリデバッガが含まれていて、フリーに使える。
+しかし、この手の道具の使い方は、学校では教わらない。
 
 #@# Knowing the contents of one’s toolbox is a powerful knowledge. Using a
 #@# specialized tool to search for a problem will likely yield a result quicker, be
