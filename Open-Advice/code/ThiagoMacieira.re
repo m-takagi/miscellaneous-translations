@@ -291,7 +291,11 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# elsewhere. Moreover, it is important to know how to use these tools, which
 #@# justifies spending time reading the documentation, in training or simply
 #@# experimenting with them with known problems to understand how to proceed.
-Knowing the contents of one’s toolbox is a powerful knowledge. Using a specialized tool to search for a problem will likely yield a result quicker, be it positive, confirming the problem, or negative, which in turn leads the search elsewhere. Moreover, it is important to know how to use these tools, which justifies spending time reading the documentation, in training or simply experimenting with them with known problems to understand how to proceed.
+自分の道具箱の中身を知っておけば、強力な知識が得られる。
+問題に特化した道具を使って対応すれば、結果が手早く得られるだろう。
+問題を解決できる結果かも知れないし、その方法ではうまく行かないので別の方法を探すことになるかもしれない。
+そしてさらに大切なのは、道具の使いかたを知っておくことだ。
+ドキュメントを読んだり研修を受けたり、既に解決済みの問題に対してその道具を試してみたりといったことに時間を割こう。
 
 #@# \section*{Conclusion}
 == Conclusion
