@@ -298,13 +298,15 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 ドキュメントを読んだり研修を受けたり、既に解決済みの問題に対してその道具を試してみたりといったことに時間を割こう。
 
 #@# \section*{Conclusion}
-== Conclusion
+== 結論
 
 #@# Solving problems is an art available to all. Like other arts, some people may
 #@# have such a skill that it may seem that they were born with the ability. But in
 #@# reality, with enough experience and practice, solving problems becomes an
 #@# unconscious activity.
-Solving problems is an art available to all. Like other arts, some people may have such a skill that it may seem that they were born with the ability. But in reality, with enough experience and practice, solving problems becomes an unconscious activity.
+問題解決は、誰にでもできる技術だ。
+その他多くの技術と同様、中にはその能力に秀でた人もいる。まるで、生まれつきそのスキルを兼ね備えているようにも見える。
+でも実際のところ、十分な訓練と経験を積めば、問題解決は無意識に行えるようになるものだ。
 
 #@# When faced with a problem that is not easy to solve, one should sit back and
 #@# take a clear look at the entirety of the problem. What is the problem we have?
