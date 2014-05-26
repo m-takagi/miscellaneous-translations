@@ -315,7 +315,13 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# down into smaller, more manageable pieces? What are the best tools to be used
 #@# for each piece? Have we verified that we are using the functionalities and
 #@# services correctly?
-When faced with a problem that is not easy to solve, one should sit back and take a clear look at the entirety of the problem. What is the problem we have? Can we phrase the question that we need an answer for? Once we know what we are looking for, we can start searching for where it may be located. Can we break it down into smaller, more manageable pieces? What are the best tools to be used for each piece? Have we verified that we are using the functionalities and services correctly?
+簡単には解決できそうもない問題に出会ったら、落ち着いて問題全体を見直してみる必要がある。
+いったい何が問題なのか？
+解決すべき問題を、言葉で表せるだろうか？
+捜し物が何なのかがわかりさえすれば、その場所を探し始めることができる。
+問題をもっと細かく分割し、扱いやすいようにはできないだろうか？
+それぞれの問題に対応するための、最適の道具は何だろうか？
+その機能やサービスを、適切に使いこなしているかどうかを確かめただろうか？
 
 #@# After solving many problems, we start to see patterns. It will become easier to
 #@# detect subtle hints from the symptoms and direct the searching towards the
