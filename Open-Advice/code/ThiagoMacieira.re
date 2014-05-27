@@ -328,7 +328,11 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# actual problem. An experienced problem-solver may not even realize this action
 #@# is taking place. That is an indication that the experience and behavior has set
 #@# in so well that no conscious effort is required to access those skills.
-After solving many problems, we start to see patterns. It will become easier to detect subtle hints from the symptoms and direct the searching towards the actual problem. An experienced problem-solver may not even realize this action is taking place. That is an indication that the experience and behavior has set in so well that no conscious effort is required to access those skills.
+数多くの問題を解決していると、そこにパターンが見えてくる。
+そうなれば、症状を見たときにちょっとしたヒントを見つけやすくなり、実際の問題に直接立ち向かえるようになる。
+経験豊富な人たちの中には、それを自覚していない人もいるかもしれない。
+それはつまり、これまでの経験や振る舞いが完全に身に染みついていて、
+無意識のうちにそういったスキルを使いこなせているということだ。
 
 #@# Yet there are always some problems in life that will be hard to solve, ranging
 #@# from professional to existential, philosophical or even those which are caused
