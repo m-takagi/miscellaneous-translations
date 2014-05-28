@@ -338,4 +338,7 @@ KDEやQtそしてMeeGoのコミュニティに参加する彼はQtのソフト�
 #@# from professional to existential, philosophical or even those which are caused
 #@# by pure curiosity. Then again, it is the challenge that drives us, the need to
 #@# understand more. Life would be pretty tedious otherwise.
-Yet there are always some problems in life that will be hard to solve, ranging from professional to existential, philosophical or even those which are caused by pure curiosity. Then again, it is the challenge that drives us, the need to understand more. Life would be pretty tedious otherwise.
+人生にはさまざまな問題があって、中には解決しづらいものもあるだろう。
+問題は技術的なものから経験的なものや思想的なものまで幅広く、中には純粋な好奇心からくる問題もある。
+しかし、それらに挑戦することが成長につながる。もっとよく知ることが必要だ。
+そうじゃないと、ほんとにつまらない人生になってしまうだろう。
