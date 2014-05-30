@@ -14,7 +14,10 @@ Henri Bergius
 #@# free time motorcycling through remote parts of the Eurasian continent. He lives
 #@# in the cold Nordic city of Helsinki, Finland.}
 //lead{
-Henri Bergius is the founder of Midgard, a free software content repository. He has also been involved for a long time in making Linux desktops location-aware, and in the Maemo and MeeGo communities. He runs a small consultancy called Nemein, hacks in CoffeeScript and PHP, and spends much of his free time motorcycling through remote parts of the Eurasian continent. He lives in the cold Nordic city of Helsinki, Finland.
+Henri Bergiusは、フリーソフトウェアコンテンツのリポジトリであるMidgardの創設者だ。
+彼はまた、Linuxデスクトップのロケーション対応や、MaemoとMeeGoのコミュニティにも長きにわたって関わっている。
+Nemeinという小規模なコンサルト会社を経営し、CoffeeScriptやPHPをハックして、ユーラシア大陸の隅々までバイクで巡る。
+彼は現在、フィンランドのヘルシンキに住む。
 //}
 
 #@# \begin{quote}
