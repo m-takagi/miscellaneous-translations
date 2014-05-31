@@ -27,7 +27,7 @@ Nemeinという小規模なコンサルト会社を経営し、CoffeeScriptやPH
 #@# Optimist's Tour of the Future (Mark Stevenson, 2010)
 #@# \end{quote}
 //quote{
-There may be a whole new system where you're defined more and more by who you are and not by what you own, by what you've created and shared, and what other people have then built on” -- Former Xerox PARC director John Seely Brown in An Optimist's Tour of the Future (Mark Stevenson, 2010)
+きっと新しいシステムがあるのだろう。そこでは単に、あなたが何者かと言うことだけが判断の基準になる。何を持っているだとか何を作ったり共有したりしただとか、それを使って周りの人たちが何を作ったかだとかは気にしない。--元Xerox PARCの所長であるJohn Seely Brown、Optimist's Tour of the Futureにて（Mark Stevenson, 2010）
 //}
 
 #@# \section*{On projects and communities}
