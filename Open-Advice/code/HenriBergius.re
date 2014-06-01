@@ -31,21 +31,24 @@ Nemeinという小規模なコンサルト会社を経営し、CoffeeScriptやPH
 //}
 
 #@# \section*{On projects and communities}
-== On projects and communities
+== プロジェクトとコミュニティ
 
 #@# Much of the free software world is split into tribes gathered around something
 #@# called projects. There are major projects like GNOME, KDE or Drupal, and lots of
 #@# smaller projects revolving around a single application or a library.
-Much of the free software world is split into tribes gathered around something called projects. There are major projects like GNOME, KDE or Drupal, and lots of smaller projects revolving around a single application or a library.
+フリーソフトウェアの世界の大半は、何らかの「プロジェクト」に関わる人たちで構成されている。
+GNOMEやKDE、あるいはDrupalといた有名どころのプロジェクトもあるが、ちょっとしたアプリケーションやライブラリを扱う小さめなプロジェクトも大量に存在する。
 
 #@# Actually, calling them projects is kind of silly.
-Actually, calling them projects is kind of silly.
+でも実際のところ、こういったものを「プロジェクト」と呼ぶのはちょっとおかしい。
 
 #@# In my mind, a project is a plan of effort towards an achievable aim, with a
 #@# schedule that has start and end dates. So, for example GNOME 3.1 would be a
 #@# project, but GNOME as whole is not. It is a community of individuals maintaining
 #@# and creating a body of software through various smaller efforts, or projects.
-In my mind, a project is a plan of effort towards an achievable aim, with a schedule that has start and end dates. So, for example GNOME 3.1 would be a project, but GNOME as whole is not. It is a community of individuals maintaining and creating a body of software through various smaller efforts, or projects.
+そもそもプロジェクトとは、何らかの目標を達成するための実行計画のことであり、開始日と終了予定日が定まっているものだ。
+たとえば「GNOME 3.1プロジェクト」というのはアリだろうが、全体としてのGNOMEを「プロジェクト」と呼ぶのはちょっと違う。
+これは個人のあつまるコミュニティで、ソフトウェアを作ったり保守したりといったことを、さまざまな小規模の作業やプロジェクトを通して行うものだ。
 
 #@# Enough with pedantry. The problem with the concept of projects is that they end
 #@# up keeping people apart, creating insular communities that often are reluctant
