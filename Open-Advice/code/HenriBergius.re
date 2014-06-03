@@ -55,7 +55,11 @@ GNOMEやKDE、あるいはDrupalといた有名どころのプロジェクトも
 #@# or unable to collaborate with ``the competition''. But in the end, all of these
 #@# communities consist of individuals who write free software, and it is their
 #@# choice whether this software can be used in different environments or not.
-Enough with pedantry. The problem with the concept of projects is that they end up keeping people apart, creating insular communities that often are reluctant or unable to collaborate with ``the competition''. But in the end, all of these communities consist of individuals who write free software, and it is their choice whether this software can be used in different environments or not.
+もったいぶった言いかたはここまでにして。
+プロジェクトっていう概念の何が問題かというと、それが最終的に、人を区分けしてそれぞれ別の島にまとめてしまうってことだ。
+お互い協力しあうこともしづらいし、できないこともある。
+これらのコミュニティは、結局のところはフリーソフトウェアを書く個人の集まりだ。
+そのソフトウェアをさまざまな環境で使えるかそうでないかも、彼ら自身が決めることになる。
 
 #@# In the end we all want the software we created to be used by others. And even
 #@# better, we want others to join in our efforts and build cool stuff on what we
