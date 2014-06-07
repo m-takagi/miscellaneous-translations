@@ -71,7 +71,9 @@ GNOMEやKDE、あるいはDrupalといた有名どころのプロジェクトも
 #@# So why do we enact these walls around ourselves? Keeping an insulated community
 #@# just fosters an us-versus-them mentality. The incompatibilities of different
 #@# programming languages already do so much to keep us apart, why add to that?
-So why do we enact these walls around ourselves? Keeping an insulated community just fosters an us-versus-them mentality. The incompatibilities of different programming languages already do so much to keep us apart, why add to that?
+なのになぜ、私たちは、自分たちの周りを壁で覆ってしまうのだろう？
+そんなふうにコミュニティを隔離し続けると、「私たちvsそれ以外の人たち」という考えかたが生まれてしまう。
+各種プログラミング言語の間の非互換性のせいで私たちは既に分断されているというのに、なぜさらに分断しようとするのだろう？
 
 #@# \section*{The Midgard lesson}
 == The Midgard lesson
