@@ -64,7 +64,9 @@ GNOMEやKDE、あるいはDrupalといた有名どころのプロジェクトも
 #@# In the end we all want the software we created to be used by others. And even
 #@# better, we want others to join in our efforts and build cool stuff on what we
 #@# have created. That is, after all, what is in the heart of free software.
-In the end we all want the software we created to be used by others. And even better, we want others to join in our efforts and build cool stuff on what we have created. That is, after all, what is in the heart of free software.
+結局のところ、私たちは自分の作ったソフトウェアを他人に使ってもらいたいものだ。
+あわよくば、他の人たちも自分たちのプロジェクトに巻き込んで、よりよいものを一緒に作っていきたい。
+それこそが、フリーソフトウェアの肝だ。
 
 #@# So why do we enact these walls around ourselves? Keeping an insulated community
 #@# just fosters an us-versus-them mentality. The incompatibilities of different
