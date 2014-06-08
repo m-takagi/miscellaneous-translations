@@ -76,13 +76,16 @@ GNOMEやKDE、あるいはDrupalといた有名どころのプロジェクトも
 各種プログラミング言語の間の非互換性のせいで私たちは既に分断されているというのに、なぜさらに分断しようとするのだろう？
 
 #@# \section*{The Midgard lesson}
-== The Midgard lesson
+== Midgardで学んだこと
 
 #@# What I wish I had known when I started, in those optimistic dot-com days of the late
 #@# 90s, is that in reality software efforts do not need to be isolated. With a bit
 #@# of care we can share our software and ideas across communities, making both the
 #@# communities and our software stronger and better.
-What I wish I had known when I started, in those optimistic dot-com days of the late 90s, is that in reality software efforts do not need to be isolated. With a bit of care we can share our software and ideas across communities, making both the communities and our software stronger and better.
+私がこの世界に入ったばかりのあのころ、ドットコム全盛の90年代後半に知っておきたかったことがある。
+実際のところ、ソフトウェア開発は自分たちだけでやる必要がないってことだ。
+ちょっとした注意さえ払えば、自分たちのソフトウェアやアイデアを他のコミュニティとも共有できるし、
+お互いのコミュニティやソフトウェアも、そのほうがずっと強力でよいものになる。
 
 #@# When I started my free software career, it was a time of big projects. Netscape
 #@# was open-sourced, the Apache Software Foundation was getting a form, and
