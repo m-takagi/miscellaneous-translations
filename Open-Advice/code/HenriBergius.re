@@ -92,7 +92,11 @@ GNOMEやKDE、あるいはDrupalといた有名どころのプロジェクトも
 #@# venture-funded efforts were going on everywhere. It felt like a norm to try and
 #@# build your own community. This was the sure path to fame, fortune and building
 #@# cool stuff.
-When I started my free software career, it was a time of big projects. Netscape was open-sourced, the Apache Software Foundation was getting a form, and venture-funded efforts were going on everywhere. It felt like a norm to try and build your own community. This was the sure path to fame, fortune and building cool stuff.
+私がフリーソフトウェアの世界に入ったころは、巨大プロジェクトの時代だった。
+Netscapeがオープンソースになったり、Apache Software Foundationが設立されたりなど、
+ベンチャーによる出資がそこここで行われていた。
+とにかくやってみようよ、そして自分たちのコミュニティを作ろうよという空気があった。
+それこそが、名を挙げてちやほやされるための道だった。
 
 #@# So what we did was build our own web framework. Back then there were not that
 #@# many of them, especially for the fledgling PHP language. PHP was not even the
