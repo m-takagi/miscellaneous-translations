@@ -103,7 +103,12 @@ Netscapeがオープンソースになったり、Apache Software Foundationが�
 #@# first choice for us, only picked after a long debate about using Scheme which
 #@# our lead developer preferred. But PHP was gaining popularity, becoming
 #@# the programming language of the web. And web was what we wanted to build.
-So what we did was build our own web framework. Back then there were not that many of them, especially for the fledgling PHP language. PHP was not even the first choice for us, only picked after a long debate about using Scheme which our lead developer preferred. But PHP was gaining popularity, becoming the programming language of the web. And web was what we wanted to build.
+で、何をしたかというと、自分たちでWebフレームワークを作ったんだ。
+当時はまだそれほどWebフレームワークはなかった。特に、生まれたばかりのPHP言語を使っているものなどは、ほぼなかった。
+最初からPHPを使おうと考えていたわけではない。開発チームのリーダーがScheme好きだったのでそれを使おうとしていたのだが、
+長い議論の末、PHPを使うことになった。
+後にPHPの評判は高まり、Web上でのプログラミングといえばPHPだというくらいの存在になった。
+Webこそが、私たちが作りたかったものだった。
 
 #@# At first, things looked very promising. Lots of developers flocked into our
 #@# community and started contributing. There were even companies founded around
