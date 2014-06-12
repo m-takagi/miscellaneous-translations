@@ -113,7 +113,10 @@ Webこそが、私たちが作りたかったものだった。
 #@# At first, things looked very promising. Lots of developers flocked into our
 #@# community and started contributing. There were even companies founded around
 #@# Midgard. And the framework became more featureful, and more tighly coupled.
-At first, things looked very promising. Lots of developers flocked into our community and started contributing. There were even companies founded around Midgard. And the framework became more featureful, and more tighly coupled.
+最初のうちは、何も問題はなかった。
+多くの開発者たちがコミュニティに群がって、どんどん貢献してくれた。
+Midgardに出資してやろうという企業さえ現れるくらいだった。
+フレームワークはどんどん多機能になり、密結合になっていった。
 
 #@# In hindsight, this was the mistake we made. We positioned Midgard to be
 #@# something apart from PHP itself. Something that you would install separately,
