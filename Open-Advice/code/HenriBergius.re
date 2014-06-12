@@ -121,7 +121,10 @@ Midgardに出資してやろうという企業さえ現れるくらいだった�
 #@# In hindsight, this was the mistake we made. We positioned Midgard to be
 #@# something apart from PHP itself. Something that you would install separately,
 #@# and build whole websites on top of. It was either our way or the highway.
-In hindsight, this was the mistake we made. We positioned Midgard to be something apart from PHP itself. Something that you would install separately, and build whole websites on top of. It was either our way or the highway.
+今から思えば、それが間違いだった。
+私たちはMidgardを、PHP自体とは別のものとして扱った。
+個別にインストールして、その上でウェブサイトを構築するというものだ。
+私たちの流儀に従うか、あるいはハイウェイに乗るかだった。
 
 #@# With Midgard you would have to use our content repository interfaces for
 #@# everything, as well as our user management and permissions model. You would have
