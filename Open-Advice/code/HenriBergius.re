@@ -130,7 +130,9 @@ Midgardに出資してやろうという企業さえ現れるくらいだった�
 #@# everything, as well as our user management and permissions model. You would have
 #@# to use our templating system, and store much of your code into the repository
 #@# instead of a file system.
-With Midgard you would have to use our content repository interfaces for everything, as well as our user management and permissions model. You would have to use our templating system, and store much of your code into the repository instead of a file system.
+Midgardを使う場合は、何をするときにもそのコンテンツリポジトリインターフェイスを使う必要があった。
+また、ユーザー管理や権限についても、その流儀に従わなければいけなかった。
+テンプレートシステムを使うことも強要されたし、コードの大半は、ファイルシステム上ではなくリポジトリに入れる必要があった。
 
 #@# This obviously did not sit too well with the wider PHP community. Our ideas were
 #@# strange to them, and Midgard at the time was even distributed as a huge patch to
