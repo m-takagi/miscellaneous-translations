@@ -137,7 +137,9 @@ Midgardを使う場合は、何をするときにもそのコンテンツリポ�
 #@# This obviously did not sit too well with the wider PHP community. Our ideas were
 #@# strange to them, and Midgard at the time was even distributed as a huge patch to
 #@# the codebase, as PHP3 did not have loadable modules.
-This obviously did not sit too well with the wider PHP community. Our ideas were strange to them, and Midgard at the time was even distributed as a huge patch to the codebase, as PHP3 did not have loadable modules.
+どう見てもこれは、PHPコミュニティにうまく広まるようなものではなかった。
+私たちの考えかたは彼らにとっては奇妙なものだったし、当時のMidgardはPHP本体へのパッチという形式で配布されていた。
+というのも、PHP3にはモジュールを読み込む機能がなかったからだ。
 
 #@# Many years have passed, and PHP’s popularity has waxed and waned. At the same
 #@# time the Midgard community has been quite constant -- a small, tightly knit
