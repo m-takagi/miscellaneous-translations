@@ -145,7 +145,9 @@ Midgardを使う場合は、何をするときにもそのコンテンツリポ�
 #@# time the Midgard community has been quite constant -- a small, tightly knit
 #@# group making progress in the long run, but apart from the wider PHP
 #@# world.
-Many years have passed, and PHP’s popularity has waxed and waned. At the same time the Midgard community has been quite constant -- a small, tightly knit group making progress in the long run, but apart from the wider PHP world.
+あれから何年もたった。その間PHP自体の人気は一進一退を繰り返している。
+一方、Midgardコミュニティはずっと一貫している。
+小規模で密接にまとまったグループが長期的な視点で歩みを進めるが、PHPそのものの広がりとは一線を画するというものだ。
 
 #@# We always wondered why we found it so hard to interact with the PHP world. Even
 #@# some communities doing something completely different, like the GNOME desktop,
