@@ -154,7 +154,10 @@ Midgardを使う場合は、何をするときにもそのコンテンツリポ�
 #@# seemed easier to approach. Only recently, after years of isolation, we realized
 #@# the problem. In a nutshell: frameworks keep us apart, while libraries allow us to
 #@# share our code and experiences.
-We always wondered why we found it so hard to interact with the PHP world. Even some communities doing something completely different, like the GNOME desktop, seemed easier to approach. Only recently, after years of isolation, we realized the problem. In a nutshell: frameworks keep us apart, while libraries allow us to share our code and experiences.
+PHPの世界とうまくやっていくのが、なぜこんなにも難しいものなのかと、常々悩んでいた。
+たとえばGNOMEデスクトップコミュニティのように、ずっととっつきやすいようなコミュニティもあったのだ。
+ずっと孤立しっぱなしだったが、最近ようやく問題がわかった。
+簡単に言うと、フレームワークは別々のもの、一方ライブラリはコードや経験を共有するものだということだ。
 
 #@# \section*{On libraries and frameworks}
 == On libraries and frameworks
