@@ -160,14 +160,17 @@ PHPの世界とうまくやっていくのが、なぜこんなにも難しい�
 簡単に言うと、フレームワークは別々のもの、一方ライブラリはコードや経験を共有するものだということだ。
 
 #@# \section*{On libraries and frameworks}
-== On libraries and frameworks
+== ライブラリとフレームワーク
 
 #@# In the end, software is about automation, about building tools that people can
 #@# use for solving problems or connecting with each other. With software, these
 #@# tools have many layers in them. There are low-level services like an operating
 #@# system, then there are libraries, frameworks and toolkits, and then there are
 #@# actual applications.
-In the end, software is about automation, about building tools that people can use for solving problems or connecting with each other. With software, these tools have many layers in them. There are low-level services like an operating system, then there are libraries, frameworks and toolkits, and then there are actual applications.
+要するにソフトウェアとは自動化のことであり、問題を解決したり問題と問題を連携させたりするためのツールを作ることである。
+ソフトウェアの世界では、この手のツールはたくさんの階層にわかれている。
+OSのような低水準のサービスもあれば、その上で動くライブラリやフレームワークそしてツールキットなどもあり、
+さらにその上にはアプリケーションがある。
 
 #@# Applications are always written for some particular usecase, and so between
 #@# them there are very few opportunities for sharing code.
