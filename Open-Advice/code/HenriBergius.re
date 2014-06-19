@@ -174,7 +174,8 @@ OSのような低水準のサービスもあれば、その上で動くライブ
 
 #@# Applications are always written for some particular usecase, and so between
 #@# them there are very few opportunities for sharing code.
-Applications are always written for some particular usecase, and so between them there are very few opportunities for sharing code.
+アプリケーションは常に、何らかのユースケースに沿って書かれる。そのため、
+アプリケーション間でコードを共有するチャンスはめったにない。
 
 #@# The much more appealing opportunity is on the libraries and frameworks level. A
 #@# framework, if generic enough, can usually be utilized for building different
