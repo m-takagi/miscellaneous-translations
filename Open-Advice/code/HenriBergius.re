@@ -183,7 +183,11 @@ OSのような低水準のサービスもあれば、その上で動くライブ
 #@# logic or connectivity anywhere. In my view, this is the layer where most
 #@# programming should happen, with specific applications being just something that
 #@# connects various libraries into a framework that then runs the actual app.
-The much more appealing opportunity is on the libraries and frameworks level. A framework, if generic enough, can usually be utilized for building different sorts of software. And a library can be used to bring a particular piece of logic or connectivity anywhere. In my view, this is the layer where most programming should happen, with specific applications being just something that connects various libraries into a framework that then runs the actual app.
+コードを共有する機会がもっとありそうなのが、ライブラリやフレームワークのレベルでの話だ。
+十分に汎用的なフレームワークなら、通常はさまざまな種類のソフトウェアを構築するのに使えるだろう。
+またライブラリも、何かのロジックや接続をさまざまな場所で使えるようにできるだろう。
+個人的には、いちばんプログラミングをするのが、このあたりのレイヤーだと思う。
+さまざまなライブラリをフレームワークに組み込んで、それが実際のアプリケーションになるといったものだ。
 
 #@# What is a library and what is a framework? People often use these terms
 #@# interchangeably, but there is a useful rule of thumb to know which is which: a
