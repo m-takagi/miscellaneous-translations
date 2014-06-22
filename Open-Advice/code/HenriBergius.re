@@ -193,7 +193,10 @@ OSのような低水準のサービスもあれば、その上で動くライブ
 #@# interchangeably, but there is a useful rule of thumb to know which is which: a
 #@# library is something that your code calls, while a framework is something that
 #@# calls your code.
-What is a library and what is a framework? People often use these terms interchangeably, but there is a useful rule of thumb to know which is which: a library is something that your code calls, while a framework is something that calls your code.
+いったいライブラリとは、そしてフレームワークとは何なのだろうか？
+この二つの言葉を同じ意味で使う人も多いが、経験上、こんなふうに判断すると便利だ。
+ライブラリとは、あなたが書くコードから呼び出すもの、
+そしてフレームワークとは、あなたが書いたコードを呼び出すもの。
 
 #@# If you want your code to be used and improved upon, the best way to go about it
 #@# is to maximize the number of potential users and contributors. With free
