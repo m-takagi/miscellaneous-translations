@@ -202,7 +202,9 @@ OSのような低水準のサービスもあれば、その上で動くライブ
 #@# is to maximize the number of potential users and contributors. With free
 #@# software, this works by ensuring your code can be adapted to multiple different
 #@# situations and environments.
-If you want your code to be used and improved upon, the best way to go about it is to maximize the number of potential users and contributors. With free software, this works by ensuring your code can be adapted to multiple different situations and environments.
+自分のコードを使ってもらいたいだとか改良してもらいたいだとか思っているのなら、
+ユーザーや貢献者になってくれそうな人を可能な限り最大化するようのがいちばんだ。
+フリーソフトウェアに関して言えば、どんな状況や環境にも対応できるようなコードを書いておけばいい。
 
 #@# In the end, what you want to do is to build a library. Libraries are cool.
 In the end, what you want to do is to build a library. Libraries are cool.
