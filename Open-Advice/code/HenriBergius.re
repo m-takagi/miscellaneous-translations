@@ -210,12 +210,14 @@ OSのような低水準のサービスもあれば、その上で動くライブ
 要するに、あなたがやりたいのは、ライブラリを作ることだ。あれはいいものだ。
 
 #@# \section*{How to make collaboration work}
-== How to make collaboration work
+== 共同作業をうまく進めるには
 
 #@# The hardest part is to get over the barrier of them-versus-us. The developers of
 #@# the other community are hackers building free software, just like you. So just
 #@# get over the question and start talking with them.
-The hardest part is to get over the barrier of them-versus-us. The developers of the other community are hackers building free software, just like you. So just get over the question and start talking with them.
+最大の障壁は、彼ら対私たちという対立構造を乗り越えることだ。
+他のコミュニティに関わっている開発者たちだって、フリーソフトウェアを開発するハッカーであり、私たちと同類だ。
+疑うのをやめて、話をしてみよう。
 
 #@# After you have the discussion going, here are some points that I have found
 #@# important when actually implementing common ideas or libraries across project
