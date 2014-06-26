@@ -222,7 +222,8 @@ OSのような低水準のサービスもあれば、その上で動くライブ
 #@# After you have the discussion going, here are some points that I have found
 #@# important when actually implementing common ideas or libraries across project
 #@# boundaries:
-After you have the discussion going, here are some points that I have found important when actually implementing common ideas or libraries across project boundaries:
+ディスカッションを進めた後に、こんなことが重要になると気づいた。
+共通のアイデア、あるいはプロジェクトの境界をまたがるライブラリを実装するためのポイントだ。
 
 #@# \begin{itemize}
 #@# \item Use permissive licensing and try to avoid copyright assignments or other
