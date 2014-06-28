@@ -240,8 +240,8 @@ OSのような低水準のサービスもあれば、その上で動くライブ
 #@# \item Finally, accept that not everybody will use your implementation. But if
 #@# they at least implement the same ideas, then collaboration is still possible.
 #@# \end{itemize}
- * Use permissive licensing and try to avoid copyright assignments or other requirements potential users would find onerous.
- * Host the project on neutral ground. For web projects, Apache is quite a good home. For desktop projects, Freedesktop is probably the best option.
+ * 伝播性のないライセンスを使い、潜在的ユーザーに著作権の譲渡などを要求せずに済むようにする。
+ * 中立的な土台の上にプロジェクトを構築する。WebのプロジェクトならApacheがいいだろうし、デスクトップのプロジェクトならばおそらくはFreedesktopが最良の選択肢だろう。
  * Use technologies that do not impose too many constraints. Libraries should be quite low-level, or provide D-Bus APIs that can be used with any system.
  * Avoid framework-specific dependencies. For example, KDE has found GeoClue hard to adopt because it uses GNOME-specific settings interfaces.
  * Meet the other guys. If you are from the GNOME project, go to aKademy and give a talk, and if you are a KDE developer, go and talk at GUADEC. After you have shared a beer or two collaboration over IRC happens much more naturally.
