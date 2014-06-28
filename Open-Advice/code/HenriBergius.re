@@ -223,7 +223,7 @@ OSのような低水準のサービスもあれば、その上で動くライブ
 #@# important when actually implementing common ideas or libraries across project
 #@# boundaries:
 ディスカッションを進めた後に、こんなことが重要になると気づいた。
-共通のアイデア、あるいはプロジェクトの境界をまたがるライブラリを実装するためのポイントだ。
+プロジェクトの境界をこえて使える共通のアイデアやライブラリを実装するためのポイントだ。
 
 #@# \begin{itemize}
 #@# \item Use permissive licensing and try to avoid copyright assignments or other
