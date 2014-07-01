@@ -244,7 +244,8 @@ OSのような低水準のサービスもあれば、その上で動くライブ
  * 中立的な土台の上にプロジェクトを構築する。WebのプロジェクトならApacheがいいだろうし、デスクトップのプロジェクトならばおそらくはFreedesktopが最良の選択肢だろう。
  * あまりにも多くの制約を要求するテクノロジーは使わない。ライブラリは十分に低水準であるべきだ。あるいはD-Bus APIを提供しておけば、あらゆるシステムで使える。
  * フレームワークへ固有の依存関係を避ける。たとえば、KDEでGeoClueを採用するのは難しかった。その理由は、設定インターフェイスがGNOME特有のものだったからだ。
- * Meet the other guys. If you are from the GNOME project, go to aKademy and give a talk, and if you are a KDE developer, go and talk at GUADEC. After you have shared a beer or two collaboration over IRC happens much more naturally.
+ * 他の人たちに会う。たとえばGNOMEプロジェクトの人ならaKademyに行って話をしてみればいいし、KDE開発者ならGUADECで話をしよう。
+ そうすることで、その後のIRCなどでの共同作業をより進めやすくなる。
  * Finally, accept that not everybody will use your implementation. But if they at least implement the same ideas, then collaboration is still possible.
 
 
