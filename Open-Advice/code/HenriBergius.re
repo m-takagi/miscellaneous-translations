@@ -246,8 +246,8 @@ OSのような低水準のサービスもあれば、その上で動くライブ
  * フレームワークへ固有の依存関係を避ける。たとえば、KDEでGeoClueを採用するのは難しかった。その理由は、設定インターフェイスがGNOME特有のものだったからだ。
  * 他の人たちに会う。たとえばGNOMEプロジェクトの人ならaKademyに行って話をしてみればいいし、KDE開発者ならGUADECで話をしよう。
  そうすることで、その後のIRCなどでの共同作業をより進めやすくなる。
- * Finally, accept that not everybody will use your implementation. But if they at least implement the same ideas, then collaboration is still possible.
-
+ * みんながみんな、あなたの実装を使うわけではないという事実を受け入れる。
+ しかし少なくとも、似たアイデアを実装しようとしている人を見かけたら、共同作業を提案することはできる。
 
 #@# Good luck with breaking down the project boundaries! In most cases it works if
 #@# your ideas are good and presented with an open mind.  But even if you do not
