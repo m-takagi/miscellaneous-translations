@@ -254,4 +254,7 @@ OSのような低水準のサービスもあれば、その上で動くライブ
 #@# find a common ground, as long as your implementation solves the use case for you
 #@# it has not been in vain. After all, delivering software, and delivering great
 #@# user experience is what counts.
-Good luck with breaking down the project boundaries! In most cases it works if your ideas are good and presented with an open mind.  But even if you do not find a common ground, as long as your implementation solves the use case for you it has not been in vain. After all, delivering software, and delivering great user experience is what counts.
+プロジェクト間の壁を打ち破っていこう！
+良いアイデアがあって、オープンな気持ちで接すれば、たいていの場合はうまくいくはずだ。
+仮に周りの人たちとの間で合意が得られなくても、あなたの実装が自分自身にとって使えるものならば、無駄にはならない。
+結局のところ、ソフトウェアを公開して、すばらしいユーザー体験をもたらすことこそが大切なのだから。
