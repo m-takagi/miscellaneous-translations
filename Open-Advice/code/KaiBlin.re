@@ -28,7 +28,10 @@ Kai Blinは計算生物学者で、コンピューターやラボで抗生物質
 #@# by the particular project you are contributing to, will make your life much
 #@# easier.
 //noindent
-Writing patches and submitting them often is the first real interaction you can have with an Open Source project. They are the first impression you give to the developers there. Getting your first patches ``right'', however that is judged by the particular project you are contributing to, will make your life much easier.
+パッチを書いて送りつけるというのは、オープンソースプロジェクトと実際に関わりを持つための第一歩だ。
+パッチを書けば、そのプロジェクトの開発者たちに、自分を印象づけられる。
+はじめてのパッチを「正しく」書くことができれば（正しいかどうかを判断するのはプロジェクト側だが）、
+ずっと生きやすくなるだろう。
 
 #@# The exact rules on what the patch should look like, how you need to send it to
 #@# the project and all the other details will probably vary with every project you
