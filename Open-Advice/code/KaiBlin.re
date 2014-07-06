@@ -16,7 +16,10 @@ Kai Blin
 #@#     on stage as well as building props, stage and handling other techie
 #@#     things backstage.}
 //lead{
-Kai Blin is a computational biologist searching for antibiotics in his day job, both at the computer and in the lab. He feels very happy that he gets to release the software developed at work under Open Source licenses. Living in the lovely southern German town of Tübingen, Kai spends some of his evenings at the computer, programming for the Samba project. Most of his remaining spare time is spent at the theatre, where Kai is active both on stage as well as building props, stage and handling other techie things backstage.
+Kai Blinは計算生物学者で、コンピューターやラボで抗生物質を探す仕事をしている。
+仕事で開発したソフトウェアをオープンソースライセンスのもとでリリースできたことを、うれしく思っている。
+ドイツ南部のテュービンゲンで暮らすKaiは、仕事以外ではSambaプロジェクトでのプログラミングにもかかわっている。
+その他の空き時間は、劇場で過ごすことが多い。舞台に立つこともあれば、舞台や小道具などを組み立てたりといった裏方をこなすこともある。
 //}
 
 #@# \noindent{}Writing patches and submitting them often is the first real interaction you can
