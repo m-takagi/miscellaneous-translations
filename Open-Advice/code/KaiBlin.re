@@ -37,7 +37,9 @@ Kai Blinは計算生物学者で、コンピューターやラボで抗生物質
 #@# the project and all the other details will probably vary with every project you
 #@# want to contribute to. I have found that few general rules hold pretty much all
 #@# the time, and that is what this essay is about.
-The exact rules on what the patch should look like, how you need to send it to the project and all the other details will probably vary with every project you want to contribute to. I have found that few general rules hold pretty much all the time, and that is what this essay is about.
+パッチとはどうあるべきものなのか、パッチをプロジェクトに投げるにはどうすればいいのかといった詳細は、
+プロジェクトによってそれぞれ違ってくることだろう。
+そんな中で、どんなプロジェクトについてもあてはまる一般的なルールもある。それが、今回の主題だ。
 
 #@# \section*{How to get things wrong}
 == How to get things wrong
