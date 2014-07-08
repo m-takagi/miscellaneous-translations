@@ -52,7 +52,12 @@ Kai Blinは計算生物学者で、コンピューターやラボで抗生物質
 #@# Alexandre Julliard, has commit access to the main repository. Back in 2005, Wine
 #@# still was using CVS as its version control. When the project started and I got
 #@# the email that I was accepted, I got hold of my mentor on IRC and got to work.
-This book is about ``things we wish we had known when we got started'', so let me get started with the story of my first patches. I first got involved in real coding during the Google Summer of Code™ ~2005. The Wine project had accepted me to implement NTLM crypto based on some Samba-related tool. Wine is a single-committer project, meaning that only the lead developer, Alexandre Julliard, has commit access to the main repository. Back in 2005, Wine still was using CVS as its version control. When the project started and I got the email that I was accepted, I got hold of my mentor on IRC and got to work.
+この本は「あのとき私が知っておきたかったこと」に関するものだ。というわけで、まずは私が初めてパッチを書いたときの話をさせて欲しい。
+初めて実際のコーディングにかかわったのは、2005年のGoogle Summer of Code™だった。
+Wineプロジェクトが、Samba関連のツールを元にしたNTLM cryptoの実装を実装することを認めてくれたんだ。
+Wineはコミッターが1人だけのプロジェクトだ。つまり、リードデベロッパーであるAlexandre Julliardだけが、メインリポジトリへのコミット権を持つ。
+2005年当時、Wineはまだ、バージョン管理にCVSを使っていた。
+プロジェクトが始まり、私の申し出が受け入れられたというメールを受け取ったので、メンターをIRC上でつかまえて作業に入った。
 
 #@# Coding away happily, I got the first features implemented. I produced a patch
 #@# for my mentor to review. In the olden CVS days, you had to provide all the diff
