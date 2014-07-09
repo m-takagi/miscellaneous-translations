@@ -69,7 +69,14 @@ Wineはコミッターが1人だけのプロジェクトだ。つまり、リー
 #@# actually preferred the normal output over the unified diff output. Switched on
 #@# by the \texttt{-u} flag, this makes diff use the \texttt{$+++$} and
 #@# \texttt{$---$} notation.
-Coding away happily, I got the first features implemented. I produced a patch for my mentor to review. In the olden CVS days, you had to provide all the diff options manually, but I had read up on that part. @<code>{cvs diff -N -u > ntlm.patch} and I had the file I could send to my mentor. Actually this is one thing I did get right, and the first thing you should consider when you prepare a patch. The normal output from the diff command might be easier to read for a computer, but I never met a human who actually preferred the normal output over the unified diff output. Switched on by the @<code>{-u} flag, this makes diff use the @<code>{$+++$} and @<code>{$---$} notation.
+順調にコーディングを進めて、最初のフィーチャーを実装し終えた。
+そこで、パッチを作ってメンターにレビューしてもらった。
+いにしえのCVS時代、diffのオプションは全部手で指定する必要があったのだけれど、そんなものは事前に調査済みだった。
+@<code>{cvs diff -N -u > ntlm.patch}として作ったファイルを、メンターに送った。
+実際、これは正しくできたことの一つだった。パッチを作るときにまず考える必要があるのが、これだ。
+diffコマンドの通常の出力のほうが、機械には読みやすいのかもしれない。
+しかし、私はこれまで、標準の出力のほうがunified diffよりも読みやすいなどという人に出会ったことはない。
+@<code>{-u}フラグでunified diff形式を有効にすれば、@<code>{$+++$}と@<code>{$---$}を使ってdiffが出力されるようになる。
 
 #@# For example, the following diff is the result of teaching the Python ``Hello,
 #@# world!'' example program to greet the world in Swedish.
