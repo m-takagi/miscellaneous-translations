@@ -80,7 +80,7 @@ diffコマンドの通常の出力のほうが、機械には読みやすいの�
 
 #@# For example, the following diff is the result of teaching the Python ``Hello,
 #@# world!'' example program to greet the world in Swedish.
-For example, the following diff is the result of teaching the Python ``Hello, world!'' example program to greet the world in Swedish.
+たとえば、Pythonの"Hello, world!"プログラムをスウェーデン語版に書き換えたときのdiffは、このようになる。
 
 #@# \begin{verbatim}
 #@# diff --git a/hello.py b/hello.py
@@ -110,7 +110,8 @@ index 59dbef8..6334aa2 100644
 #@# The line starting with \texttt{-} is the line being removed, the one starting
 #@# with \texttt{+} is the one being added. The other lines are helping the
 #@# \texttt{patch} tool to do its job.
-The line starting with @<code>{-} is the line being removed, the one starting with @<code>{+} is the one being added. The other lines are helping the @<code>{patch} tool to do its job.
+@<code>{-}で始まる行は削除された行で、@<code>{+}で始まる行が追加された行を表す。
+その他の行は、@<code>{patch}コマンドが処理を行うときに使うものだ。
 
 #@# My newly created unified diff was sent to my mentor, who gave me a review and
 #@# lots of things I could change. I fixed that stuff, and sent him a new diff
