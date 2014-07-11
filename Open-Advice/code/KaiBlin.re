@@ -122,7 +122,15 @@ index 59dbef8..6334aa2 100644
 #@# refused to look at the patch further before I split it up. Wine policy requires
 #@# that patches are small logical steps adding functionality. Each patch needs to
 #@# do something useful \emph{and} compile.
-My newly created unified diff was sent to my mentor, who gave me a review and lots of things I could change. I fixed that stuff, and sent him a new diff shortly after. The code--review cycle continued for the whole duration of GSoC, with my patch growing and growing. When the pencils down date arrived, I had a huge monster patch with all my changes in there. Naturally I had a really hard time getting that patch reviewed, let alone committed. In the end, Alexandre refused to look at the patch further before I split it up. Wine policy requires that patches are small logical steps adding functionality. Each patch needs to do something useful @<em>{and} compile.
+新しく作ったunified diffをメンターに送り、レビューをしてもらった。
+修正の指摘がたくさんあった。
+それを直して、新しいdiffを送り直した。
+GSoCの期間中、こういったコーディングとレビューを繰り返すうちに、パッチのサイズはどんどんふくれあがった。
+最終日になったときに手元に残ったのは、あらゆる変更が含まれた一つの巨大なパッチだった。
+当然、そんなパッチをレビューしてもらうのは至難の業だし、コミットする側も大変だろう。
+Alexandreから、パッチを分割しなければ見てやらないと言われた。
+Wineのポリシーとして、小規模な論理的手順で機能を追加していくパッチであるべきとされている。
+各パッチは、何らかの有用な内容であるだけでなく、コンパイルできる必要もある。
 
 #@# Now, splitting an existing huge patch up in pieces that individually make sense
 #@# \emph{and} compile is a lot of work. It was even more work because the only way
