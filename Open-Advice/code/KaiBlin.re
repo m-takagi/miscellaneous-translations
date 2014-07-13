@@ -141,7 +141,14 @@ Wineのポリシーとして、小規模な論理的手順で機能を追加し�
 #@# patch for a month before I could continue, and I eventually got my last patch in
 #@# in November. I was totally frustrated with the whole experience and decided I
 #@# did not want to deal with the Wine community anymore.
-Now, splitting an existing huge patch up in pieces that individually make sense @<em>{and} compile is a lot of work. It was even more work because the only way I knew this could be done was to write a small patch, create the diff, get that committed, update my local checkout and then write the next small patch. Shortly after I started sending my first small patches, Wine went into a one month feature freeze leading up to the 0.9.0 beta release. I was sitting on my next patch for a month before I could continue, and I eventually got my last patch in in November. I was totally frustrated with the whole experience and decided I did not want to deal with the Wine community anymore.
+巨大なパッチを分割し、それぞれが意味の通っていて@<em>{かつ}コンパイルできるようなものにするというのは大変な作業だ。
+さらに大変なことに、私自身が巨大なパッチを分割する方法をあまり知らなかった。
+小さなパッチを書いてdiffを作り、それをコミットしてローカルのチェックアウトを更新し、
+そしてまた次の小さなパッチを書いていくという方法しか思いつかなかった。
+小さくしたパッチの第一弾を送って間もなく、Wineは1か月間のフィーチャーフリーズ期間に入った。
+0.9.0ベータリリースに向けたものだ。
+次のパッチを送れるようになるまで1か月待つ必要があり、採取的に最後のパッチを送り終えたのは11月のことだった。
+相当イライラしたので、もう二度とWineコミュニティとは関わらないと決心した。
 
 #@# My frustration held up until people who were actually using my code were
 #@# starting to ask questions about it in February 2006. My code was actually
