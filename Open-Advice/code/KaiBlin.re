@@ -157,7 +157,12 @@ Wineのポリシーとして、小規模な論理的手順で機能を追加し�
 #@# Wine had switched to git in December 2005, I knew I would not be held up by
 #@# possible code freezes, as I finally could create all my small patches locally.
 #@# Life was good.
-My frustration held up until people who were actually using my code were starting to ask questions about it in February 2006. My code was actually useful! They wanted more features as well. When Google went on to announce it would be doing GSoC again in 2006, my plans for the summer were clear. Now that Wine had switched to git in December 2005, I knew I would not be held up by possible code freezes, as I finally could create all my small patches locally. Life was good.
+それ以来ずっとイライラし続けていたが、ある日、私のコードを実際に使っている人から質問を受けたことでイライラは収まった。2006年2月のことだった。
+私のコードが役に立っているんだ！
+彼らは機能追加を求めていた。
+Googleが2006年にもGSoCを開催すると発表したとき、その夏の計画は決まった。
+Wineは2005年12月にgitへの移行を済ませていた。つまり、仮にコードフリーズがあろうが、小さなパッチをローカルだけで作れるということだ。
+人生、悪いことばかりじゃない。
 
 #@# It wasn't until I stumbled over a git frontend (called porcelain in git-speak)
 #@# that emulated the ``quilt'' behavior that I learned that there were tools that
