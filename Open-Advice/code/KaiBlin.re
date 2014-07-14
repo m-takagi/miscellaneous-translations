@@ -167,7 +167,8 @@ Wineは2005年12月にgitへの移行を済ませていた。つまり、仮に�
 #@# It wasn't until I stumbled over a git frontend (called porcelain in git-speak)
 #@# that emulated the ``quilt'' behavior that I learned that there were tools that
 #@# could have made my life easier even in 2005.
-It wasn't until I stumbled over a git frontend (called porcelain in git-speak) that emulated the ``quilt'' behavior that I learned that there were tools that could have made my life easier even in 2005.
+"quilt"の挙動をエミュレートするgitフロントエンド（gitな人たちの間ではporcelainと呼ばれているもの）と悪戦苦闘してはじめて、
+2005年のあのときであっても、もう少しうまくやるためのツールがあったのだろうとわかった。
 
 #@# \section*{How NOT to get things wrong}
 == How NOT to get things wrong
