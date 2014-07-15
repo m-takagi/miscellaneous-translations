@@ -18,7 +18,7 @@
 <p class="noindent">パッチを書いて送りつけるというのは、オープンソースプロジェクトと実際に関わりを持つための第一歩だ。パッチを書けば、そのプロジェクトの開発者たちに、自分を印象づけられる。はじめてのパッチを「正しく」書くことができれば（正しいかどうかを判断するのはプロジェクト側だが）、ずっと生きやすくなるだろう。</p>
 <p>パッチとはどうあるべきものなのか、パッチをプロジェクトに投げるにはどうすればいいのかといった詳細は、プロジェクトによってそれぞれ違ってくることだろう。そんな中で、どんなプロジェクトについてもあてはまる一般的なルールもある。それが、今回の主題だ。</p>
 
-<h2><a id="h-1"></a>How to get things wrong</h2>
+<h2><a id="h-1"></a>状況を悪化させるには</h2>
 <p>この本は「あのとき私が知っておきたかったこと」に関するものだ。というわけで、まずは私が初めてパッチを書いたときの話をさせて欲しい。初めて実際のコーディングにかかわったのは、2005年のGoogle Summer of Code™だった。Wineプロジェクトが、Samba関連のツールを元にしたNTLM cryptoの実装を実装することを認めてくれたんだ。Wineはコミッターが1人だけのプロジェクトだ。つまり、リードデベロッパーであるAlexandre Julliardだけが、メインリポジトリへのコミット権を持つ。2005年当時、Wineはまだ、バージョン管理にCVSを使っていた。プロジェクトが始まり、私の申し出が受け入れられたというメールを受け取ったので、メンターをIRC上でつかまえて作業に入った。</p>
 <p>順調にコーディングを進めて、最初のフィーチャーを実装し終えた。そこで、パッチを作ってメンターにレビューしてもらった。いにしえのCVS時代、diffのオプションは全部手で指定する必要があったのだけれど、そんなものは事前に調査済みだった。<tt class="inline-code">cvs diff -N -u &gt; ntlm.patch</tt>として作ったファイルを、メンターに送った。実際、これは正しくできたことの一つだった。パッチを作るときにまず考える必要があるのが、これだ。diffコマンドの通常の出力のほうが、機械には読みやすいのかもしれない。しかし、私はこれまで、標準の出力のほうがunified diffよりも読みやすいなどという人に出会ったことはない。<tt class="inline-code">-u</tt>フラグでunified diff形式を有効にすれば、<tt class="inline-code">$+++$</tt>と<tt class="inline-code">$---$</tt>を使ってdiffが出力されるようになる。</p>
 <p>たとえば、Pythonの&quot;Hello, world!&quot;プログラムをスウェーデン語版に書き換えたときのdiffは、このようになる。</p>
@@ -41,8 +41,8 @@ index 59dbef8..6334aa2 100644
 <p>それ以来ずっとイライラし続けていたが、ある日、私のコードを実際に使っている人から質問を受けたことでイライラは収まった。2006年2月のことだった。私のコードが役に立っているんだ！彼らは機能追加を求めていた。Googleが2006年にもGSoCを開催すると発表したとき、その夏の計画は決まった。Wineは2005年12月にgitへの移行を済ませていた。つまり、仮にコードフリーズがあろうが、小さなパッチをローカルだけで作れるということだ。人生、悪いことばかりじゃない。</p>
 <p>&quot;quilt&quot;の挙動をエミュレートするgitフロントエンド（gitな人たちの間ではporcelainと呼ばれているもの）と悪戦苦闘してはじめて、2005年のあのときであっても、もう少しうまくやるためのツールがあったのだろうとわかった。</p>
 
-<h2><a id="h-2"></a>How NOT to get things wrong</h2>
-<p>After my tale of how I managed to get things wrong with regard to sending patches, let me continue with a few tips to avoid the pitfalls.</p>
+<h2><a id="h-2"></a>状況を悪化させないためには</h2>
+<p>かつての私の失敗談はこれくらいにしておいて、ここからは、そんな落とし穴にはまらないためのヒントを紹介しよう。</p>
 
 <h3><a id="h-2-1"></a>Patch submission guidelines</h3>
 <p>The first tip I have is to read up on any patch submission guidelines the project you want to contribute to might have. Those should actually be consulted before you start coding, along with any coding style guidelines the project has.</p>

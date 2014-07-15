@@ -42,7 +42,7 @@ Kai Blinは計算生物学者で、コンピューターやラボで抗生物質
 そんな中で、どんなプロジェクトについてもあてはまる一般的なルールもある。それが、今回の主題だ。
 
 #@# \section*{How to get things wrong}
-== How to get things wrong
+== 状況を悪化させるには
 
 #@# This book is about ``things we wish we had known when we got started'',
 #@# so let me get started with the story of my first patches. I first got involved
@@ -171,11 +171,11 @@ Wineは2005年12月にgitへの移行を済ませていた。つまり、仮に�
 2005年のあのときであっても、もう少しうまくやるためのツールがあったのだろうとわかった。
 
 #@# \section*{How NOT to get things wrong}
-== How NOT to get things wrong
+== 状況を悪化させないためには
 
 #@# After my tale of how I managed to get things wrong with regard to sending
 #@# patches, let me continue with a few tips to avoid the pitfalls.
-After my tale of how I managed to get things wrong with regard to sending patches, let me continue with a few tips to avoid the pitfalls.
+かつての私の失敗談はこれくらいにしておいて、ここからは、そんな落とし穴にはまらないためのヒントを紹介しよう。
 
 #@# \subsection*{Patch submission guidelines}
 === Patch submission guidelines
