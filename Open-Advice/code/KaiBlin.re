@@ -178,12 +178,13 @@ Wineは2005年12月にgitへの移行を済ませていた。つまり、仮に�
 かつての私の失敗談はこれくらいにしておいて、ここからは、そんな落とし穴にはまらないためのヒントを紹介しよう。
 
 #@# \subsection*{Patch submission guidelines}
-=== Patch submission guidelines
+=== パッチ投稿のガイドライン
 
 #@# The first tip I have is to read up on any patch submission guidelines the
 #@# project you want to contribute to might have. Those should actually be consulted
 #@# before you start coding, along with any coding style guidelines the project has.
-The first tip I have is to read up on any patch submission guidelines the project you want to contribute to might have. Those should actually be consulted before you start coding, along with any coding style guidelines the project has.
+何かのプロジェクトに貢献したいとおもったときには、まずそのプロジェクトのパッチ投稿ガイドラインがないかどうかを確認しよう。
+コーディングを始める前に調べるべきで、それと同時にそのプロジェクトのコーディングスタイルのガイドラインも確認する。
 
 #@# \subsection*{Unified diffs}
 === Unified diffs
