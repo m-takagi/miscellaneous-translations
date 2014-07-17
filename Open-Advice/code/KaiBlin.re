@@ -187,14 +187,17 @@ Wineは2005年12月にgitへの移行を済ませていた。つまり、仮に�
 コーディングを始める前に調べるべきで、それと同時にそのプロジェクトのコーディングスタイルのガイドラインも確認する。
 
 #@# \subsection*{Unified diffs}
-=== Unified diffs
+=== Unified diff
 
 #@# Even if not covered in the patch submission guidelines explicitly, you really,
 #@# really want to send unified diff output. I have yet to meet a project that
 #@# prefers the non-unified output of diff. Unified diffs make reviewing the patch
 #@# so much easier. It is no accident that most modern version control programs
 #@# automatically use that format in their diff command.
-Even if not covered in the patch submission guidelines explicitly, you really, really want to send unified diff output. I have yet to meet a project that prefers the non-unified output of diff. Unified diffs make reviewing the patch so much easier. It is no accident that most modern version control programs automatically use that format in their diff command.
+たとえパッチ投稿ガイドラインに明示されていなくても、unified diff形式のパッチを送るようにしよう。
+いまだかつて、それ以外の形式のdiffを好むプロジェクトに出会ったことはない。
+unified diff形式のパッチは、とてもレビューしやすい。
+今どきのバージョン管理システムの多くがdiffのデフォルト出力をunified diff形式にしているのは、偶然でも何でもないんだ。
 
 #@# \subsection*{Use distributed version control}
 === Use distributed version control
