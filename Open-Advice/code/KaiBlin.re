@@ -200,7 +200,7 @@ unified diff形式のパッチは、とてもレビューしやすい。
 今どきのバージョン管理システムの多くがdiffのデフォルト出力をunified diff形式にしているのは、偶然でも何でもないんだ。
 
 #@# \subsection*{Use distributed version control}
-=== Use distributed version control
+=== 分散型バージョン管理の利用
 
 #@# Speaking of modern version control, you will want to use a DVCS to work on the
 #@# code locally. Git or Mercurial are the most popular choices there, Bazaar might
@@ -210,7 +210,11 @@ unified diff形式のパッチは、とてもレビューしやすい。
 #@# tools should be able to import commits from SVN or CVS. You could go and learn
 #@# quilt, but seriously, the future is in the field of distributed version
 #@# control.
-Speaking of modern version control, you will want to use a DVCS to work on the code locally. Git or Mercurial are the most popular choices there, Bazaar might be worth a look as well. Even if the project you want to contribute to still uses a centralized version control, being able to commit your changes iteratively is a great thing. All of the mentioned distributed version control tools should be able to import commits from SVN or CVS. You could go and learn quilt, but seriously, the future is in the field of distributed version control.
+今時のバージョン管理のことを考えると、分散型バージョン管理システムを使ってローカルで作業できるようにしておきたいところだ。
+GitやMercurialが使われることが多いが、Bazaarも見るべきところがある。
+仮に、自分が貢献しようとしているプロジェクトが未だに中央管理型のバージョン管理を使っているのだとしても、自分の変更をイテレーティブにコミットできるようにしておければやりやすい。
+ここで挙げた分散型バージョン管理システムはすべて、SVNやCVSのコミットをインポートする機能がある。
+quiltについて学んでみよう。しかし、実際のところ、将来的には分散型バージョン管理の時代になるはずだ。
 
 #@# \subsection*{Small patches, doing one thing at a time}
 === Small patches, doing one thing at a time
