@@ -217,14 +217,16 @@ GitやMercurialが使われることが多いが、Bazaarも見るべきとこ�
 quiltについて学んでみよう。しかし、実際のところ、将来的には分散型バージョン管理の時代になるはずだ。
 
 #@# \subsection*{Small patches, doing one thing at a time}
-=== Small patches, doing one thing at a time
+=== 小さなパッチで、一度に一つのことだけを行う
 
 #@# When I have to review patches, patches that are too big or that try to do many
 #@# things at once are really annoying to deal with. Patches doing only one thing at
 #@# a time are easier to review. Eventually, they will make your life easier when you
 #@# finally need to debug the mistakes both the author and the reviewer of the patch
 #@# missed.
-When I have to review patches, patches that are too big or that try to do many things at once are really annoying to deal with. Patches doing only one thing at a time are easier to review. Eventually, they will make your life easier when you finally need to debug the mistakes both the author and the reviewer of the patch missed.
+パッチをレビューする立場としては、大きすぎるパッチや一度にいろんなことをしようとしているパッチは、ほんとうに扱いづらいものだ。
+ひとつのことだけを行っているパッチのほうが、レビューしやすい。
+もとの作者もパッチを書いた人も見落とした間違いをデバッグすることになったときにも、そのほうがずっと楽だ。
 
 #@# \subsection*{Track your patch}
 === Track your patch
