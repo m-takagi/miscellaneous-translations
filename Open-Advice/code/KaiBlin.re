@@ -229,7 +229,7 @@ quiltについて学んでみよう。しかし、実際のところ、将来的
 もとの作者もパッチを書いた人も見落とした間違いをデバッグすることになったときにも、そのほうがずっと楽だ。
 
 #@# \subsection*{Track your patch}
-=== Track your patch
+=== パッチを追跡する
 
 #@# After you have submitted your patch, keep an eye on the communication channels
 #@# of the project and on your patch. If you have not gotten any feedback for a week,
@@ -240,7 +240,13 @@ quiltについて学んでみよう。しかし、実際のところ、将来的
 #@# you for this, provided you get most of the things right. Just make sure that you
 #@# fix all of the things the developers indicated and send a second version of the
 #@# patch.
-After you have submitted your patch, keep an eye on the communication channels of the project and on your patch. If you have not gotten any feedback for a week, you should politely ask for feedback. Depending how the project handles patch submissions, a patch might get lost in the noise. Do not expect to get your patch committed in the first iteration. It usually takes a couple of tries to get used to the style of a new project. As a first-time contributor, nobody will blame you for this, provided you get most of the things right. Just make sure that you fix all of the things the developers indicated and send a second version of the patch.
+パッチを送った後は、そのプロジェクトや自分のパッチについてのやりとりに目を光らせること。
+一週間たっても何の反応もなければ、改めて反応を求めてみるべきだろう。
+そのプロジェクトのパッチ対応方針にもよるが、あなたのパッチが他のノイズに紛れ込んでしまっている可能性がある。
+送ったパッチがそのまますぐに取り込まれるなどと期待しないこと。
+通常は、そのプロジェクトのスタイルに合わせるために、何回かの調整が必要になる。
+初めてパッチを送った人がたとえプロジェクトのスタイルに合わせていなかったとしても、それだけで非難されることはない。
+開発者に指摘された箇所を修正して、パッチを送り直せばいい。
 
 #@# \section*{Conclusion}
 == Conclusion
