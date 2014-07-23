@@ -249,13 +249,15 @@ quiltについて学んでみよう。しかし、実際のところ、将来的
 開発者に指摘された箇所を修正して、パッチを送り直せばいい。
 
 #@# \section*{Conclusion}
-== Conclusion
+== 結論
 
 #@# Writing good patches is not hard. There are a couple of things to consider, but
 #@# after writing a couple of them you should be on top of those. A modern
 #@# (distributed) version control system and the workflow you get using it actually
 #@# take care of most of the things I mentioned.
-Writing good patches is not hard. There are a couple of things to consider, but after writing a couple of them you should be on top of those. A modern (distributed) version control system and the workflow you get using it actually take care of most of the things I mentioned.
+よいパッチを書くのは、決して難しいことではない。
+考慮すべきことはいくつかあるものの、何度かパッチを書けば自然と身につくだろう。
+今時の分散型バージョン管理システムを活用すれば、私がここで示したことはすべて実現できる。
 
 #@# \subsection*{If you remember nothing else, remember this\ldots}
 === If you remember nothing else, remember this...
