@@ -260,7 +260,7 @@ quiltについて学んでみよう。しかし、実際のところ、将来的
 今時の分散型バージョン管理システムを活用すれば、私がここで示したことはすべて実現できる。
 
 #@# \subsection*{If you remember nothing else, remember this\ldots}
-=== If you remember nothing else, remember this...
+=== これだけは、覚えて帰ってください…
 
 #@# \begin{itemize}
 #@#   \item Use a distributed version control system to manage your patches
@@ -268,10 +268,10 @@ quiltについて学んでみよう。しかし、実際のところ、将来的
 #@#   \item Follow the existing coding conventions
 #@#   \item Respond to comments on your patch promptly
 #@# \end{itemize}
- * Use a distributed version control system to manage your patches
- * Write patches changing code in small, self-contained steps
- * Follow the existing coding conventions
- * Respond to comments on your patch promptly
+ * 分散型バージョン管理システムでパッチを管理する
+ * パッチを書くときは、小さめにまとめる
+ * 既存のコードのコーディング規約に従う
+ * パッチについてコメントを受けたら、すぐに対応する
 
 #@# The above guidelines should help you to do most if not all things right when
 #@# submitting your first patches. Happy coding.
