@@ -275,4 +275,4 @@ quiltについて学んでみよう。しかし、実際のところ、将来的
 
 #@# The above guidelines should help you to do most if not all things right when
 #@# submitting your first patches. Happy coding.
-The above guidelines should help you to do most if not all things right when submitting your first patches. Happy coding.
+最初のパッチがうまく受け入れられなかったときには、これらのガイドラインが太助になるだろう。コーディングを楽しもう。
