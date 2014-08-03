@@ -10,7 +10,8 @@ Jonathan Riddell
 #@# \authorbio{Jonathan Riddell is a KDE and Kubuntu developer currently employed by
 #@# Canonical. When not at a computer he canoes the rivers of Scotland.}
 //lead{
-Jonathan Riddell is a KDE and Kubuntu developer currently employed by Canonical. When not at a computer he canoes the rivers of Scotland.
+Jonathan RiddellはKDEやKubuntuの開発者で、現在はCanonicalで働いている。
+コンピューターから離れているときは、スコットランドの川でカヌーを楽しむ。
 //}
 
 #@# \noindent{}There was a bug in the code. A nasty one too: a crash without saving data.
