@@ -21,7 +21,13 @@ Jonathan RiddellはKDEやKubuntuの開発者で、現在はCanonicalで働いて
 #@# adding features, which leads to project maintenance, which leads to running
 #@# community.
 //noindent
-There was a bug in the code. A nasty one too: a crash without saving data. That is the problem with looking at code, you find things to fix. It is easy to get involved in Free Software; the difficult part is getting out again. After the first bug fix there are more and more, all within reach. Bug fixes lead to adding features, which leads to project maintenance, which leads to running community.
+そのコードにはバグがあった。
+ひどいやつだった。作業中のデータもろともクラッシュしてしまうようなものだった。
+コードを見て、おかしなところを見つけようとしたが、そうはいかなかった。
+フリーソフトウェアの世界に流れるのも、当然のことだった。
+しかしそこでもまた、別の問題が発生した。
+ひとつバグを直したら、次から次へとバグが見つかった。全部手の届く範囲にある。
+バグ修正のためには機能を追加する必要があり、そのためにはプロジェクトを仕切る必要があり、それがつまり、コミュニティを運営することにつながる。
 
 #@# It started with reading Slashdot, that mass of poorly filtered tech and geek
 #@# news with comments from anyone who can reload fast enough to get at the top.
