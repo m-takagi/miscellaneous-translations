@@ -35,7 +35,10 @@ Jonathan RiddellはKDEやKubuntuの開発者で、現在はCanonicalで働いて
 #@# world I was becoming fascinated with. No more did I have to accept what was
 #@# given to me by large software companies, here in the Free Software community I
 #@# could see the code develop in front of me.
-It started with reading Slashdot, that mass of poorly filtered tech and geek news with comments from anyone who can reload fast enough to get at the top. Every news story was interesting and exciting, a fresh insight into the tech world I was becoming fascinated with. No more did I have to accept what was given to me by large software companies, here in the Free Software community I could see the code develop in front of me.
+Slashdotを読むことからはじまった。技術的な話題からオタク向けの話題まであらゆるニュースが詰まっていて、
+リロードしてはコメントを読みあさった。
+どれも教務部会ニュースばかりで、新たな知見を得られた。そして、いつしかそこにはまっていった。
+自分がいる場所は巨大なソフトウェア企業じゃなく、このフリーソフトウェアコミュニティなのだという事実を、受け入れざるを得なかった。
 
 #@# As a university student it was possible to complete the exercises given by
 #@# lecturers very quickly, but exercises are not finished programs. I wanted to
