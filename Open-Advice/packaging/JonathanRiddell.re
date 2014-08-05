@@ -37,7 +37,7 @@ Jonathan RiddellはKDEやKubuntuの開発者で、現在はCanonicalで働いて
 #@# could see the code develop in front of me.
 Slashdotを読むことからはじまった。技術的な話題からオタク向けの話題まであらゆるニュースが詰まっていて、
 リロードしてはコメントを読みあさった。
-どれも教務部会ニュースばかりで、新たな知見を得られた。そして、いつしかそこにはまっていった。
+どれも興味深いニュースばかりで、新たな知見を得られた。そして、いつしかそこにはまっていった。
 自分がいる場所は巨大なソフトウェア企業じゃなく、このフリーソフトウェアコミュニティなのだという事実を、受け入れざるを得なかった。
 
 #@# As a university student it was possible to complete the exercises given by
@@ -51,7 +51,14 @@ Slashdotを読むことからはじまった。技術的な話題からオタク
 #@# and variables fell into place, enabling me to solve the relevant problems. Free
 #@# Software is the best way to make that step from knowing how to finish exercises
 #@# in a class to understanding how real programs get written.
-As a university student it was possible to complete the exercises given by lecturers very quickly, but exercises are not finished programs. I wanted to know how to apply the simple skills they had given me to the real world by writing programs which solve real problems for people. So I looked for the code, which was not hard to find, just lying around on the Internet in fact. Looking closer at the code for the programs I was running I saw beauty. Not because the code was perfectly tidy or well-structured, but because I could understand it with the concepts I had already learned. Those classes, methods and variables fell into place, enabling me to solve the relevant problems. Free Software is the best way to make that step from knowing how to finish exercises in a class to understanding how real programs get written.
+学生のころ、プログラミングの課題は難なくこなせていた。でも、その課題ってのは、現実離れしたものだった。
+私が知りたかったのは、授業で教わったスキルを現実世界のプログラミングにどういかすのかということだった。
+みんなの問題を解決するためのプログラムを書く方法を知りたかったのだ。
+だから私は、コードを探した。難なく見つかった。インターネットのあちこちに、普通に転がっていた。
+見つけたプログラムのコードをより深く知るために、プログラムを実行しては、その美しさに見とれていた。
+コードが整然としているとか構造がきれいだとかそういうことではなく、これまでに学んだ概念をもってそのコードを理解できることに美を感じた。
+クラスやメソッドそして変数が適所に収まっていて、問題を解決するための助けになった。
+単に大学の課題をこなすのではなく、実際のプログラムがどのように書かれているのかを知るには、フリーソフトウェアが最適だった。
 
 #@# Every computing student should work on Free Software for their dissertation.
 #@# Otherwise you get to spend six months to a year on a project only for it to sit
