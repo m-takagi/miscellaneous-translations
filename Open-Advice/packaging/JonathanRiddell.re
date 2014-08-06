@@ -67,7 +67,12 @@ Slashdotを読むことからはじまった。技術的な話題からオタク
 #@# solve interesting problems. By the end of my project NASA programmers were using
 #@# my UML diagramming tool and it won awards with lavish receptions. With Free
 #@# Software you can solve real problems for real users.
-Every computing student should work on Free Software for their dissertation. Otherwise you get to spend six months to a year on a project only for it to sit in the basement of a library never to be visited again. Only Free Software makes it possible to excel by doing what comes naturally: wanting to learn how to solve interesting problems. By the end of my project NASA programmers were using my UML diagramming tool and it won awards with lavish receptions. With Free Software you can solve real problems for real users.
+計算機科学を学ぶ学生は全員、フリーソフトウェア活動を題材にして論文を書くべきだ。
+じゃないと、図書館に半年から一年近くもこもって論文を仕上げることになるけれど、将来そこに戻ってくることは決してない。
+フリーソフトウェアこそが、一歩先へ進ませてくれるのだ。問題解決の手法を学びたければ、これが最適だ。
+私のプロジェクトに関して言えば、最終的には、NASAのプログラマーが私のUML図作成ツールを使ってくれるようになった。
+そして、そのツールは、豪華な章を受賞することになった。
+フリーソフトウェアなら、実際のユーザーの問題解決に貢献できるってわけだ。
 
 #@# The developer community is full of amazing people, with the passion and
 #@# dedication to work without any more reward than a successful computer program.
