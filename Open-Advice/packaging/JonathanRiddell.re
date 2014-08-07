@@ -78,7 +78,10 @@ Slashdotを読むことからはじまった。技術的な話題からオタク
 #@# dedication to work without any more reward than a successful computer program.
 #@# The user community is also awesome. It is satisfying to know you have helped
 #@# someone solve a problem, and I appreciate the thank you emails I receive.
-The developer community is full of amazing people, with the passion and dedication to work without any more reward than a successful computer program. The user community is also awesome. It is satisfying to know you have helped someone solve a problem, and I appreciate the thank you emails I receive.
+開発者コミュニティにはすばらしい人たちが集まっている。みんな情熱に満ちあふれていて、
+いいプログラムを書くことに専念している。それ以外には何も求めない。
+ユーザーのコミュニティも、すばらしい。
+自分が誰かの問題を解決できたりするとうれしいし、お礼のメールを受け取ったりすることもある。
 
 #@# Having written useful software, it needs to be made available to the masses.
 #@# Source code is not going to work for most people, it needs to be packaged up.
