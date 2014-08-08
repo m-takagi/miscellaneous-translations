@@ -90,7 +90,15 @@ Slashdotを読むことからはじまった。技術的な話題からオタク
 #@# to code anything. This is somewhat unfair, much of the community management
 #@# needed to run any Free Software project can also be seen as taking the credit
 #@# without doing the code.
-Having written useful software, it needs to be made available to the masses. Source code is not going to work for most people, it needs to be packaged up. Before I was involved in it I looked down on packaging as a lazy way to contribute to Free Software. You get to take much of the credit without having to code anything. This is somewhat unfair, much of the community management needed to run any Free Software project can also be seen as taking the credit without doing the code.
+便利なソフトウェアを書いたなら、それをみんなにも使ってもらわないといけない。
+ソースコードだけでは、ほとんどの人にとっては不十分だ。パッケージを作る必要がある。
+実際にかかわりだすまでは、「パッケージングって気楽なものだよなあ。
+たいしたこともせず、フリーソフトウェアに貢献できるんだから」
+なんて思ってた。
+なんといっても、一切コードを書いていないのに、貢献者としてクレジットされるわけだから。
+これはちょっと不公平な言いぐさだ。だって、フリーソフトウェアプロジェクトのコミュニティを
+うまく回していくための作業には、コードを書かずにできることもたくさんあって、
+それぞれ貢献者として認められている。
 
 #@# Users depend on packagers a lot. It needs to be both fast, to keep those who
 #@# want the latest and greatest, and it needs to be reliable, for those who want
