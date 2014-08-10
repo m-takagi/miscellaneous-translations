@@ -114,7 +114,22 @@ Slashdotを読むことからはじまった。技術的な話題からオタク
 #@# they became widely available, these days it is ARM which is defeating coders’
 #@# assumptions. Packagers need to deal with all of these issues, to give something
 #@# to the users which reliably works.
-Users depend on packagers a lot. It needs to be both fast, to keep those who want the latest and greatest, and it needs to be reliable, for those who want stability (which is everyone). The tricky part is that it involves working with other people’s software, and other people’s software is always broken. Once software is out in the wild problems start to emerge that were not visible on the author’s own computer. Maybe the code does not compile with a different compiler version, maybe the licensing is unclear so it can not be copied, maybe the versioning is inconsistent so minor updates might be incompatible, screen sizes might be different, desktop environments can affect it, sometimes necessary third party libraries do not even have a release. These days software needs to run on different architectures, 64-bit processors caused problems when they became widely available, these days it is ARM which is defeating coders’ assumptions. Packagers need to deal with all of these issues, to give something to the users which reliably works.
+ユーザーは、パッケージに頼ることが多い。
+パッケージは、素早く作る必要がある。常に最新版のすばらしい機能を使いというユーザーがいるからだ。
+パッケージは、信頼性のあるものである必要がある。安定を求めるユーザー（全員）がいるからだ。
+難しいのは、他の人が作ったソフトウェアも扱う必要があるということだ。そして、他の人が作ったソフトウェアって、いつもどこかが壊れている。
+ソフトウェアがひとたび野に放たれると、作者のマシン上にあったときとは違って、作者の目の届かないところで問題が発覚するようになる。
+コンパイラのバージョンが変わるとコンパイルできないだとか、
+ライセンスが不明瞭なせいで利用できないとか、
+毎名アップデートのはずなのに互換性を損ねてしまっているとか、
+画面の解像度が違うと問題が発生するとか、
+デスクトップ環境の違いでうまく動かないとか、
+必要なサードパーティのライブラリがまだリリースされていないとか、
+その問題はさまざまだ。
+最近のソフトウェアは、さまざまなアーキテクチャ上で動くことが求められている。
+64ビットプロセッサが広く使われるようになると、それが問題の原因となることも出て来た。
+最近では、ARMでうまく動かないなんていう問題も多い。
+パッケージは、これらすべての問題をうまく処理して、ユーザーが安心して使えるようにしなければいけない。
 
 #@# We have a policy in Ubuntu that packages with unit tests must have those tests
 #@# enabled as part of the package build process. Very often they fail and we get
