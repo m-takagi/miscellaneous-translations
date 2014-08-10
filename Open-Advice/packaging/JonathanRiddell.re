@@ -146,7 +146,20 @@ Slashdotを読むことからはじまった。技術的な話題からオタク
 #@# involved but there is a lot of work to get the software from being 95\% to being
 #@# 100\% ready, that 5\% is the hardest part, a slow and delicate process needing
 #@# careful attention all the way.
-We have a policy in Ubuntu that packages with unit tests must have those tests enabled as part of the package build process. Very often they fail and we get told by the software author that the tests are only for his or her own use. Unfortunately it is never reliable enough in software to test it yourself, it needs others to test it too. One test is rarely enough, it needs a multi-layered approach. The unit tests from the original program should be the first place to start, then the packager tests it on his or her own computer, then it needs others to test it too. Automatic install and upgrade testing can be scripted on cloud computing services quite nicely. Putting it into the development distribution archive gets wider testing before finally some months later it gets released to the masses. At each stage problems can and will be found which need to be fixed, then those fixes need testing. So there might not be much coding involved but there is a lot of work to get the software from being 95% to being 100% ready, that 5% is the hardest part, a slow and delicate process needing careful attention all the way.
+Ubuntuの場合、ユニットテストを含むパッケージについては、パッケージのビルドプロセスの中でそのテストを実行しないといけないというポリシーがある。
+そのテストが失敗することも多くて、ソフトウェアの作者から「そのテスト、あくまでも自分用のものだし」と言われたりすることもある。
+残念ながら、自分自身でテストしただけのソフトウェアは、とても信頼できるものだとは言えない。他からもテストできる必要がある。
+一度のテストだけではまったくもって不十分で、何重ものアプローチが必要だ。
+オリジナルのプログラム自身によるユニットテストが第一歩。
+そして、パッケージ作成者が自身のコンピューターでテストをする。
+さらに、それ以外の人たちもテストできる必要がある。
+自動インストールやアップグレードのテストは、クラウドコンピューティングサービス上でうまく自動化できる。
+開発版の配布アーカイブにそれを含めておけば、一般に公開する前により広い範囲のテストができる。
+各段階で問題が見つかるだろう。修正を要するとなれば、その修正にもテストが必要となる。
+ソフトウェアを95%から100%の状態にもっていくには、やるべきことがいろいろある。
+コーディングはそれほどないかもしれないが、この5%の作業は、
+困難でなかなか進まないデリケートなプロセスだ。
+細心の注意が必要となる。
 
 #@# You can not do packaging without good communication with your upstream
 #@# developers. When bugs happen it is vital to be able to find the right person to
