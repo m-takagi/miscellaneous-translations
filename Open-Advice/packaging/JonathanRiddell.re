@@ -166,7 +166,10 @@ Ubuntuの場合、ユニットテストを含むパッケージについては�
 #@# talk to quickly. It is important to get to know them well as friends and
 #@# colleagues. Conferences are vital for this as meeting someone gives much more
 #@# context to a mailing list post than a year of emails can.
-You can not do packaging without good communication with your upstream developers. When bugs happen it is vital to be able to find the right person to talk to quickly. It is important to get to know them well as friends and colleagues. Conferences are vital for this as meeting someone gives much more context to a mailing list post than a year of emails can.
+パッケージングには、アップストリームの開発者たちとのコミュニケーションが不可欠だ。
+バグを見つけたら、しかるべき人にすぐ知らせる必要がある。
+彼らとは、友人や同僚くらいの関係になっておくことが大切だ。
+その点で、カンファレンスは欠かせない。メールでの付き合いが長い人でも、実際に会うとその関係はずっと親密になる。
 
 #@# One of the unspoken parts of the Free Software world is the secret IRC channels
 #@# used by core members of a project. All big projects have them, somewhere out
