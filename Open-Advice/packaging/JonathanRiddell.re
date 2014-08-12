@@ -178,7 +178,12 @@ Ubuntuの場合、ユニットテストを含むパッケージについては�
 #@# overused can be very anti-social for the community at large, but for those times
 #@# when there is a need for a quick communication channel without noise they work
 #@# well.
-One of the unspoken parts of the Free Software world is the secret IRC channels used by core members of a project. All big projects have them, somewhere out there Linus Torvalds has a way of chatting to Andrew Morton et al about what is good and what is bad in Linux. They are more social than technical and when overused can be very anti-social for the community at large, but for those times when there is a need for a quick communication channel without noise they work well.
+フリーソフトウェアの世界についてあまり語られていないことのひとつに、
+プロジェクトのコアメンバーだけが参加する秘密のIRCチャネルの存在がある。
+大規模なプロジェクトには必ずそれがあって、たとえばLinus TorvaldsがAndrew Morton
+らとLinuxのあれこれについて議論している。
+どちらかというと技術的な面よりも社会的な面のほうが大きく、あまりこれに頼りすぎるのはよくない。
+しかし、ノイズに邪魔されずにすばやいコミュニケーションが必要な場合、これはうまく機能する。
 
 #@# Blogging is another important method of communication in the Free Software
 #@# community. It is our main method of marketing and promotion for both the
