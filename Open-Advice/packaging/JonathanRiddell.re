@@ -191,7 +191,11 @@ Ubuntuの場合、ユニットテストを含むパッケージについては�
 #@# there is no point claiming you will save lives with your blog, but used to talk
 #@# about your work on Free Software it builds community. It can even get you a job
 #@# or recognized in the street.
-Blogging is another important method of communication in the Free Software community. It is our main method of marketing and promotion for both the software we produce and ourselves. Not to be used for shameless self-publicity, there is no point claiming you will save lives with your blog, but used to talk about your work on Free Software it builds community. It can even get you a job or recognized in the street.
+ブログもまた、フリーソフトウェアコミュニティにおける重要なコミュニケーションツールのひとつだ。
+自分たちが作ったソフトウェアだけでなく、自分たち自身についての宣伝にも使える。
+浅ましい自己顕示に使うのではない。「私のブログが世界を救う」などと主張したところで意味はない。
+そうではなく、自分が関わっているフリーソフトウェアについて語ればいい。
+それが仕事につながるかもしれないし、道ばたで声を掛けられることもあるかもしれない。
 
 #@# Those Slashdot stories of new technology developments are not about remote
 #@# figures you never meet in the way newspaper stories are. They are about people
