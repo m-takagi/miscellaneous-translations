@@ -204,7 +204,12 @@ Ubuntuの場合、ユニットテストを含むパッケージについては�
 #@# problems, creating novel ideas and doing the slow slog of getting the software
 #@# up to high enough quality, then telling the world about them. There were never a
 #@# shortage of people and stories to tell the world about.
-Those Slashdot stories of new technology developments are not about remote figures you never meet in the way newspaper stories are. They are about people who found a problem and solved it using the computer in front of them. For a few years I was editing the KDE news site, finding the people who were solving problems, creating novel ideas and doing the slow slog of getting the software up to high enough quality, then telling the world about them. There were never a shortage of people and stories to tell the world about.
+スラドのストーリーで「新しいテクノロジーを開発した！」とか紹介されている人たちって、
+新聞記事にとりあげられるような別世界の人たちではない。
+彼らはただ、問題を見つけて、それを手元のコンピューターで解決しただけの人だ。
+ここ数年、私はKDEのニュースサイトの編集を担当している。
+何かの問題を解決した人たち、素晴らしいアイデアでソフトウェアの品質を上げた人たちなどのことを、世界に伝えているんだ。
+世界に向けて知らせたい人材やストーリーはいくらでもあって、ネタに困ることはない。
 
 #@# My last piece of advise is to stay varied. There is such a wealth of interesting
 #@# projects out there to explore, learn from and grow, but once in a position of
