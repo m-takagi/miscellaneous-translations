@@ -219,4 +219,10 @@ Ubuntuの場合、ユニットテストを含むパッケージについては�
 #@# start again learning how code turns into useful reality, how a community
 #@# interacts, how quality is maintained. It will be a fun challenge and I am
 #@# looking forward to it.
-My last piece of advise is to stay varied. There is such a wealth of interesting projects out there to explore, learn from and grow, but once in a position of responsibility it can be tempting to stay there. Having helped create a community for Kubuntu I am moving temporarily to work on Bazaar, a very different project with a focus on developers rather than non-tech users. I can start again learning how code turns into useful reality, how a community interacts, how quality is maintained. It will be a fun challenge and I am looking forward to it.
+最後にもうひとこと。変わり続けよう。
+世の中には、おもしろいプロジェクトが山ほどあって、それらからいろいろ学んで成長できるだろう。
+ただ、何かのプロジェクトでそれなりの地位を得ると、ずっとそこに残り続けたくなってしまうこともある。
+私の場合、Kubuntuのコミュニティの立ち上げに関わった後、今はBazaarの作業に関わっている。
+これはKubuntuとはまったく異なるプロジェクトで、一般のユーザーよりもむしろ開発者向けに力を注いでいる。
+私はそこでもまた、コードを書いて実世界に役立てる方法やコミュニティとのやりとりの方法、そして品質の維持の方法などについて学び直している。
+やりがいのある作業で、今後が楽しみだ。
