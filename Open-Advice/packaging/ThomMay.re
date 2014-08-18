@@ -12,7 +12,9 @@ Thom May
 #@# parent company. He currently lives in London and is Head of DevOps for Macmillan
 #@# Digital Science.}
 //lead{
-Thom May is a Debian Developer, an emeritus Member of the Apache Software Foundation and was one of the first hires for Canonical, Ubuntu's parent company. He currently lives in London and is Head of DevOps for Macmillan Digital Science.
+Thom MayはDebian Developerで、Apache Software Foundationの名誉メンバーだ。
+また、Ubuntuの親会社であるCanonicalの創業メンバーの一員でもある。
+現在はロンドン在住で、Macmillan Digital ScienceでDevOps部隊を率いている。
 //}
 
 #@# \section*{Introduction}
