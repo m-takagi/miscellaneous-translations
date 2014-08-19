@@ -18,14 +18,17 @@ Thom MayはDebian Developerで、Apache Software Foundationの名誉メンバー
 //}
 
 #@# \section*{Introduction}
-== Introduction
+== はじめに
 
 #@# I started out in Free Software over a decade ago. I had been using Debian for
 #@# some years through university, and decided that I wanted to give something back.
 #@# So I started the long journey through the Debian New Maintainer's process, never
 #@# having really contributed to Free Software before, and concerned that a lack of
 #@# experience with C would prove to be a major problem.
-I started out in Free Software over a decade ago. I had been using Debian for some years through university, and decided that I wanted to give something back. So I started the long journey through the Debian New Maintainer's process, never having really contributed to Free Software before, and concerned that a lack of experience with C would prove to be a major problem.
+フリーソフトウェアの世界に関わるようになってから、既に十年以上が経過した。
+大学時代にDebianを使っていて、自分も何か恩返しをしたいと思ったのがきっかけだった。
+どいうわけで、最初はDebian新規メンテナプロセスに沿って進めるところから始まった。
+それまではフリーソフトウェアに貢献するなんて経験はなかったし、C言語のプログラミング経験がないのは大問題じゃないのかと心配していた。
 
 #@# As it turned out, this concern was mostly unfounded. By starting out working
 #@# with packages that I used regularly I was able to contribute effectively. As my
