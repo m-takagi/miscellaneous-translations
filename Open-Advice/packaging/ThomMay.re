@@ -35,7 +35,10 @@ Thom MayはDebian Developerで、Apache Software Foundationの名誉メンバー
 #@# experience with the myriad of tools and systems that Debian provides to its
 #@# maintainers grew, I became more efficient with my time, and was able to take on
 #@# a wider range of packages.
-As it turned out, this concern was mostly unfounded. By starting out working with packages that I used regularly I was able to contribute effectively. As my experience with the myriad of tools and systems that Debian provides to its maintainers grew, I became more efficient with my time, and was able to take on a wider range of packages.
+後にわかったことだが、それはまったくの杞憂だった。
+私が常用していたパッケージに関する作業を始めたが、十分に貢献できた。
+Debianがメンテナに提供するツールやシステム群に慣れ親しむにつれて、私の経験も増し、
+時間をより効率的に使えるようになった。そして、より数多くのパッケージに関われるようになった。
 
 #@# Taking on more packages increased my exposure to a range of build systems,
 #@# programming languages and toolkits, and also helped to bring me into the Debian
