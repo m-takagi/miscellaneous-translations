@@ -60,7 +60,13 @@ Debianが長期にわたって技術的な卓越を保ち続けている理由�
 #@# -- I was working as a sysadmin in charge of numerous Apache web servers -- so it
 #@# made a lot of sense to take on the challenge of producing packages for the new
 #@# release.
-At about this time the Apache httpd project was finally closing in on the first beta releases of httpd 2.0, which had been several years in the making and was going to be a massive upgrade. Debian's Apache team had been fairly inactive for some time -- the 1.3 packages were stable and changed infrequently -- and had no plans for packaging 2.0. I had a strong interest in ensuring that the httpd packages were well maintained -- I was working as a sysadmin in charge of numerous Apache web servers -- so it made a lot of sense to take on the challenge of producing packages for the new release.
+Apache httpdプロジェクトがhttpd 2.0の最初のベータリリースを目前に控えたころのことを振り返る。
+数年がかりのリリースで、かなり大きなアップグレードになりそうだった。
+当時のDebianのApacheチームはあまり活発ではなく（1.3のパッケージは安定していたし、めったに変更が加わることがなかった）、
+2.0のパッケージングを作る予定は何もなかった。
+私は、httpdパッケージのメンテナンスが続くかどうかを気にかけていた。
+というのも、自分自身、システム管理者としてあちこちでApache Webサーバーを管理していたからだ。
+この新しいリリース用のパッケージの作成にチャレンジするのは、理にかなったことだった。
 
 #@# A friend and I started work on the packages and quickly discovered that while
 #@# the code was approaching an early beta quality, the tooling around the build and
