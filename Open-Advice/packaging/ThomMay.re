@@ -45,7 +45,11 @@ Debianがメンテナに提供するツールやシステム群に慣れ親し�
 #@# community. Abrasive and opinionated though it is, Debian's community of skilled
 #@# and experienced maintainers is one of the main reasons Debian has maintained its
 #@# technical excellence over such a long period.
-Taking on more packages increased my exposure to a range of build systems, programming languages and toolkits, and also helped to bring me into the Debian community. Abrasive and opinionated though it is, Debian's community of skilled and experienced maintainers is one of the main reasons Debian has maintained its technical excellence over such a long period.
+より多くのパッケージに関わることで、いろいろなビルドシステムやプログラミング言語そしてツールキットを経験できた。
+そして、私がDebianコミュニティに加わる際の太助にもなった。
+気むずかしくて意地っ張りなところもあるが、
+優秀なメンテナが集まったDebianのコミュニティは、
+Debianが長期にわたって技術的な卓越を保ち続けている理由のひとつでもある。
 
 #@# At about this time the Apache httpd project was finally closing in on the first
 #@# beta releases of httpd 2.0, which had been several years in the making and was
