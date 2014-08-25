@@ -72,7 +72,9 @@ Apache httpdプロジェクトがhttpd 2.0の最初のベータリリースを�
 #@# the code was approaching an early beta quality, the tooling around the build and
 #@# customization of httpd was sadly lacking, which is fairly typical for many
 #@# complex software projects.
-A friend and I started work on the packages and quickly discovered that while the code was approaching an early beta quality, the tooling around the build and customization of httpd was sadly lacking, which is fairly typical for many complex software projects.
+私は友人と作業を始めた。
+コード自体はベータ版の品質に達していたが、httpdのビルドやカスタマイズに関するツール群が決定的に欠けていることに気づいた。
+それは、複雑なソフトウェアプロジェクトでは、よくある光景だった。
 
 #@# Over the course of the best part of a year -- whilst upstream stabilised their
 #@# code and an increasing number of early adopters began to test and deploy the new
