@@ -84,7 +84,13 @@ Apache httpdプロジェクトがhttpd 2.0の最初のベータリリースを�
 #@# that our relationship with upstream allowed us to get patches back upstream
 #@# whenever possible, and to get a heads up whenever security issues arose and for
 #@# early testing of release candidates.
-Over the course of the best part of a year -- whilst upstream stabilised their code and an increasing number of early adopters began to test and deploy the new release -- we worked hard to ensure that the build system was sufficiently flexible and robust to cope with the stringent requirements of Debian's policy. As well as ensuring that our packages were technically correct, we had to ensure that our relationship with upstream allowed us to get patches back upstream whenever possible, and to get a heads up whenever security issues arose and for early testing of release candidates.
+ほぼ一年を費やして
+（その間、アップストリームはコードを安定化させ、アーリーアダプターたちは新しいリリースを試し始めるようになっていた）
+必死で作業をした結果、ビルドシステムは十分に柔軟で堅牢なものとなり、Debianの厳しいポリシーを満たすようになった。
+私たちのパッケージが技術的に正確であることを保証するだけではなく、
+アップストリームとの関係を良好にして、
+アップストリームへのパッチをすぐに反映させてもらえたり、
+セキュリティ問題や初期のリリース候補についての通知をもらえたりすることを示す必要もあった。
 
 #@# My interactions with Apache in the course of packaging and maintaining httpd 2.0
 #@# led me to become an upstream committer on the project, meaning I could
