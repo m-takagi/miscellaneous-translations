@@ -99,7 +99,11 @@ Apache httpdプロジェクトがhttpd 2.0の最初のベータリリースを�
 #@# distribution. On a personal level, this recognition gave me the confidence to
 #@# contribute to far more Free Software projects, since I knew that my code was of
 #@# sufficient quality to be welcomed.
-My interactions with Apache in the course of packaging and maintaining httpd 2.0 led me to become an upstream committer on the project, meaning I could contribute code directly. This is generally the final step in moving from packaging software to actively developing it for a wider audience than your distribution. On a personal level, this recognition gave me the confidence to contribute to far more Free Software projects, since I knew that my code was of sufficient quality to be welcomed.
+httpd 2.0のパッケージ作成やその保守に当たる上でのApacheとのやりとりを経て、
+私はアップストリームのコミッターになった。つまり、コアに直接貢献できるようになったというわけだ。
+ソフトウェアのパッケージングから実際のソフトウェア開発へと進むことで、自分たちのディストリビューションだけではなく、より幅広い人たちのために役立てるようになった。
+個人レベルでは、アップストリームのコミッターになったおかげで自信もつき、その他のフリーソフトウェアプロジェクトでの活動もやりやすくなった。
+自分のコードが、他に受け入れられるだけのものであることがわかったからだ。
 
 #@# \section*{Evolution - from packager to developer}
 == Evolution - from packager to developer
