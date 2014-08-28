@@ -106,7 +106,7 @@ httpd 2.0のパッケージ作成やその保守に当たる上でのApacheと�
 自分のコードが、他に受け入れられるだけのものであることがわかったからだ。
 
 #@# \section*{Evolution - from packager to developer}
-== Evolution - from packager to developer
+== 進化 - パッケージャーから開発者へ
 
 #@# So how did this happen? Packaging in its simplest form ensures that a given
 #@# software project complies with the policy of the distribution; in my case
@@ -114,7 +114,12 @@ httpd 2.0のパッケージ作成やその保守に当たる上でのApacheと�
 #@# files are placed in the correct directory locations (specified by the File
 #@# Hierarchy Standard, or FHS), that dependencies on other packages are correctly
 #@# specified, and that the software runs successfully on the distribution.
-So how did this happen? Packaging in its simplest form ensures that a given software project complies with the policy of the distribution; in my case Debian. Generally, this means configuring the software at build time so that files are placed in the correct directory locations (specified by the File Hierarchy Standard, or FHS), that dependencies on other packages are correctly specified, and that the software runs successfully on the distribution.
+どういう経緯で、パッケージャーから開発者になったのかって？
+パッケージングとは、簡単に言うと、何らかのソフトウェアプロジェクトが、ディストリビューションのポリシーを満たすことを保証する作業だ。
+私の場合、そのディストリビューションはDebianだった。
+パッケージング作業は一般に、ソフトウェアのビルド時の設定から始まる。適切な場所（FHS：File Hierarchy Standardに沿った場所）
+にファイルが収まるようにしたり、他のパッケージとの依存関係を正しく指定したりして、
+対象のディストリビューション上でそのソフトウェアが正しく動くようにする。
 
 #@# More complex packaging can require splitting an upstream project into multiple
 #@# packages, for example libraries and the header files that allow the user to
