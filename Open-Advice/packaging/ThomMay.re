@@ -126,7 +126,11 @@ httpd 2.0のパッケージ作成やその保守に当たる上でのApacheと�
 #@# compile software against that library are shipped in separate packages, and
 #@# platform dependent files can be shipped separately from platform independent
 #@# ones. Ensuring that the upstream software correctly deploys in these situations will often require changes to the code. These changes are the first step into active work on a project, rather than the sometimes passive act of packaging.
-More complex packaging can require splitting an upstream project into multiple packages, for example libraries and the header files that allow the user to compile software against that library are shipped in separate packages, and platform dependent files can be shipped separately from platform independent ones. Ensuring that the upstream software correctly deploys in these situations will often require changes to the code. These changes are the first step into active work on a project, rather than the sometimes passive act of packaging.
+より複雑なものになると、アップストリームのプロジェクトを複数のパッケージに分割することも必要になってくる。
+たとえば、開発者向けのライブラリやヘッダファイル群だけを個別のパッケージにしたり、
+プラットフォームに依存するファイルを、全プラットフォーム共通のファイルとは別のパッケージにしたりといった作業だ。
+こういった場合にアップストリームのソフトウェアを正しくデプロイできるようにするには、コードに手を加える必要が出てくることが多い。
+パッケージングは基本的に受け身の作業だが、このときのコードの変更は、プロジェクトに能動的に関わり始める第一歩になる。
 
 #@# Once your package is available in the distribution it is exposed to millions of
 #@# potential users. These users are guaranteed to run your software in ways that
