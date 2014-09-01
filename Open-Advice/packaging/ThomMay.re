@@ -142,7 +142,12 @@ httpd 2.0のパッケージ作成やその保守に当たる上でのApacheと�
 #@# of the reported problem. Often there can be considerable interaction between the
 #@# reporter of the problem and the package maintainer before the upstream
 #@# developers become involved.
-Once your package is available in the distribution it is exposed to millions of potential users. These users are guaranteed to run your software in ways that neither you, as packager, nor your upstream expected. Unsurprisingly, with many eyes come many bug reports. Debian, in common with most distributions, encourages its users to submit bug reports directly to Debian, rather than to the individual upstream projects. This allows maintainers to triage bug reports and ensure that the changes made during the packaging process are not the cause of the reported problem. Often there can be considerable interaction between the reporter of the problem and the package maintainer before the upstream developers become involved.
+ひとたびパッケージが何らかのディストリビューションで公開されると、そのパッケージは何百万もの潜在ユーザーに晒されることになる。
+ユーザーはきっと、パッケージャーであるあなたやアップストリームの開発者たちが思いもよらない方法で、そのソフトウェアを使おうとするだろう。
+いろんな人たちの目にとまることで、バグレポートの数も増える。
+他の多くのディストリビューションと同様に、Debianでも、バグレポートは（アップストリームではなく）Debianに直接送るよう推奨している。
+そうしておけば、メンテナがそのバグをトリアージして、パッケージングの際に加えた変更がそのバグの原因なのかどうかを判断できる。
+問題の報告者とパッケージのメンテナの間で十分なやりとりを繰り返してから、必要ならアップストリームの開発者にもそこに加わってもらう。
 
 #@# As the package maintainer increases their knowledge of the project, they will be
 #@# able to solve most problems directly. The maintainer will often release bug
