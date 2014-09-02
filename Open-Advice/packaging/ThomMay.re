@@ -156,7 +156,11 @@ httpd 2.0のパッケージ作成やその保守に当たる上でのApacheと�
 #@# confirmed the maintainer will then work with the upstream project to ensure that
 #@# the required changes happen in the upstream, definitive project, so that they
 #@# are available to other users of the software.
-As the package maintainer increases their knowledge of the project, they will be able to solve most problems directly. The maintainer will often release bug fixes directly into Debian in parallel with feeding them back upstream, allowing for swift problem resolution and considerable testing of fixes. Once a fix is confirmed the maintainer will then work with the upstream project to ensure that the required changes happen in the upstream, definitive project, so that they are available to other users of the software.
+パッケージのメンテナがそのプロジェクトに関する知識を積み重ねていくと、たいていの問題は自分で解決できるようになる。
+バグフィックスを直接Debianでリリースした上で、同時にそれをアップストリームにフィードバックすることも多い。
+そうすれば、問題はすばやく解決できるし、バグ修正のテストも十分にできる。
+その修正が妥当だと確認できたら、メンテナとアップストリームが協力して、アップストリームで必要となる変更を確認する。
+これで、Debian以外の他のユーザーにも、その修正が行き渡るようになる。
 
 #@# Providing successful bug fixes on distributions such as Debian is often a
 #@# complex art form. Debian runs on many platforms, from IBM mainframes to smart
