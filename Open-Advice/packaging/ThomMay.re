@@ -168,7 +168,13 @@ httpd 2.0のパッケージ作成やその保守に当たる上でのApacheと�
 #@# in the code. More often than not the packager has easier access to a broader
 #@# range of platforms than upstream does, and so is the first port of call when a
 #@# knotty porting problem does come up. One quickly learns to recognise the symptoms of pointer size assumptions, endianness problems, and many other esoteric issues; this experience makes one a more versatile and cautious programmer.
-Providing successful bug fixes on distributions such as Debian is often a complex art form. Debian runs on many platforms, from IBM mainframes to smart phones, and the range and breadth of these platform swiftly reveals assumptions in the code. More often than not the packager has easier access to a broader range of platforms than upstream does, and so is the first port of call when a knotty porting problem does come up. One quickly learns to recognise the symptoms of pointer size assumptions, endianness problems, and many other esoteric issues; this experience makes one a more versatile and cautious programmer.
+バグフィックスをDebianのようなディストリビューションで提供するのは、複雑な作業になることが多い。
+Debianは、IBMのメインフレームからスマートフォンまでのさまざまなプラットフォーム上で動いている。
+その幅広いプラットフォームのせいで、思い込みで書いてしまったコードはすぐ化けの皮がはがれてしまう。
+たいていの場合、アップストリームよりもパッケージャーのほうが、幅広いプラットフォームを利用できる。
+各種プラットフォームに固有の問題が見つかりやすいのは、パッケージャーの環境だ。
+ポインタのサイズやエンディアンの問題、そしてその他細々した問題などが、ここで表出する。
+これを経験すると、万能かつ用心深いプログラマーに近づけるだろう。
 
 #@# As a package collects bug fixes and improvements, it is essential to feed those
 #@# changes back upstream. Too often the delta between a package and the definitive,
