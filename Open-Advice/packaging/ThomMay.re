@@ -185,7 +185,12 @@ Debianは、IBMのメインフレームからスマートフォンまでのさ�
 #@# one of the changes in the packaged version to the upstream. To this end, a close
 #@# working relationship with upstream and an understanding of the best way for both
 #@# parties to collaborate is vital.
-As a package collects bug fixes and improvements, it is essential to feed those changes back upstream. Too often the delta between a package and the definitive, upstream software can grow enormously, with the effect that the two become almost entirely separate code bases. Not only does this increase the maintenance burden on both sides, but it can cause huge frustration and waste large amounts of time for your upstream should a user of your package report a bug related to one of the changes in the packaged version to the upstream. To this end, a close working relationship with upstream and an understanding of the best way for both parties to collaborate is vital.
+バグ修正や改良をパッケージ側でとりまとめたら、それをアップストリームにもフィードバックすることが大切だ。
+パッケージとアップストリームとの差分が大きくなってしまうことがありがちで、
+まるでその二つが別々のコードベースであるかのようになっていることすらある。
+これは、どちら側にとっても保守の負担が増すだけでなく、イライラの元にもなってしまう。
+パッケージ側で加えた変更のせいで発生したバグの報告が、アップストリーム側に届いてしまったりすると、時間の無駄だ。
+アップストリームとは良い関係を築き、お互いが協力し合う道を探っていこう。
 
 #@# Collaboration between upstream and packager can take many forms. Whether it be
 #@# finding the correct way to communicate bug reports, making sure you use the
