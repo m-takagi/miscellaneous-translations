@@ -199,7 +199,13 @@ Debianは、IBMのメインフレームからスマートフォンまでのさ�
 #@# as possible, makes for a far better relationship with upstream and a greatly
 #@# increased likelihood that your upstream will take the time to help you when you
 #@# need it.
-Collaboration between upstream and packager can take many forms. Whether it be finding the correct way to communicate bug reports, making sure you use the correct coding style, or ensuring that you both use the same version control system in the same way, making sure that your interactions are as friction-free as possible, makes for a far better relationship with upstream and a greatly increased likelihood that your upstream will take the time to help you when you need it.
+アップストリームとの協力には、いろんなやりかたがある。
+バグレポートをうまくやりとりする方法を見つけ出したり、
+パッケージャー側が適切なコーディングスタイルを使うことを心がけたり、
+両者が同じバージョン管理システムを同じ方法で使うようにしたりして、
+お互いのやりとりで摩擦が発生しないようにしよう。
+そうすれば、アップストリームとの関係はずっとすっきりしたものとなり、
+助けが必要になったときにもアップストリームが手をさしのべてくれるようになることだろう。
 
 #@# Once the working relationship between you and your upstream is established, it
 #@# becomes an easy step to contribute more directly to upstream. This, too, can
