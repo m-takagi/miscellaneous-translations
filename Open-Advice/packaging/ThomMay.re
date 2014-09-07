@@ -214,7 +214,11 @@ Debianは、IBMのメインフレームからスマートフォンまでのさ�
 #@# is not expended to root cause and fix bugs. More direct involvement entails
 #@# feature development and changes with a wider scope than would be palatable when
 #@# made in a packaged version.
-Once the working relationship between you and your upstream is established, it becomes an easy step to contribute more directly to upstream. This, too, can take many forms. Simple first steps can involve synchronising any upstream bug reports with the ones from your distribution, making sure that duplicate effort is not expended to root cause and fix bugs. More direct involvement entails feature development and changes with a wider scope than would be palatable when made in a packaged version.
+あなたとアップストリームとの間の関係をうまく確立できれば、直接アップストリームに貢献するのも、より楽になる。
+アップストリームへの直接の貢献についても、いろんなやりかたがある。
+最初の一歩としてお手軽なのは、アップストリームへのバグレポートに、ディストリビューション側へのバグレポートの内容を反映させることだ。
+根本的な原因の追及や、その修正のために、あちこちを見て回らなくても済むようにするのが目的だ。
+もっとつっこんだかかわりかたとしては、自分のパッケージだけに閉じずに、もっと広い範囲での機能開発や変更をやってみるという手もある。
 
 #@# \section*{Conclusion}
 == Conclusion
