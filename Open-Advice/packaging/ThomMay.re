@@ -221,12 +221,14 @@ Debianは、IBMのメインフレームからスマートフォンまでのさ�
 もっとつっこんだかかわりかたとしては、自分のパッケージだけに閉じずに、もっと広い範囲での機能開発や変更をやってみるという手もある。
 
 #@# \section*{Conclusion}
-== Conclusion
+== 結論
 
 #@# I think the two core things I wish I had known when starting out are the sense
 #@# of community that Free Software engenders, and the fantastic route that
 #@# packaging of Free Software provides into the wider Free Software world.
-I think the two core things I wish I had known when starting out are the sense of community that Free Software engenders, and the fantastic route that packaging of Free Software provides into the wider Free Software world.
+あのころの自分が知っておきたかったことが二つある。
+フリーソフトウェアを生み出すコミュニティの感覚と、
+フリーソフトウェアのパッケージングからフリーソフトウェアの幅広い世界に向かうすばらしい道筋だ。
 
 #@# Community is critical to the success of Free Software. It comes in many forms,
 #@# from the legion of users willing to invest time in making your software better,
