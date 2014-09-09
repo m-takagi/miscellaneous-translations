@@ -235,7 +235,10 @@ Debianは、IBMのメインフレームからスマートフォンまでのさ�
 #@# to one’s peers in a distribution or software project who invest their time and
 #@# energy into honing your skills and ensuring that your contributions are as good
 #@# as possible.
-Community is critical to the success of Free Software. It comes in many forms, from the legion of users willing to invest time in making your software better, to one’s peers in a distribution or software project who invest their time and energy into honing your skills and ensuring that your contributions are as good as possible.
+コミュニティは、フリーソフトウェアの成功のために不可欠だ。
+コミュニティにはさまざまな形式がある。
+そのソフトウェアを少しでもよいものにしようと自らの時間を捧げる人たちの集まりもあれば、
+自分のスキルを磨き、少しでもよい貢献ができるようにしたいと考えている人たちもいる。
 
 #@# The route from packaging into development is one often traveled. It provides a
 #@# learning curve less steep than entering a development community cold, and allows
