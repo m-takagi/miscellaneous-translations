@@ -243,4 +243,6 @@ Debianは、IBMのメインフレームからスマートフォンまでのさ�
 #@# The route from packaging into development is one often traveled. It provides a
 #@# learning curve less steep than entering a development community cold, and allows
 #@# one to develop skills at a more gradual rate than would otherwise be the case.
-The route from packaging into development is one often traveled. It provides a learning curve less steep than entering a development community cold, and allows one to develop skills at a more gradual rate than would otherwise be the case.
+パッケージングから開発者へという道をたどるのは、よくあることだ。
+開発者のコミュニティにいきなり参加するよりも学習曲線が緩やかになるし、
+他の場合に比べても着実にスキルを伸ばしていけることだろう。
