@@ -16,7 +16,13 @@ Vincent Untz
 #@# amazing. Vincent is still pushing French as the official language for GNOME, and
 #@# hopes to succeed really soon now. And he loves ice cream.}
 //lead{
-Vincent Untz is an active Free Software enthusiast, GNOME lover and advocate, as well as an openSUSE booster. He held the position of GNOME Release Manager between 2008 and 2011, until GNOME 3.0 went out, was an active GNOME Foundation director (2006-2010) and is leading the GNOME team in openSUSE. However, he finds it simpler to declare he is a ``touche-\`{a}-tout'', working on various (some say random) areas of the desktop and helping openSUSE stay amazing. Vincent is still pushing French as the official language for GNOME, and hopes to succeed really soon now. And he loves ice cream.
+Vincent Untzは、活発に活動をしているフリーソフトウェアファンで、GNOMEを愛しており、openSUSEも支援している。
+彼は2008年から2011年にかけて、GNOME 3.0が公開されるまでの間、GNOMEのリリースマネージャーだった。
+また、2006年から2010年の間はGNOME Foundationの理事を務め、今はopenSUSEのGNOMEチームを率いている。
+彼は、端的に言うと「火付け役」である。
+デスクトップ関連のさまざまな分野で作業を進め、openSUSEが魅力を保ち続けるようにしている。
+Vincentは今でも、GNOMEの公式言語としてフランス語を推している。そのうちに成功させたいものだ。
+アイスクリーム好き。
 //}
 
 #@# \section*{A long time ago, in a room at night\ldots}
