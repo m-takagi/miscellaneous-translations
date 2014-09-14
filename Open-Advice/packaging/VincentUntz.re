@@ -49,11 +49,14 @@ tarballができあがった。もちろん、きちんとできあがってい�
 #@# I had recently become co-maintainer. And I was certainly thinking: ``now users
 #@# can enjoy some goodness!'' But mere seconds after my tarball got uploaded, a few
 #@# people downloaded it and made my release really accessible to users.
-I had managed to do it: I had released my first tarball of a software of which I had recently become co-maintainer. And I was certainly thinking: ``now users can enjoy some goodness!'' But mere seconds after my tarball got uploaded, a few people downloaded it and made my release really accessible to users.
+なんとかそれをやりとげた。あるソフトウェアの共同メンテナになって、はじめてのtarballのリリースだった。
+「さあ、ユーザーのみなさん。楽しんでくれ！」って感じだった。
+アップロードが完了して1分もたたないうちに、何人かの人たちがそれをダウンロードしていた。
+私が作ったリリースが、ユーザーの手に行き渡った瞬間だった。
 
 #@# This is something I took for granted, as I thought it was mostly a trivial
 #@# task. I thought wrong.
-This is something I took for granted, as I thought it was mostly a trivial task. I thought wrong.
+私はそんなにたいしたことをした感覚はなく、ほんの些細な作業だと思っていた。でもそれは間違いだった。
 
 #@# \section*{Upstream Versus Downstream}
 == Upstream Versus Downstream
