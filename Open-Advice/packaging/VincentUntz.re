@@ -26,7 +26,7 @@ Vincentは今でも、GNOMEの公式言語としてフランス語を推して�
 //}
 
 #@# \section*{A long time ago, in a room at night\ldots}
-== A long time ago, in a room at night...
+== むかしむかしのある夜、ある部屋で……
 
 #@# \noindent{}I took a last look at the list of bugs to see if I had not forgotten a patch
 #@# that should be merged. I made sure to write what I thought was a descriptive
@@ -37,7 +37,13 @@ Vincentは今でも、GNOMEの公式言語としてフランス語を推して�
 #@# \texttt{make distcheck} command. After checking everything several times, I
 #@# uploaded the tarball to the server and sent a mail announcement.
 //noindent
-I took a last look at the list of bugs to see if I had not forgotten a patch that should be merged. I made sure to write what I thought was a descriptive \texttt{NEWS} entry about the new version. I typed \texttt{make distcheck} to start the release process and looked at the terminal displaying hundreds of lines. A tarball got created, and I double-checked that the tarball was building fine. Again and again -- I was anxious and somehow did not fully trust the \texttt{make distcheck} command. After checking everything several times, I uploaded the tarball to the server and sent a mail announcement.
+バグリストを見て、パッチのマージ漏れがないかどうかを確認した。
+新バージョンに関する説明は、すべて@<code>{NEWS}に書き加えたことも確認した。
+@<code>{make distcheck}とタイプしてリリースプロセスを開始して、ターミナルの出力を眺めていた。
+tarballができあがった。もちろん、きちんとできあがっていることを再確認した。
+何度も、何度も。
+心配性だったので、@<code>{make distcheck}コマンドの結果を見ただけでは安心できなかった。
+全体を何度も見直してから、サーバーにtarballをアップロードして、アナウンスメールを送信した。
 
 #@# I had managed to do it: I had released my first tarball of a software of which
 #@# I had recently become co-maintainer. And I was certainly thinking: ``now users
