@@ -59,16 +59,18 @@ tarballができあがった。もちろん、きちんとできあがってい�
 私はそんなにたいしたことをした感覚はなく、ほんの些細な作業だと思っていた。でもそれは間違いだった。
 
 #@# \section*{Upstream Versus Downstream}
-== Upstream Versus Downstream
+== アップストリーム対ダウンストリーム
 
 #@# As users, we do not necessarily understand the different steps required to ship
 #@# software to us. It is here, and we can simply enjoy it.
-As users, we do not necessarily understand the different steps required to ship software to us. It is here, and we can simply enjoy it.
+ユーザーの立場としては、ソフトウェアを公開するときのいろいろなステップなど知る必要もない。
+単にそこにあるものを使っていれば、それでいい。
 
 #@# Many people contribute to this process of shipping software, and the effort is
 #@# usually split between two groups of people, which are central in how Free
 #@# Software works today:
-Many people contribute to this process of shipping software, and the effort is usually split between two groups of people, which are central in how Free Software works today:
+ソフトウェアを公開するまでには、さまざまな人たちがかかわっている。
+そしてその作業は、大きく二つにわけることができる。いまどきのフリーソフトウェアは、この二つのグループが中心になっているのだ。
 
 #@# \begin{itemize}
 #@# \item \textbf{upstream}: This is the group creating the software. It obviously
