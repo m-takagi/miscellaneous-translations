@@ -85,8 +85,17 @@ tarballができあがった。もちろん、きちんとできあがってい�
 #@# downstream: the packagers, who prepare the software to make it available in a
 #@# format suitable for easier use than just source code, a package.
 #@# \end{itemize}
- * @<b>{upstream}: This is the group creating the software. It obviously includes coders, but depending on the project, other categories of contributors also are key participants: designers, translators, documenters, testers, bug triagers, etc. Upstream generally only ships the source code in a compressed archive, a tarball.
- * @<b>{downstream}: This is the group responsible for distributing the software to the users. In the very same way as for upstream, contributors have a wide range of profiles, as they work on translations, documentation, testing, bug triage and more. There is however a profile that is, as of now, unique to downstream: the packagers, who prepare the software to make it available in a format suitable for easier use than just source code, a package.
+ * @<b>{アップストリーム}：
+ ソフトウェアを作るグループ。
+ コードを書く人はもちろん、プロジェクトの種類によっては、それ以外のメンバーもこちら側に属することがある。
+ デザイナー・翻訳者・ドキュメント執筆者・テスター・バグの仕分け担当などだ。
+ アップストリームは一般に、ソースコードを圧縮してまとめたtarball形式でリリースするだけだ。
+ * @<b>{ダウンストリーム}：
+ ソフトウェアをユーザー向けに配布する役割を受け持つグループ。
+ アップストリームと同様、さまざまな役割のメンバーが属する。
+ 翻訳・ドキュメンテーション・テスト・バグの仕分け担当などだ。
+ しかし、ダウンストリームに特有の役割も存在する。それがパッケージャーで、
+ ソフトウェアを、単なるソースコードではなくもっと使いやすい形式にとりまとめる役割を持つ。これがパッケージだ。
 
 #@# Interestingly, this is a rather intuitive split for users too, although we are
 #@# unaware of it: we often assume that the software developers are unreachable,
