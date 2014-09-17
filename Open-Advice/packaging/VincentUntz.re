@@ -100,7 +100,9 @@ tarballができあがった。もちろん、きちんとできあがってい�
 #@# Interestingly, this is a rather intuitive split for users too, although we are
 #@# unaware of it: we often assume that the software developers are unreachable,
 #@# and we send feedback and ask for help to the distributors instead.
-Interestingly, this is a rather intuitive split for users too, although we are unaware of it: we often assume that the software developers are unreachable, and we send feedback and ask for help to the distributors instead.
+意識しては以内だろうが、これは、ユーザーにとっても直感的な分類だ。
+ユーザーにとって、ソフトウェア開発者は手の届かない存在に見える。
+そこで、フィードバックや問い合わせは、配布担当の人たちに向けて送ることになる。
 
 #@# A concrete analogy to clarify this upstream--downstream split could be the
 #@# usual model for physical goods, with retail stores ($\approx$ downstream)
