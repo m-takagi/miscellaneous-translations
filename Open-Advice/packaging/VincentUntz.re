@@ -108,7 +108,9 @@ tarballができあがった。もちろん、きちんとできあがってい�
 #@# usual model for physical goods, with retail stores ($\approx$ downstream)
 #@# distributing products of manufacturers ($\approx$ upstream), and playing an
 #@# important role for customers ($\approx$ users).
-A concrete analogy to clarify this upstream--downstream split could be the usual model for physical goods, with retail stores ($\approx$ downstream) distributing products of manufacturers ($\approx$ upstream), and playing an important role for customers ($\approx$ users).
+アップストリームとダウンストリームの区切りをわかりやすくするために、通常の物品に置き換えて考えてみよう。
+小売店（ダウンストリーム）は、メーカー（アップストリーム）の作った製品を販売する。
+顧客（ユーザー）にとって重要な役割を果たすのが、小売店だ。
 
 #@# \section*{A Closer Look at Downstream}
 == A Closer Look at Downstream
