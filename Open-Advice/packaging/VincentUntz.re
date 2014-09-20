@@ -135,7 +135,13 @@ tarballができあがった。もちろん、きちんとできあがってい�
 #@# whole part of this book\footnote{It is worth mentioning that I do not believe
 #@# that downstream should significantly modify the software released by upstream;
 #@# some downstreams do that, however, and this adds to their workload.}.
-When I released my first upstream tarball, I was assuming that for downstream, the work would mostly be compiling the source and building a package out of it, and nothing else. Building a package is indeed the first step, but this is only the beginning of the journey for downstream: then come several different tasks, some of which are purely technical while others are social. I will only very briefly describe this journey here, in a non-exhaustive way, as this could be a whole part of this book\footnote{It is worth mentioning that I do not believe that downstream should significantly modify the software released by upstream; some downstreams do that, however, and this adds to their workload.}.
+初めてアップストリームでtarballをリリースしたときの私は、
+「ダウンストリームの作業って、要するにソースをコンパイルしてパッケージを作るだけのことでしょ」と考えていた。
+確かにパッケージを作るのが第一の作業ではあるが、それは、ダウンストリームの長い旅の第一歩に過ぎない。
+それ以外にもいくつかのタスクがあって、技術的なものもあれば社会的なものもある。
+ここでは、それらを簡単に紹介しよう。すべてを網羅しようと思えばこの本をまるごと使ってしまうだろうし、ここではかいつまんだ紹介にとどめる@<fn>{fn01}。
+
+//footnote[fn01][私は、アップストリームがリリースしたソフトウェアに対してダウンストリームで大幅に手を加えるのはよくないと考えている。しかし中にはそうしているところもあるし、それもまた彼らの作業のひとつになっている。]
 
 #@# The building of the package itself can be less trivial than expected: it is not
 #@# uncommon that the packager hits some issues that were unknown to upstream, like
