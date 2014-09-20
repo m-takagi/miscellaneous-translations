@@ -113,17 +113,17 @@ tarballができあがった。もちろん、きちんとできあがってい�
 顧客（ユーザー）にとって重要な役割を果たすのが、小売店だ。
 
 #@# \section*{A Closer Look at Downstream}
-== A Closer Look at Downstream
+== ダウンストリームについて
 
 #@# If I had to summarize in one sentence the role of downstream, this is how I
 #@# would describe it:
-If I had to summarize in one sentence the role of downstream, this is how I would describe it:
+ダウンストリームの役割を一言でまとめろと言われたら、私ならこう言う。
 
 #@# \begin{quote}
 #@# Downstream is the bridge between users and upstream.
 #@# \end{quote}
 //quote{
-Downstream is the bridge between users and upstream.
+ダウンストリームの役割は、ユーザーとアップストリームとの橋渡しだ。
 //}
 
 #@# When I released my first upstream tarball, I was assuming that for downstream,
