@@ -154,7 +154,16 @@ tarballができあがった。もちろん、きちんとできあがってい�
 #@# to a new compiler or toolchain. None of those technical issues are extremely
 #@# difficult to handle per se, and upstream is often happy to help solve them; but
 #@# without downstream, those issues could go unnoticed by upstream for a while.
-The building of the package itself can be less trivial than expected: it is not uncommon that the packager hits some issues that were unknown to upstream, like when a new version of the compiler is used (with new errors), or a specific library needs to be updated first (because the tarball is using some new API), or the build system of the tarball is tailored for a specific way of working (which does not follow the guidelines of the targetted distribution). What is even more ignored by many is that all those issues can also occur after the tarball has already been packaged, like when migrating the whole distribution to a new compiler or toolchain. None of those technical issues are extremely difficult to handle per se, and upstream is often happy to help solve them; but without downstream, those issues could go unnoticed by upstream for a while.
+パッケージのビルドは、思っているほど些細なことではない。
+アップストリームが見つけられなかった問題をパッケージャーが発見することは珍しくない。
+たとえば、新しいバージョンのコンパイラを使って新たなエラーに遭遇したりすることがある。
+あるいは、事前に別のライブラリを更新しておく必要があるなどという場合もある（そのtarballが、何らかの新たなAPIを使っている場合など）
+また、tarballのビルドシステムが強いる作業手順が、パッケージング対象のディストリビューションのガイドラインに沿っていないこともある。
+より見落とされがちなのが、こういった問題は、tarballをパッケージにした後にも発生しうるということだ。
+たとえば、ディストリビューション全体で、新しいコンパイラやツール群への移行が決まったときなどが、その一例だ。
+これらの技術的な課題は、決していかんともしがたい難問だというわけではない。
+アップストリーム側で解決してしまえることも多い。
+しかし、ダウンストリームからの指摘がなければ、そういった課題がアップストリームに認知されるまでには時間がかかる。
 
 #@# What is more important to me than those technical challenges is that downstream
 #@# is generally in direct contact with more users than upstream. This results in
