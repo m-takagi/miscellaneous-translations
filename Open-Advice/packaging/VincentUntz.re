@@ -180,7 +180,17 @@ tarballができあがった。もちろん、きちんとできあがってい�
 #@# is a valid rationale). Of this huge amount of data, downstream will produce a
 #@# smaller set of information that upstream will be able to easily consume, which
 #@# will lead to improvements in the software.
-What is more important to me than those technical challenges is that downstream is generally in direct contact with more users than upstream. This results in bug reports, support requests, requests to change configuration defaults, and more. This is where the downstream crowd really shines: instead of simply forwarding all of this upstream, downstream will work on this feedback from users to only relay summarized bits that upstream will be able to use. Often, bug reports come without enough information on the issue (in which case downstream will ask for more details); often, the support requests stem from a misunderstanding on the user side (which downstream can then, sometimes, translate to a suggestion to change the software to avoid such misunderstanding); often, new configuration defaults are suggested without a good-enough rationale (and downstream will work with the users to see if there is a valid rationale). Of this huge amount of data, downstream will produce a smaller set of information that upstream will be able to easily consume, which will lead to improvements in the software.
+個人的に、こういった技術的な課題よりもずっと大切だと感じていることがある。
+それは、ダウンストリームのほうが、アップストリームよりも、直接ユーザーとかかわることが多いということだ。
+つまり、バグ報告やサポート依頼、デフォルト値の変更の要望などを、直接ユーザーから受けることになる。
+これこそがダウンストリームの見せ場だ。
+それらを単にアップストリームに投げるのではなく、
+ユーザーからのフィードバックをきちんととりまとめて、アップストリームで活用しやすいようにまとめてから、アップストリームに依頼する。
+ほとんど情報がないバグ報告が来ることも多い（そんな場合は、ダウンストリームがユーザーに詳細を確認する）。
+ユーザーの誤解にもとづくサポート依頼が来ることも多い（そんな場合は、その誤解を解消するように、うまい返事を返すこともある）。
+十分な説明のないまま、設定のデフォルト値が変わってしまうことも多い（そんな場合は、ダウンストリームがユーザーに、その意図を説明することになる）。
+こういった数々のフィードバックの中から、アップストリーム側で役立てられるであろうものだけをピックアップして送る。
+これが、そのソフトウェアの改善につながる。
 
 #@# There are generally two rewards for downstream contributors: the indirect and
 #@# direct contributions to the upstream project thanks to the efforts done
