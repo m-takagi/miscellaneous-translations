@@ -197,7 +197,10 @@ tarballができあがった。もちろん、きちんとできあがってい�
 #@# downstream are enough for many, but on top of that, the direct contact with
 #@# more users leads to being exposed to the satisfaction of those users. And such
 #@# exposure easily makes a day for many people.
-There are generally two rewards for downstream contributors: the indirect and direct contributions to the upstream project thanks to the efforts done downstream are enough for many, but on top of that, the direct contact with more users leads to being exposed to the satisfaction of those users. And such exposure easily makes a day for many people.
+一般に、ダウンストリームの貢献者が得る報酬はふたつある。
+ダウンストリームでの作業によるアップストリームのプロジェクトへの直接・間接の貢献だけでも十分だが、
+さらに、多くのユーザーとの直接のやりとりが、ユーザーの満足にもつながっている。
+そして、そういったユーザーとの接触は、多くの人たちを喜ばせる。
 
 #@# As a sidenote, when considering the amount of work involved downstream, I would
 #@# not be surprised if, at the end of the day, many upstream contributors are glad
