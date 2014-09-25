@@ -209,7 +209,13 @@ tarballができあがった。もちろん、きちんとできあがってい�
 #@# feedback (by avoiding duplicated comments, undetailed issues, etc.). This
 #@# enables upstream to stay focused on the development itself, instead of forcing
 #@# upstream to either triage feedback or ignore it.
-As a sidenote, when considering the amount of work involved downstream, I would not be surprised if, at the end of the day, many upstream contributors are glad to have downstream people act as a buffer to them: this significantly lowers the amount of feedback, while at the same time improving the quality of the feedback (by avoiding duplicated comments, undetailed issues, etc.). This enables upstream to stay focused on the development itself, instead of forcing upstream to either triage feedback or ignore it.
+余談だが、ダウンストリーム側での作業の量を考えれば、
+ダウンストリームの人たちがアップストリームの貢献者たちのバッファとなっていることについて、
+アップストリームから感謝の一言があっても不思議じゃないと思う。
+アップストリームが対応すべきフィードバックの量を大幅に減らしてくれているだけではなく、
+フィードバックの質の向上にも貢献している（ダブりを排除したり、詳細な情報が提供されていないものをフォローしたりしている）わけだから。
+そのおかげで、アップストリームは本来の開発に注力できるようになり、
+フィードバックのトリアージを気にせずに済んでいる。
 
 #@# Just looking at my own upstream experience, I cannot count the number of
 #@# patches I received from downstream to fix build issues. I also remember
