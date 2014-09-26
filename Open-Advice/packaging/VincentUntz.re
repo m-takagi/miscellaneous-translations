@@ -225,7 +225,12 @@ tarballができあがった。もちろん、きちんとできあがってい�
 #@# downstream hat to relay feedback from users. Such upstream--downstream
 #@# collaboration contributes to improving the overall quality of our Free Software
 #@# ecosystem, and I would consider it essential to our good health.
-Just looking at my own upstream experience, I cannot count the number of patches I received from downstream to fix build issues. I also remember countless discussions about the bugs that were affecting users the most, that helped me organize my priorities. And since I joined the downstream ranks, I started sending similar build-related patches to upstream, and chatting with my downstream hat to relay feedback from users. Such upstream--downstream collaboration contributes to improving the overall quality of our Free Software ecosystem, and I would consider it essential to our good health.
+私自身のアップストリームでの経験を振り返ると、ビルドに関する問題のパッチを、ダウンストリームから数え切れないほど受け取ったものだ。
+ユーザーに影響の及ぶバグについても、数々の議論を重ねた。それが、優先順位付けの助けになった。
+その後、ダウンストリームの立場になったときに、私も同様に、ビルド関連のパッチをアップストリームに送るようにした。
+また、ユーザーからのフィードバックも伝えるようにした。
+アップストリームとダウンストリームが手を取り合うことで、フリーソフトウェア業界全体の質を向上させる手助けになるだろう。
+私たち自身のためにも、それはいいことだと思う。
 
 #@# \section*{Pushing Downstream Upstream!}
 == Pushing Downstream Upstream!
