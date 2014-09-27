@@ -233,7 +233,7 @@ tarballができあがった。もちろん、きちんとできあがってい�
 私たち自身のためにも、それはいいことだと思う。
 
 #@# \section*{Pushing Downstream Upstream!}
-== Pushing Downstream Upstream!
+== ダウンストリームの成果をアップストリームへ！
 
 #@# I am firmly believing that there must be a strong upstream--downstream
 #@# collaboration for a project to succeed. I doubt there is much disagreement on
@@ -241,7 +241,11 @@ tarballができあがった。もちろん、きちんとできあがってい�
 #@# being done in distributions. But, especially, for applications, it is becoming
 #@# more and more viable to push that downstream work out of distributions and to
 #@# get benefits from such a move upstream.
-I am firmly believing that there must be a strong upstream--downstream collaboration for a project to succeed. I doubt there is much disagreement on this by anyone; however, by ``downstream'', people usually think of the work being done in distributions. But, especially, for applications, it is becoming more and more viable to push that downstream work out of distributions and to get benefits from such a move upstream.
+プロジェクトを成功に導くには、アップストリームとダウンストリームの協力が不可欠だと思っている。
+これについては、異論のある人も多いだろう。しかし、「ダウンストリーム」と聞くと、
+ディストリビューション側での作業を想像する人が多い。
+しかし、特にアプリケーションなどでは、ダウンストリームの作業をディストリビューションだけにとどめず、
+そお成果をアップストリームにも届けることが必須になりつつある。
 
 #@# Tools like the Open Build Service make it easy to have people build and
 #@# distribute packages of an application for several distributions. This has
