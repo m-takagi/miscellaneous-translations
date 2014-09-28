@@ -255,7 +255,12 @@ tarballができあがった。もちろん、きちんとできあがってい�
 #@# there still needs to be someone doing the packaging work, but also to manage
 #@# the larger feedback from users. That is, there still needs to be someone doing
 #@# the downstream work; except that it would be done as part of upstream.
-Tools like the Open Build Service make it easy to have people build and distribute packages of an application for several distributions. This has benefits for both the users (who can more easily and more quickly enjoy updates of their favorite applications) and for upstream (who can help build a stronger relationship with its user base). The only challenge with such a move is that there still needs to be someone doing the packaging work, but also to manage the larger feedback from users. That is, there still needs to be someone doing the downstream work; except that it would be done as part of upstream.
+Open Build Serviceなどのツールを使えば、複数のディストリビューション向けにアプリケーションをビルドしてパッケージを作るのも楽になる。
+これは、ユーザーにとってもアップストリームにとってもありがたいことだ。
+ユーザーは、お気に入りのアプリケーションの更新をお手軽に素早く試せるようになるし、
+アップストリームもユーザーとの関係を強固なものにできる。
+残る課題は、パッケージング作業であり、ユーザーからのさらなるフィードバックに対応することである。
+つまり、アップストリームの作業とは別に、ダウンストリームがやるべき作業は残るということだ。
 
 #@# To me, this sounds like an exciting perspective, and I would even go as far as
 #@# suggesting that we, the Free Software community, should slowly migrate the
