@@ -269,7 +269,12 @@ Open Build Serviceなどのツールを使えば、複数のディストリビ�
 #@# applications, this is often possible. This obviously requires a mind shift, but
 #@# it would allow more sharing of the efforts that are most of the time being
 #@# duplicated in all the different downstreams as of today.
-To me, this sounds like an exciting perspective, and I would even go as far as suggesting that we, the Free Software community, should slowly migrate the downstream work being done in distributions to be based on downstream work being done directly upstream whenever possible -- and at least for applications, this is often possible. This obviously requires a mind shift, but it would allow more sharing of the efforts that are most of the time being duplicated in all the different downstreams as of today.
+私にとって、これはとても刺激的な観点だ。
+私たちフリーソフトウェアコミュニティは、ディストリビューションで行われるダウンストリームの作業を、
+徐々にアップストリームで行われるように、可能な限り変えていくべきだ。
+少なくともアプリケーションの世界では、それが可能だろう。
+考えかたを切り替える必要があるが、
+あちこちのダウンストリームが同じような作業をしているという現状を、もう少し共有できるようになるだろう。
 
 #@# For people willing to start contributing nowadays to applications they like,
 #@# this packaging work upstream is a whole new approach that could be really
