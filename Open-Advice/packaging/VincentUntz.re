@@ -279,7 +279,8 @@ Open Build Serviceなどのツールを使えば、複数のディストリビ�
 #@# For people willing to start contributing nowadays to applications they like,
 #@# this packaging work upstream is a whole new approach that could be really
 #@# successful!
-For people willing to start contributing nowadays to applications they like, this packaging work upstream is a whole new approach that could be really successful!
+お気に入りのアプリケーションに対して貢献していこうというのなら、パッケージングの作業をアップストリームで行うという新しい手法は、
+きっとうまくいくと思うよ！
 
 #@# \section*{I tried it and I stayed, will you?}
 == I tried it and I stayed, will you?
