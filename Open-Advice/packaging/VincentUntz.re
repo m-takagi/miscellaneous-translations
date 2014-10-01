@@ -283,7 +283,7 @@ Open Build Serviceなどのツールを使えば、複数のディストリビ�
 きっとうまくいくと思うよ！
 
 #@# \section*{I tried it and I stayed, will you?}
-== I tried it and I stayed, will you?
+== 私はやってみた。さあ、あなたはどうする？
 
 #@# Downstream has always been essential to my life as a Free Software user --
 #@# after all, only a few people are manually building their whole system from
@@ -291,7 +291,11 @@ Open Build Serviceなどのツールを使えば、複数のディストリビ�
 #@# upstream developer, as I started taking more time to discuss with downstream
 #@# people to get more feedback on bugs, features, general quality and even future
 #@# directions of the software I was working on.
-Downstream has always been essential to my life as a Free Software user -- after all, only a few people are manually building their whole system from scratch and I am not one of them. But it also became an asset to me as an upstream developer, as I started taking more time to discuss with downstream people to get more feedback on bugs, features, general quality and even future directions of the software I was working on.
+フリーソフトウェアのユーザーとしての立場で考えてみると、私にとってのダウンストリームは、常に不可欠な存在だった。
+システムを自分でゼロからビルドできる人などごく一部しかいないわけで、当然のことながら、私はその一部ではなかった。
+それだけではなく、アップストリームの開発者の立場で見ても、私にとってのダウンストリームは役立つ存在だ。
+彼らと話す時間を多くとればとるほど、バグや機能や品質に関するさまざまなフィードバックが得られるし、
+そのソフトウェアの今後の方向性も得られるようになる。
 
 #@# This is only when I started being a downstream myself that I understood that
 #@# this position is indeed a privileged one to help advise upstream, because of
