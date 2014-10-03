@@ -301,7 +301,10 @@ Open Build Serviceなどのツールを使えば、複数のディストリビ�
 #@# this position is indeed a privileged one to help advise upstream, because of
 #@# the direct contact to users and because of the different perspective we get
 #@# from this different position.
-This is only when I started being a downstream myself that I understood that this position is indeed a privileged one to help advise upstream, because of the direct contact to users and because of the different perspective we get from this different position.
+私自身がダウンストリームの立場にいたときに感じたのは、
+この立場はアップストリームを助ける特権を与えられているのだということだ。
+というのも、ユーザーと直接やりとりをすることもできるし、
+さまざまな立場の人からさまざまな視点での意見を聞くこともできるからだ。
 
 #@# Without downstream, we would not be where we are today. If you want to make a
 #@# difference, be sure that by joining a downstream effort and talking to
