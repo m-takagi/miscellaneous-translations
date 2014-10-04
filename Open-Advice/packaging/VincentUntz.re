@@ -309,7 +309,8 @@ Open Build Serviceなどのツールを使えば、複数のディストリビ�
 #@# Without downstream, we would not be where we are today. If you want to make a
 #@# difference, be sure that by joining a downstream effort and talking to
 #@# upstream, you will succeed.
-Without downstream, we would not be where we are today. If you want to make a difference, be sure that by joining a downstream effort and talking to upstream, you will succeed.
+ダウンストリームがなかったら、今の私たちは存在しなかっただろう。
+他の人たちと差をつけたければ、ダウンストリームでの作業に参加しよう。アップストリームとのやりとりを経て、きっと成功することだろう。
 
 #@# And you will have fun.
-And you will have fun.
+きっと楽しいだろうしね。
