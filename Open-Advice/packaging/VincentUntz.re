@@ -1,5 +1,5 @@
 #@# \chapterwithauthor{Vincent Untz}{Where Upstream and Downstream Meet}
-= Where Upstream and Downstream Meet
+= アップストリームとダウンストリームの出会う場所
 
 @<href>{https://github.com/Open-Advice/Open-Advice/blob/master/packaging/VincentUntz.tex, The original text} (licenced under CC-BY-SA)
 
