@@ -1,5 +1,5 @@
 #@# \chapterwithauthor{Jonathan Riddell}{From Beginner to Professional}
-= From Beginner to Professional
+= 初心者からプロフェッショナルへの道
 
 @<href>{https://github.com/Open-Advice/Open-Advice/blob/master/packaging/JonathanRiddell.tex, The original text} (licenced under CC-BY-SA)
 
