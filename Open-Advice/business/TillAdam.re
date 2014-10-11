@@ -1,5 +1,5 @@
 #@# \chapterwithauthor{Till Adam}{Free Software in Public Administrations}
-= Free Software in Public Administrations
+= 行政におけるフリーソフトウェア
 
 @<href>{https://github.com/Open-Advice/Open-Advice/blob/master/business/TillAdam.tex, The original text} (licenced under CC-BY-SA)
 
@@ -13,7 +13,10 @@ Till Adam
 #@# of Kolab Systems AG, a company with a pure Free Software business model.
 #@# He lives with his wife and daughter in Berlin.}
 //lead{
-Originally from a liberal arts and music background, Till Adam has spent the last decade or so in software. He works at KDAB where he directs services, including the company's Free Software activities. Till also serves on the board of directors of Kolab Systems AG, a company with a pure Free Software business model. He lives with his wife and daughter in Berlin.
+リベラルアーツや音楽の背景を持つTill Adamは、この10年ほどはソフトウェアに関わっている。
+KDABに勤務する彼は、同社のフリーソフトウェア活動を含むサービスを指揮している。
+Tillはまた、Kolab Systems AGの役員も務める。同社は、純粋にフリーソフトウェアのビジネスモデルだけで活動している企業だ。
+妻と娘とともに、ベルリンに住んでいる。
 //}
 
 #@# \section*{Introduction}
