@@ -35,7 +35,14 @@ Tillはまた、Kolab Systems AGの役員も務める。同社は、純粋にフ
 #@# was able to learn quickly and contribute meaningfully to the code base, getting
 #@# sucked more and more into both the social circle and the fascinating technical
 #@# problem space of personal information management.
-Like, I imagine, many of the other authors in this collection of essays I started contributing to Free Software when I was a student. I had decided relatively late in life to pursue a degree in Computer Science (having failed to become rich and famous as a musician) and was expecting to be quite a bit older than my peers when I graduated. So I thought it would be good to teach myself programming, which I was not getting much of at school, to become more attractive to future employers, despite my age. After some forays into various smaller communities I eventually found my way into KDE and started working on the email application. Thanks to the extremely helpful and technically brilliant group of people I met there I was able to learn quickly and contribute meaningfully to the code base, getting sucked more and more into both the social circle and the fascinating technical problem space of personal information management.
+他の寄稿者の多くもきっと同じだろうが、私が最初にフリーソフトウェアに関わり始めたのは、学生のころだった。
+私が計算機科学を専攻することを決めたのは、他の人に比べると少し遅めだった（ミュージシャンになって大もうけするっていう夢が絶たれた後だった）ので、
+周りの人たちよりも卒業が遅れるであろうことが予想できた。
+そこで、プログラミングを自習することを思いついた。学校ではあまりプログラミングを教わっていないし、
+就職活動を進めるためには、もっとプログラミングを勉強しておいたほうがいいと思ったんだ。
+小さめのコミュニティでの活動を積み重ねた後、最終的にKDEのコミュニティに参加して、メールアプリケーションに関わるようになった。
+そこで出会った人たちはみな親切で、技術的にも優れていた。彼らからいろいろ学んだおかげで、すぐにコードベースに貢献できるようになった。
+そして、ソーシャルなつながりや、個人情報管理に関する技術的な問題空間に、より深くのめり込むことになった。
 
 #@# When KDAB, a company full of KDE people, asked me whether I wanted to help out
 #@# with some commercial work that was being done, as a student job, I was of
