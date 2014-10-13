@@ -53,7 +53,13 @@ Tillはまた、Kolab Systems AGの役員も務める。同社は、純粋にフ
 #@# As I transitioned into more coordinative roles it eventually became part of my
 #@# job to effectively sell and deliver services based on Free Software including KDE's products
 #@# to large organizations, particularly in the public sector.
-When KDAB, a company full of KDE people, asked me whether I wanted to help out with some commercial work that was being done, as a student job, I was of course thrilled to be able to combine making a living with my hobby of hacking on KDE software. Over the years I then witnessed the adoption of KDE's personal information management frameworks and applications by the public sector, particularly in Germany, first hand and saw KDAB's business in this area grow. As I transitioned into more coordinative roles it eventually became part of my job to effectively sell and deliver services based on Free Software including KDE's products to large organizations, particularly in the public sector.
+KDABは、KDEに関わる人たちだけでできた会社だった。
+商用事業の手伝いをするアルバイトをKDABから紹介されたとき、それはもう興奮した。
+KDEのソフトウェアをハックしながら生活できるなんて、夢のような環境じゃないか。
+それから時を経て、私はKDEの個人情報管理フレームワークやアプリケーションが行政に採用されていく様を目の当たりにした。
+特にドイツでの採用が広まり、KDABも行政分野での業績を伸ばしていった。
+私の業務が諸々の調整に関わることに変わっていたこともあり、
+KDEのプロダクト群を含むフリーソフトウェアを使ったサービスを、行政などの大規模組織に売り込むのが私の仕事のひとつとなった。
 
 #@# It should be noted that much of the project work this text reflects upon was done in
 #@# cooperation with other Free Software businesses, namely g10code, the
