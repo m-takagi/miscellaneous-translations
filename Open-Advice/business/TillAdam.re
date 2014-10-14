@@ -68,7 +68,10 @@ KDEのプロダクト群を含むフリーソフトウェアを使ったサー�
 #@# Bernhard Reiter, one of Intevation's founders, was instrumental to the selling and
 #@# running of many of these projects and whatever morsels of wisdom this text might contain
 #@# are likely products of his analysis and my many conversations with him over the years.
-It should be noted that much of the project work this text reflects upon was done in cooperation with other Free Software businesses, namely g10code, the maintainers of GNUPG and cryptography specialists, and Intevation, a consultancy focused entirely on Free Software and its strategic challenges and opportunities. Especially Bernhard Reiter, one of Intevation's founders, was instrumental to the selling and running of many of these projects and whatever morsels of wisdom this text might contain are likely products of his analysis and my many conversations with him over the years.
+特筆すべき点は、この文でとりあげているプロジェクトの多くが、他のフリーソフトウェア企業との共同ビジネスだったということだ。
+GNUPGのメンテナや暗号学のスペシャリストを抱えるg10code、そしてフリーソフトウェアとその戦略的な挑戦や機会に主眼を置くコンサルタント業であるIntevationなどだ。
+特に、Intevationの創業者のひとりであるBernhard Reiterには助けられた。
+この文で紹介するプロジェクトやさまざまな知恵は、彼による分析や、彼との長年の会話の産物だといってもいいだろう。
 
 #@# So if Bernhard and I could travel back in time and share insights with our younger, more
 #@# naïve selves, what would those insights be? Well, it turns out they all start with the
