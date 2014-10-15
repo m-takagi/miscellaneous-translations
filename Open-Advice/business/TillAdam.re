@@ -76,10 +76,11 @@ GNUPGのメンテナや暗号学のスペシャリストを抱えるg10code、�
 #@# So if Bernhard and I could travel back in time and share insights with our younger, more
 #@# naïve selves, what would those insights be? Well, it turns out they all start with the
 #@# letter 'P'.
-So if Bernhard and I could travel back in time and share insights with our younger, more naïve selves, what would those insights be? Well, it turns out they all start with the letter 'P'.
+Bernhardと私がその当時に戻って、若い人たちに自分たちの経験を伝えられるとしたら、いったいどんなことを話すだろうか？
+たぶん、こんなことだろう。全部、「P」から始まるものだ。
 
 #@# \section*{People}
-== People
+== People（人）
 
 #@# As things stand today it is still harder for IT operations people and decision
 #@# makers to use Free Software than it is to use proprietary alternatives. Even in
@@ -123,7 +124,7 @@ Without an ally on the inside it can be prohibitively difficult to get Free Soft
 In order to achieve this, it is important to focus not only on achieving the technical results of projects, but also keep in mind the broader personal and organizational goals of those one is dealing with. Success or failure of the current project might not depend on whether an agency's project manager can show off only marginally related functionality to superiors at seemingly random points in the schedule, but whether the next project happens or not might. When you have few friends, helping them be successful is a good investment.
 
 #@# \section*{Priorities}
-== Priorities
+== Priorities（優先順位）
 
 #@# As technologists, Free Software people tend to focus on the things that are
 #@# new, exciting and seemingly important at a technology level. Consequently we
@@ -165,7 +166,7 @@ In a large organization that uses software for a long time, the cost of acquirin
 While both of these sentiments run counter to the instincts of Free Software developers, it is these same aspects that make it very attractive for the public sector to contract the development of Free Software, rather than spending the money on licenses for off-the-shelf products. Starting from a large pool of freely available software, the organization can invest the budgets it has into maturing exactly those parts that are relevant for its own operations. It thus does not have to pay (via license costs) for the development of market driven, fancy features it will not need. By submitting all of that work back upstream into the community, the longer term maintenance of these improvements and of the base software is shared amongst many. Additionally, because all of the improvements become publicly available, other organizations with similar needs can benefit from them with no additional cost, thus maximizing the impact of tax payer money, something any public administration is (or should be) keen to do.
 
 #@# \section*{Procurement}
-== Procurement
+== Procurement（調達）
 
 #@# So, if it is so clearly better use of IT budgets for government agencies to invest
 #@# into the improvement of Free Software and into the tailoring of it to its needs, why is it
@@ -211,7 +212,7 @@ Many IT budgets are structured such that part of the money is set aside for the 
 Contractual frameworks for software providers often assume that whoever signs up to provide the software fully controls all of the involved copyrights, trademarks and patents. The buying organization expects to be indemnified against various risks by the provider. In the case of a company or an individual providing a solution or service based on Free Software that is often impossible since there are other rights holders that can not reasonably be involved in the contractual arrangement. This problem appears most pointedly in the context of software patents. It is practically impossible for a service provider to insure against patent litigation risks which makes it very risky to take on the full responsibility.
 
 #@# \section*{Price}
-== Price
+== Price（価格）
 
 #@# Historically, the key selling point of Free Software that has been communicated
 #@# to the wider public has been its potential to save money.
