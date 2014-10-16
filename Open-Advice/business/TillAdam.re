@@ -96,7 +96,17 @@ Bernhardと私がその当時に戻って、若い人たちに自分たちの経
 #@# public administration special persistence is required because things move
 #@# generally more slowly and an inflexible organizational hierarchy and limited
 #@# career options amplify the issue.
-As things stand today it is still harder for IT operations people and decision makers to use Free Software than it is to use proprietary alternatives. Even in Germany, where Free Software has relatively strong political backing, it is easier and safer to suggest the use of something that is perceived as ``industry standard'' or ``what everyone else does''; proprietary solutions, in other words. Someone who proposes a Free Software solution will likely face opposition by less adventurous (or more short-sighted) colleagues, close scrutiny by superiors, higher expectations with respect to the results and unrealistic budget pressure. It thus requires a special breed of person willing to take personal risks, go out on a limb, potentially jeopardize career progress and fight an uphill battle. This is of course true in any organization, but in a public administration special persistence is required because things move generally more slowly and an inflexible organizational hierarchy and limited career options amplify the issue.
+今もなお、IT運用担当者や意思決定者たちにとって、フリーソフトウェアの採用はプロプライエタリな製品に比べてハードルが高い。
+フリーソフトウェアを政府が強く後押ししているドイツでさえ、「業界標準の」「みんなが使っている」
+（要するに、プロプライエタリな）ソリューションの採用に流れてしまいがちだ。
+フリーソフトウェアのソリューションを誰かが提案すると、きっと、冒険心がない（というか、長期的な視点に欠けた）同僚からの反対を受けることになる。
+非現実的な予算で結果を出すよう迫られている上司からは、厳しいチェックが入るだろう。
+フリーソフトウェアの導入には、特殊な人種が求められる。
+個人的にリスクをとって、不利な状況に負けず、
+自分のキャリアに傷が付くのも恐れずに戦えるような人たちだ。
+どんな組織でも同様だろうが、行政の分野では、特に粘り強さが求められる。
+ものごとを進める速度が全般的に遅めだし、組織体系も硬直しているし、
+組織内でのキャリアパスも限られているからだ。
 
 #@# Without an ally on the inside it can be prohibitively difficult to get
 #@# Free Software options seriously considered. If there is such a person, it is important
