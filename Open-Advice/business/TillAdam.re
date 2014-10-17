@@ -122,7 +122,16 @@ Bernhardと私がその当時に戻って、若い人たちに自分たちの経
 #@# Software communities they rely on you to find the paths that will carry
 #@# them and their organization to their goals and they make decisions largely
 #@# based on personal trusts. That trust has to be earned and maintained.
-Without an ally on the inside it can be prohibitively difficult to get Free Software options seriously considered. If there is such a person, it is important to support them in their internal struggles as much as possible. This means providing them with timely, reliable and verifiable information about what goes on in the community the organization intends to interface with, including enough detail to provide a full picture but reducing the complexity of the communication and planing chaos that is part of the Free Software way of working, at times, such that it becomes more manageable and less threatening. Honesty and reliability help to build strong relationships with these key people, the basis of longer term success. As their interface to the wondrous and somewhat frightening world of Free Software communities they rely on you to find the paths that will carry them and their organization to their goals and they make decisions largely based on personal trusts. That trust has to be earned and maintained.
+内部に仲間がいなければ、フリーソフトウェアを使うという選択肢はとても検討しづらいかもしれない。
+もし仲間になってくれそうな人がいたら、その人がうまく動けるように、可能な限り手助けをしてやることが大切だ。
+その組織がかかわろうとしているコミュニティの動きに関する、信頼できる検証可能な情報をタイムリーに提供したりするのも、その手助けのひとつだ。
+詳細な情報が伝われば、その全体像が把握できるようになる。
+また、フリーソフトウェアの世界でありがちな、複雑なコミュニケーションや無秩序な状態を、平坦にすることもできる。
+より扱いやすくなり、恐れずに済むようになるのだ。
+正直であること、そして誠実であることが、こういった人たちとの良好な関係を築くための鍵になる。長期的な成功には、良好な関係を築くことが欠かせない。
+驚くべき（そして、多少得体の知れない）世界であるフリーソフトウェアコミュニティとの架け橋として、彼らはあなたを頼ることになる。
+彼らが目標に向かうための判断を下す基準は、結局のところは個人的な信頼だ。
+信頼を勝ち得て、それを手放さないようにしたい。
 
 #@# In order to achieve this, it is important to focus not only on achieving
 #@# the technical results of projects, but also keep in mind the broader personal and organizational
