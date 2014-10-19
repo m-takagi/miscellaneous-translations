@@ -164,7 +164,17 @@ Bernhardと私がその当時に戻って、若い人たちに自分たちの経
 #@# easier to deal with known issues pro-actively than to be forced to react to
 #@# surprises.  Today's documented bug is, ironically, often preferable to
 #@# tomorrow's fix with unforeseeable side effects.
-As technologists, Free Software people tend to focus on the things that are new, exciting and seemingly important at a technology level. Consequently we put less emphasis on things that are more important in the context of an (often large) public administration. But consider someone wanting to roll out a set of technologies in an organization that intends to stick with it for a long time. Since disruptive change is difficult and expensive, it is far more important to have documentation of the things that will not work, so they can be avoided or worked around, than it is to know that some future version will behave much better. It is unlikely that that new version will ever be practically available to the users currently under consideration, and it is far easier to deal with known issues pro-actively than to be forced to react to surprises.  Today's documented bug is, ironically, often preferable to tomorrow's fix with unforeseeable side effects.
+技術者として、フリーソフトウェア界の人たちの多くは、
+目新しくてわくわくする、技術面で重要だと思われるようなものを重視する傾向がある。
+そのため、行政の分野においてはもっと重要だとされるものを、軽視してしまうことがある。
+しかし、長期にわたってその技術を使おうとしている組織に向けて、技術を広めようとしている人のことを考えてみよう。
+段階を踏まない一気の変更は難しいし高くつくので、
+うまく動かないことについてもきちんとしたドキュメントを作ることが重要だ。そうすれば、回避策をとることもできる。
+将来のバージョンではきちんと動くはずと知らされるよりも、そのほうが重要である。
+新しいバージョンを、いま採用を検討中のユーザーが実際に使えるようになることはほとんどない。
+それよりは、既知の問題を把握した上で対処していくほうが、ずっと楽だ。
+皮肉なことだが、今のバグについてきちんと文書化されていることのほうが、
+予測不能な副作用つきで明日そのバグが修正されるよりも、ずっと好ましい。
 
 #@# In a large organization that uses software for a long time, the cost of acquiring
 #@# the software, be it via licenses or as part of contracted custom development of
