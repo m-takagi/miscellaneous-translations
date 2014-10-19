@@ -140,7 +140,13 @@ Bernhardと私がその当時に戻って、若い人たちに自分たちの経
 #@# only marginally related functionality to superiors at seemingly random points
 #@# in the schedule, but whether the next project happens or not might. When you have
 #@# few friends, helping them be successful is a good investment.
-In order to achieve this, it is important to focus not only on achieving the technical results of projects, but also keep in mind the broader personal and organizational goals of those one is dealing with. Success or failure of the current project might not depend on whether an agency's project manager can show off only marginally related functionality to superiors at seemingly random points in the schedule, but whether the next project happens or not might. When you have few friends, helping them be successful is a good investment.
+そのために重要なのは、プロジェクトの技術的な目標を達成することだけを目指すのではなく、
+人的な目標や組織的な目標についても常に気に掛けておくということだ。
+現在のプロジェクトの成否は、プロジェクトマネージャーが上司に対して、
+一見ランダムに見えるものの間に少しでも関連のあるような機能を、
+スケジュール内に提示できるか否かに関わっているわけではない。
+成否の鍵になるのは、次のプロジェクトが立ち上がるか否かだ。
+組織内に友人がいるのなら、彼らが成功するように手助けをすると、後で役立つだろう。
 
 #@# \section*{Priorities}
 == Priorities（優先順位）
