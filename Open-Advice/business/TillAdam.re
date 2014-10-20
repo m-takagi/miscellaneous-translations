@@ -182,7 +182,12 @@ Bernhardと私がその当時に戻って、若い人たちに自分たちの経
 #@# This leads to the thinking that fewer, more stable features, which cause less load
 #@# on the support organization and are more reliable and less maintenance intensive
 #@# are better than new, complex and likely less mature bells and whistles.
-In a large organization that uses software for a long time, the cost of acquiring the software, be it via licenses or as part of contracted custom development of Free Software, pales in comparison to the cost of maintaining and supporting it. This leads to the thinking that fewer, more stable features, which cause less load on the support organization and are more reliable and less maintenance intensive are better than new, complex and likely less mature bells and whistles.
+大規模な組織で長期間にわたってソフトウェアを使用する場合、そのソフトウェアを入手するためのコスト
+（ライセンス料金、あるいはフリーソフトウェアのカスタム開発の契約など）は、
+その後の保守やサポートのコストに比べると、取るに足らないものだ。
+そのため、目新しくて複雑だが成熟していない機能だらけなものよりも、
+機能は限られていてもより安定したもののほうが好まれる。
+そのほうがサポート部門の負荷も減るし、信頼性が高くなって、保守について余計な心配がいらなくなる。
 
 #@# While both of these sentiments run counter to the instincts of Free Software
 #@# developers, it is these same aspects that make it very attractive for the
