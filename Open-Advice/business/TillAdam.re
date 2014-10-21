@@ -203,7 +203,17 @@ Bernhardと私がその当時に戻って、若い人たちに自分たちの経
 #@# organizations with similar needs can benefit from them with no
 #@# additional cost, thus maximizing the impact of tax payer money,
 #@# something any public administration is (or should be) keen to do.
-While both of these sentiments run counter to the instincts of Free Software developers, it is these same aspects that make it very attractive for the public sector to contract the development of Free Software, rather than spending the money on licenses for off-the-shelf products. Starting from a large pool of freely available software, the organization can invest the budgets it has into maturing exactly those parts that are relevant for its own operations. It thus does not have to pay (via license costs) for the development of market driven, fancy features it will not need. By submitting all of that work back upstream into the community, the longer term maintenance of these improvements and of the base software is shared amongst many. Additionally, because all of the improvements become publicly available, other organizations with similar needs can benefit from them with no additional cost, thus maximizing the impact of tax payer money, something any public administration is (or should be) keen to do.
+これらの感情はどちらも、フリーソフトウェア開発者の本能には反する。
+しかし、これらの側面のおかげで、行政にとってフリーソフトウェア開発者との契約が魅力的なものとなる。
+パッケージ製品のライセンスに金を出すよりも、そのほうが価値があると感じるからだ。
+自由に使えるソフトウェア群を元に、
+自分たちの業務に関連する部分に資金をつぎ込んで、成熟させていくことができる。
+マーケット主導で開発された、誰も使わないような機能の開発のために、（ライセンス料金という形で）金を払う必要はない。
+フリーソフトウェアに関する作業をアップストリームのコミュニティに還元すれば、
+その改修部分の長期的なメンテナンスも多くの人たちと共有できる。
+さらに、改修した部分はすべて一般に公開されるので、同じようなニーズのある他の組織は、
+コストをかけずにそれを活用できる。納税者たちから集めた資金を最大限に活用できるというわけだ。
+これは、あらゆる行政組織が求めていることだろう。
 
 #@# \section*{Procurement}
 == Procurement（調達）
