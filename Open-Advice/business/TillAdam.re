@@ -229,7 +229,18 @@ Bernhardと私がその当時に戻って、若い人たちに自分たちの経
 #@# rarely possible. Thankfully organizations like the Free Software Foundation Europe and
 #@# its sister organization in the US are lobbying on our behalf and slowly effecting
 #@# change. Let's look at two central, structural problems.
-So, if it is so clearly better use of IT budgets for government agencies to invest into the improvement of Free Software and into the tailoring of it to its needs, why is it so rarely done? Feature parity for many of the most important kinds of software has long been reached, usability is comparable, robustness and total cost of ownership as well. Mindshare and knowledge are of course still problems, but the key practical obstacle for procurement of Free Software services lies in the legal and administrative conditions under which it must happen. Changing these conditions requires work on a political and lobby level. In the context of an individual project it is rarely possible. Thankfully organizations like the Free Software Foundation Europe and its sister organization in the US are lobbying on our behalf and slowly effecting change. Let's look at two central, structural problems.
+政府機関によるIT予算の使い道は、フリーソフトウェアの改良に投資して、自分たちのニーズにあわせて手を加えるのがよさそうだ。
+それははっきりしているのに、なぜ実際にそうしているところが少ないのだろう？
+機能的には十分なレベルに到達しているし、使い勝手も見劣りしない。
+堅牢性や総所有コストもしかり。
+もちろん意識共有や知識の面ではまだ問題はあるが、
+フリーソフトウェアのサービスを調達する際に現実的な障害となるのは、
+法的・制度的な問題だ。これは避けられない。
+こういった状況を変えるには、政治的な活動やロビー活動も必要だ。
+個々のプロジェクトレベルでは実現できない。
+ありがたいことに、Free Software Foundation Europeや、米国にあるその姉妹組織のようなところが私たちにかわってロビー活動を行っており、
+徐々に動きは出始めている。
+ここでは、主要な構造的問題を二つ見ていこう。
 
 #@# \paragraph*{Licenses, not Services}
 === Licenses, not Services
