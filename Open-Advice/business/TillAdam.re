@@ -243,7 +243,7 @@ Bernhardと私がその当時に戻って、若い人たちに自分たちの経
 ここでは、主要な構造的問題を二つ見ていこう。
 
 #@# \paragraph*{Licenses, not Services}
-=== Licenses, not Services
+=== サービスではなく、ライセンス
 
 #@# Many IT budgets are structured such that part of the money is set aside
 #@# for the purchase of new software or the continued payment for the use of software
@@ -256,7 +256,15 @@ Bernhardと私がその当時に戻って、若い人たちに自分たちの経
 #@# it for years and contribute the changes back to community, yet the plan can not
 #@# go forward unless the whole affair is wrapped in an artificial and unnecessary sale
 #@# and purchase of an imaginary product based on the Free Software license.
-Many IT budgets are structured such that part of the money is set aside for the purchase of new software or the continued payment for the use of software in the form of licenses. Since it was unimaginable to those who structured these budgets that software could ever be anything but a purchasable good, represented by a proprietary license, it is often difficult or impossible for the IT decision makers to spend that same money on services. Managerial accounting will simply not hear of it. This can lead to the unhappy situation that an organization has the will and the money to improve a piece of Free Software to exactly suit its needs, deploy and run it for years and contribute the changes back to community, yet the plan can not go forward unless the whole affair is wrapped in an artificial and unnecessary sale and purchase of an imaginary product based on the Free Software license.
+IT関連の予算の多くは、新しいソフトウェアを購入したり、
+ソフトウェアの使用料金をライセンス料などの形で支払ったりといったことにつぎ込まれている。
+予算を立てる人たちは、何かを買ったりライセンス料金を支払ったりといったこと以外でソフトウェアにお金がかかるなんて、
+思ってもいないことが多い。サービスに対してお金を出すという概念がないんだ。
+決算でも、そんなことが出てきたためしがない。
+これは、あまり好ましくない状況につながる。
+組織がフリーソフトウェアに資金を投入して、自分たちのニーズにあわせ、
+その成果をコミュニティに還元したいところだが、そのためには、
+フリーソフトウェアライセンスに基づいた仮想的な製品の購入と販売といった形をとる必要がある。
 
 #@# \paragraph*{Legal Traps}
 === Legal Traps
