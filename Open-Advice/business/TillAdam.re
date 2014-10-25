@@ -267,7 +267,7 @@ IT関連の予算の多くは、新しいソフトウェアを購入したり、
 フリーソフトウェアライセンスに基づいた仮想的な製品の購入と販売といった形をとる必要がある。
 
 #@# \paragraph*{Legal Traps}
-=== Legal Traps
+=== 法律の罠
 
 #@# Contractual frameworks for software providers often assume
 #@# that whoever signs up to provide the software fully controls all of the involved
@@ -278,7 +278,14 @@ IT関連の予算の多くは、新しいソフトウェアを購入したり、
 #@# This problem appears most pointedly in the context of software patents. It is practically
 #@# impossible for a service provider to insure against patent litigation risks which makes
 #@# it very risky to take on the full responsibility.
-Contractual frameworks for software providers often assume that whoever signs up to provide the software fully controls all of the involved copyrights, trademarks and patents. The buying organization expects to be indemnified against various risks by the provider. In the case of a company or an individual providing a solution or service based on Free Software that is often impossible since there are other rights holders that can not reasonably be involved in the contractual arrangement. This problem appears most pointedly in the context of software patents. It is practically impossible for a service provider to insure against patent litigation risks which makes it very risky to take on the full responsibility.
+ソフトウェアを提供する側にとっての契約の枠組みでは、
+ソフトウェアを提供する側が、著作権や商標そして特許などを完全にコントロールすることが前提になっていることが多い。
+購入側の組織は、さまざまなリスクを提供側が保証してくれることを期待ししている。
+フリーソフトウェアを使ったソリューションやサービスを提供している企業（あるいは個人）の場合は、それが無理であることが多い。
+契約に組み込めないような第三者が権利を持っていることが多いからだ。
+この問題は、ソフトウェア特許の面で現れることが多い。
+サービスプロバイダにとって、特許に関する訴訟リスクに備えるのはほぼ不可能だ。
+すべての責務を負うのは非常にリスキーである。
 
 #@# \section*{Price}
 == Price（価格）
