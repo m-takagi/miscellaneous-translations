@@ -308,7 +308,19 @@ IT関連の予算の多くは、新しいソフトウェアを購入したり、
 #@# money can be saved, but for the individual agency looking to deploy a piece of
 #@# Free Software there will be an upfront investment and cost associated with
 #@# getting it to the point of maturity and robustness required.
-Historically, the key selling point of Free Software that has been communicated to the wider public has been its potential to save money. Free Software has indeed made large scale cost saving possible in many organizations and for many years now. The GNU/Linux operating system has spearheaded this development. Because of its free availability for download was perceived in stark contrast to the expensive licenses of its main competitor, Microsoft Windows. For something as widely used and useful as an operating system, the structural cost benefit of development cost put onto many shoulders is undeniable.  Unfortunately the expectation that this holds true for all Free Software products has led to the unrealistic view that using it will always, immediately and greatly reduce cost. In our experience, this is not true. As we have seen in earlier sections it does make a lot of sense to get more out of the money spent using Free Software and it is likely that over time and across multiple organizations money can be saved, but for the individual agency looking to deploy a piece of Free Software there will be an upfront investment and cost associated with getting it to the point of maturity and robustness required.
+歴史的に見て、フリーソフトウェアを広めるときの売り文句としてポイントなのは、お金を節約できるかもということだ。
+実際、フリーソフトウェアのおかげで大幅なコスト削減を果たした組織も、これまでに多い。
+GNU/Linuxは、その最大の原動力だろう。
+自由にダウンロードして使えるという点が、競合であるMicrosoft Windowsの高価なライセンスとは対象的だった。
+幅広く使われている有用なオペレーティングシステムを使うことによる、
+開発の構造的な費用便益は、否定できない。
+残念なことに、すべてのフリーソフトウェアに対して、同じように期待されてしまっていて、
+コストをすぐにでも大幅に減らせると思い込んでしまっている。
+経験上、さすがにそれはない。
+先ほど見たように、フリーソフトウェアを使うことで様々なものを得られることは確かだし、
+これまでにもさまざまな組織が資金の節約を実現してきた。
+しかし、これからフリーソフトウェアを導入しようと考えている機関は、
+求められる成熟度や堅牢性を得るために、先行投資のコストがかかる。
 
 #@# While this seems entirely reasonable to IT operations
 #@# professionals it is often harder to convince their superiors with budget power
