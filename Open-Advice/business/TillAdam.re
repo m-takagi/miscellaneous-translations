@@ -335,7 +335,13 @@ GNU/Linuxは、その最大の原動力だろう。
 #@# proprietary license based business models. It is thus also in the interest of the
 #@# customers that cost estimations are realistic and the economic conditions of the
 #@# work being done are sustainable.
-While this seems entirely reasonable to IT operations professionals it is often harder to convince their superiors with budget power of this truth. Especially when potential cost saving has been used as an argument to get Free Software in the door initially it can prove very challenging to effectively manage expectations down the road. The earlier the true cost and nature of the investment is made transparent to decision makers, the more likely they are to commit to it for the long haul. High value for money is still attractive and a software services provider that will not continue to be available because the high price pressure does not yield sufficient economic success is as unattractive in Free Software as it is in proprietary license based business models. It is thus also in the interest of the customers that cost estimations are realistic and the economic conditions of the work being done are sustainable.
+IT部門の関係者にとっては極めてまっとうなことだと思えるのだが、上司を説得して予算を確保するのはとても難しい。
+特に、「コストを削減できるから」という名目でフリーソフトウェアを導入した場合などは、
+その期待をうまく軟着陸させるのはたいへんだ。
+ほんとうのコストやその投資の性質を意思決定者に見せるのが早ければ早いほど、長期的なことを考えて受け入れてくれる可能性も高くなる。
+お金の価値は魅力的であり、高値をつけるプレッシャーに迫られて存続できなくなるソフトウェアサービスプロバイダーは、
+経済的にあまり魅力のないフリーソフトウェアよりもプロプライエタリなライセンスベースのモデルに走ってしまう。
+コストの見積もりが現実的であること、そして作業を持続可能な経済的条件であることは、顧客にとっても大切なこととなる。
 
 #@# \section*{Conclusion}
 == Conclusion
