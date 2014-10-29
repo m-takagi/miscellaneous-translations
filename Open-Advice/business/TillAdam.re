@@ -344,7 +344,7 @@ IT部門の関係者にとっては極めてまっとうなことだと思える
 コストの見積もりが現実的であること、そして作業を持続可能な経済的条件であることは、顧客にとっても大切なこととなる。
 
 #@# \section*{Conclusion}
-== Conclusion
+== 結論
 
 #@# Our experience shows that it is possible to convince organizations in
 #@# the public sector to spend money on Free Software based services. It is
@@ -357,5 +357,12 @@ IT部門の関係者にとっては極めてまっとうなことだと思える
 #@# effective partnerships that yield benefits for the Free Software community,
 #@# the public administrations using the software and those providing them
 #@# with the necessary services in an economically viable, sustainable way.
-Our experience shows that it is possible to convince organizations in the public sector to spend money on Free Software based services. It is an attractive proposition that provides good value and makes political sense. Unfortunately structural barriers still exist, but with the help of pioneers in the public sector they can be worked around. Given sufficient support by us all, those working for Free Software on a political level will eventually overcome them. Honest and clear communication of the technical and economic realities can foster effective partnerships that yield benefits for the Free Software community, the public administrations using the software and those providing them with the necessary services in an economically viable, sustainable way.
+私たちの経験は、行政分野の組織で会っても、フリーソフトウェアベースのサービスに資金を投入させることが可能だということを示している。
+フリーソフトウェアベースのサービスは、魅力的な提案であり、価値があって、政治的にも理にかなっている。
+残念ながら、組織的な障壁は残っている。しかし、先駆者達の力を借りれば何とか対応できる。
+私たちが十分なサポートを提供すれば、政治的なレベルでフリーソフトウェア活動をしている人たちも、その障壁を乗り越えられるだろう。
+技術的にも経済的にも、正直で明確なコミュニケーションを心がければ、よい関係を築ける。
+そしてそれは、フリーソフトウェアコミュニティにも利益をもたらすだろうし、
+フリーソフトウェアを利用する行政や、行政にサービスを提供する人たちにとっても、
+経済的に理にかなった、持続可能な方法で進められるようになる。
 
