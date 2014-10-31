@@ -19,7 +19,12 @@ Frank Karlitschek
 #@# Today Frank is a board member and Vice President of the KDE e.V. and a regular
 #@# speaker at international conferences.}
 //lead{
-Frank Karlitschek was born in 1973 in Reutlingen, Germany and started to write software at the age of 11. He studied Computer Science at the University of T\"ubingen and became involved in free software and Internet technologies in the mid-1990s. In 2001, he started to contribute to KDE by launching KDE-Look.org, an artwork community site which later became the openDesktop.org network. Frank started several Open Source projects and initiatives like the Social Desktop, the Open Collaboration Services, the Open-PC and ownCloud. In 2007 he started a company called hive01 which offers services and products around Open Source and Internet technologies. Today Frank is a board member and Vice President of the KDE e.V. and a regular speaker at international conferences.
+Frank Karlitschekは、1973年生まれ。ドイツのロイトリンゲン出身で、11才のときにソフトウェアを書き始めた。
+テュービンゲン大学で計算機科学を学び、90年代半ばにフリーソフトウェアやインターネット技術に関わるようになった。
+KDEの貢献を始めたのは2001年で、KDE-Look.orgの立ち上げに関わった。これはアートワークコミュニティのサイトで、後のopenDesktop.orgネットワークにつながった。
+Frankはさまざまなオープンソースプロジェクトや活動を立ち上げている。Social DesktopやOpen Collaboration Services、Open-PC、そしてownCloudなどだ。
+2007年にはhive01という企業を立ち上げた。同社は、オープンソースやインターネット技術にまつわるサービスやプロダクトを提供する。
+現在はKDE e.V.の理事と副会長を務めており、各地のカンファレンスでの講演なども行っている。
 //}
 
 #@# \section*{Introduction}
