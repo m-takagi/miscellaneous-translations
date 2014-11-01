@@ -28,7 +28,7 @@ Frankはさまざまなオープンソースプロジェクトや活動を立ち
 //}
 
 #@# \section*{Introduction}
-== Introduction
+== はじめに
 
 #@# Ten years ago, I underestimated the value of a business model. Free software and
 #@# a business model? They do not belong together. At least, that is what I thought
@@ -39,7 +39,20 @@ Frankはさまざまなオープンソースプロジェクトや活動を立ち
 #@# -- even hobby developers. So earning money is not important. Right? Today, I
 #@# hold a different opinion. Sometimes developers should be remunerated for their
 #@# efforts.
-Ten years ago, I underestimated the value of a business model. Free software and a business model? They do not belong together. At least, that is what I thought when I started contributing to KDE in 2001. Free Software is about fun and not money. Right? Free software people want a world where everybody can write software and huge companies, like Microsoft or Google, are superfluous. Software should be free and anyone who wants to develop software should be able to do so -- even hobby developers. So earning money is not important. Right? Today, I hold a different opinion. Sometimes developers should be remunerated for their efforts.
+10年前の私は、ビジネスモデルの価値を過小評価していた。
+フリーソフトウェアのビジネスモデルだって？
+いったい何を言っているんだ。
+少なくとも、2001年にKDEに関わり始めた頃の私はそんな感じだった。
+フリーソフトウェアはあくまでも趣味であって、お金のことなど考えていなかった。
+だよね？
+フリーソフトウェアの人たちが求めていたのは、誰もがソフトウェアを書けるようになって、
+MicrosoftやGoogleといった大企業が不要になるような世界だった。
+ソフトウェアは自由であるべきだし、ソフトウェアを書きたいと思っている人たちはみな書けるようになるべきだ。
+たとえそれが趣味の開発者であっても。
+お金を稼ぐかどうかはどうでもよかった。
+だよね？
+でも、今の私は、少し違う考えかたでいる。
+開発者は、その作業に対する報酬を得るべきだと思うこともあるんだ。
 
 #@# \section*{The Free Software motivation}
 == The Free Software motivation
