@@ -68,7 +68,15 @@ MicrosoftやGoogleといった大企業が不要になるような世界だっ�
 #@# on our software whether we meet online or in real life at one of the many
 #@# conferences or events. And it is also about friendship. Over the years I have
 #@# made many good friends in KDE.
-Most Free Software developers have two basic motivations to work on Free Software. The first motivation is the fun factor. It is a fantastic experience to work together with very talented people from all over the world and create great technology. KDE, for example, is one of the most welcoming communities I know. It is so much fun to work with thousands of contributors from all over the world to create software which will be used by millions. Basically, everyone is an expert in one or more areas and we collaborate to create a shared vision. For me it is always a blast to meet other KDE contributors, exchange ideas or work on our software whether we meet online or in real life at one of the many conferences or events. And it is also about friendship. Over the years I have made many good friends in KDE.
+フリーソフトウェアの開発者がフリーソフトウェアに取り組む動機は、基本的に二種類ある。
+ひとつは「それが楽しいから」ということ。
+世界中のデキる人たちと協力して、優れた技術を生み出していくというのは、すばらしい経験だ。
+たとえばKDEは、私の知る限りでは最も敷居の低いコミュニティのひとつだ。
+世界中から集まった何千人ものメンバーが協力して、何百人ものユーザーがいるソフトウェアを作っている。それはとても楽しいことだ。
+どのメンバーも、それぞれの分野のエキスパートであり、ひとつのビジョンに向かって皆が協力している。
+他のKDEのメンバーと会って、意見を交換したりするのは、私にとっての大きな楽しみだ。
+オンラインでのやりとりもそうだし、カンファレンスやイベントなどで実際に顔を合わせるのもまた楽しい。
+これまでに、KDEを通じて数多くの友人ができた。
 
 #@# But KDE contributors are not motivated only by fun to join KDE. It is also the
 #@# idea that all of us can make the world a better place with our contributions. Free
