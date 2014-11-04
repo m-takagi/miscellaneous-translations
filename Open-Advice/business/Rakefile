@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+task :default => [:build_all]
+
 desc "build a chapter (ex.) rake build c=target.re"
 task :build do
   re = ENV['c']
