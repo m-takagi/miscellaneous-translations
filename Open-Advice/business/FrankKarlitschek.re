@@ -91,7 +91,15 @@ MicrosoftやGoogleといった大企業が不要になるような世界だっ�
 #@# businesses. It is not possible to innovate and create the next disruptive
 #@# technology if you depend on proprietary software and do not have full access to
 #@# all parts of the software.
-But KDE contributors are not motivated only by fun to join KDE. It is also the idea that all of us can make the world a better place with our contributions. Free Software is essential if you care about access to technology and IT for developing countries. It enables poor people to participate in the information age without buying expensive licenses for proprietary software. It is essential for people who care about privacy and security, because Free Software is the only way to see exactly what your computer is doing with your private data. Free Software is important for a healthy IT eco-system, because it enables everybody to build on the work of others and really innovate. Without Free Software it would not have been possible for Google or Facebook to start their businesses. It is not possible to innovate and create the next disruptive technology if you depend on proprietary software and do not have full access to all parts of the software.
+でも、KDEの貢献者たちは、何も楽しいからというだけの理由でKDEに関わっているわけではない。
+自分たちの貢献によって、この世界をほんの少しでもよい場所にできるのだという考えも持っている。
+フリーソフトウェアは、技術やITを発展途上国に提供することを考えると、不可欠だ。
+貧困層であっても、プロプライエタリなソフトウェアの高価なライセンスを購入せずに、情報化時代に参加できる。
+また、プライバシーやセキュリティを気にする人たちにとっても、フリーソフトウェアは大切だ。
+コンピューターが自分の個人情報をどのように扱っているのかを正確に把握するには、フリーソフトウェアを使うしかない。
+フリーソフトウェアは、ITのエコシステムを健全に保つためにも重要だ。誰もが、他の人の成果を活用できるようになる。
+フリーソフトウェアがなければ、GoogleやFacebookが事業を立ち上げることは不可能だったであろう。
+プロプライエタリなソフトウェアに依存し、ソフトウェアへの完全なアクセスが閉ざされた状態では、革新的な技術を生み出すことは不可能だ。
 
 #@# Free Software is also essential for education, because everybody can see all the
 #@# internals of the software and study how it works. That is how Free Software helps to
