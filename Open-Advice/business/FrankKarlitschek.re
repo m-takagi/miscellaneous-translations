@@ -105,7 +105,9 @@ MicrosoftやGoogleといった大企業が不要になるような世界だっ�
 #@# internals of the software and study how it works. That is how Free Software helps to
 #@# make the world a better place and why I contribute to Free Software projects
 #@# such as KDE.
-Free Software is also essential for education, because everybody can see all the internals of the software and study how it works. That is how Free Software helps to make the world a better place and why I contribute to Free Software projects such as KDE.
+フリーソフトウェアは、教育にとっても欠かせないものだ。誰もがソフトウェアの中身を見ることができて、どのように動いているのかを学ぶことができる。
+こういったことが、フリーソフトウェアが世界をよりよくすると考える理由で、
+私がKDEのようなフリーソフトウェアプロジェクトに関わる理由でもある。
 
 #@# \section*{The need for an ecosystem}
 == The need for an ecosystem
