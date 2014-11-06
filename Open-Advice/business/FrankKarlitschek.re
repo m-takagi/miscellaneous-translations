@@ -125,7 +125,19 @@ MicrosoftやGoogleといった大企業が不要になるような世界だっ�
 #@# software. One big advantage is, for example, the ability to re-use code better.
 #@# But even with these advantages we need many more contributors than we have
 #@# today, if we really want to conquer the desktop and mobile markets.
-These are the main reasons why I want to see Free Software, and especially the free desktop, become mainstream. To make this happen, we need a lot more contributors than we have today. By contributors I mean people who write the core frameworks, the desktop, the great applications. We need people who work on usability, artwork, promotion and many other important areas. KDE is already a really big community with thousands of members. But we need more people to help to compete with proprietary software in a big way. The Free Software community is tiny compared to the proprietary software world. On the one hand this is not a problem, because the distributed software development model of the Free Software world is much more efficient than the closed source way of writing software. One big advantage is, for example, the ability to re-use code better. But even with these advantages we need many more contributors than we have today, if we really want to conquer the desktop and mobile markets.
+なぜフリーソフトウェア（特にフリーデスクトップ環境）がメインストリームになると考えているのか、
+主な理由を挙げた。
+これを現実のものとするには、今よりももっと多くの貢献者が必要になる。
+ここで言う貢献者とは、コアフレームワークやデスクトップを書いたり、すばらしいアプリケーションを書いたりする人たちのことだ。
+さらに、ユーザビリティやアートワーク、宣伝など、他にも大切なことがいろいろある。
+KDEは既に大きなコミュニティであり、何千人ものメンバーがいる。
+しかし、プロプライエタリなソフトウェアと戦うには、もっと人が必要だ。
+フリーソフトウェアのコミュニティは、プロプライエタリなソフトウェアと比べるとかなり小さい。
+一方、それはたいした問題ではないという見方もある。
+フリーソフトウェアの世界にある分散ソフトウェア開発モデルは、クローズドソースな世界に比べるとずっと効率的だ。
+大きなメリットのひとつが、コードの再利用性が高まるということである。
+でも、このメリットを持ってしても、
+デスクトップやモバイルの市場を本気で制覇するには、より多くの人が必要であることには変わりがない。
 
 #@# We also need companies to help us bring our work to the mass market. In a
 #@# nutshell, we need a big and healthy ecosystem that enables people to work on
