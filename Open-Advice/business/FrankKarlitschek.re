@@ -142,7 +142,8 @@ KDEは既に大きなコミュニティであり、何千人ものメンバー�
 #@# We also need companies to help us bring our work to the mass market. In a
 #@# nutshell, we need a big and healthy ecosystem that enables people to work on
 #@# Free Software for a living.
-We also need companies to help us bring our work to the mass market. In a nutshell, we need a big and healthy ecosystem that enables people to work on Free Software for a living.
+大衆市場に向けた活動を支援してくれる企業も必要だ。
+端的に言うと、フリーソフトウェアで生きていけるような、巨大で健全なエコシステムが必要なわけである。
 
 #@# \section*{The current situation}
 == The current situation
