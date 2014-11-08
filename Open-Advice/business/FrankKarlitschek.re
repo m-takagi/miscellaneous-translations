@@ -163,7 +163,22 @@ KDEは既に大きなコミュニティであり、何千人ものメンバー�
 #@# I underestimated this factor 10 years ago, but I think it is a problem for KDE
 #@# in the long term, because we lose our most experienced people to proprietary
 #@# software companies.
-I started contributing to KDE over 10 years ago and since then I have seen countless highly motivated and talented people join KDE. This is really cool. The problem is that I also saw a lot of experienced contributors dropping out of KDE. That is really sad. Sometimes it is just the normal way of the world. Priorities shift and people concentrate on other stuff. The problem is that many also drop out because of money. At some point people graduate and want to move out of their dorm rooms. Later some people want to get married and have kids. At this point people have to find jobs. There are some companies in the KDE ecosystem that offer KDE-related jobs. But these are only a fraction of the available IT jobs. So, a lot of senior KDE contributors have to work for companies where they work on proprietary software, unrelated to KDE and Free Software. Sooner or later most of these developers drop out of KDE. I underestimated this factor 10 years ago, but I think it is a problem for KDE in the long term, because we lose our most experienced people to proprietary software companies.
+私がKDEに関わり始めてから10年以上になるが、その間にも才能ある人材が数多く合流してきた。
+すばらしいことだ。
+ただ、それと同時に、経験を積んだメンバーがKDEから離れていくのも数多く見てきた。
+残念なことだ。
+もちろん、来る人もいれば去る人もいるのは世の常だ。
+自分にとって大事なことは変わっていくし、他のことに注力したくなっても不思議はない。
+ただ、そういう理由ではなく、金銭的な問題で去って行く人も多いというのが問題だ。
+大学を卒業したら、学生寮から出て行かないといけない。
+結婚して子供が欲しくなるかも知れない。
+そうなれば、仕事を見つけなければいけない。
+KDEのエコシステムの中には、KDE関連の求人をしている企業もいくつかある。
+しかしそれは、IT業界全体のごく一部にすぎない。
+そのため、KDEの主力貢献者の多くは、KDEなどのフリーソフトウェアとは無関係な、プロプライエタリなソフトウェアを開発する企業で働かざるを得なくなる。
+遅かれ早かれ、そんな開発者はKDEから脱退してしまう。
+10年前はそんなに気にしていなかったが、これはKDEにとっては長期的な問題だ。
+というのも、経験豊富な人たちを失うだけではなく、彼らをプロプライエタリソフトウェアの企業に奪われてしまうからだ。
 
 #@# \section*{My dream world}
 == My dream world
