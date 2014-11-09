@@ -189,7 +189,11 @@ KDEのエコシステムの中には、KDE関連の求人をしている企業�
 #@# Free Software in general. They should earn money by helping KDE. Their hobbies
 #@# should become their jobs. This would make KDE grow in a big way, because it
 #@# would be fun to contribute and also provide good long-term job prospects.
-In my dream world people can pay their rent by working on Free Software and they can do it in a way which does not conflict with our values. KDE contributors should have all the time they need to contribute to KDE and Free Software in general. They should earn money by helping KDE. Their hobbies should become their jobs. This would make KDE grow in a big way, because it would be fun to contribute and also provide good long-term job prospects.
+私には夢がある。フリーソフトウェアの仕事をすることで家賃を支払えるような、そしてそれが私たちの価値観と対立しないような世界を実現することだ。
+KDEの貢献者達は、使える時間をすべてKDEやフリーソフトウェアに費やせる。
+KDEに関する作業だけで、食べていけるだけの賃金を得られる。
+趣味でやるのではなく、それを本業とする。
+そんな世界になれば、KDEは大きく成長するだろう。楽しくてやっていることが、安定した職を得ることにつながるのだから。
 
 #@# \section*{What are the options?}
 == What are the options?
