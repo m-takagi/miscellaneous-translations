@@ -205,7 +205,12 @@ KDEに関する作業だけで、食べていけるだけの賃金を得られ�
 #@# completely new ideas into the Free Software world. But I think it is essential
 #@# for us to think beyond our current world if we want to be successful with our
 #@# mission.
-So what are the options? What can we do to make this happen? Are there ways for developers to pay their rent while working on Free Software? I want to list a few ideas here that I collected during several discussions with Free Software contributors. Some of them are probably controversial, because they introduce completely new ideas into the Free Software world. But I think it is essential for us to think beyond our current world if we want to be successful with our mission.
+じゃあいったいどうすればいいのだろう。
+私の夢を実現するために、いったい何ができるのだろう？
+フリーソフトウェアの開発で金を稼いで、月々の家賃を支払えるようにする道があるのだろうか？
+フリーソフトウェア界隈の人たちと議論を繰り返して、いくつかのアイデアをとりまとめた。
+中には賛否両論ありそうな案もあるだろう。フリーソフトウェアの世界に、まったく新しいアイデアを持ち込むものも含まれているからだ。
+でも、私たちのミッションを達成するためには、現状のもう一歩先を行くことを考えることが欠かせないと思っている。
 
 #@# \paragraph*{Sponsored development}
 === Sponsored development
