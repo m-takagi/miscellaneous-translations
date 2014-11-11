@@ -220,7 +220,10 @@ KDEに関する作業だけで、食べていけるだけの賃金を得られ�
 #@# Software projects. This is an opportunity for Free Software developers. We
 #@# should talk to more companies and convince them to work with the Free Software
 #@# world.
-Today, more and more companies appreciate the importance of Free Software and contribute to Free Software projects, or even release their own completely Free Software projects. This is an opportunity for Free Software developers. We should talk to more companies and convince them to work with the Free Software world.
+フリーソフトウェアの重要性を理解して、フリーソフトウェアに協力してくれる企業が増えつつある。
+何だったら、自分たちでもフリーソフトウェアをリリースしているところだってある。
+フリーソフトウェアの開発者たちにとっては、チャンスだ。
+いろんな企業の人たちと話して、フリーソフトウェアの世界に協力してもらえるように説得すべきだ。
 
 #@# \paragraph*{End-user donations}
 === End-user donations
