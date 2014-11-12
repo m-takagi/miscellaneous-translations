@@ -233,7 +233,9 @@ KDEに関する作業だけで、食べていけるだけの賃金を得られ�
 #@# and promote the further development of the application, donating money should be
 #@# just one mouse click away. The donation system can be built into the application
 #@# to make it as easy as possible to send money.
-There should be an easy way for end-users to donate money directly to developers. If a user of a popular application wants to support the developer and promote the further development of the application, donating money should be just one mouse click away. The donation system can be built into the application to make it as easy as possible to send money.
+エンドユーザーから開発者に対して、直接寄付をするためのお手軽な手段があるべきだ。
+あるアプリケーションのユーザーが、アプリケーションの開発を支援したいと思ったときに、ワンクリックで寄付ができるようにしておくべきだろう。
+寄付をする仕組みをアプリケーションの中に組み込んでおけば、気軽に寄付をできるようになる。
 
 #@# \paragraph*{Bounties}
 === Bounties
