@@ -248,7 +248,13 @@ KDEに関する作業だけで、食べていけるだけの賃金を得られ�
 #@# the users. This bounty feature is not easy to implement. People already tried to
 #@# set up a system like this and failed. But I think it can work if we do it
 #@# right.
-The idea behind bounties is that one or more users of an application can pay for the development of a specific feature. A user can list his feature request on a website and say how much he is willing to pay for the feature. Other users who also like the same feature may add some money to the feature request. At some point the developer starts to develop the feature and collects the money from the users. This bounty feature is not easy to implement. People already tried to set up a system like this and failed. But I think it can work if we do it right.
+懸賞金というアイデアの背後にあるのは、アプリケーションのユーザーが、特定の機能を実装してもらうために資金を提供するというものだ。
+ユーザーは自分の希望する機能をウェブサイトに掲示し、その機能のためならいくら払う気があるかも示す。
+同じ機能を欲しているユーザーが他にもいる場合は、その機能リクエストに対して別のユーザーも資金を追加できる。
+どこかの時点で開発者がその機能の開発を始め、資金を回収する。
+この懸賞金の仕組みを用意するのは、簡単ではない。
+多くの人たちが挑戦しては、失敗してきた。
+でも、きちんとやれば、うまく機能する仕組みだと思っている。
 
 #@# \paragraph*{Support}
 === Support
