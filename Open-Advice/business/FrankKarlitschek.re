@@ -267,7 +267,11 @@ KDEに関する作業だけで、食べていけるだけの賃金を得られ�
 #@# realize many developers will not like the idea that users call them and ask
 #@# strange questions, but if this means that they earn enough with the support
 #@# system to work full-time on their applications, then it must be a good thing.
-The idea is that the developer of an application sells direct support to the users of the application. For example, the users of an application buy support for, let us say, \$5 a month and get the right to call the developer directly at specified times of the day, users may post questions to a specific email address, or the developer can even help the users via a remote desktop. I realize many developers will not like the idea that users call them and ask strange questions, but if this means that they earn enough with the support system to work full-time on their applications, then it must be a good thing.
+アプリケーションの開発者が、アプリケーションのユーザーに対する直接のサポートを有償で行うという案もある。
+たとえば、月額5ドルのユーザーサポートを購入したユーザーは、あらかじめ決められた回数だけ開発者に直接連絡できる権利を得られて、
+メールでの質問を行えたり、場合によってはリモートデスクトップ経由でのサポートを受けられたりといったものだ。
+たぶん、開発者の多くはこの案を気に入らないだろう。わけのわからない質問に悩まされたくないからだ。
+でも、このサポートシステムの稼ぎのおかげでアプリケーションの開発を本業にできるのなら、それは間違いなくいいことだ。
 
 #@# \paragraph*{Supporters}
 === Supporters
