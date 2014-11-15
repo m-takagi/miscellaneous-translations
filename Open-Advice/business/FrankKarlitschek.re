@@ -284,7 +284,12 @@ KDEに関する作業だけで、食べていけるだけの賃金を得られ�
 #@# all supporters are also invited to a special supporter party together with the
 #@# developers. It is possible that a developer may be able to work full-time on an
 #@# application, if enough users become supporters.
-This is the idea that end-users can become supporters of an application. The ``Become a Supporter'' button would be directly built into the application. The user then becomes a supporter for a monthly payment of, for example \$5, which goes directly to the developer. All the supporters are listed in the About Dialog of the application together with their photos and real names. Once a year all supporters are also invited to a special supporter party together with the developers. It is possible that a developer may be able to work full-time on an application, if enough users become supporters.
+これは、エンドユーザーに、アプリケーションのサポーターになってもらうというアイデアだ。
+「サポーターになる」ボタンを、アプリケーションに組み込んでおけばいい。
+たとえば月額5$などでサポーターになってもらい、その資金が直接開発者に回ってくる。
+そして、アプリケーションの「○○について」ダイアログに、写真付きで彼らの一覧を載せる。
+年に一度、すべてのサポーターを招待して、開発者たちとのパーティーを開く。
+それなりの数のサポーターが集まれば、開発者たちはそのアプリケーションの開発だけで食べていけるようになるだろう。
 
 #@# \paragraph*{Affiliate programs}
 === Affiliate programs
