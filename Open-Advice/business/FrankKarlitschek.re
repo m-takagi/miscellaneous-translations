@@ -299,7 +299,9 @@ KDEに関する作業だけで、食べていけるだけの賃金を得られ�
 #@# Amazon mp3 MusicStore or a PDF reader can be integrated in an ebook store.
 #@# Every time a user buys content via the application, the developer gets some
 #@# money.
-Some applications have integrated web services and some of these web services run affiliate programs. For example, a media player can be integrated in the Amazon mp3 MusicStore or a PDF reader can be integrated in an ebook store. Every time a user buys content via the application, the developer gets some money.
+アプリケーションによっては、ウェブサービスと統合されていて、そのウェブサービスのアフィリエイトプログラムを使っているものもある。
+たとえば、メディアプレイヤーがAmazon mp3 MusicStoreと統合されていたり、PDFリーダーがebookストアと統合されていたりといったものだ。
+ユーザーがそのアプリケーション経由でコンテンツを購入するたびに、開発者にいくらかのお金が入る。
 
 #@# \paragraph*{App store for application binaries}
 === App store for application binaries
