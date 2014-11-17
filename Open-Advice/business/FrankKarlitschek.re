@@ -313,7 +313,16 @@ KDEに関する作業だけで、食べていけるだけの賃金を得られ�
 #@# tested applications to the end-user. This might work especially well on Mac or
 #@# Windows. I am sure a lot of users would pay \$3 for an Amarok Windows binary, or
 #@# digiKam for Mac, if all the money went directly to the developer.
-Many people do not know that it is possible to sell binaries of Free Software. The GPL only requires that you also provide the source code. So, it is perfectly legal and OK to sell nicely packaged binaries of our software. In fact, companies such as Red Hat and Novell already sell our software in their commercial distributions but the developers do not benefit from it directly. All the revenue goes to the companies and nothing to the developers. So we could enable the Free Software developers to sell nicely packaged, optimized and tested applications to the end-user. This might work especially well on Mac or Windows. I am sure a lot of users would pay \$3 for an Amarok Windows binary, or digiKam for Mac, if all the money went directly to the developer.
+フリーソフトウェアのバイナリを販売できるということを、知らない人が多い。
+GPLが要求しているのは、ソースコードも提供しなければいけないというだけのことだ。
+なので、そのソフトウェアのバイナリをパッケージとして販売しても、ライセンス的にはまったく問題がない。
+実際、Red HatやNovellといった企業が、自分たちのソフトウェアを商用製品として販売している。
+しかし、開発者たちは、そこから直接の利益を得ているわけではない。
+収益はすべて企業のものとなり、開発者たちには何も降りてこないのだ。
+私たちは、フリーソフトウェアの開発者たち自身が、きちんとパッケージ化されて最適化された、テスト済みのアプリケーションをエンドユーザーに販売できるようにしていきたい。
+特にMacやWindows向けにはうまく回りそうだ。
+Windows版のAmarokやMac版のdigiKamのバイナリがあれば、$3くらいなら払うというユーザーは多いだろう。
+そして、それがすべて開発者に行き渡ることになる。
 
 #@# \section*{Conclusion}
 == Conclusion
