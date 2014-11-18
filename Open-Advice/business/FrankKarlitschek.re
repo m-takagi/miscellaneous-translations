@@ -331,7 +331,8 @@ Windows版のAmarokやMac版のdigiKamのバイナリがあれば、$3くらい�
 #@# software, changes to our ways of working and changes among our users who must be
 #@# encouraged to show they value the software we create by helping to fund its
 #@# development.
-Most of these ideas are not easy to implement. They require changes to our software, changes to our ways of working and changes among our users who must be encouraged to show they value the software we create by helping to fund its development.
+今回提示した案の多くは、そんなに簡単に実現できるものではない。
+ソフトウェアに手を加えたり、私たちの作業のしかたに手を加えたり、ユーザーがソフトウェアの開発に資金援助をしようと思うように仕向けたりなど、どれも一筋縄ではいかない。
 
 #@# However, the potential benefits are huge. If we can secure revenue streams for
 #@# our software we can retain our best contributors and maybe attract new ones. Our
