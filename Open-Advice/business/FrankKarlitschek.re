@@ -338,7 +338,10 @@ Windows版のAmarokやMac版のdigiKamのバイナリがあれば、$3くらい�
 #@# our software we can retain our best contributors and maybe attract new ones. Our
 #@# users will get a better experience with faster software development, the ability
 #@# to directly influence development through bounties and better support.
-However, the potential benefits are huge. If we can secure revenue streams for our software we can retain our best contributors and maybe attract new ones. Our users will get a better experience with faster software development, the ability to directly influence development through bounties and better support.
+しかし、その潜在的な利点は計り知れない。
+ソフトウェアから収益を得る道を確保できれば、既存の貢献者たちをつなぎ止められるだろうし、新たな貢献者たちを迎え入れることだってできるだろう。
+ユーザーは、よりよいソフトウェアをすばやく手に入れられるようになる。
+そして、懸賞金やよりよいサポートなどで、開発にも影響を及ぼせるようになる。
 
 #@# Free Software is no longer just a hobby to be done in your spare time. It is
 #@# time to make it a business.
