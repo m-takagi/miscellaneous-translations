@@ -345,4 +345,4 @@ Windows版のAmarokやMac版のdigiKamのバイナリがあれば、$3くらい�
 
 #@# Free Software is no longer just a hobby to be done in your spare time. It is
 #@# time to make it a business.
-Free Software is no longer just a hobby to be done in your spare time. It is time to make it a business.
+フリーソフトウェアは、もはや空き時間で楽しむ趣味の世界にとどまらない。ビジネスにする時がきたんだ。
