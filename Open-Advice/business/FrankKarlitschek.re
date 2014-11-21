@@ -55,7 +55,7 @@ MicrosoftやGoogleといった大企業が不要になるような世界だっ�
 開発者は、その作業に対する報酬を得るべきだと思うこともあるんだ。
 
 #@# \section*{The Free Software motivation}
-== The Free Software motivation
+== フリーソフトウェアに取り組む同期
 
 #@# Most Free Software developers have two basic motivations to work on Free
 #@# Software. The first motivation is the fun factor. It is a fantastic experience
@@ -110,7 +110,7 @@ MicrosoftやGoogleといった大企業が不要になるような世界だっ�
 私がKDEのようなフリーソフトウェアプロジェクトに関わる理由でもある。
 
 #@# \section*{The need for an ecosystem}
-== The need for an ecosystem
+== エコシステムの必要性
 
 #@# These are the main reasons why I want to see Free Software, and especially the
 #@# free desktop, become mainstream. To make this happen, we need a lot more
@@ -146,7 +146,7 @@ KDEは既に大きなコミュニティであり、何千人ものメンバー�
 端的に言うと、フリーソフトウェアで生きていけるような、巨大で健全なエコシステムが必要なわけである。
 
 #@# \section*{The current situation}
-== The current situation
+== 現状
 
 #@# I started contributing to KDE over 10 years ago and since then I have seen
 #@# countless highly motivated and talented people join KDE. This is really cool.
@@ -181,7 +181,7 @@ KDEのエコシステムの中には、KDE関連の求人をしている企業�
 というのも、経験豊富な人たちを失うだけではなく、彼らをプロプライエタリソフトウェアの企業に奪われてしまうからだ。
 
 #@# \section*{My dream world}
-== My dream world
+== 私の思い描く世界
 
 #@# In my dream world people can pay their rent by working on Free Software and
 #@# they can do it in a way which does not conflict with our values.
@@ -196,7 +196,7 @@ KDEに関する作業だけで、食べていけるだけの賃金を得られ�
 そんな世界になれば、KDEは大きく成長するだろう。楽しくてやっていることが、安定した職を得ることにつながるのだから。
 
 #@# \section*{What are the options?}
-== What are the options?
+== 選択肢は？
 
 #@# So what are the options? What can we do to make this happen? Are there ways for
 #@# developers to pay their rent while working on Free Software? I want to list a
@@ -213,7 +213,7 @@ KDEに関する作業だけで、食べていけるだけの賃金を得られ�
 でも、私たちのミッションを達成するためには、現状のもう一歩先を行くことを考えることが欠かせないと思っている。
 
 #@# \paragraph*{Sponsored development}
-=== Sponsored development
+=== スポンサーの獲得
 
 #@# Today, more and more companies appreciate the importance of Free Software and
 #@# contribute to Free Software projects, or even release their own completely Free
@@ -226,7 +226,7 @@ KDEに関する作業だけで、食べていけるだけの賃金を得られ�
 いろんな企業の人たちと話して、フリーソフトウェアの世界に協力してもらえるように説得すべきだ。
 
 #@# \paragraph*{End-user donations}
-=== End-user donations
+=== エンドユーザーからの寄付
 
 #@# There should be an easy way for end-users to donate money directly to
 #@# developers. If a user of a popular application wants to support the developer
@@ -238,7 +238,7 @@ KDEに関する作業だけで、食べていけるだけの賃金を得られ�
 寄付をする仕組みをアプリケーションの中に組み込んでおけば、気軽に寄付をできるようになる。
 
 #@# \paragraph*{Bounties}
-=== Bounties
+=== 懸賞金
 
 #@# The idea behind bounties is that one or more users of an application can pay for
 #@# the development of a specific feature. A user can list his feature request on a
@@ -257,7 +257,7 @@ KDEに関する作業だけで、食べていけるだけの賃金を得られ�
 でも、きちんとやれば、うまく機能する仕組みだと思っている。
 
 #@# \paragraph*{Support}
-=== Support
+=== 保守
 
 #@# The idea is that the developer of an application sells direct support to the
 #@# users of the application. For example, the users of an application buy support
@@ -274,7 +274,7 @@ KDEに関する作業だけで、食べていけるだけの賃金を得られ�
 でも、このサポートシステムの稼ぎのおかげでアプリケーションの開発を本業にできるのなら、それは間違いなくいいことだ。
 
 #@# \paragraph*{Supporters}
-=== Supporters
+=== サポーター
 
 #@# This is the idea that end-users can become supporters of an application. The
 #@# ``Become a Supporter'' button would be directly built into the application. The
@@ -292,7 +292,7 @@ KDEに関する作業だけで、食べていけるだけの賃金を得られ�
 それなりの数のサポーターが集まれば、開発者たちはそのアプリケーションの開発だけで食べていけるようになるだろう。
 
 #@# \paragraph*{Affiliate programs}
-=== Affiliate programs
+=== アフィリエイトプログラム
 
 #@# Some applications have integrated web services and some of these web services
 #@# run affiliate programs. For example, a media player can be integrated in the
@@ -304,7 +304,7 @@ KDEに関する作業だけで、食べていけるだけの賃金を得られ�
 ユーザーがそのアプリケーション経由でコンテンツを購入するたびに、開発者にいくらかのお金が入る。
 
 #@# \paragraph*{App store for application binaries}
-=== App store for application binaries
+=== バイナリの販売
 
 #@# Many people do not know that it is possible to sell binaries of Free Software.
 #@# The GPL only requires that you also provide the source code. So, it is perfectly
@@ -325,7 +325,7 @@ Windows版のAmarokやMac版のdigiKamのバイナリがあれば、$3くらい�
 そして、それがすべて開発者に行き渡ることになる。
 
 #@# \section*{Conclusion}
-== Conclusion
+== まとめ
 
 #@# Most of these ideas are not easy to implement. They require changes to our
 #@# software, changes to our ways of working and changes among our users who must be
