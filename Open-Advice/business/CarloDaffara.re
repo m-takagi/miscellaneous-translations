@@ -21,7 +21,17 @@ Carlo Daffara
 #@# SME working group of the EU Task Force on Competitiveness, and the IEEE open
 #@# source middleware working group of the Technical Committee on Scalable Computing. He worked as project reviewer for the EC in the field of international collaboration, software engineering, open source and distributed systems and was Principal Investigator in several EU research projects.}
 //lead{
-Carlo Daffara is a researcher in the field of Open Source-based business models, collaborative development of digital artifacts, and Open Source software employment in companies. He is part of the editorial review board of the International Journal of Open Source Software & Processes (IJOSSP) and member of the technical board of two regional Open Source competence centers, as well as member of the FSFE European Legal Network. He has been part of SC34 and JTC1 committees in the Italian branch of ISO, UNINFO; and participated in the Internet Society Public Software working group, and many other standardization-related initiatives. Previous to that, Carlo Daffara was the Italian representative at the European Working Group on Libre Software, the first EU initiative in support of Open Source and Free Software. He chaired the SME working group of the EU Task Force on Competitiveness, and the IEEE open source middleware working group of the Technical Committee on Scalable Computing. He worked as project reviewer for the EC in the field of international collaboration, software engineering, open source and distributed systems and was Principal Investigator in several EU research projects.
+Carlo Daffaraは研究者で、オープンソースのビジネスモデルやデジタル制作物の共同開発、そして企業におけるオープンソース関連の雇用などを扱っている。
+International Journal of Open Source Software & Processes (IJOSSP) の論説員であり、
+二つの地域的オープンソース組織で技術部門を担当する。また、FSFE European Legal Networkのメンバーでもある。
+ISOイタリア支部であるUNINFOでSC34委員会とJTC1委員会に属しており、Internet Society Public Softwareワーキンググループに参加している。
+また、その他多くの標準化関連の作業にも関わっている。
+それ以前に、Carlo DaffaraはLibre Softwareの欧州ワーキンググループのイタリア代表も務めていた。
+これは、オープンソースとフリーソフトウェアを扱う最初のEUの動きだった。
+EUタスクフォースのSMEワーキンググループの座長を務め、
+スケーラブルコンピューティングの技術委員会では、IEEEオープンソースミドルウェアワーキンググループの座長を務めた。
+国際協力やソフトウェアエンジニアリング、オープンソースの分散システムなどに関するECのプロジェクトレビューアとして働いており、
+いくつかのEUの研究プロジェクトでは主任調査官を務めている。
 //}
 
 #@# \section*{Introduction}
