@@ -35,7 +35,7 @@ EUタスクフォースのSMEワーキンググループの座長を務め、
 //}
 
 #@# \section*{Introduction}
-== Introduction
+== はじめに
 
 #@# ``How do you make money with Free Software?'' was a very common question just a
 #@# few years ago. Today, that question has evolved into ``What are successful
@@ -43,7 +43,19 @@ EUタスクフォースのSMEワーキンググループの座長を務め、
 #@# question is not as gratuitous as it may seem, as many academic researchers still
 #@# write this kind of text: ``Open-source software is deliberately developed outside of market mechanisms \dots\ fails to contribute to the creation of value in development, as opposed to the commercial software market \dots\ does not generate profit, income, jobs or taxes \dots\ The open-source licenses on the software aim to suppress any ownership claims to the software and prevent prices from being established for it. In the end, the developed software cannot be used to generate profit.'' [Koot 03] or [Eng 10] claims that ``economists showed that real world open source collaborations rely on many different incentives such as education, signaling, and reputation.'' (without any mention of economic
 #@# incentives). This purely ``social'' view of FLOSS is biased and wrong, and we will demonstrate that there are economical reasons behind the success of Free/Open Source businesses that go beyond the purely pro-bono collaborations.
-``How do you make money with Free Software?'' was a very common question just a few years ago. Today, that question has evolved into ``What are successful business strategies that can be implemented on top of FLOSS?'' The question is not as gratuitous as it may seem, as many academic researchers still write this kind of text: ``Open-source software is deliberately developed outside of market mechanisms ... fails to contribute to the creation of value in development, as opposed to the commercial software market ... does not generate profit, income, jobs or taxes ... The open-source licenses on the software aim to suppress any ownership claims to the software and prevent prices from being established for it. In the end, the developed software cannot be used to generate profit.'' [Koot 03] or [Eng 10] claims that ``economists showed that real world open source collaborations rely on many different incentives such as education, signaling, and reputation.'' (without any mention of economic incentives). This purely ``social'' view of FLOSS is biased and wrong, and we will demonstrate that there are economical reasons behind the success of Free/Open Source businesses that go beyond the purely pro-bono collaborations.
+ほんの数年前までは、``フリーソフトウェアでいったいどうやってお金を稼ぐんだい？''っていうのが定番の質問だった。
+それが今や``FLOSSを使ってビジネスを成功させるには、どんな戦略で進めればいいんだろう？''に変わってきた。
+この問いは、そんなに根拠のないものでもない。学術研究者たちも、いまだにこんな文章を書いているくらいだ。
+``オープンソースソフトウェアは、市場原理とは別の世界で開発されている……
+商用ソフトウェアのマーケットのように、その開発で何かの価値を生み出しているわけではなく……
+利益や収入、就職や納税につながったりすることもない……
+ソフトウェアにオープンソースライセンスを設定する狙いは、誰かがそのソフトウェアの所有権を主張して、そのソフトウェアに価格を設定するのを防ぐことにある。
+結局のところ、開発したソフトウェアから利益を生み出すことなどできない''
+[Koot 03]や[Eng 10]はこう言う。
+``エコノミストが示したところによると、現実世界でのオープンソースの共同作業は、教育や認知そして評判などのさまざまなインセンティブに基づいているものだ''
+（ここで、金銭的なインセンティブに触れていないことに注意）。
+FLOSSに対する、この手の ``社会的な'' 視点にはバイアスがかかっており、間違っている。
+ここでは、フリー／オープンソースビジネスの成功につながる経済的な理由を示す。純粋な無償奉仕の先を行くものだ。
 
 #@# \section*{FLOSS and Economic Realities}
 == FLOSS and Economic Realities
