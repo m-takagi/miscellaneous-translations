@@ -64,7 +64,9 @@ FLOSSに対する、この手の ``社会的な'' 視点にはバイアスがか
 #@# thanks to the shared development and maintenance costs, already described by
 #@# researchers like Gosh, that estimated an average R\&D cost reduction of 36\%.
 #@# The large share of ``internal'' FLOSS deployments explains why some of the economic benefits are not perceived directly in the business service market.
-In most areas, the use of FLOSS brings a substantial economic advantage, thanks to the shared development and maintenance costs, already described by researchers like Gosh, that estimated an average R&D cost reduction of 36%. The large share of ``internal'' FLOSS deployments explains why some of the economic benefits are not perceived directly in the business service market.
+大半の分野で、FLOSSの採用は経済的に大きなメリットをもたらす。開発やメンテナンスのコストを共有できるからで、
+Goshのような研究者も指摘するとおり、R&Dのコストを平均で36%ほど削減できると言われている。
+FLOSSの``内部``開発のシェアが大きいので、その経済的なメリットの一部はビジネススサービス市場においてあまり気づかれていない。
 
 #@# The FLOSSIMPACT study found in 2006 that companies contributing
 #@# code to FLOSS projects have in total at least 570 thousand employees and an annual
