@@ -83,10 +83,15 @@ FLOSSの``内部``開発のシェアが大きいので、その経済的なメ�
 #@# Japan & N/A & N/A & 32\% \\
 #@# \hline
 #@# \end{tabularx}
-The FLOSSIMPACT study found in 2006 that companies contributing code to FLOSS projects have in total at least 570 thousand employees and an annual revenue of 263B Euro [Gosh 06], thus making Open Source and Free Software among the most important ICT-based economic phenomenons. It is also important to recognize that a substantial percentage of this economic value is not immediately visible in the marketplace, as the majority of software is not developed with the intent of selling it (the so-called ``shrinkwrap'' software) but is developed for internal use only. As identified by the FISTERA EU thematic network in fact the majority of software is developed for internal use only:
+2006年のFLOSSIMPACTの調査によると、FLOSSプロジェクトにコードを貢献している企業の従業員総数は少なくとも57万人になる。
+その年間総利益は少なくとも2630億ユーロだ[Gosh 06]。つまり、オープンソースソフトウェア・フリーソフトウェアを作ることは、
+ICTベースの経済活動の中でも最も重要なもののひとつである。
+もうひとつ知っておきたい重要なことは、この無視できないだけの経済的価値は、市場でだけ表出するものではないということだ。
+というのも、ほとんどのソフトウェアは、「パッケージ」として販売することを想定したものではなく、内部的に使うために開発されるものだからである。
+FISTERA EUテーマ別ネットワークが示すように、ソフトウェアの大半は、内部で使うために作られている。
 
 //table[tbl1]{
-Region	Proprietary software licenses	Software services (development/customization)	Internal development
+地域	ライセンス販売	サービスとしての受託（開発／カスタマイズ）	内製
 ------------------------------------------------------------------------------------------------------------
 EU-15	19%	52%	29%
 US	16%	41%	43%
@@ -97,7 +102,8 @@ Japan	N/A	N/A	32%
 #@# than the real market for software and services, and that 80\% of it is
 #@# invisible. We will see that FLOSS has a major part of the economic market
 #@# directly through this ``internal'' development model.
-It is clear that what we call ``the software market'' is in reality much smaller than the real market for software and services, and that 80% of it is invisible. We will see that FLOSS has a major part of the economic market directly through this ``internal'' development model.
+私たちが「ソフトウェア市場」と呼んでいるそれは、実際のソフトウェアやサービスの市場のごく一部に過ぎない。残りの80%は、目に見えないところにあるのだ。
+そして、FLOSSは、この「内製」モデルの市場に直に切り込んでいくことになる。
 
 #@# \section*{Business Models and Value Proposition}
 == Business Models and Value Proposition
