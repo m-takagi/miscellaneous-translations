@@ -58,7 +58,7 @@ FLOSSに対する、この手の ``社会的な'' 視点にはバイアスがか
 ここでは、フリー／オープンソースビジネスの成功につながる経済的な理由を示す。純粋な無償奉仕の先を行くものだ。
 
 #@# \section*{FLOSS and Economic Realities}
-== FLOSS and Economic Realities
+== FLOSSと経済的な現実
 
 #@# In most areas, the use of FLOSS brings a substantial economic advantage,
 #@# thanks to the shared development and maintenance costs, already described by
