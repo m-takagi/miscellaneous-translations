@@ -106,7 +106,7 @@ Japan	N/A	N/A	32%
 そして、FLOSSは、この「内製」モデルの市場に直に切り込んでいくことになる。
 
 #@# \section*{Business Models and Value Proposition}
-== Business Models and Value Proposition
+== ビジネスモデルと価値ある提案
 
 #@# The basic idea behind business models is quite simple: I have something or can
 #@# do something -- the ``value proposition'' -- and it is more economical to pay me to do or get this ``something'' instead of doing it yourself (sometimes it may even be impossible to find alternatives, as in natural or man-made monopolies, so the idea of doing it myself may not be applicable).
@@ -117,7 +117,20 @@ Japan	N/A	N/A	32%
 #@# or appears thanks to a new technology. Examples of the first are simply the
 #@# decrease in time necessary to perform an action when you increase your expertise
 #@# in it; the first time you install a complex system it may require a lot of effort, and this effort is reduced the more experience you have with the tasks necessary to perform the installation itself; examples of the second may be the introduction of a tool that simplifies the process (for example, through image cloning) and it introduces a huge discontinuity, a ``jump'' in the graph of efficiency versus time.
-The basic idea behind business models is quite simple: I have something or can do something -- the ``value proposition'' -- and it is more economical to pay me to do or get this ``something'' instead of doing it yourself (sometimes it may even be impossible to find alternatives, as in natural or man-made monopolies, so the idea of doing it myself may not be applicable). There are two possible sources for the value: a property (something that can be transferred) and efficiency (something that is inherent in what the company does, and how they do it). With Open Source, usually ``property'' is non-exclusive (with the exception of what is called ``Open Core'', where some part of the code is not open at all, and that will be covered later in the article). Other examples of property are trademarks, patents, licenses ... anything that may be transferred to another entity through a contract or legal transaction. Efficiency is the ability to perform an action with a lower cost (both tangible and intangible), and is something that follows the specialization in a work area or appears thanks to a new technology. Examples of the first are simply the decrease in time necessary to perform an action when you increase your expertise in it; the first time you install a complex system it may require a lot of effort, and this effort is reduced the more experience you have with the tasks necessary to perform the installation itself; examples of the second may be the introduction of a tool that simplifies the process (for example, through image cloning) and it introduces a huge discontinuity, a ``jump'' in the graph of efficiency versus time.
+ビジネスモデルの背後にある基本的なアイデアは、きわめてシンプルだ。
+「私が何かを持っていて、あるいは私に何かができて（いわゆる「価値ある提案」）、その「何か」を自分で手に入れたり自分でやったりするよりは、
+私に頼むほうが安くつく（場合によっては、何らかの理由で独占されており、自分でやるという選択肢が事実上不可能なこともある）」というものである。
+価値の元になることは、二つある。所有物（受け渡し可能なもの）と、効率（その会社に固有の何か、そしてそれを行う方法）だ。
+オープンソースの場合、通常は、独占的な「所有物」を持つことはない（例外は、いわゆる「オープンコア」だ。
+これは、コードの一部を非公開にすることで、この記事の後半で詳しく説明する）。
+それ以外の「所有物」の例としては、商標や特許、ライセンスなどがある。いずれも、契約を交わしたり合法的な取引をしたりして、他の団体に引き渡せるものである。
+「効率」とは、何かのアクションを（有形無形両面で）低コストで行える能力のことだ。
+その領域に特化したり、新たなテクノロジーを活用したりなどで実現する。
+最初の例は、何かに特化することで、そのアクションをより短時間でできるようにするということだ。
+複雑なシステムをはじめてインストールするときは、長い時間がかかるだろう。
+しかし、何度もそれをやっているうちに、インストールに必要なタスクの経験を積み、より短時間で行えるようになる。
+二番目の例は、一連の処理を単純化するツール（ディスクイメージのクローンなど）の導入だ。
+これは、効率と所要時間のグラフに大きな「ジャンプ」をもたらす。
 
 #@# These two aspects are the basis of all the business models that we have analyzed
 #@# in the past; it is possible to show that all of them fall in a continuum between
