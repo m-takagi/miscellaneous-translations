@@ -135,7 +135,8 @@ Japan	N/A	N/A	32%
 #@# These two aspects are the basis of all the business models that we have analyzed
 #@# in the past; it is possible to show that all of them fall in a continuum between
 #@# properties and efficiency.
-These two aspects are the basis of all the business models that we have analyzed in the past; it is possible to show that all of them fall in a continuum between properties and efficiency.
+これら二つの側面は、過去に分析してきたすべてのビジネスモデルに基づいている。
+あらゆるビジネスモデルは、所有物から効率に至る連続体のどこかに落ち着くものだ。
 
 #@# Among the results of our past research project, one thing that we found is that
 #@# property-based projects tend to have lower contributions from the outside,
