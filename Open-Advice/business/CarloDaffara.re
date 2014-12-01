@@ -142,7 +142,10 @@ Japan	N/A	N/A	32%
 #@# property-based projects tend to have lower contributions from the outside,
 #@# because it requires a legal transaction to become part of the company's
 #@# properties; think for example about dual licensing: for his code to become part of the product source code, an external contributor needs to sign off his rights to the code, to allow the company to sell the enterprise version alongside the open one.
-Among the results of our past research project, one thing that we found is that property-based projects tend to have lower contributions from the outside, because it requires a legal transaction to become part of the company's properties; think for example about dual licensing: for his code to become part of the product source code, an external contributor needs to sign off his rights to the code, to allow the company to sell the enterprise version alongside the open one.
+過去の研究プロジェクトの成果として発見したことがひとつある。
+所有物ベースのプロジェクトは、外部からの貢献が少なくなりがちであるということだ。その理由は、一企業の所有物を法的に移管する必要があるからだろう。
+デュアルライセンスの例を考えてみよう。誰かのコードをプロダクトに取り込もうとしたときに、
+外部の貢献者は、自分のコードに対する権利を一部放棄して、企業がそのコードを販売することを認めなければいけなくなる。
 
 #@# On the other hand, right-handed models based purely on efficiency tends to have
 #@# higher contributions and visibility, but lower monetization rates. As I wrote
