@@ -155,7 +155,12 @@ Japan	N/A	N/A	32%
 #@# internal property with time; some others may start as property based, and move
 #@# to the other side to increase contributions and reduce the engineering effort
 #@# (or enlarge the user base, to create alternative ways of monetizing users).
-On the other hand, right-handed models based purely on efficiency tends to have higher contributions and visibility, but lower monetization rates. As I wrote many times, there is no ideal business model, but a spectrum of possible models, and companies should adapt themselves to changing market conditions and adapt their model as well. Some companies start as pure efficiency based, and build an internal property with time; some others may start as property based, and move to the other side to increase contributions and reduce the engineering effort (or enlarge the user base, to create alternative ways of monetizing users).
+一方で、純粋に効率のみに基づいたビジネスモデルの場合は、外部の貢献者も集まりやすいし人目につきやすいが、カネになりにくい。
+あちこちで書いてきたことだが、理想のビジネスモデルなどない。しかし、モデルの取りうる範囲というものはあって、
+企業はその範囲にモデルをあわせるべきだ。マーケットの状況が変われば、モデルもそれにあわせて適応させていく。
+ある企業は、純粋に効率ベースのモデルから始めて、その後自分たちの所有物を作っていく。
+また、別のある企業は、所有物ベースのモデルから初めて、もう一方に移行しつつ、貢献者を増やしてエンジニアリングの労力を下げていく
+（あるいは、ユーザーベースを拡大する。これもまた、カネを稼ぐ方法のひとつだ）。
 
 #@# \section*{A Business Models Taxonomy}
 == A Business Models Taxonomy
