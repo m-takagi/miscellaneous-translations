@@ -281,7 +281,14 @@ Japan	N/A	N/A	32%
  また、そのソフトウェアが皆の興味を引くようになるにつれて、開発者たちは、足りない機能をフリーソフトウェア版に組み込もうとするかもしれない。
  そうなると、プロプライエタリ版の魅力が薄れてしまう。
  そういった制約を受けない完全なフリーソフトウェアの競合に、先行を許してしまうことになる可能性もある。
- * Product specialists: companies that created or maintain a specific software project and use a Free Software license to distribute it. The main revenues are provided from services like training and consulting and follow the original ``best code here'' and ``best knowledge here'' of the original EUWG classification [DB 00]. It leverages the assumption, commonly held, that the most knowledgeable experts on a software are those who have developed it, and this way can provide services with a limited marketing effort, by leveraging the free redistribution of the code. The downside of the model is that there is a limited barrier of entry for potential competitors, as the only investment that is needed is in the acquisition of specific skills and expertise on the software itself.
+ * プロダクトスペシャリスト：
+ 特定のソフトウェアプロジェクトの開発や保守を担当する企業が、フリーソフトウェアライセンスを使ってそれを配布する。
+ 主な収益源は、トレーニングやコンサルティングといったサービス、そして
+ EUWGの分類 [DB 00] における「コードサンプル」「ベストナレッジ」などを提供することだ。
+ これは、一般に認識されている事実を前提としている。
+ そのソフトウェアに関して一番よく知っているのはそれを開発した人たちであり、コードをフリーに再配布すれば、最低限の労力でサービスを提供できるということだ。
+ このモデルの弱点は、競合他社の参入障壁がそれはど高くないということだ。
+ 特定のスキルを身につけて、そのソフトウェアに習熟するだけで、誰でも参入できるからである。
  * Platform providers: companies that provide selection, support, integration and services on a set of projects, collectively forming a tested and verified platform. In this sense, even GNU/Linux distributions were classified as platforms; the interesting observation is that those distributions are licensed for a significant part under Free Software licenses to maximize external contributions, and leverage copyright protection to prevent outright copying but not ``cloning'' (the removal of copyrighted material like logos and trademark to create a new product)@<fn>{fn01}. The main value proposition comes in the form of guaranteed quality, stability and reliability, and the certainty of support for business critical applications.
 //footnote[fn01][Examples of Red Hat clones are CentOS and Oracle Linux.]
  * Selection/consulting companies: companies in this class are not strictly developers, but provide consulting and selection/ evaluation services on a wide range of projects, in a way that is close to the analyst role. These companies tend to have very limited impact on the communities, as the evaluation results and the evaluation process are usually a proprietary asset.
