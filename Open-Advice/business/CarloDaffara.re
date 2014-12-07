@@ -289,8 +289,14 @@ Japan	N/A	N/A	32%
  そのソフトウェアに関して一番よく知っているのはそれを開発した人たちであり、コードをフリーに再配布すれば、最低限の労力でサービスを提供できるということだ。
  このモデルの弱点は、競合他社の参入障壁がそれはど高くないということだ。
  特定のスキルを身につけて、そのソフトウェアに習熟するだけで、誰でも参入できるからである。
- * Platform providers: companies that provide selection, support, integration and services on a set of projects, collectively forming a tested and verified platform. In this sense, even GNU/Linux distributions were classified as platforms; the interesting observation is that those distributions are licensed for a significant part under Free Software licenses to maximize external contributions, and leverage copyright protection to prevent outright copying but not ``cloning'' (the removal of copyrighted material like logos and trademark to create a new product)@<fn>{fn01}. The main value proposition comes in the form of guaranteed quality, stability and reliability, and the certainty of support for business critical applications.
-//footnote[fn01][Examples of Red Hat clones are CentOS and Oracle Linux.]
+ * プラットフォームプロバイダー：
+ 複数のプロジェクトをとりまとめて、全体としてテスト・検証済みのプラットフォームとして提供し、そのサポートや統合などのサービスを提供する。
+ この文脈では、GNU/Linuxのディストリビューションをプラットフォームとして扱う。
+ おもしろいことに、これらのディストリビューションの大半は、フリーソフトウェアライセンスのもとで公開されており、外部からの貢献を最大限に受け入れられるようになっている。
+ さらに、著作権による保護を活用して、違法コピーを防いでいるが、「クローン」（ロゴや商標といった著作物を削除したうえで、新しいプロダクトを作ること）@<fn>{fn01}
+ は許容している。
+ このモデルの主な価値は、品質や安定性、信頼性を保証することと、ビジネスクリティカルなアプリケーションに対するサポートを確実に行うことだ。
+//footnote[fn01][Red Hatのクローンの例として、CentOSやOracle Linuxがある。]
  * Selection/consulting companies: companies in this class are not strictly developers, but provide consulting and selection/ evaluation services on a wide range of projects, in a way that is close to the analyst role. These companies tend to have very limited impact on the communities, as the evaluation results and the evaluation process are usually a proprietary asset.
  * Aggregate support providers: companies that provide a one-stop support on several separate Free Software products, usually by directly employing developers or forwarding support requests to second-stage product specialists.
  * Legal certification and consulting: these companies do not provide any specific code activity, but provide support in checking license compliance, sometimes also providing coverage and insurance for legal attacks; some companies employ tools for verifying that code is not improperly reused across company boundaries or in an improper way.
