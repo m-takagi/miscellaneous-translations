@@ -297,7 +297,11 @@ Japan	N/A	N/A	32%
  は許容している。
  このモデルの主な価値は、品質や安定性、信頼性を保証することと、ビジネスクリティカルなアプリケーションに対するサポートを確実に行うことだ。
 //footnote[fn01][Red Hatのクローンの例として、CentOSやOracle Linuxがある。]
- * Selection/consulting companies: companies in this class are not strictly developers, but provide consulting and selection/ evaluation services on a wide range of projects, in a way that is close to the analyst role. These companies tend to have very limited impact on the communities, as the evaluation results and the evaluation process are usually a proprietary asset.
+ * 選択／コンサルティング企業：
+ この分類に属する企業は、厳密には開発者の立場ではない。広範なプロジェクトについてのコンサルティングや、
+ 選択／評価などのサービスを行う。いわばアナリスト的な役割に近い。
+ こういった企業がコミュニティに及ぼす影響は、ほとんどない。
+ というのも、調査結果やそのプロセスは、通常は公開されることがないからである。
  * Aggregate support providers: companies that provide a one-stop support on several separate Free Software products, usually by directly employing developers or forwarding support requests to second-stage product specialists.
  * Legal certification and consulting: these companies do not provide any specific code activity, but provide support in checking license compliance, sometimes also providing coverage and insurance for legal attacks; some companies employ tools for verifying that code is not improperly reused across company boundaries or in an improper way.
  * Training and documentation: companies that offer courses, on-line and physical training, additional documentation or manuals. This is usually offered as part of a support contract, but recently several large scale training center networks started offering Free Software-specific courses.
