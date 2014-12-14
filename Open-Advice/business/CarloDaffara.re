@@ -330,8 +330,21 @@ Japan	N/A	N/A	32%
  Google ChromeやApple Safariの基盤となっており、多くのモバイル機器でも使われている。
  このプロジェクトは当初、予定よりも1年の遅れが発生していた。その後、外部からの貢献が目立ち始め、1年半後にはAppleの遅れを取り戻しただけではなくさらにマージンを確保した。
  開発者たちの共同作業によって、開発とメンテナンスのコストを削減できたわけだ。
- * Indirect revenues: A company may decide to fund Free Software projects if those projects can create a significant revenue source for related products, not directly connected with source code or software. One of the most common cases is the writing of software needed to run hardware, for instance, operating system drivers for specific hardware. In fact, many hardware manufacturers are already distributing gratis software drivers. Some of them are already distributing some of their drivers (specially those for the Linux kernel) as Free Software. The loss-leader is a traditional commercial model, common also outside of the world of software; in this model, effort is invested in a FLOSS project to create or extend another market under different conditions. For example, hardware vendors invest in the development of software drivers for Free Software operating systems (like GNU/Linux) to extend the market of the hardware itself. Other ancillary models are for example those of the Mozilla foundation, which obtains a non-trivial amount of money from a search engine partnership with Google (an estimated 72M$ in 2006), while SourceForge/OSTG receives the majority of revenues from e-commerce sales of the affiliate ThinkGeek site.
-
+ * 間接的な収益：
+ 企業がフリーソフトウェアプロジェクトへの出資を決断する理由のひとつとして考えられるのが、
+ そのプロジェクトが自社の関連プロダクトに大きな収益をもたらす元になってくれる場合だ。
+ ソースコードやソフトウェア自身とは直接の関係がない場合もある。
+ 一般的なな例として、何かのハードウェアを動かすためのソフトウェアが必要になることがある。
+ 特定のハードウェア用のOSのドライバなどだ。
+ 実際、多くのハードウェアメーカーは、ドライバソフトウェアを無償で公開している。
+ その中には、ドライバの一部（たいていはLinuxカーネル用のもの）をフリーソフトウェアとして公開している。
+ いわゆる目玉商品を用意するのは、昔ながらの商売手法だ。ソフトウェアの世界に限ったことではない。
+ このモデルを使う場合は、FLOSSプロジェクトに出資して、さまざまな条件の下での市場拡大や新規市場の開拓を目指す。
+ たとえば、ハードウェアのベンダーが、フリーソフトウェアのOS（GNU/Linuxなど）用のドライバの開発に出資して、
+ そのハードウェアの市場を拡大するといったことである。
+ それ以外の例としてはMozilla Foundationがある。彼らはGoogleと検索エンジンのパートナーシップを結ぶことで、
+ 多額の出資を得ている（2006年の実績は7200万ドルだと見られている）。
+ また、SourceForge/OSTGは、その収入の大半を、ThinkGeekでの通販のアフィリエイトから得ている。
 
 #@# Some companies have more than one principal model, and thus are counted twice;
 #@# in particular, most dual licensing companies are also selling support services,
