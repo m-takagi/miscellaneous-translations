@@ -353,7 +353,11 @@ Japan	N/A	N/A	32%
 #@# committer''; otherwise, the number of specialists would be much greater, as some
 #@# projects are the center of commercial support for many companies (good
 #@# examples include OpenBravo or Zope).
-Some companies have more than one principal model, and thus are counted twice; in particular, most dual licensing companies are also selling support services, and thus are marked as both. Also, product specialists are counted only when there is a demonstrable participation of the company in the project as ``main committer''; otherwise, the number of specialists would be much greater, as some projects are the center of commercial support for many companies (good examples include OpenBravo or Zope).
+これらのモデルの複数をとりいれている企業もある。特に、デュアルライセンスを採用している企業はサポートサービスも販売していることが多い。
+そういった企業は、両方にカウントしている。
+また、プロダクトスペシャリストとしてカウントするのは、その企業からプロジェクトに「メインコミッター」を送り込んでいる場合に限っている。
+そうしなければ、スペシャリストの数は膨大になってしまうだろう。プロジェクトによっては、多くの企業がしょうようサポートを提供しているからである
+（OpenBraveやZopeがよい例だ）。
 
 #@# Another relevant consideration is the fact that platform providers, while
 #@# limited in number, tend to have a much larger revenue rate than both specialists
