@@ -367,7 +367,13 @@ Japan	N/A	N/A	32%
 #@# long-term consolidation of development consortia (like the Eclipse or Apache
 #@# consortium) that provide strong legal infrastructure and development advantages,
 #@# and product specialists that provide vertical offerings for specific markets.
-Another relevant consideration is the fact that platform providers, while limited in number, tend to have a much larger revenue rate than both specialists or open core companies. Many researchers are trying to identify whether there is a more ``efficient'' model among all those surveyed; what we found is that the most probable future outcome will be a continuous shift across models, with a long-term consolidation of development consortia (like the Eclipse or Apache consortium) that provide strong legal infrastructure and development advantages, and product specialists that provide vertical offerings for specific markets.
+もうひとつ、考慮すべきことがある。
+プラットフォームプロバイダは、その数は限られているものの、
+スペシャリストやオープンコア企業よりも収益率がはるかに高いという事実だ。
+多くの研究者たちが、これらのモデルの中で、より「効率的な」ものがどれなのかを見つけだそうとしている。
+その結果わかったのは、将来の収入を増やす可能性が最も高いのは、これらのモデルを継続的に乗り換えていくことだということだった。
+長期的には、EclipseやApacheのような開発コンソーシアムを設立して、法的な基盤や開発のアドバンテージを得るとよい。
+また、プロダクトスペシャリストは、特定のマーケットについての技術を提供してくれる。
 
 #@# \section*{Conclusions}
 == Conclusions
