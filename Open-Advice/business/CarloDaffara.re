@@ -390,7 +390,11 @@ Japan	N/A	N/A	32%
 #@# the IT infrastructures in the world, increasing value and helping companies and
 #@# Public Administrations in reducing costs and collaborating together for better
 #@# software.
-FLOSS not only allows for sustainable, and even very large market presence (Red Hat is already quite close to 1B$ in annual revenues) but also many different models that are totally impossible with proprietary software. The fact that FLOSS is a non-rival good also facilitates cooperation between companies, both to increase the geographic base and to be able to engage large scale contracts that may require multiple competencies, both geographical (same product or service, different geographical areas); ``vertical'' (among products) or ``horizontal'' (among activities). This facilitation of new ecosystems is one of the reasons why FLOSS is now present in nearly all the IT infrastructures in the world, increasing value and helping companies and Public Administrations in reducing costs and collaborating together for better software.
+FLOSSは、ただ単に持続可能だとか市場での存在感が増すだとかいうだけのものではなく（Red Hat社の年間収入は、10億ドル近くにもなる）、
+プロプライエタリなソフトウェアでは不可能な、さまざまなビジネスモデルを可能にしてくれるものだ。
+FLOSSがnon-rival goodであるという事実は、地理的な基盤を拡大するため、そしてさまざまな能力を要する大規模な契約を結ぶために、企業間の協力を促進する。
+この新たなエコシステムの活用は、いまやFLOSSが世界中のほぼずべてのITインフラに使われてその価値を高めるようになった理由のひとつでもある。
+企業や行政にとっては、コスト削減や、共同作業によるソフトウェアの改良につながる。
 
 #@# \section*{References}
 == References
