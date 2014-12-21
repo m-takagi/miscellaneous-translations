@@ -163,7 +163,7 @@ Japan	N/A	N/A	32%
 （あるいは、ユーザーベースを拡大する。これもまた、カネを稼ぐ方法のひとつだ）。
 
 #@# \section*{A Business Models Taxonomy}
-== A Business Models Taxonomy
+== ビジネスモデルの分類
 
 #@# The EU FLOSSMETRICS study on Free Software-based business models created, after
 #@# an analysis of more than 200 companies, a taxonomy of the main business models
@@ -376,7 +376,7 @@ Japan	N/A	N/A	32%
 また、プロダクトスペシャリストは、特定のマーケットについての技術を提供してくれる。
 
 #@# \section*{Conclusions}
-== Conclusions
+== 結論
 
 #@# FLOSS not only allows for sustainable, and even very large market presence
 #@# (Red Hat is already quite close to 1B\$ in annual revenues) but also many
@@ -397,7 +397,7 @@ FLOSSがnon-rival goodであるという事実は、地理的な基盤を拡大�
 企業や行政にとっては、コスト削減や、共同作業によるソフトウェアの改良につながる。
 
 #@# \section*{References}
-== References
+== 参考文献
 
 #@# \begin{itemize}
 #@#  \item $[DB 00]$ Daffara, C. Barahona, J.B. Free Software/Open Source: Information
