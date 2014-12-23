@@ -415,9 +415,9 @@ FLOSSがnon-rival goodであるという事実は、地理的な基盤を拡大�
 #@# An Economic Assessment Technical report, Muenster Institute for Computational Economics
 #@# (MICE), University of Muenster
 #@# \end{itemize}
- * $[DB 00]$ Daffara, C. Barahona, J.B. Free Software/Open Source: Information Society Opportunities for Europe? working paper, @<href>{http://eu.conecta.it} paper, OSSEMP workshop, Third international conference on open source. Limerick 2007
- * $[ED 05]$ Evans Data, Open Source Vision report, 2005
- * $[Eng 10]$ Engelhardt S. Maurer S. The New (Commercial) Open Source: Does it Really Improve Social Welfare? Goldman School of Public Policy Working Paper No. GSPP10-001, 2010
- * $[Gar 06]$ Gartner Group, Open source going mainstream. Gartner report, 2006
- * $[Gosh 06]$ Gosh, et al. Economic impact of FLOSS on innovation and competitiveness of the EU ICT sector. @<href>{http://bit.ly/cNwUz0}
- * $[Koot 03]$ Kooths, S. Langenfurth, M. Kalwey, N. Open-Source Software: An Economic Assessment Technical report, Muenster Institute for Computational Economics (MICE), University of Muenster
+ * [DB 00] Daffara, C. Barahona, J.B. Free Software/Open Source: Information Society Opportunities for Europe? working paper, @<href>{http://eu.conecta.it} paper, OSSEMP workshop, Third international conference on open source. Limerick 2007
+ * [ED 05] Evans Data, Open Source Vision report, 2005
+ * [Eng 10] Engelhardt S. Maurer S. The New (Commercial) Open Source: Does it Really Improve Social Welfare? Goldman School of Public Policy Working Paper No. GSPP10-001, 2010
+ * [Gar 06] Gartner Group, Open source going mainstream. Gartner report, 2006
+ * [Gosh 06] Gosh, et al. Economic impact of FLOSS on innovation and competitiveness of the EU ICT sector. @<href>{http://bit.ly/cNwUz0}
+ * [Koot 03] Kooths, S. Langenfurth, M. Kalwey, N. Open-Source Software: An Economic Assessment Technical report, Muenster Institute for Computational Economics (MICE), University of Muenster
