@@ -38,7 +38,17 @@ W3C OWL 2の仕様の共著者でもある。また、コミュニティポー�
 #@# potential of a new idea. The researcher who made this discovery then is tempted
 #@# to go beyond a prototype towards a \emph{product} that is actually used -- and
 #@# is faced by a completely new set of practical problems.
-Academic researchers develop large amounts of software, be it for validating a hypothesis, for illustrating a new approach, or merely as a tool to aid some study. In most cases, a small focused prototype does the job, and it is disposed quickly after the focus of research moves on. However, once in a while, a novel approach or upcoming technology bears the potential to really change the way in which a problem is solved. Doing so promises professional reputation, commercial success, and the personal gratification of realizing the full potential of a new idea. The researcher who made this discovery then is tempted to go beyond a prototype towards a @<em>{product} that is actually used -- and is faced by a completely new set of practical problems.
+学術研究者たちは、さまざまなソフトウェアを開発する。
+その目的は、仮説を検証することであったり、新しいアプローチを説明するためだったり、
+単に何らかの調査を支援するための道具として使うためだったりする。
+たいていの場合は、ただ一点に注力したちょっとしたプロトタイプで十分であり、
+役目を終えればすぐに捨ててしまって、研究をさらに進めていく。
+しかし時には、今までにないアプローチや新たなテクノロジーなどのおかげで、
+問題解決の方法を根本的に変えてしまうこともありえる。
+いざそうなれば、プロとしての名声や商業的な成功は約束されたようなもので、
+新たなアイデアを実現させられるという満足感も得られる。
+そんな発見をした研究者は、プロトタイプをさらに推し進めた@<em>{プロダクト}を作って、実際に使われるようにしたくなる。
+そして、そこでまた新たな問題に直面することになる。
 
 #@# \section*{The Fear of the User}
 == The Fear of the User
