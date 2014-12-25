@@ -57,7 +57,8 @@ W3C OWL 2の仕様の共著者でもある。また、コミュニティポー�
 #@# gives a good picture of the efforts related to maintaining real software, and
 #@# warns us of the user:
 #@# %
-Frederick P.\ Brooks, Jr., in one of his famous essays on software engineering, gives a good picture of the efforts related to maintaining real software, and warns us of the user:
+Frederick P. Brooks, Jr.は、ソフトウェアエンジニアリングに関する有名なエッセイの中で、
+ソフトウェアのメンテナンスに関してうまくまとめている。また、ユーザーに気をつけるようにも述べている。
 
 #@# \begin{quote}
 #@# ``The total cost of maintaining a widely used program is typically 40 percent or
