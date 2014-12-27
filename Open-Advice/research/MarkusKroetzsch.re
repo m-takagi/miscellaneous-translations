@@ -82,7 +82,13 @@ The total cost of maintaining a widely used program is typically 40 percent or m
 #@# operation, the typical user request is far from being a technically precise bug
 #@# report. And each request demands the attention of the developers, consuming
 #@# precious time that is not available to actually write code.
-While this figure might well be different in today's environment, the basic observation is still true, and may even have been aggravated by the use of instantaneous global communication. Even worse, more users not only find more actual bugs, but also articulate more wishes in general. Be it a genuine error, a feature request, or merely a fundamental misunderstanding of the software's operation, the typical user request is far from being a technically precise bug report. And each request demands the attention of the developers, consuming precious time that is not available to actually write code.
+今どきの環境ならこの数字も変わってくるかもしれないが、この所感自体は、基本的には今でも成り立つ。
+いつでもグローバルなコミュニケーションができるようになった今では、さらに悪化しているかもしれない。
+さらに悪いことに、ユーザーが教えてくれるのは実際のバグだけではない。単なる希望を伝えてくるだけのこともある。
+ほんとうのエラーであるにせよ機能追加の要望であるにせよ、単なる誤解にすぎないものであるにせよ、
+一般的なユーザーからのリクエストというものは、技術的に正確なバグレポートとはほど遠いものだ。
+そしてそれらの要求はどれも、開発者に気づいてもらいたがっている。
+そのせいで、実際にコードを書くための貴重な時間を削ることになってしまう。
 
 #@# The analytical mind of the researcher foresees this issue, and, in its natural
 #@# struggle to prevent a gloomy future in customer care, may develop an outright
