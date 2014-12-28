@@ -99,7 +99,11 @@ The total cost of maintaining a widely used program is typically 40 percent or m
 #@# emails already!''  And indeed, there are cases where the communication effort
 #@# related to a software tool exceeds the effort that a researcher can invest
 #@# without abandoning her main job.
-The analytical mind of the researcher foresees this issue, and, in its natural struggle to prevent a gloomy future in customer care, may develop an outright @<em>{fear of the user}. In the worst case, this may lead to a decision against the whole project, in a weaker form it may still lead researchers to practically hide brilliant software products from potential users. More than once have I heard researchers saying: "We don't need more visibility, we are getting enough emails already!"  And indeed, there are cases where the communication effort related to a software tool exceeds the effort that a researcher can invest without abandoning her main job.
+研究者の分析的な心がこの状況を予期し、顧客のケアに気を煩わせるのを避けようとする結果、@<em>{ユーザーを恐れる}ようになってしまう。
+最悪の場合、これがプロジェクト全体の方針に反する決断につながることもある。
+そこまで行かなくても、すばらしいソフトウェア製品を潜在ユーザーに公開するのを拒むことになるかもしれない。
+「今でもメールに悩まされているのに、これ以上広めてしまったら大変じゃないか！」そんな声を、研究者たちから何度も聞いた。
+そして実際、ソフトウェアツールに関するコミュニケーションが増えすぎて、研究者としての本業に使える時間がなくなってしまうという例もある。
 
 #@# Often, however, this tragic outcome could easily have been prevented. Brooks
 #@# could hardly foresee this. When he wrote his essays, users were indeed
