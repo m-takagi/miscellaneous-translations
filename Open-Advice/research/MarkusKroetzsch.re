@@ -118,7 +118,15 @@ Frederick P. Brooks, Jr.は、ソフトウェアエンジニアリングに関�
 #@# enthusiastic supporter. No small part of the art of successful OSS maintenance
 #@# is turning this enthusiasm into much needed support, balancing the increase in
 #@# user interest with an increase in user contribution.
-Often, however, this tragic outcome could easily have been prevented. Brooks could hardly foresee this. When he wrote his essays, users were indeed customers, and software maintenance was part of the product they purchased. A balance had to be found between development effort, market demand, and pricing. This is still the case for many commercial software products today, but has little to do with the reality of small-scale Open Source development. Typical OSS users do not pay for the service they receive. Their attitude accordingly is not that of a demanding customer, but more often that of a grateful and enthusiastic supporter. No small part of the art of successful OSS maintenance is turning this enthusiasm into much needed support, balancing the increase in user interest with an increase in user contribution.
+しかし、この悲劇的な結末は、簡単に回避できることが多い。
+Brooksには、そのことが予測できなかった。
+彼がエッセイを書いていたころには、ユーザーは単なるお客様に過ぎなかった。そのメンテナンスも含めて、ソフトウェアを購入していたのだ。
+開発に要する労力と市場の需要のバランスをうまくとって、価格付けをする必要があった。
+商用ソフトウェアの多くは今でもそのような状況だが、小規模なオープンソース開発の世界では、それはもはや関係のない話だ。
+一般的なOSSのユーザーは、彼らが受け取るサービスの対価として支払うわけではない。
+彼らは注文ばかりするお客様ではなく、情熱的なすばらしいサポーターとなってくれることが多い。
+成功したOSSの保守は少なからず、この情熱を必要なサポートに転換している。
+ユーザーからの注目が増せば増すほど、ユーザーからの貢献も増えるようになっているのだ。
 
 #@# Recognizing that Open Source users are not just ``customers who don't pay'' is
 #@# an important insight. But it must not lead us to overestimate their potential.
