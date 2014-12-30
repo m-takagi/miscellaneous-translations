@@ -135,7 +135,10 @@ Brooksには、そのことが予測できなかった。
 #@# the license that was chosen for publishing code. This grave error of judgement
 #@# is still surprisingly common, and has sealed the doom of many attempts of
 #@# creating open communities.
-Recognizing that Open Source users are not just "customers who don't pay" is an important insight. But it must not lead us to overestimate their potential. The optimistic counterpart of the irrational fear of the user is the belief that active and supportive Open Source communities grow naturally, based merely on the license that was chosen for publishing code. This grave error of judgement is still surprisingly common, and has sealed the doom of many attempts of creating open communities.
+オープンソースのユーザーが、単なる「カネを出さないお客さん」ではないという本質を知ることは大切だ。
+とは言え、彼らの力を過大評価してはいけない。
+理不尽にユーザーを怖がってしまうのと、コードをオープンソースで公開しさえすれば活発なコミュニティに支えてもらえると思い込むのは、同じようなものだ。
+そんな判断をする人が、未だに多い。その結果、オープンなコミュニティを作ろうという試みの多くが失敗してきた。
 
 #@# \section*{Sowing and Reaping}
 == Sowing and Reaping
