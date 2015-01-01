@@ -51,7 +51,7 @@ W3C OWL 2の仕様の共著者でもある。また、コミュニティポー�
 そして、そこでまた新たな問題に直面することになる。
 
 #@# \section*{The Fear of the User}
-== The Fear of the User
+== ユーザーこわい
 
 #@# Frederick P.\ Brooks, Jr., in one of his famous essays on software engineering,
 #@# gives a good picture of the efforts related to maintaining real software, and
@@ -141,7 +141,7 @@ Brooksには、そのことが予測できなかった。
 そんな判断をする人が、未だに多い。その結果、オープンなコミュニティを作ろうという試みの多くが失敗してきた。
 
 #@# \section*{Sowing and Reaping}
-== Sowing and Reaping
+== 種まきと収穫
 
 #@# The plural of ``user'' is not ``community.'' While the former may grow in
 #@# numbers, the latter does not grow by itself, or grows wildly without yielding
