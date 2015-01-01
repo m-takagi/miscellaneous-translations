@@ -68,9 +68,8 @@ Frederick P. Brooks, Jr.は、ソフトウェアエンジニアリングに関�
 #@# Edition. Addison-Wesley, 1995.}
 #@# \end{quote}
 //quote{
-広く使われているプログラムの保守コストは、それを開発したときのコストの40%以上になるのが一般的だ。
-驚くべきことに、このコストはユーザーの数に大きな影響を受ける。
-ユーザーが増えれば増えるほど、たくさんのバグが見つかるようになる。@<fn>{fn01}
+広く使用されているプログラムをメンテナンスするためのトータルコストは、開発コストの四十パーセント以上と考えてまず間違いない。
+驚くべきことに、そのコストは利用者数の影響を大きく受ける。利用者が多ければ、見つかるバグも多くなるからだ。@<fn>{fn01}
 //}
 
 //footnote[fn01][Frederick P. Brooks, Jr.: The Mythical Man-Month. Essays on Software Engineering. Anniversary Edition. Addison-Wesley, 1995.]
