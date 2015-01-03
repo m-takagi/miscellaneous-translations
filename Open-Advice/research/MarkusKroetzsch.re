@@ -150,7 +150,13 @@ Brooksには、そのことが予測できなかった。
 #@# and possibly prune undesired shoots before being able to reap the fruits.
 #@# Compared to the rewards the overall effort is little, but it is vital to do the
 #@# right things, at the right time.
-The plural of "user" is not "community." While the former may grow in numbers, the latter does not grow by itself, or grows wildly without yielding the hoped-for support for the project. The task of the project maintainer who seeks to benefit from the users' raw energy therefore resembles that of a gardener who needs to prepare a fertile ground, plant and water the seedlings, and possibly prune undesired shoots before being able to reap the fruits. Compared to the rewards the overall effort is little, but it is vital to do the right things, at the right time.
+「ユーザー」の複数形が「コミュニティ」というわけではない。
+ユーザーは自然に増えていくかもしれないが、コミュニティが勝手に成長していくことはない。
+単純に数だけが増えても、プロジェクトが望んでいるようなサポートを得られることはない。
+プロジェクトのメンテナは、ユーザーたちからエネルギーを得ようと思っているのなら、
+庭師と同じような作業をしなければいけない。
+すなわち、肥沃な大地を準備して、苗を植えて水をやり、必要に応じて間引きをして、果物の収穫に備えるという作業だ。
+得られる利益に比べればこれらの作業は微々たるものだが、適切なタイミングで適切なことを行う必要がある。
 
 #@# \paragraph*{Preparing the Technical Ground}
 #@# Building a community starts even before the first user appears. Already the
