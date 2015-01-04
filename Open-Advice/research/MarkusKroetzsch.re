@@ -23,9 +23,9 @@ Markus Kr@<uchar>{00f6}tzschは、オックスフォード大学のコンピュ�
 2010年にPh.D.を取得した。
 彼の研究の対象はインテリジェントな自動情報処理で、
 形式的な知識の表現方法といった基盤部分から、セマンティックWebのような応用分野まで幅広く扱っている。
-彼は、セマンティックWebアプリケーションプラットフォームであるSemantic MediaWikiのリード開発者であり、
+彼は、セマンティックWebアプリケーションプラットフォームSemantic MediaWikiのリード開発者であり、
 W3C OWL 2の仕様の共著者でもある。また、コミュニティポータルsemanticweb.orgのメンテナでもあり、
-『Foundations of Semantic Web Technologies』を共著で出版している。
+『Foundations of Semantic Web Technologies』の共著者でもある。
 //}
 
 #@# \noindent{}Academic researchers develop large amounts of software, be it for validating a
