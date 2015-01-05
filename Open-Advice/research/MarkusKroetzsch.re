@@ -1,5 +1,5 @@
 #@# \chapterwithauthor[Out of the Lab, into the Wild]{Markus Kr\"otzsch}{Out of the Lab, into the Wild: Growing Open Source Communities around Academic Projects}
-= Out of the Lab, into the Wild: Growing Open Source Communities around Academic Projects
+= ラボを離れ、町へ出よう：アカデミックプロジェクトにまつわるオープンソースコミュニティの育て方
 
 //flushright{
 Markus Kr@<uchar>{00f6}tzsch
