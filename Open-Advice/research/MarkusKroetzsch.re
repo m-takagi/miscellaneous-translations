@@ -173,7 +173,21 @@ Brooksには、そのことが予測できなかった。
 #@# the target audience determines the best choice of base technology. The developer
 #@# herself should have the necessary insight to make a most opportunistic decision.
 === Preparing the Technical Ground
-Building a community starts even before the first user appears. Already the choice of the programming language determines how many people will be able to deploy and debug our code. Objective Caml might be a beautiful language, but using Java instead will increase the amount of potential users and contributors by orders of magnitude. Developers thus must compromise, since the most widespread technology is rarely most efficient or elegant. This can be a particularly hard step for researchers who often prefer superiority of language design. When working on Semantic MediaWiki, I have often been asked why in the world we would use PHP when server-side Java would be so much cleaner and more efficient. Comparing the community size of Semantic MediaWiki with similar Java-based efforts may answer this question. This example also illustrates that the target audience determines the best choice of base technology. The developer herself should have the necessary insight to make a most opportunistic decision.
+
+コミュニティづくりは、ユーザーがひとりもいない段階から始まっている。
+使うプログラミング言語を選んだ時点で既に、どれくらいの人がそのコードをデプロイしたりデバッグしたりできるのかが決まってしまう。
+OCamlは確かに美しい言語ではあるが、それよりはJavaを選んだほうが、
+使ってくれる（そして、協力してくれる）可能性のある人は、それこそ桁違いに増えるだろう。
+開発者たるもの、妥協することも必要だ。最高に効率的でエレガントなテクノロジーが、世間一般に広まることはほとんどない。
+これは、研究者にとってはつらいことかもしれない。研究者は、言語設計の優劣を気にすることが多いからだ。
+Semantic MediaWikiにかかわっていたころに、よく
+「いったいなぜPHPなんかを使っているのですか？Javaで書いたほうがずっとすっきりするし、効率的でしょう？」
+と聞かれたものだ。
+Semantic MediaWikiのコミュニティの規模と、それと同等なJava製のプロジェクトのコミュニティの規模を比べてほしい。
+それが答えだ。
+この例がもうひとつ示すことがある。
+どんな層を対象にしているのかが、ベースとして使うテクノロジーを決めるためのポイントになるということだ。
+開発者は、周りを最大限に活用できるような判断をすべきである。
 
 #@# \paragraph*{Thoroughly Working the Ground}
 #@# A related issue is the creation of readable and well documented code from the
