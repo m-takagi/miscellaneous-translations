@@ -200,7 +200,18 @@ Semantic MediaWikiのコミュニティの規模と、それと同等なJava製�
 #@# work needed for accessible code. The reward will be a much greater chance of
 #@# informed bug reports, useful patches, or even external developers later on.
 === Thoroughly Working the Ground
-A related issue is the creation of readable and well documented code from the very start. In an academic environment, some software projects are touched by many temporary contributors. Changing staff and student projects may deteriorate code quality. I remember a small software project at TU Dresden that had been maintained quite well by a student assistant. After he had left it was found that his code was thoroughly documented -- in Turkish. A researcher can only be a part-time programmer, so special discipline is needed to enforce the extra work needed for accessible code. The reward will be a much greater chance of informed bug reports, useful patches, or even external developers later on.
+
+先の話題とも関連する課題としてあるのが、よみやすくてきちんとドキュメント化されたコードを最初期から用意するということだ。
+学術環境では、いろんな人が少しずつ手を加えていくようなソフトウェアプロジェクトもある。
+スタッフや学生が入れ替わると、コードのクオリティが下がるかもしれない。
+ドレスデン工科大学の小規模なソフトウェアプロジェクトのことを思い出す。
+そのプロジェクトは、ある一人の学生アシスタントの手によって、すばらしいクオリティを維持していた。
+その彼がプロジェクトを離れた後にわかったことがあった。
+彼のコードは完璧にドキュメント化されていた。……トルコ語で。
+研究者はあくまでも研究者であり、専任のプログラマーではない。
+皆が利用しやすいコードを維持するには、きちんとルールを定めてそれに従ってもらう必要がある。
+そうしておけば、バグレポートやパッチをより多く受け取れるようになるだろうし、
+外部の開発者を呼び込めるかもしれない。
 
 #@# \paragraph*{Spreading the Seeds of Communities}
 #@# Inexperienced Open Source developers often think it as a big step to publish
