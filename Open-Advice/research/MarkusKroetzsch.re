@@ -227,7 +227,17 @@ Semantic MediaWikiのコミュニティの規模と、それと同等なJava製�
 #@# ready. This does not only include its actual code but also its homepage and
 #@# basic usage documentation.
 === Spreading the Seeds of Communities
-Inexperienced Open Source developers often think it as a big step to publish their code openly. In reality nobody else will notice. To attract users and contributors alike one has to spread the word. The public communication of a real project should at least involve announcements for every new release. Mailing lists are probably the best channels for this. Some social skill is needed to find the balance between annoying spam and shy understatement. Projects that are motivated by the honest conviction that they will help users to solve real problems should be easy to advertise respectably. Users will quickly notice the difference between shameless advertising and useful information. Obviously, active announcements should wait until the project is ready. This does not only include its actual code but also its homepage and basic usage documentation.
+
+あまり経験のないオープンソース開発者は、自分のコードをオープンにすること自体がものすごいことだと考えがちだ。
+実際のところ、ただコードを公開しただけでは、誰にも気づいてもらえない。
+ユーザーや協力者たちをひきつけるには、宣伝しなければいけない。
+実際のプロジェクトでは、少なくとも新しいリリースが出るたびに、一般向けに何らかのアナウンスをすべきだ。
+それに最も適した場所は、メーリングリストだろう。
+目障りなスパムにならず、かつ控えめになり過ぎないように、うまくバランスをとるには、それなりのスキルが必要になる。
+ユーザーの問題解決を手助けしようという信念にもとづいたプロジェクトなら、きちんとした宣伝は受け入れられやすい。
+ユーザーはすぐに、恥知らずな宣伝と有益な情報を見分けてしまう。
+もちろん、プロジェクトの準備が整うまでは、頻繁なアナウンスは控えるべきだろう。
+ここでいう「準備」とは、コードだけではなく、ホームページやユーザー向けドキュメントなども含んでいる。
 
 #@# Throughout its lifetime, the project should be mentioned in all
 #@# \emph{appropriate} places, including web sites (start with your homepage!),
