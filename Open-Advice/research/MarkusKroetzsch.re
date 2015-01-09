@@ -246,7 +246,11 @@ Semantic MediaWikiのコミュニティの規模と、それと同等なJava製�
 #@# first visit of the project's homepage. Researchers should not forget to also
 #@# publicize their software outside of their immediate academic community. Other
 #@# researchers are rarely the best basis for an active community.
-Throughout its lifetime, the project should be mentioned in all @<em>{appropriate} places, including web sites (start with your homepage!), presentations, scientific papers, online discussions. One cannot appreciate enough the power of the single link that leads a later main contributor to his first visit of the project's homepage. Researchers should not forget to also publicize their software outside of their immediate academic community. Other researchers are rarely the best basis for an active community.
+プロジェクトが立ち上がってから終了するまでの間、あらゆる@<em>{適切な}場所で言及しなければいけない。
+たとえばWebサイト（まずは自分のホームページから！）やプレゼン、論文、オンラインのディスカッションなどだ。
+単にリンクを示すだけでは、後の主要メンバーになるかもしれない人たちをプロジェクトのホームページに呼び込むには力不足だ。
+また、身近な学術コミュニティ以外への宣伝も、忘れてはいけない。
+身内だけに閉じていては、活発なコミュニティへの道は遠い。
 
 #@# \paragraph*{Providing Spaces to Grow}
 #@# Trivially easy, yet often neglected is the duty of project maintainers to
