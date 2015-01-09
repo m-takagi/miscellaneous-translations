@@ -268,7 +268,16 @@ Semantic MediaWikiのコミュニティの規模と、それと同等なJava製�
 #@# expect support from a community without even preparing the basic spaces for
 #@# this.
 === Providing Spaces to Grow
-Trivially easy, yet often neglected is the duty of project maintainers to provide for the communication spaces that communities can grow in. If a project has no dedicated mailing list, then all support requests will be sent privately to the maintainer. If there is no public bug tracker, bug reports will be fewer and less helpful. Without a world-editable wiki for user documentation, the developer is left with extending and refining the documentation continuously. If the development trunk of the source code is not accessible, then users will not be able to check the latest version before complaining about bugs. If the code repository is inherently closed, then it is impossible to admit external contributors. All of this infrastructure is offered for free by a number of service providers. Not all forms of interaction might be desired, e.g.\ there are reasons to keep the group of developers closed. But it would be foolish to expect support from a community without even preparing the basic spaces for this.
+
+きわめて簡単なのに、忘れられていることが多いのが、プロジェクトのメンテナがコミュニケーションの場を提供してコミュニティの成長を支えるということだ。
+もしそのプロジェクト専用のメーリングリストがなければ、いろいろなリクエストがメンテナへの個人メールで届くだろう。
+もしバグ追跡システムが公開されていなかったら、バグ報告は少なくなるだろうし、あまり有用なものではなくなる。
+もし誰でも編集できるようなWikiでユーザーマニュアルを公開していなければ、開発者たちが日々ドキュメントを手入れしなければいけなくなる。
+もし開発版のソースコードにアクセスできなければ、ユーザーは、最新版を試してみることもせずにバグ報告を投げつけることになる。
+もしリポジトリが公開されていなければ、外部からの貢献など得られようはずがない。
+こういったインフラは、今や多くのサービスプロバイダーが無償で提供している。
+これらすべてが必須だというわけではない（たとえば開発者内での議論はクローズドにしておきたいかもしれない）。
+しかし、こういった基本的な環境さえ用意せずに、コミュニティに助けてもらおうなどというのは虫の良すぎる話だ。
 
 #@# \paragraph*{Encouraging and Controlling Growth}
 #@# Inexperienced developers often are concerned that opening up mailing lists,
