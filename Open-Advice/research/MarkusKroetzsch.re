@@ -172,7 +172,7 @@ Brooksには、そのことが予測できなかった。
 #@# Java-based efforts may answer this question. This example also illustrates that
 #@# the target audience determines the best choice of base technology. The developer
 #@# herself should have the necessary insight to make a most opportunistic decision.
-=== Preparing the Technical Ground
+=== 技術的な土台づくり
 
 コミュニティづくりは、ユーザーがひとりもいない段階から始まっている。
 使うプログラミング言語を選んだ時点で既に、どれくらいの人がそのコードをデプロイしたりデバッグしたりできるのかが決まってしまう。
@@ -199,7 +199,7 @@ Semantic MediaWikiのコミュニティの規模と、それと同等なJava製�
 #@# a part-time programmer, so special discipline is needed to enforce the extra
 #@# work needed for accessible code. The reward will be a much greater chance of
 #@# informed bug reports, useful patches, or even external developers later on.
-=== Thoroughly Working the Ground
+=== 土台の上での作業
 
 先の話題とも関連する課題としてあるのが、よみやすくてきちんとドキュメント化されたコードを最初期から用意するということだ。
 学術環境では、いろんな人が少しずつ手を加えていくようなソフトウェアプロジェクトもある。
@@ -226,7 +226,7 @@ Semantic MediaWikiのコミュニティの規模と、それと同等なJava製�
 #@# information. Obviously, active announcements should wait until the project is
 #@# ready. This does not only include its actual code but also its homepage and
 #@# basic usage documentation.
-=== Spreading the Seeds of Communities
+=== コミュニティの種まき
 
 あまり経験のないオープンソース開発者は、自分のコードをオープンにすること自体がものすごいことだと考えがちだ。
 実際のところ、ただコードを公開しただけでは、誰にも気づいてもらえない。
@@ -267,7 +267,7 @@ Semantic MediaWikiのコミュニティの規模と、それと同等なJava製�
 #@# are reasons to keep the group of developers closed. But it would be foolish to
 #@# expect support from a community without even preparing the basic spaces for
 #@# this.
-=== Providing Spaces to Grow
+=== 育てるための場所の提供
 
 きわめて簡単なのに、忘れられていることが多いのが、プロジェクトのメンテナがコミュニケーションの場を提供してコミュニティの成長を支えるということだ。
 もしそのプロジェクト専用のメーリングリストがなければ、いろいろなリクエストがメンテナへの個人メールで届くだろう。
