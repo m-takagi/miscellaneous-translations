@@ -292,7 +292,15 @@ Semantic MediaWikiのコミュニティの規模と、それと同等なJava製�
 #@# enthusiastic and well-meaning people are needed for building a healthy
 #@# community.
 === Encouraging and Controlling Growth
-Inexperienced developers often are concerned that opening up mailing lists, forums, and wikis for users will require a lot of additional maintenance. It rarely does, but some basic activities are of course necessary. It starts with @<em>{rigorously enforcing} the use of public communication. Users need to be educated to ask questions publicly, to look up the documentation before asking, and to report bugs in the tracker instead of via email. I tend to reject all private support requests, or to forward the answers to public lists. This also ensures that solutions are available on the web for future users to find. In any case, users should be thanked explicitly for all forms of contribution -- many enthusiastic and well-meaning people are needed for building a healthy community.
+
+経験の浅い開発者に限って、「ユーザー向けのメーリングリストやフォーラムやWikiを作ったら、そのメンテナンスが大変だ」などと考えがちだ。
+そんなに心配するほどでもない。ただ、まったくのほったらかしでいいというわけでもない。
+最初にすべきことは、公開の場でのやりとりをするように@<em>{きつく強制する}ことだ。
+質問は公開の場で行うこと。質問する前にドキュメントを読むこと。バグレポートは、メールではなくバグ追跡システムを使うこと。
+こういったことをユーザーに伝えていく必要がある。
+私は、個人メールアドレス宛のサポート依頼は一切無視するか、あるいは公開メーリングリストに返信するようにしている。
+そうすることで、将来のユーザーが、質問に対する答えをWeb上で見つけられるようにもなる。
+いずれにせよ、どんな形式であっても、ユーザーからの貢献には感謝すべきだ。情熱を持って、手助けをしたがっている人たちはたくさんいる。
 
 #@# When a certain density of users is reached, support starts to happen from user
 #@# to user. This is always a magical moment for a project, and a sure sign that it
