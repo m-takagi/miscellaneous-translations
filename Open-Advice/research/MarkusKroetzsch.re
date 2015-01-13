@@ -312,7 +312,14 @@ Semantic MediaWikiのコミュニティの規模と、それと同等なJava製�
 #@# community development. Likewise, not all well-meant enthusiasm is productive,
 #@# and it is often necessary to say no, friendly but clearly, to prevent feature
 #@# creep.
-When a certain density of users is reached, support starts to happen from user to user. This is always a magical moment for a project, and a sure sign that it is on a good path. Ideally, the core maintainers should still provide support for tricky questions, but at some point certain users will take the lead in discussions, and it is important to thank them (personally) and to involve them further in the project. Conversely, unhealthy developments must be stopped where possible, and in particular aggressive behavior can be a real danger to community development. Likewise, not all well-meant enthusiasm is productive, and it is often necessary to say no, friendly but clearly, to prevent feature creep.
+ユーザー数がある程度に達すると、ユーザーどうしでのサポートの動きが出てくる。
+プロジェクトにとって、それは魔法のような瞬間だ。そしてそれは、そのプロジェクトがうまく進んでいる証となる。
+難しい質問に関しては、コアメンテナのサポートも必要だろう。
+しかし、ある段階に達すると、ユーザーが議論を引っ張りはじめるようになる。
+そういうユーザーには感謝の意を（個人的に）表明して、今後もプロジェクトにかかわってもらえるようにすることが大切だ。
+逆に、不健全な開発は可能な限りやめるべきだ。攻撃的な振る舞いは、コミュニティの育成の害になってしまう。
+プロジェクトに対する熱意がすべて前向きなものであるとは限らない。
+時にはノーというべき場面もある。フレンドリーに、かつ明確にノーと言って、将来困らないようにしよう。
 
 #@# \section*{The Future is Open}
 == The Future is Open
