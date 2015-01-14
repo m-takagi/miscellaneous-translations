@@ -291,7 +291,7 @@ Semantic MediaWikiのコミュニティの規模と、それと同等なJava製�
 #@# case, users should be thanked explicitly for all forms of contribution -- many
 #@# enthusiastic and well-meaning people are needed for building a healthy
 #@# community.
-=== Encouraging and Controlling Growth
+=== 成長の手助けとコントロール
 
 経験の浅い開発者に限って、「ユーザー向けのメーリングリストやフォーラムやWikiを作ったら、そのメンテナンスが大変だ」などと考えがちだ。
 そんなに心配するほどでもない。ただ、まったくのほったらかしでいいというわけでもない。
@@ -322,7 +322,7 @@ Semantic MediaWikiのコミュニティの規模と、それと同等なJava製�
 時にはノーというべき場面もある。フレンドリーに、かつ明確にノーと言って、将来困らないようにしよう。
 
 #@# \section*{The Future is Open}
-== The Future is Open
+== 未来は開けている
 
 #@# Building an initial community around a project is an important part of
 #@# transforming a research prototype into a grown Open Source software. If it
@@ -330,7 +330,9 @@ Semantic MediaWikiのコミュニティの規模と、それと同等なJava製�
 #@# on the goals of the project maintainer and community. Some general directions
 #@# include:
 #@# %
-Building an initial community around a project is an important part of transforming a research prototype into a grown Open Source software. If it succeeds, there are many options for further developing the project, depending on the goals of the project maintainer and community. Some general directions include:
+プロジェクトをとりまく最初のコミュニティの立ち上げは、研究用のプロトタイプをオープンソースソフトウェアとして育てていくためには重要なことだ。
+これがうまくいけば、その後のプロジェクトの開発にはさまざまな選択肢が出てくる。プロジェクトのメンテナやコミュニティのゴールにあわせて、その中から選べばいい。
+一般的な方向性としては、以下のようなものがある。
 
 #@# \begin{itemize}
 #@# \item Continuing to grow and develop the project and its OSS community,
