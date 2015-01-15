@@ -353,9 +353,15 @@ Semantic MediaWikiのコミュニティの規模と、それと同等なJava製�
 #@# to abandon the project silently, killing it by inactivity until its reach is
 #@# diminished to the point where no future maintainer can be found.
 #@# \end{itemize}
- * Continuing to grow and develop the project and its OSS community, enlarging the core team of developers and maintainers, and eventually making it independent of its academic origin. This may involve further community activities (e.g.\ dedicated events) and maybe establishing organizational support.
- * Founding a company for commercially exploiting the project based on, e.g., a dual-license or consulting business model. Established tools and vibrant communities are a major asset for a start-up company, and can be beneficial to several business strategies without abandoning the original OSS product.
- * Withdrawing from the project. There are many reasons why one may no longer be able to maintain the close affiliation to the project. Having established a healthy open community maximizes the chances that the project can continue independently. In any case, it is much more respectable to make a clear cut than to abandon the project silently, killing it by inactivity until its reach is diminished to the point where no future maintainer can be found.
+ * プロジェクトとそのコミュニティが成長し続けて、コア開発チームやメンテナの数も増え、最終的には当初の学術目的から切り離されて独立する。
+ そのプロジェクトに関するイベントを開催したり、組織によるサポートを確立したりといったことも、ここに含まれる。
+ * デュアルライセンスやコンサルティングなどのビジネスモデルを使い、商売を進められるような企業を見つける。
+ 確立されたツールと活発なコミュニティは、スタートアップ企業にとっての大きな資産となる。もとのOSSプロダクトを放棄しなくても、
+ さまざまなビジネス戦略に役立てられるだろう。
+ * プロジェクトから撤退する。いろいろな理由があって、プロジェクトに密接にかかわり続けるのが不可能になることもある。
+ オープンなコミュニティをきちんと育てておけば、あなたが退いてもプロジェクトはうまく進んでいくだろう。
+ いずれにせよ、黙って手を引くのではなく、明確にその意思を示すことが大切だ。
+ さもないと、新しいメンテナが見つからずに、プロジェクトが自然消滅してしまうことになる。
 
 #@# %
 #@# The shape of the community will be different when working toward one of these
