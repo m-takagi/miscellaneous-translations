@@ -372,4 +372,9 @@ Semantic MediaWikiのコミュニティの規模と、それと同等なJava製�
 #@# but the type of work that is required to succeed. Understanding this is part of
 #@# the success -- the only other thing that is needed is an awesome piece of
 #@# software.
-The shape of the community will be different when working toward one of these principal options. But in each case, the role of the researcher changes in the cause of the project. The initial scientist and coder may turn into a manager or technical director. In this sense, the main difference between an influential OSS project and a perpetual research prototype is not so much the amount of work but the type of work that is required to succeed. Understanding this is part of the success -- the only other thing that is needed is an awesome piece of software.
+これらの選択肢のうちどれを選ぶかによって、コミュニティの形は違ってくることだろう。
+いずれにせよ、研究者の役割は、プロジェクトが原因で変わっていく。
+最初は科学者でありプログラマーであったものが、マネージャーやテクニカルディレクターに変わっていくわけだ。
+この点において、影響力の大きいOSSプロジェクトと果てしない研究用プロトタイプとの主な違いは、
+作業量ではなく、成功するために求められる作業の形式となる。
+それを理解することが成功の秘訣だ。もちろん、すばらしいソフトウェアが必要であることは言うまでもない。
