@@ -39,9 +39,17 @@ Wikipediaプロジェクトおよびその著者コミュニティについて�
 #@# This is the central topic I want to cover here. You should think about the
 #@# future of your project, and the newcomers that one day will take over your work
 #@# and continue to improve it.
-In his well-known essay @<i>{The Cathedral and the Bazaar}@<fn>{fn01}, Eric S. Raymond remarks one of the first important lessons that every programmer must learn: "Every good work of software starts by scratching a developer's personal itch". You never realize how certain is this statement unless you experience that situation by yourself. In fact, the majority of FLOSS programmers (if not all) certainly underwent this process as they got their hands dirty in a brand new project, or they join an existing one, eager to help making it better. However, many developers and other participants in FLOSS communities (documentation writers, translators, etc.) usually overlook another important lesson stressed by Raymond a bit later in his essay: "When you lose interest in a program, your last duty to it is to hand it off to a competent successor". This is the central topic I want to cover here. You should think about the future of your project, and the newcomers that one day will take over your work and continue to improve it.
+かの有名な@<em>{伽藍とバザール}@<fn>{fn01}にて、Eric S. Raymondは全プログラマーが学ぶべき第一の教訓を示している。
+「よいソフトはすべて、開発者の個人的な悩み解決から始まる」だ。
+これが正しいのかどうかは、実際に経験してみるまではなかなか実感できないものだろう。
+実際、FLOSSのプログラマーたち全員とは言わないまでも、多くの人たちが、これを経験しているはずだ。
+新しいプロジェクトで泥臭い作業をしたり、既存のプロジェクトに合流してよりよくしていくために手助けしたりといったことである。
+しかし、FLOSSコミュニティに参加する開発者（やドキュメンテーション作者、翻訳者など）の多くは、Raymondが同じエッセイで示すもうひとつの教訓を見落としている。
+「あるソフトに興味をなくしたら、最後の仕事としてそれを有能な後継者に引き渡すこと」である。
+ここでは、この教訓についてとりあげる。
+自分のプロジェクトの行く末について考え、新しく参入してきた人たちがあなたの作業を引き継げるようにしていくべきだ。
 
-//footnote[fn01][@<href>{http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar}]
+//footnote[fn01][@<href>{http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar} / @<href>{http://cruel.org/freeware/cathedral.html}]
 
 #@# \section*{Generational relay}
 == Generational relay
