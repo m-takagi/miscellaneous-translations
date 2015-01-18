@@ -16,7 +16,11 @@ Felipe Ortega
 #@# Master on Libre Software at URJC. He is a strong advocate of open educational
 #@# resources, open access in scientific publishing and open data in science.}
 //lead{
-Felipe Ortega is a researcher and project manager at Libresoft, a research group at University Rey Juan Carlos (URJC), Spain. Felipe develops novel methodologies to analyze open collaborative communities (like free software projects, Wikipedia and social networks). He has done extensive research with the Wikipedia project and its community of authors. He actively participates in research, promotion and education/training on libre software, especially in the Master on Libre Software at URJC. He is a strong advocate of open educational resources, open access in scientific publishing and open data in science.
+Felipe Ortegaは研究者であり、スペインのレイ・ファン・カルロス大学（URJC）の研究グループLibresoftのマネージャーである。
+Felipeはオープンで協力的なコミュニティ（フリーソフトウェアプロジェクトやWikipedia、ソーシャルネットワークなど）を分析するための、今までにない新たな方法論を開拓する。
+Wikipediaプロジェクトおよびその著者コミュニティについての、広範囲に及ぶ研究を終えた。
+彼は、自由ソフトウェアに関する研究やプロモーション、教育／トレーニングに積極的に参加している。
+彼は、オープンな教育リソースや科学出版におけるオープンアクセス、そして科学分野のオープンデータを強く支持している。
 //}
 
 #@# \noindent{}In his well-known essay \textit{The Cathedral and the
