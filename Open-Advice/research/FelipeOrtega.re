@@ -52,7 +52,7 @@ Wikipediaプロジェクトおよびその著者コミュニティについて�
 //footnote[fn01][@<href>{http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar} / @<href>{http://cruel.org/freeware/cathedral.html}]
 
 #@# \section*{Generational relay}
-== Generational relay
+== 世代交代
 
 #@# At some point in their lifetime, many FLOSS projects must face a generational
 #@# relay. Former developers in charge of code maintenance and improvement
@@ -60,7 +60,11 @@ Wikipediaプロジェクトおよびその著者コミュニティについて�
 #@# These include personal issues, a new job that does not leave them enough free
 #@# time, starting a new project, switching to a different project that seems more
 #@# appealing, \dots\ The list can be pretty long.
-At some point in their lifetime, many FLOSS projects must face a generational relay. Former developers in charge of code maintenance and improvement eventually leave the project and its community, for a wide variety of reasons. These include personal issues, a new job that does not leave them enough free time, starting a new project, switching to a different project that seems more appealing, \dots\ The list can be pretty long.
+FLOSSプロジェクトの多くは、どこかの時点で世代交代を迫られるものだ。
+コードのメンテナンスや改良にかかわってきた人たちが、さまざまな理由でそのプロジェクトやコミュニティから去ることもある。
+個人的な問題かもしれないし、転職してプロジェクトに割くことのできる時間がなくなったのかもしれない。
+新しいプロジェクトを立ち上げることになったのかもしれないし、もっと魅力的な別のプロジェクトに移るのかもしれない。
+それ以外にも、数多くの理由が考えられる。
 
 #@# The study of generational relay (or developer turnover) in FLOSS projects is
 #@# still an emerging area of study that needs further research to improve our
