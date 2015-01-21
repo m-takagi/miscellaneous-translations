@@ -78,7 +78,12 @@ FLOSSプロジェクトの多くは、どこかの時点で世代交代を迫ら
 #@# particular GIMP, Mozilla (former instance of the well-known browser) and
 #@# Evolution. In a nutshell, what they found is that we can identify three types of
 #@# projects according to their rate of developer turnover:
-The study of generational relay (or developer turnover) in FLOSS projects is still an emerging area of study that needs further research to improve our understanding of these situations. In spite of this, some researchers have already collected objective evidence that sheds some light on these processes. In OSS 2006, my colleagues Jesus G. Barahona and Gregorio Robles presented a work entitled "Contributor Turnover in Libre Software Projects". In this work, they show a methodology to identify the most active developers (usually known as core contributors) in different time intervals, over the whole history of a given  project. Then, they apply this method to study 21 large projects, in particular GIMP, Mozilla (former instance of the well-known browser) and Evolution. In a nutshell, what they found is that we can identify three types of projects according to their rate of developer turnover:
+FLOSSにおける世代交代（開発者の引き継ぎ）は、今もなお活発な研究分野であり、状況を理解するためにはさらなる調査を要する。
+にもかかわらず、研究者の中にはすでに、これらのプロセスに光を落とす客観的証拠を集めた人もいる。
+OSS 2006で、同僚のJesus G. BarahonaとGregorio Roblesは"Contributor Turnover in Libre Software Projects"と題する発表を行った。
+彼らは、何かのプロジェクトについて、特定の期間内で最もアクティブな開発者（コアコントリビュータ）を特定する方法論を示したのだ。
+そして、その方法論を21の大規模プロジェクトに適用した。GIMPやMozilla（大昔に有名だったブラウザ）そしてEvolutionなどがその一例だ。
+結局、彼らが見つけたものは何だったのか。あらゆるプロジェクトは、開発者の引き継ぎの発生率によって、大きく三種類に分けられるということだ。
 
 #@# \begin{itemize}
 #@#  \item Code gods projects: These projects heavily rely on the work of their
