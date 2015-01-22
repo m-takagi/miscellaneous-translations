@@ -97,9 +97,17 @@ OSS 2006で、同僚のJesus G. BarahonaとGregorio Roblesは"Contributor Turnov
 #@# showing some rate of turnover but not as evident as in the previous case,
 #@# mitigated by retention of some core contributors over the project history.
 #@# \end{itemize}
- * Code gods projects: These projects heavily rely on the work of their founders, and there is very little generational relay, or none at all. GIMP falls into this category.
- * Projects with multiple generations: Projects like Mozilla show a clear pattern of developer turnover, with new groups of active developers taking over the lead of code development and maintenance from the hands of the previous core contributors.
- * Composite projects: Evolution belongs to a third category of projects, showing some rate of turnover but not as evident as in the previous case, mitigated by retention of some core contributors over the project history.
+ * コードの神様がまとめるプロジェクト：
+ プロジェクトが最初の作者に強く依存しており、世代交代がほとんど（あるいはまったく）進んでいない。
+ GIMPがこのカテゴリに属する。
+ * 複数世代にまたがるプロジェクト：
+ Mozillaなどのプロジェクトでは、開発者が引退するときの作業を明示している。
+ 新たにアクティブな開発者となったグループが、かつてのコアコントリビュータから引き継ぎ、
+ コードの開発やメンテナンスを率いている。
+ * 複合型プロジェクト：
+ 第三のカテゴリに属するプロジェクトも出てきつつある。
+ 引退する人もいるけれども先ほどの第二カテゴリほど明白ではなく、
+ 一部のコアコントリビュータがプロジェクトにずっと残り続けることで、影響を和らげている。
 
 #@# This classification leads us to an obvious question: so, what is the most common
 #@# pattern found in real FLOSS projects out there? Well, results for the whole set
