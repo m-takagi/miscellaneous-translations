@@ -114,7 +114,12 @@ OSS 2006で、同僚のJesus G. BarahonaとGregorio Roblesは"Contributor Turnov
 #@# of 21 projects analyzed in this work render a clear conclusion, which is that
 #@# multiple generations and composite projects are the most common cases found in
 #@# the FLOSS ecosystem. Only Gnumeric and Mono showed a distinctive pattern of strong retention of former developers, indicating that people contributing to these projects may have more appealing reasons to continue their work for a long time.
-This classification leads us to an obvious question: so, what is the most common pattern found in real FLOSS projects out there? Well, results for the whole set of 21 projects analyzed in this work render a clear conclusion, which is that multiple generations and composite projects are the most common cases found in the FLOSS ecosystem. Only Gnumeric and Mono showed a distinctive pattern of strong retention of former developers, indicating that people contributing to these projects may have more appealing reasons to continue their work for a long time.
+この分類を見ると、ひとつ疑問がわく。
+「で、世間のFLOSSプロジェクトでいちばん多いパターンは、この中のどれなの？」
+この研究で、21のプロジェクトを調べたところ、明確な答えが出た。
+FLOSSのエコシステムで最も多いのは、複数の世代にまたがる複合型のプロジェクトだったのだ。
+初代の開発者がずっと残り続けていたのはGnumericとMonoだけだった。
+これらのプロジェクトに新しく参入していこうとすれば、他のプロジェクトよりも強い理由が必要になるということである。
 
 #@# Nevertheless, this is not the normal picture. On the contrary, this study gives
 #@# support for the advice we are considering here, that we should prepare to
