@@ -130,7 +130,7 @@ FLOSSのエコシステムで最も多いのは、複数の世代にまたがる
 少なくとも今後いつかの時点で世代交代に備える必要があり、プロジェクトにおける役割やプロジェクトに関する知識を新しい参加者に引き継ぐ準備が必要であるということだ。
 
 #@# \section*{The knowledge gap}
-== The knowledge gap
+== 知識のギャップ
 
 #@# Any person experiencing a significant change in her life must deal with adaption
 #@# to new conditions. For example, when you quit your job to get another one you
@@ -141,7 +141,12 @@ FLOSSのエコシステムで最も多いのは、複数の世代にまたがる
 #@# then, talking with your former workmates, you can learn what happened with the
 #@# person recruited to fill your previous position. This seldom occurs in FLOSS
 #@# projects.
-Any person experiencing a significant change in her life must deal with adaption to new conditions. For example, when you quit your job to get another one you prepare yourself for a certain period in which you have to fit in a new place, and integrate yourself in a different working group. Hopefully, after a while you have finally settled down in your new job. But, sometimes, you keep good friends from your old job, and you can meet them again after the move. Maybe then, talking with your former workmates, you can learn what happened with the person recruited to fill your previous position. This seldom occurs in FLOSS projects.
+人生において何か大きな変化があった場合は、誰しも新しい状況への対応を迫られる。
+たとえば転職した場合は、新しい場所になじんだり新しいチームとの作業に合流するために、ある程度の期間が必要になる。
+たいていの場合は、ある程度の時間があれば、新たな職場に落ち着けるようになるだろう。
+しかし時には、元の職場の同僚とも友人関係が続いて、転職後もしばしば会うかもしれない。
+そんな場合は、元同僚との会話の中で、かつての自分の職が今どうなっているのか、どんな人が雇われたのかを知ることになるかもしれない。
+FLOSSのプロジェクトにおいては、そんなことはめったに発生しない。
 
 #@# The downside of generational relay in FLOSS projects may come in a very concrete
 #@# form, namely a knowledge gap. When a former developer leaves the project, and
