@@ -125,7 +125,9 @@ FLOSSのエコシステムで最も多いのは、複数の世代にまたがる
 #@# support for the advice we are considering here, that we should prepare to
 #@# transfer, at some point in the future, our role and knowledge in the project to
 #@# the future contributors joining our community.
-Nevertheless, this is not the normal picture. On the contrary, this study gives support for the advice we are considering here, that we should prepare to transfer, at some point in the future, our role and knowledge in the project to the future contributors joining our community.
+にもかかわらず、これは一般的な考えとはことなる。
+逆に、この研究は、私たちがここで考えているアドバイスをサポートしてくれる。
+少なくとも今後いつかの時点で世代交代に備える必要があり、プロジェクトにおける役割やプロジェクトに関する知識を新しい参加者に引き継ぐ準備が必要であるということだ。
 
 #@# \section*{The knowledge gap}
 == The knowledge gap
