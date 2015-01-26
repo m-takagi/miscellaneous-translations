@@ -153,7 +153,9 @@ FLOSSのプロジェクトにおいては、そんなことはめったに発生
 #@# especially if she had an extensive experience in that community, she leaves
 #@# behind both her tangible and abstract knowledge that may or may not be passed
 #@# on to subsequent newcomers.
-The downside of generational relay in FLOSS projects may come in a very concrete form, namely a knowledge gap. When a former developer leaves the project, and especially if she had an extensive experience in that community, she leaves behind both her tangible and abstract knowledge that may or may not be passed on to subsequent newcomers.
+FLOSSプロジェクトにおける世代交代のマイナス点は、とてもわかりやすい形式であらわれる。知識格差だ。
+コミュニティ全般にわたる豊富な経験を持っていた開発者がプロジェクトを去るときには、さまざまな知識が残される。
+きちんと目に見えるものもあれば、暗黙知として保たれてきたものもあるだろう。それらすべてが、後任にきちんと引き継がれるかどうかはわからない。
 
 #@# A clear example is source code. Like any product of fine intellectual work
 #@# (well, at least one should expect that, right?) developers leave a personal
