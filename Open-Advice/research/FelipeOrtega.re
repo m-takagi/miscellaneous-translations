@@ -130,7 +130,7 @@ FLOSSのエコシステムで最も多いのは、複数の世代にまたがる
 少なくとも今後いつかの時点で世代交代に備える必要があり、プロジェクトにおける役割やプロジェクトに関する知識を新しい参加者に引き継ぐ準備が必要であるということだ。
 
 #@# \section*{The knowledge gap}
-== 知識のギャップ
+== 知識格差
 
 #@# Any person experiencing a significant change in her life must deal with adaption
 #@# to new conditions. For example, when you quit your job to get another one you
@@ -164,7 +164,10 @@ FLOSSプロジェクトにおける世代交代のマイナス点は、とても
 #@# itself and is easily maintainable. Other times, the situation is the opposite
 #@# and you struggle to understand very obscure, unclear code without any comments
 #@# or hints that can help you.
-A clear example is source code. Like any product of fine intellectual work (well, at least one should expect that, right?) developers leave a personal imprint whenever they produce new code. Sometimes, you feel eternally in debt to that awesome programmer who wrote neat, elegant code that virtually speaks by itself and is easily maintainable. Other times, the situation is the opposite and you struggle to understand very obscure, unclear code without any comments or hints that can help you.
+わかりやすい例として、ソースコードを挙げよう。
+あらゆる知的生産物（少なくとも、そうであるべきだと考えているよね？）と同じく、開発者が新しくコードを書くときには、そこに開発者の意図が刻み込まれる。
+すばらしいプログラマーが書いたエレガントなコードを見ると、まるでコードが自ら語りかけてくるかのように思えて、メンテナンスも簡単になる。
+しかし時には、正反対の状況にも直面する。あいまいかつ不明瞭で、コメントも書かれていないようなコードと格闘することもあるだろう。
 
 #@# This is what we tried to measure in 2009, in a research work presented at HICSS
 #@# 2009. The title is ``Using Software Archeology to Measure Knowledge Loss in
