@@ -178,7 +178,12 @@ FLOSSプロジェクトにおける世代交代のマイナス点は、とても
 #@# and not taken by any of the current developers, yet. In this case, we choose
 #@# four projects (Evolution, GIMP, Evince and Nautilus) to test our research
 #@# method. And we found quite interesting results.
-This is what we tried to measure in 2009, in a research work presented at HICSS 2009. The title is "Using Software Archeology to Measure Knowledge Loss in Software Projects Due to Developer Turnover". In case you were wondering, it has nothing to do with a whip, treasures, temples or thrilling adventures, though it was really entertaining. What we measured (among other things) was the percentage of orphaned code left behind by developers who quit FLOSS projects, and not taken by any of the current developers, yet. In this case, we choose four projects (Evolution, GIMP, Evince and Nautilus) to test our research method. And we found quite interesting results.
+私たちは2009年の研究で、これを測定しようとした。そしてその結果をHICSS 2009で発表した。
+タイトルは「ソフトウェア考古学を用いた、ソフトウェアプロジェクトにおける開発者の引退による知識の喪失の計測」だ。
+ムチや宝箱や寺院などが出てくるスリリングな冒険などではなかったが、とてもおもしろい発表だった。
+私たちは、すでにプロジェクトを去った開発者が残したコードの中で、現在の開発者がまだ誰も手を加えていない部分がどの程度あるかを調べたのだ。
+その研究で対象としたのは、Evolution・GIMP・Evince・Nautilusの4プロジェクトである。
+そして、とても興味深い結果が得られた。
 
 #@# Evolution exhibited a somewhat worrying pattern, in the sense that the
 #@# percentage of orphaned code was growing over time. By 2006, nearly 80\% of all
