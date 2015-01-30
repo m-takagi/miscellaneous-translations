@@ -193,7 +193,12 @@ FLOSSプロジェクトにおける世代交代のマイナス点は、とても
 #@# number of orphaned lines of code. By the way, remember that GIMP had already
 #@# been characterized  as a code gods project, and thus benefits from a much more
 #@# stable development team to undertake this daunting task.
-Evolution exhibited a somewhat worrying pattern, in the sense that the percentage of orphaned code was growing over time. By 2006, nearly 80\% of all source code lines had been abandoned by former developers and remained untouched by the rest of the team. On the contrary, GIMP showed a radically different pattern, with a clear and sustained effort of the development team to reduce the number of orphaned lines of code. By the way, remember that GIMP had already been characterized  as a code gods project, and thus benefits from a much more stable development team to undertake this daunting task.
+Evolutionが、少し心配な兆候を示した。見捨てられたコードの割合が、上昇し続けていたのだ。
+すでに引退した開発者たちが書いたコードで、現役の開発者が一切手をつけていないという部分は、
+2006年の時点で全ソースコードのうち80%の行に達していた。
+一方GIMPは、それとは対照的だった。手をつけられないコードを減らすように、開発チームが常々気をつけていたのだ。
+ところで、先ほどお話したとおり、GIMPは「コードの神様」型のプロジェクトだった。
+固定した開発チームがタスクを引き受けている。
 
 #@# Does this mean that GIMP developers were having a much better experience than
 #@# Evolution folks? To be honest, we do not know. Nevertheless, we can foresee a
