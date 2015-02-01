@@ -210,7 +210,14 @@ Evolutionが、少し心配な兆候を示した。見捨てられたコード�
 #@# someone in the team with precise knowledge about most of the code they need to
 #@# maintain. In addition, they also work to further reduce the portion of unknown
 #@# source code over time.
-Does this mean that GIMP developers were having a much better experience than Evolution folks? To be honest, we do not know. Nevertheless, we can foresee a clear, predictable risk: the higher the percentage of orphaned code, the larger the effort to maintain the project. Whenever you need to fix a bug, develop a new feature or extend an existing one, you bump into code you had never seen before. Of course you may be a fantastic programmer, but no matter how wonderful you are, GIMP developers do have a clear advantage in this case, since they have someone in the team with precise knowledge about most of the code they need to maintain. In addition, they also work to further reduce the portion of unknown source code over time.
+GIMPの開発者たちのほうが、Evolutionの人たちよりもよい経験を積んでいると言えるだろうか？
+正直なところ、それはわからない。
+しかし、明確なリスクを予測できる。見捨てられたコードの割合が増えれば増えるほど、プロジェクトを維持するための労力も増えていくということだ。
+バグを修正しようとしたり、新機能の追加や既存の機能の拡張をしようとしたときにはいつも、今まで見たこともないようなコードとの格闘を迫られる。
+もちろん、それを苦にしないような凄腕のプログラマーもいるかもしれない。
+仮にそうだったとしても、GIMPの開発者たちのほうが明らかに有利だ。
+彼らの場合、自分が触ろうとしているコードのほとんどについて、詳しく知っている人がチーム内に存在するからである。
+さらに彼らは、未知のソースコードを少しでも減らそうと、日々作業を進めている。
 
 #@# \section*{It feels like home}
 == It feels like home
