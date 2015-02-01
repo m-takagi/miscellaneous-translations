@@ -234,7 +234,14 @@ GIMPの開発者たちのほうが、Evolutionの人たちよりもよい経験�
 #@# December 2004), comprising from Debian 2.0 to Debian 3.1 (only stable releases),
 #@# more than 50\% of maintainers of Debian 2.0 were still contributing to Debian
 #@# 3.1.
-Interestingly, some projects manage to retain users for much longer periods than one could expect. Again, we can find empirical evidence supporting this claim. In OSS 2005, Michlmayr, Robles and González-Barahona presented some relevant results pertaining this aspect. They studied the persistence of participation of software maintainers in Debian, calculating the so-called half-life ratio. This is the time needed for a certain population of maintainers to fall to half of its initial size. The result was that the estimated half-life of Debian maintainers was approximately 7.5 years. In other words, since the study was undertaken over a period of six and a half years (between July 1998 to December 2004), comprising from Debian 2.0 to Debian 3.1 (only stable releases), more than 50\% of maintainers of Debian 2.0 were still contributing to Debian 3.1.
+興味深いことに、思っていたよりもずっと長くユーザーをひきつけているプロジェクトもある。
+この件についても、実例をもって実証できる。
+OSS 2005において、MichlmayrとRoblesそしてGonzález-Barahonaが、この件に関連する発表をした。
+彼らは、Debianにおけるソフトウェアメンテナが、どれくらいの期間在籍し続けているかを調べて、「半減期」を計算した。
+これは、メンテナ数が当初の半分になるまでに要した期間である。
+Debianメンテナの半減期の見積もりは、約7年半だった。
+この調査は1998年の7月から2004年の12月にかけての6年半で行われた。安定版でいうとDebian 2.0からDebian 3.1にかけての間である。
+つまり、Debian 2.0当時のメンテナの半数以上は、Debian 3.1のときにも現役だったということになる。
 
 #@# Debian has created quite a formal procedure to admit new software maintainers
 #@# (also known as Debian developers) including the acceptance of the Debian Social
