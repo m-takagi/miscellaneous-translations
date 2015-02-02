@@ -251,7 +251,12 @@ Debianメンテナの半減期の見積もりは、約7年半だった。
 #@# taken over by other developers staying in the community. Only in those cases in
 #@# which the package was not useful anymore it was simply abandoned.
 #@# I think we can learn some useful conclusions from these research works:
-Debian has created quite a formal procedure to admit new software maintainers (also known as Debian developers) including the acceptance of the Debian Social Contract and showing good knowledge of Debian Policy. As a result, one would expect to have quite committed contributors. Actually this is the case, since these authors found that packages left behind by former maintainers were usually taken over by other developers staying in the community. Only in those cases in which the package was not useful anymore it was simply abandoned. I think we can learn some useful conclusions from these research works:
+Debianには、新しいメンテナ（Debian Developer）を受け入れるための正式な手続きを定めている。
+その手続きには、Debian社会契約を受け入れることや、Debianポリシーを熟知していると示すことなどが含まれている。
+この手続きを経て参加することになるので、新たなメンバーはきわめて熱心な貢献者であることが期待できる。
+実際そのとおりで、メンテナがいなくなったパッケージは、コミュニティ内の他の開発者に引き継がれることが多い。
+もはやあまり有用ではなくなったパッケージについては、単に捨てられるだけのことだ。
+これらの調査結果から、以下のようなことが学べるだろう。
 
 #@# \begin{enumerate}
 #@#  \item Spend some time to develop the main guidelines of your project. It may
