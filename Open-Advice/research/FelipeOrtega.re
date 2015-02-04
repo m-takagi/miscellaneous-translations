@@ -286,7 +286,11 @@ Debianには、新しいメンテナ（Debian Developer）を受け入れるた�
  まずは短めのドキュメントをひとつ用意して、推奨する方法やグッドプラクティスなどを記す。
  プロジェクトの成長とともに、このガイドラインも成長させるべきだ。
  これは、新たに参加した人たちがチームの価値観や作業スタイルをすばやくつかむための助けになる。
- 1. Force yourself to follow well-known coding standards, good practices and elegant style. Document your code. Include comments to describe sections that might be especially hard to understand. Do not feel that you are wasting your time. In practice, you are being very pragmatic, investing time in the future of your project.
+ 1. 一般に広まっているコーディング規約やグッドプラクティスなどに従おう。
+ コードを説明する文書を作ろう。
+ わかりにくいであろう箇所には、コメントを書いておく。
+ それは決して、時間の無駄ではない。
+ それどころか、非常に実利的であるとさえ言える。プロジェクトの将来のために、いま時間を投資しているというわけだ。
  1. If possible, when the time comes for you to quit the project try to make others aware of your decision some time in advance. Make sure they understand which critical parts will need a new maintainer. Ideally, if you are a community, prepare at least a very simple procedure to automate this process and make sure that you do not forget any important point before that person leaves the project (especially if she was a key developer).
  1. Keep an eye on the size of orphaned code. If it rises too rapidly, or it reaches a significant proportion of your project, it is a clear indication that you will be running into trouble very soon, especially if the number of bug reports grows or you plan to revamp your code with a serious refactoring.
  1. Always ensure that you leave enough tips and hints for a newcomer to take over your work in the future.
