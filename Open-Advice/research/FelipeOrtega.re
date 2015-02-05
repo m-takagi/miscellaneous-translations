@@ -291,9 +291,12 @@ Debianには、新しいメンテナ（Debian Developer）を受け入れるた�
  わかりにくいであろう箇所には、コメントを書いておく。
  それは決して、時間の無駄ではない。
  それどころか、非常に実利的であるとさえ言える。プロジェクトの将来のために、いま時間を投資しているというわけだ。
- 1. If possible, when the time comes for you to quit the project try to make others aware of your decision some time in advance. Make sure they understand which critical parts will need a new maintainer. Ideally, if you are a community, prepare at least a very simple procedure to automate this process and make sure that you do not forget any important point before that person leaves the project (especially if she was a key developer).
- 1. Keep an eye on the size of orphaned code. If it rises too rapidly, or it reaches a significant proportion of your project, it is a clear indication that you will be running into trouble very soon, especially if the number of bug reports grows or you plan to revamp your code with a serious refactoring.
- 1. Always ensure that you leave enough tips and hints for a newcomer to take over your work in the future.
+ 1. できれば、自分がプロジェクトを抜けることになったときには、事前に他の人たちにその意思を伝えておくようにしよう。
+ そうすれば、どの部分に新たなメンテナが必要になるのかなどを、メンバーが把握できるようになる。
+ 理想を言えば、このあたりを自動化するような手続きを、ごくシンプルなものでいいので定めておこう。
+ 誰かがプロジェクトを去ることになったときに、大切なことを忘れていないかどうかを確かめられるようになる。
+ 特に、コア開発者が抜けるときなどは重要だ。
+ 1. 将来あなたの作業を引き継ぐであろう人たちに向けたヒントを残すよう、常に意識しよう。
 
 #@# \section*{I wish I had known you were coming (before I quit)}
 == I wish I had known you were coming (before I quit)
