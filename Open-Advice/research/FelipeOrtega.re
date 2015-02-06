@@ -312,4 +312,15 @@ Debianには、新しいメンテナ（Debian Developer）を受け入れるた�
 #@# digital etiquette. It is something beyond mere good taste. Quod severis metes
 #@# (``as you sow, so shall you reap''). Remember that, next time, you may be the
 #@# newcomer filling the knowledge gap left by a former developer.
-I admit it is not very easy to think about your successors while you are programming. Many times, you just do not realize that your code may end up being taken over by another project, reused by other people or you might eventually be replaced by another person, willing to continue your work thereafter. However, the most remarkable asset of FLOSS is precisely that one: the code will be reused, adapted, integrated or extended by someone else. Maintainability is a critical feature of software engineering. But it becomes paramount in FLOSS. It is not only about source code. It is about people, social relationships and digital etiquette. It is something beyond mere good taste. Quod severis metes ("as you sow, so shall you reap"). Remember that, next time, you may be the newcomer filling the knowledge gap left by a former developer.
+そのコードを引き継ぐ人のことを考えながらプログラミングするのは簡単ではない。確かにそれは認める。
+自分のコードが後に他のプロジェクトに引き継がれて、他の人が面倒を見ることになるかもしれない。
+そうでなくても、自分のコードを他の人が引き継ぐことになる場合もある。そんなことを考えすらしないことが多い。
+しかし、有名どころのFLOSSでは、それは当たり前のことだ。コードは再利用される。他の人がそのコードを取り込んだり、拡張したりすることもある。
+ソフトウェアづくりにおいて、保守可能性は極めて重要だ。
+FLOSSの場合、それが最優先である。
+ソースコードに限った話ではない。
+人と人とのつながりに関するものでもある。
+良識の問題で済ませられるものではない。
+Quod severis metes（情けは人のためならず）。
+あなたもいつか、どこか別のプロジェクトの新入りとして、
+前任者との知識格差を埋める立場になるかもしれないことを忘れないようにしよう。
