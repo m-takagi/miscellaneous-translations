@@ -282,7 +282,7 @@ Debianには、新しいメンテナ（Debian Developer）を受け入れるた�
 #@#  \item Always ensure that you leave enough tips and hints for a newcomer to take
 #@# over your work in the future.
 #@# \end{enumerate}
- 1. それなりに時間をかけて、プロジェクトのガイドラインを作ろう。
+ 1. きちんと時間をかけて、プロジェクトのガイドラインを作ろう。
  まずは短めのドキュメントをひとつ用意して、推奨する方法やグッドプラクティスなどを記す。
  プロジェクトの成長とともに、このガイドラインも成長させるべきだ。
  これは、新たに参加した人たちがチームの価値観や作業スタイルをすばやくつかむための助けになる。
@@ -299,7 +299,7 @@ Debianには、新しいメンテナ（Debian Developer）を受け入れるた�
  1. 将来あなたの作業を引き継ぐであろう人たちに向けたヒントを残すよう、常に意識しよう。
 
 #@# \section*{I wish I had known you were coming (before I quit)}
-== I wish I had known you were coming (before I quit)
+== 君がやってくることを（私が抜ける前に）知っておきたかった
 
 #@# I admit it is not very easy to think about your successors while you are
 #@# programming. Many times, you just do not realize that your code may end up being
