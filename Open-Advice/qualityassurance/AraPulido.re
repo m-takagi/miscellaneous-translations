@@ -13,7 +13,9 @@ Ara Pulido
 #@# really liked was testing the software. She is very interested in new testing
 #@# techniques and tries to apply her knowledge to make Ubuntu better.}
 //lead{
-Ara Pulido is a testing engineer working for Canonical, first as part of the Ubuntu QA team, and now as part of the Hardware Certification team. Although she started her career as a developer, she quickly found out that what she really liked was testing the software. She is very interested in new testing techniques and tries to apply her knowledge to make Ubuntu better.
+Ara PulidoはCanonicalで働くテスティングエンジニアである。最初はUbuntu QAチームに属していたが、今はHardware Certificationチームにいる。
+元は開発者だったが、程なく、自分はソフトウェアのテストが好きなのだということを知った。
+新しいテスティング技術に興味があり、自分の知識を活かしてUbuntuをよりよいものにしようと試みている。
 //}
 
 #@# \section*{Dogfooding Is Not Enough}
