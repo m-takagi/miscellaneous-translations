@@ -27,7 +27,10 @@ Ara PulidoはCanonicalで働くテスティングエンジニアである。最�
 #@# promote Free Software. But, since I left university, and until I started working
 #@# at Canonical, my professional career had been in the proprietary software
 #@# industry, first as a developer and after that as a tester.
-I have been involved with Free Software since my early days at university in Granada. There, with some friends, we founded the local Linux User Group and organized several activities to promote Free Software. But, since I left university, and until I started working at Canonical, my professional career had been in the proprietary software industry, first as a developer and after that as a tester.
+フリーソフトウェアの世界に関わり始めたのは、グラナダの大学に通っていたころだった。
+友達らとローカルのLinuxユーザーグループを作って、フリーソフトウェアを広めるためのイベントを開催したりもした。
+大学を卒業してからしばらく、Canonicalに入社するまでの間は、プロプライエタリなソフトウェア業界に属していた。
+最初は開発者として、そして後にはテスターとして。
 
 #@# When working in a proprietary software project, testing resources are very
 #@# limited. A small testing team continues the work that developers started with
