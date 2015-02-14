@@ -37,7 +37,9 @@ Ara PulidoはCanonicalで働くテスティングエンジニアである。最�
 #@# unit testing, using their expertise to find as many bugs as possible, to release
 #@# the product in good shape for end user consumption. In the Free Software world,
 #@# however, everything changes.
-When working in a proprietary software project, testing resources are very limited. A small testing team continues the work that developers started with unit testing, using their expertise to find as many bugs as possible, to release the product in good shape for end user consumption. In the Free Software world, however, everything changes.
+プロプライエタリなソフトウェアのプロジェクトで働いていたときには、テスティングに割かれるリソースは限られていた。
+開発者が単体テストをした後を小さなテスティングチームが引き継ぎ、その専門知識をもってできるだけ多くのバグを発見し、よりよいプロダクトに仕上げて、それをエンドユーザーに使ってもらうといった具合だ。
+でも、フリーソフトウェアの世界では、何もかもが違っていた。
 
 #@# When I was hired at Canonical, apart from fulfilling the dream of having a paid
 #@# job in a Free Software project, I was amazed by the possibilities that testing a
