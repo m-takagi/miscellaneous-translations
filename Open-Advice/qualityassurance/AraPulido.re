@@ -47,7 +47,11 @@ Ara PulidoはCanonicalで働くテスティングエンジニアである。最�
 #@# open, and users can access the software in the early stages, test it and file
 #@# bugs as they encounter them. For a person passionate about testing, this is a new
 #@# world with lots of new possibilities. I wanted to make the most of it.
-When I was hired at Canonical, apart from fulfilling the dream of having a paid job in a Free Software project, I was amazed by the possibilities that testing a Free Software project brought. The development of the product happens in the open, and users can access the software in the early stages, test it and file bugs as they encounter them. For a person passionate about testing, this is a new world with lots of new possibilities. I wanted to make the most of it.
+Canonicalに雇われたときには、フリーソフトウェアプロジェクトで食べていくという夢がかなっただけでなく、
+フリーソフトウェアプロジェクトのテスティングにおける可能性にも驚かされた。
+プロダクトの開発はオープンに進められ、ユーザーは初期の段階からそれを使うことができる。そしてバグを発見したら、それを登録してくれるのだ。
+テストに熱意を注ぐ人にとって、これはまったくの別世界だった。
+まさに夢のような世界だった。
 
 #@# As many people do, I thought that dogfooding, or using the software that you are
 #@# aiming to release, was the most important testing activity that we could do in
