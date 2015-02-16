@@ -58,7 +58,9 @@ Canonicalに雇われたときには、フリーソフトウェアプロジェ�
 #@# Free Software. But, if ``given enough eyeballs all the bugs are shallow'', (one of
 #@# the key lessons of Raymond's ``The Cathedral \& The Bazaar''), and Ubuntu had
 #@# millions of users, why were very important bugs still slipping into the release?
-As many people do, I thought that dogfooding, or using the software that you are aiming to release, was the most important testing activity that we could do in Free Software. But, if ``given enough eyeballs all the bugs are shallow'', (one of the key lessons of Raymond's ``The Cathedral \& The Bazaar''), and Ubuntu had millions of users, why were very important bugs still slipping into the release?
+多くの人たちと同様に私も、フリーソフトウェアにおけるテスティングで一番大事なのはドッグフーディング（リリース予定のソフトウェアを自分で使ってみること）だと思っていた。
+でも、「目玉の数さえ十分あれば、どんなバグも深刻ではない」（Raymondの「伽藍とバザール」より引用）と言われているのに、
+なぜ何百万ものユーザーがいるUbuntuのリリースに深刻なバグが紛れ込んでしまうのだろう？
 
 #@# First thing that I found when I started working at Canonical was that the
 #@# organized testing activities were very few or nonexistent. The only testing
