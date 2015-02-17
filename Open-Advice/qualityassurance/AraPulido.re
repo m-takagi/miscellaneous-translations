@@ -19,7 +19,7 @@ Ara PulidoはCanonicalで働くテスティングエンジニアである。最�
 //}
 
 #@# \section*{Dogfooding Is Not Enough}
-== Dogfooding Is Not Enough
+== ドッグフーディングだけではダメ
 
 #@# I have been involved with Free Software since my early days at university in
 #@# Granada. There, with some friends, we founded the local Linux User
@@ -72,7 +72,14 @@ Canonicalに雇われたときには、フリーソフトウェアプロジェ�
 #@# of people. Unfortunately, the really hard to spot but potentially critical bug,
 #@# if someone files it, is likely to remain unnoticed, due to the noise created by
 #@# the other hundreds of bugs.
-First thing that I found when I started working at Canonical was that the organized testing activities were very few or nonexistent. The only testing activities that were somehow organized were in the form of emails sent to a particular mailing list calling for testing a package in the development version of Ubuntu. I do not believe that this can be considered a proper testing activity, but just another form of dogfooding. This kind of testing generates a lot of duplicated bugs, as a really easy to spot bug will be filed by hundreds of people. Unfortunately, the really hard to spot but potentially critical bug, if someone files it, is likely to remain unnoticed, due to the noise created by the other hundreds of bugs.
+Canonicalで働くようになって最初に気づいたのは、体系的なテスティングがほとんど（まったくといっていいほど）行われていないということだった。
+かろうじて体系的になっているものがあるとすれば、
+Ubuntuの開発版に向けてのパッケージのテストを依頼するメールがメーリングリストに流れるくらいだった。
+私には、これがまともなテスティングだとは思えなかった。ドッグフーディングと何が違うというのだろう。
+こんな状態だと、バグ報告の重複など日常茶飯事だ。簡単に再現できるバグなら、何百人ものユーザーから報告を受けることになってしまう。
+残念なことに、こんな状態では、見つけづらいけれども重大であろうと思われるバグが見落とされてしまう。
+仮に誰かがそんなバグを登録したとしても、おそらくそのまま放置されてしまうだろう。
+その他大勢が登録する大量のノイズに埋もれてしまうからだ。
 
 #@# \section*{Looking better}
 == Looking better

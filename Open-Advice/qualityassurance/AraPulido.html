@@ -16,12 +16,12 @@
 <p>Ara PulidoはCanonicalで働くテスティングエンジニアである。最初はUbuntu QAチームに属していたが、今はHardware Certificationチームにいる。元は開発者だったが、程なく、自分はソフトウェアのテストが好きなのだということを知った。新しいテスティング技術に興味があり、自分の知識を活かしてUbuntuをよりよいものにしようと試みている。</p>
 </div>
 
-<h2><a id="h-1"></a>Dogfooding Is Not Enough</h2>
+<h2><a id="h-1"></a>ドッグフーディングだけではダメ</h2>
 <p>フリーソフトウェアの世界に関わり始めたのは、グラナダの大学に通っていたころだった。友達らとローカルのLinuxユーザーグループを作って、フリーソフトウェアを広めるためのイベントを開催したりもした。大学を卒業してからしばらく、Canonicalに入社するまでの間は、プロプライエタリなソフトウェア業界に属していた。最初は開発者として、そして後にはテスターとして。</p>
 <p>プロプライエタリなソフトウェアのプロジェクトで働いていたときには、テスティングに割かれるリソースは限られていた。開発者が単体テストをした後を小さなテスティングチームが引き継ぎ、その専門知識をもってできるだけ多くのバグを発見し、よりよいプロダクトに仕上げて、それをエンドユーザーに使ってもらうといった具合だ。でも、フリーソフトウェアの世界では、何もかもが違っていた。</p>
 <p>Canonicalに雇われたときには、フリーソフトウェアプロジェクトで食べていくという夢がかなっただけでなく、フリーソフトウェアプロジェクトのテスティングにおける可能性にも驚かされた。プロダクトの開発はオープンに進められ、ユーザーは初期の段階からそれを使うことができる。そしてバグを発見したら、それを登録してくれるのだ。テストに熱意を注ぐ人にとって、これはまったくの別世界だった。まさに夢のような世界だった。</p>
 <p>多くの人たちと同様に私も、フリーソフトウェアにおけるテスティングで一番大事なのはドッグフーディング（リリース予定のソフトウェアを自分で使ってみること）だと思っていた。でも、「目玉の数さえ十分あれば、どんなバグも深刻ではない」（Raymondの「伽藍とバザール」より引用）と言われているのに、なぜ何百万ものユーザーがいるUbuntuのリリースに深刻なバグが紛れ込んでしまうのだろう？</p>
-<p>First thing that I found when I started working at Canonical was that the organized testing activities were very few or nonexistent. The only testing activities that were somehow organized were in the form of emails sent to a particular mailing list calling for testing a package in the development version of Ubuntu. I do not believe that this can be considered a proper testing activity, but just another form of dogfooding. This kind of testing generates a lot of duplicated bugs, as a really easy to spot bug will be filed by hundreds of people. Unfortunately, the really hard to spot but potentially critical bug, if someone files it, is likely to remain unnoticed, due to the noise created by the other hundreds of bugs.</p>
+<p>Canonicalで働くようになって最初に気づいたのは、体系的なテスティングがほとんど（まったくといっていいほど）行われていないということだった。かろうじて体系的になっているものがあるとすれば、Ubuntuの開発版に向けてのパッケージのテストを依頼するメールがメーリングリストに流れるくらいだった。私には、これがまともなテスティングだとは思えなかった。ドッグフーディングと何が違うというのだろう。こんな状態だと、バグ報告の重複など日常茶飯事だ。簡単に再現できるバグなら、何百人ものユーザーから報告を受けることになってしまう。残念なことに、こんな状態では、見つけづらいけれども重大であろうと思われるバグが見落とされてしまう。仮に誰かがそんなバグを登録したとしても、おそらくそのまま放置されてしまうだろう。その他大勢が登録する大量のノイズに埋もれてしまうからだ。</p>
 
 <h2><a id="h-2"></a>Looking better</h2>
 <p>Is this situation improving? Are we getting better at testing in Free Software projects? Yes, I really believe so.</p>
