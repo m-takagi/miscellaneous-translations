@@ -86,7 +86,9 @@ Ubuntuの開発版に向けてのパッケージのテストを依頼するメ�
 
 #@# Is this situation improving? Are we getting better at testing in Free Software projects?
 #@# Yes, I really believe so.
-Is this situation improving? Are we getting better at testing in Free Software projects? Yes, I really believe so.
+そんな状況は改善されただろうか？
+フリーソフトウェアのプロジェクトにおけるテスティング環境は、よりよくなっているだろうか？
+イエス。確かに前よりはよくなっているはずだ。
 
 #@# During the latest Ubuntu development cycles we have started several organized
 #@# testing activities. The range of topics for these activities is wide, including
