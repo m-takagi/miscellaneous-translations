@@ -97,7 +97,11 @@ Ubuntuの開発版に向けてのパッケージのテストを依頼するメ�
 #@# they prove to be really useful for developers, as they are able to know if the
 #@# new features are working correctly, instead of guessing that they work correctly
 #@# because of the absence of bugs.
-During the latest Ubuntu development cycles we have started several organized testing activities. The range of topics for these activities is wide, including areas like new desktop features, regression testing, X.org drivers testing or laptop hardware testing. The results of these activities are always tracked, and they prove to be really useful for developers, as they are able to know if the new features are working correctly, instead of guessing that they work correctly because of the absence of bugs.
+最新のUbuntu開発サイクルにおいて、体系的なテスティングを行いはじめた。
+扱う範囲は幅広い。デスクトップの新機能のテストや回帰テスト、X.orgのドライバのテストやラップトップのハードウェアのテストなども含む。
+そして、それらの結果は常に記録されており、開発者にとっても役立つものであることが証明されている。
+「バグが見つかっていないから、おそらくうまく動いているのだろう」ではなく、
+新しい機能がきちんと動いているかどうかをきちんと確認できるからである。
 
 #@# Regarding tools that help testing, many improvements have been made:
 Regarding tools that help testing, many improvements have been made:
