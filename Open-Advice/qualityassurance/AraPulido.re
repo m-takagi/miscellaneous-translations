@@ -104,7 +104,7 @@ Ubuntuの開発版に向けてのパッケージのテストを依頼するメ�
 新しい機能がきちんと動いているかどうかをきちんと確認できるからである。
 
 #@# Regarding tools that help testing, many improvements have been made:
-Regarding tools that help testing, many improvements have been made:
+テストを支援するツールに関しては、さまざまな改善が見られる。
 
 #@# \begin{itemize}
 #@#  \item Apport\footnote{\url{http://wiki.ubuntu.com/Apport}} has contributed to
@@ -125,10 +125,16 @@ Regarding tools that help testing, many improvements have been made:
 #@# allowing developers to have a very quick way to check that there have not been
 #@# any major regressions during the development.
 #@# \end{itemize}
- * Apport@<fn>{apport} has contributed to increase the level of detail of the bugs reported against Ubuntu: crashers include all the debugging information and their duplicates are found and marked as such; people can report bugs based on symptoms, etc.
- * Launchpad@<fn>{launchpad}, with its upstream connections, has allowed having a full view of the bugs, knowing that bugs happening in Ubuntu are usually bugs in the upstream projects, and allowing developers to know if the bugs are being solved there.
- * Firefox, with its Test Pilot extension and program, drives the testing without having to leave the browser@<fn>{testpilot}. This is, I believe, a much better way to reach testers than a mailing list or an IRC channel.
- * The Ubuntu QA team is testing the desktop in an automated fashion and reporting results every week@<fn>{ubuntu}, allowing developers to have a very quick way to check that there have not been any major regressions during the development.
+ * Apport@<fn>{apport}は、Ubuntuに関するバグ報告をより詳細なレベルに持ち込む助けとなった。
+ クラッシャーにはあらゆるデバッグ情報が含まれており、重複があれば検出してくれる。
+ また、あやしい兆候にもとづいたバグ報告もできる。
+ * Launchpad@<fn>{launchpad}はアップストリームともつながっており、バグの全貌を知ることができる。
+ Ubuntuで発生したバグがアップストリームのプロジェクトに起因するものであればそれがわかり、
+ そのバグがアップストリームで解決すべきものであると開発者が判断できるようになる。
+ * FirefoxとTest Pilot拡張は、ブラウザから離れることなくテストを実行できる@<fn>{testpilot}。
+ メーリングリストやIRCに頼るよりは、ずっと多くのテスターを集められる方法だと思う。
+ * Ubuntu QAチームはデスクトップのテストを自動化しており、その結果は毎週報告される@<fn>{ubuntu}。
+ 開発者はこれをチェックすれば、大きな手戻りが発生したとしてもすぐに気づける。
 
 //footnote[apport][@<href>{http://wiki.ubuntu.com/Apport}]
 //footnote[launchpad][@<href>{http://launchpad.net}]
@@ -137,7 +143,7 @@ Regarding tools that help testing, many improvements have been made:
 
 #@# Although testing in Free Software projects is getting better, there is still a lot to be
 #@# done.
-Although testing in Free Software projects is getting better, there is still a lot to be done.
+このように、フリーソフトウェアのプロジェクトにおけるテスト環境はよくなりつつあるが、まだまだやるべきことは多い。
 
 #@# \section*{Looking ahead}
 == Looking ahead

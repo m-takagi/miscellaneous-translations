@@ -26,18 +26,18 @@
 <h2><a id="h-2"></a>Looking better</h2>
 <p>そんな状況は改善されただろうか？フリーソフトウェアのプロジェクトにおけるテスティング環境は、よりよくなっているだろうか？イエス。確かに前よりはよくなっているはずだ。</p>
 <p>最新のUbuntu開発サイクルにおいて、体系的なテスティングを行いはじめた。扱う範囲は幅広い。デスクトップの新機能のテストや回帰テスト、X.orgのドライバのテストやラップトップのハードウェアのテストなども含む。そして、それらの結果は常に記録されており、開発者にとっても役立つものであることが証明されている。「バグが見つかっていないから、おそらくうまく動いているのだろう」ではなく、新しい機能がきちんと動いているかどうかをきちんと確認できるからである。</p>
-<p>Regarding tools that help testing, many improvements have been made:</p>
+<p>テストを支援するツールに関しては、さまざまな改善が見られる。</p>
 <ul>
-<li>Apport<a id="fnb-apport" href="#fn-apport" class="noteref">*1</a> has contributed to increase the level of detail of the bugs reported against Ubuntu: crashers include all the debugging information and their duplicates are found and marked as such; people can report bugs based on symptoms, etc.</li>
-<li>Launchpad<a id="fnb-launchpad" href="#fn-launchpad" class="noteref">*2</a>, with its upstream connections, has allowed having a full view of the bugs, knowing that bugs happening in Ubuntu are usually bugs in the upstream projects, and allowing developers to know if the bugs are being solved there.</li>
-<li>Firefox, with its Test Pilot extension and program, drives the testing without having to leave the browser<a id="fnb-testpilot" href="#fn-testpilot" class="noteref">*3</a>. This is, I believe, a much better way to reach testers than a mailing list or an IRC channel.</li>
-<li>The Ubuntu QA team is testing the desktop in an automated fashion and reporting results every week<a id="fnb-ubuntu" href="#fn-ubuntu" class="noteref">*4</a>, allowing developers to have a very quick way to check that there have not been any major regressions during the development.</li>
+<li>Apport<a id="fnb-apport" href="#fn-apport" class="noteref">*1</a>は、Ubuntuに関するバグ報告をより詳細なレベルに持ち込む助けとなった。クラッシャーにはあらゆるデバッグ情報が含まれており、重複があれば検出してくれる。また、あやしい兆候にもとづいたバグ報告もできる。</li>
+<li>Launchpad<a id="fnb-launchpad" href="#fn-launchpad" class="noteref">*2</a>はアップストリームともつながっており、バグの全貌を知ることができる。Ubuntuで発生したバグがアップストリームのプロジェクトに起因するものであればそれがわかり、そのバグがアップストリームで解決すべきものであると開発者が判断できるようになる。</li>
+<li>FirefoxとTest Pilot拡張は、ブラウザから離れることなくテストを実行できる<a id="fnb-testpilot" href="#fn-testpilot" class="noteref">*3</a>。メーリングリストやIRCに頼るよりは、ずっと多くのテスターを集められる方法だと思う。</li>
+<li>Ubuntu QAチームはデスクトップのテストを自動化しており、その結果は毎週報告される<a id="fnb-ubuntu" href="#fn-ubuntu" class="noteref">*4</a>。開発者はこれをチェックすれば、大きな手戻りが発生したとしてもすぐに気づける。</li>
 </ul>
 <div class="footnote" id="fn-apport"><p class="footnote">[<a href="#fnb-apport">*1</a>] <a href="http://wiki.ubuntu.com/Apport" class="link">http://wiki.ubuntu.com/Apport</a></p></div>
 <div class="footnote" id="fn-launchpad"><p class="footnote">[<a href="#fnb-launchpad">*2</a>] <a href="http://launchpad.net" class="link">http://launchpad.net</a></p></div>
 <div class="footnote" id="fn-testpilot"><p class="footnote">[<a href="#fnb-testpilot">*3</a>] <a href="http://testpilot.mozillalabs.com" class="link">http://testpilot.mozillalabs.com</a></p></div>
 <div class="footnote" id="fn-ubuntu"><p class="footnote">[<a href="#fnb-ubuntu">*4</a>] <a href="http://reports.qa.ubuntu.com/reports/desktop-testing/natty" class="link">http://reports.qa.ubuntu.com/reports/desktop-testing/natty</a></p></div>
-<p>Although testing in Free Software projects is getting better, there is still a lot to be done.</p>
+<p>このように、フリーソフトウェアのプロジェクトにおけるテスト環境はよくなりつつあるが、まだまだやるべきことは多い。</p>
 
 <h2><a id="h-3"></a>Looking ahead</h2>
 <p>Testing is a skilled activity that requires lots of expertise, but in the Free Software community is still seen as an activity that does not require much effort. One of the reasons could be that the way we do testing is still very old-fashioned and does not reflect the increase of complexity in the Free Software world in the last decade. How can it be possible that with the amount of innovation that we are generating in Free Software communities, testing is still done like it was in the 80s? Let's face it, fixed testcases are boring and get easily outdated. How are we going to grow a testing community, who is supposed to find meaningful bugs if their main required activity is updating testcases?</p>
