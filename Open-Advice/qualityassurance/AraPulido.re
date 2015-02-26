@@ -157,7 +157,11 @@ Ubuntuの開発版に向けてのパッケージのテストを依頼するメ�
 #@# the 80s? Let's face it, fixed testcases are boring and get easily outdated. How
 #@# are we going to grow a testing community, who is supposed to find meaningful
 #@# bugs if their main required activity is updating testcases?
-Testing is a skilled activity that requires lots of expertise, but in the Free Software community is still seen as an activity that does not require much effort. One of the reasons could be that the way we do testing is still very old-fashioned and does not reflect the increase of complexity in the Free Software world in the last decade. How can it be possible that with the amount of innovation that we are generating in Free Software communities, testing is still done like it was in the 80s? Let's face it, fixed testcases are boring and get easily outdated. How are we going to grow a testing community, who is supposed to find meaningful bugs if their main required activity is updating testcases?
+テスティングは特殊な技能を要する作業で、専門知識も必要とするものだ。なのに、フリーソフトウェアのコミュニティにおけるテスティングには、それほど労力が割かれていない。
+その理由のひとつは、いまだに昔ながらのやりかたでテストを進めていて、最近のフリーソフトウェア界の複雑性を反映できていないという点だろう。
+フリーソフトウェアのコミュニティは、これまでに多くのイノベーションを引き起こしてきた。なのに、テストだけが未だに80年代のやりかたを引きずっているなんて、あり得ないのではないだろうか？
+振り返ってみよう。テストケースを用意するのは面倒だし、用意したテストケースもすぐに古くなって使えなくなってしまう。
+テストケースを日々更新し続けるだけのお仕事だと知ったら、テストのコミュニティはとても成長しないだろうし、誰も有用なバグを見つけてくれなくなる。
 
 #@# But, how do we improve testing? Of course, we cannot completely get rid of
 #@# testcases, but we need to change the way we create and maintain them. Our
