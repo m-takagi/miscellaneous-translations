@@ -171,7 +171,14 @@ Ubuntuの開発版に向けてのパッケージのテストを依頼するメ�
 #@# properties it should have, for example, ``Shortcuts in the launcher can be
 #@# rearranged'' or ``Starting up LibreOffice is fast''. Testers will figure out how
 #@# to do it, and will create their testcases as they test.
-But, how do we improve testing? Of course, we cannot completely get rid of testcases, but we need to change the way we create and maintain them. Our testers and users are intelligent, so, why create step-by-step scripts? Those could easily get replaced by an automated testing tool. Instead of that, let's just have a list of activities you perform with the application and some properties it should have, for example, ``Shortcuts in the launcher can be rearranged'' or ``Starting up LibreOffice is fast''. Testers will figure out how to do it, and will create their testcases as they test.
+そんな状況を改善するには、いったいどうすればいいのだろう？
+今あるテストケースを一掃してしまうなんてことは、もちろんできない。
+でも、テストケースを新しく作ったり、既存のテストケースに手を加えたりする方法は、変える必要がある。
+テスターもユーザーもバカじゃない。ひとつひとつ進めていくようなスクリプトなんか、いらないだろう。
+そんなスクリプトは、テスト自動化ツールを使って簡単に置き換えられる。
+そんなスクリプトを作るのではなく、アプリケーションやその特徴に関して行う作業の一覧を作ろう。たとえば
+「ランチャー内のショートカットを並べ替えることができる」や「LibreOfficeをすばやく起動できる」といったものだ。
+どのようにテストするかはテスターが考えて、テスター自身がテストケースを用意する。
 
 #@# But this is not enough, we need better tools to help testers know what to test,
 #@# when and how.  What about having an API to allow developers to send messages to
