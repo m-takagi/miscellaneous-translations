@@ -192,7 +192,15 @@ Ubuntuの開発版に向けてのパッケージのテストを依頼するメ�
 #@# all this information without leaving the same desktop that I am testing. This is
 #@# something that Firefox has started with Test Pilot, although they are currently
 #@# mainly gathering browser activity.
-But this is not enough, we need better tools to help testers know what to test, when and how.  What about having an API to allow developers to send messages to testers about updates or new features that need testing? What about an application that tell us what part of our system needs testing based on testing activity? In the case of Ubuntu we have the data in Launchpad (we would need testing data as well, but at least we have bug data). If I want to start a testing session against a particular component I would love to have the areas that have not been tested yet and a list of the five bugs with more duplicates for that particular version, so I avoid filing those again. I would love to have all this information without leaving the same desktop that I am testing. This is something that Firefox has started with Test Pilot, although they are currently mainly gathering browser activity.
+でも、それだけでは不十分だ。いつ、何を、どうやってテストするのかをテスターが知ることができるような、もっとすぐれたツールが必要だ。
+開発者からテスターに向けて、テストすべき変更点や新機能を伝えられるようなAPIを用意するというのはどうだろう？
+これまでのテスト作業を元に、システムの一部にテストが必要となったときにアプリケーションが通知してくれるというのはどうだろう？
+Ubuntuなら、データはLaunchpadに詰まっている（テスト作業のデータも必要だが、少なくともバグのデータは既に持っている）。
+何かのコンポーネントのテストセッションを始めようとしたときに、
+まだテストしていない範囲がわかったり、特定のバージョンで多く報告されているバグの上位5件がわかったりしたら、どんなに助かることだろう。
+そうすれば、誰かが報告済みのバグを改めて報告してしまわずに済ませられる。
+そういった情報を、テスト中のデスクトップから離れずに入手できるようにしたい。
+FirefoxがTest Pilotで始めたのはまさにそういったことだが、今のところそれはブラウザの動きを収集することに特化している。
 
 #@# Communication between downstream and upstream and vice-versa also needs to get
 #@# better. During the development of a distribution, many of the upstream versions
