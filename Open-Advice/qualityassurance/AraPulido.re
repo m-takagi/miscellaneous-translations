@@ -211,7 +211,11 @@ FirefoxがTest Pilotで始めたのはまさにそういったことだが、今
 #@# bugs automatically filed and connected to the upstream bugs. Again, all of this
 #@# information should be easily available to the tester, without leaving the
 #@# desktop.
-Communication between downstream and upstream and vice-versa also needs to get better. During the development of a distribution, many of the upstream versions are also under development, and they already have a list of known bugs. If I am a tester of Firefox through Ubuntu, I would love to have a list of known bugs as soon as the new package gets to the archive. This could be done by having an acknowledged syntax for release notes, that could then get easily parsed and bugs automatically filed and connected to the upstream bugs. Again, all of this information should be easily available to the tester, without leaving the desktop.
+アップストリームとのコミュニケーションも、よりよくする必要がある。
+ディストリビューションの開発中にも、アップストリームの多くは開発が進んでいる。アップストリーム側でも、既知のバグの一覧を持っているだろう。
+仮に私がUbuntu用にFirefoxのテストをしているとしたら、新しいパッケージがアーカイブに入ったらすぐに、既知のバグの一覧も欲しいものだ。
+これは、リリースノートの書式を活用すれば実現できる。リリースノートをパースしてバグを自動的に登録し、それをアップストリームのバグと関連付けるのは容易なことだ。
+もちろん、そういった情報はテスターが作業中のデスクトップからも簡単にアクセスできる必要がある。
 
 #@# Testing, if done this way, would allow the tester to concentrate on the things
 #@# that really matter and that make testing a skilled activity; concentrate on the
