@@ -222,7 +222,9 @@ FirefoxがTest Pilotで始めたのはまさにそういったことだが、今
 #@# hidden bugs that have not been found yet, on the special configurations and
 #@# environments, on generating new ways to break the software. And, ultimately, on
 #@# having fun while testing.
-Testing, if done this way, would allow the tester to concentrate on the things that really matter and that make testing a skilled activity; concentrate on the hidden bugs that have not been found yet, on the special configurations and environments, on generating new ways to break the software. And, ultimately, on having fun while testing.
+これが実現できれば、テスターは注目すべきものに集中できるようになり、熟練者の腕の見せ所になる。
+まだ見つかっていない、特別な環境や設定で発生するようなバグを見つけたり、ソフトウェアに不具合を起こさせる新たな方法を見つけたりできるだろう。
+そして、テスト作業そのものが楽しいものになる。
 
 #@# \section*{Wrapping up}
 == Wrapping up
