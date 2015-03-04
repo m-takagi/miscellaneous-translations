@@ -237,4 +237,10 @@ FirefoxがTest Pilotで始めたのはまさにそういったことだが、今
 #@# century testing techniques. We need to react. Free Software is good because it is
 #@# open source is not enough anymore. Free Software will be good because it is open
 #@# source and has the best quality that we can offer.
-From what I have seen in the latest three years, testing has improved a lot in Ubuntu and the rest of Free Software projects that I am somehow involved with, but this is not enough. If we really want to increase the quality Free Software we need to start investing in testing and innovating the ways we do it, the same way we invest in development. We cannot test 21st century software with 20th century testing techniques. We need to react. Free Software is good because it is open source is not enough anymore. Free Software will be good because it is open source and has the best quality that we can offer.
+この三年を振り返ってみると、Ubuntuやその他私がかかわってきたフリーソフトウェアプロジェクトにおけるテスティング環境はかなり改善されてきた。
+しかし、まだまだ足りない。
+本当にフリーソフトウェアの品質を向上させたいのなら、テスティングに対してもっと投資する必要がある。開発に対して投資するのと同じことだ。
+21世紀のソフトウェアを、前世紀のテスト方法でテストするなんてあり得ない。
+なんとかすべきだ。
+フリーソフトウェアが優れているのは、単にそれがオープンソースであるからというだけではない。
+フリーソフトウェアが優れているのは、オープンソースであり、かつ高い品質を保っているからである。
