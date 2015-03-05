@@ -227,7 +227,7 @@ FirefoxがTest Pilotで始めたのはまさにそういったことだが、今
 そして、テスト作業そのものが楽しいものになる。
 
 #@# \section*{Wrapping up}
-== Wrapping up
+== まとめ
 
 #@# From what I have seen in the latest three years, testing has improved a lot in
 #@# Ubuntu and the rest of Free Software projects that I am somehow involved with, but this
