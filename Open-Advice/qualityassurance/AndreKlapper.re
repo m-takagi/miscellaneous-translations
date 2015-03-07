@@ -11,7 +11,9 @@ Andre Klapper
 #@# while sleeping he works on random things in GNOME (bugsquad, release team,
 #@# translation, documentation, etc) or Maemo, or studies, or eats ice cream.}
 //lead{
-In real life, Andre Klapper is a bugmaster. During lunch break or while sleeping he works on random things in GNOME (bugsquad, release team, translation, documentation, etc) or Maemo, or studies, or eats ice cream.
+現実世界でのAndre Klapperは、バグマスターだ。
+昼休み中や寝ているときは、GNOME（バグスクアッド、リリースチーム、翻訳、ドキュメンテーションなど）
+やMaemoに関するあれこれの作業をしたり、勉強したり、アイスクリームを食べたりしている。
 //}
 
 #@# \noindent{}At the very beginning I only had one question: How can I print a part of the
