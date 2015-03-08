@@ -19,12 +19,14 @@ Andre Klapper
 #@# \noindent{}At the very beginning I only had one question: How can I print a part of the
 #@# email which I received in Gnome's email client Evolution? I asked on the
 #@# corresponding mailing list.
-At the very beginning I only had one question: How can I print a part of the email which I received in Gnome's email client Evolution? I asked on the corresponding mailing list.
+そもそものはじまりは「GnomeのメールクライアントであるEvolutionで、
+受信メールの一部を印刷するにはどうしたらいいのだろう？」というたったひとつの疑問だった。
+私はそれを、メーリングリストで質問した。
 
 #@# I had switched to Linux exactly one year ago, out of frustration that I
 #@# could not make my modem work after reinstalling a proprietary operating system
 #@# that was popular around that time.
-I had switched to Linux exactly one year ago, out of frustration that I could not make my modem work after reinstalling a proprietary operating system that was popular around that time.
+私がLinuxを使い始めたのはちょうどその一年前。当時人気だったとあるプロプライエタリなOSを再インストールしたときに、モデムがうまく動かないことに嫌気がさしたのがきっかけだった。
 
 #@# The answer to my question was ``not possible''. Cool kids would have checked out
 #@# the code, compiled it, hacked it to make it act as wanted, and submitted a patch
