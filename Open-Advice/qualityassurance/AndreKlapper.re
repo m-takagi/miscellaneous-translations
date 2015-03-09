@@ -36,7 +36,14 @@ Andre Klapper
 #@# mentioned that the feature was in planning, and that a bug report had been filed
 #@# on my behalf (without mentioning where, but I did not care about that -- I was
 #@# happy that there were plans to fix my issue soon).
-The answer to my question was ``not possible''. Cool kids would have checked out the code, compiled it, hacked it to make it act as wanted, and submitted a patch attached to a bug report by then. Well, as you can guess I was not a cool kid. My programming skills are rather limited, so I stuck to a cumbersome printing workaround for the time being. The answer I received on the mailing list also mentioned that the feature was in planning, and that a bug report had been filed on my behalf (without mentioning where, but I did not care about that -- I was happy that there were plans to fix my issue soon).
+MLでの質問に対して返ってきた答えは「できない」だった。
+デキるやつだったら、コードをチェックアウトしてコンパイルして、望みどおりの動きになるようハックして、
+パッチつきのバグレポートを送ったところだろう。
+でも残念ながら、私はデキるやつじゃなかった。
+プログラミングもそんなに上手じゃなかったので、とりあえずそのときは、面倒くさいやりかたでなんとかしのいだ。
+MLでの回答には「その機能は今後実装する予定だから、バグレポートに登録しておいたよ」とも書かれていた
+（具体的にどこに登録したのかは教えてもらえなかったけど、そんなことはどうでもよかった。
+この問題が近々修正される予定だとわかっただけでも十分だった）。
 
 #@# It may just have been my laziness to have stayed subscribed to the mailing list.
 #@# Some folks mentioned the bug tracker from time to time, often as a direct
