@@ -55,7 +55,16 @@ MLでの回答には「その機能は今後実装する予定だから、バグ
 #@# (Calling this ``Project Management'' would be an euphemism - less than one
 #@# fourth of the issues that were planned to get fixed or implemented for a
 #@# specific release actually got fixed in the end.)
-It may just have been my laziness to have stayed subscribed to the mailing list. Some folks mentioned the bug tracker from time to time, often as a direct response to feature requests, so I took a look at it eventually. But bug trackers, especially Bugzilla, are strange tools with lots of complex options. An area you normally prefer to avoid unless you are a masochist. They contain many tickets describing bugs or feature requests by users and developers. It looked as if those reports were partially also used for planning priorities. (Calling this ``Project Management'' would be an euphemism - less than one fourth of the issues that were planned to get fixed or implemented for a specific release actually got fixed in the end.)
+しばらくの間は、MLだけにとどまり続けていた。
+しかし、バグトラッカーについての言及が目に付くことが多くなり、
+機能追加の要望に対しての返答にもそれが含まれることが多くなったので、結局はバグトラッカーも見てみることにした。
+バグトラッカー（Bugzilla）は、複雑なオプションだらけの奇妙なツールだった。
+できればかかわりたくない代物だった。
+ユーザーや開発者から挙げられたバグや機能追加要望を表すチケットが、大量に登録されていた。
+そして、それらの報告が、計画の優先順位を決める材料になっているかのようだった
+（これを「プロジェクト管理」と呼ぶのは少しお人よし過ぎるだろう。
+特定のリリースまでの修正予定あるいは実装予定とされた課題のうち、
+実際に達成されるのはその四分の一以下だった）。
 
 #@# What I found beside an interesting look at the issues of the software and the
 #@# popularity of certain requests were inconsistencies and some noise, like lots of
