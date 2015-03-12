@@ -74,7 +74,10 @@ MLでの回答には「その機能は今後実装する予定だから、バグ
 #@# random characteristics here, like organized, persistent or knowledgeable. Also
 #@# nice irony considering that my father always used to complain about my messy
 #@# room.
-What I found beside an interesting look at the issues of the software and the popularity of certain requests were inconsistencies and some noise, like lots of duplicates or bug reports missing enough information to get processed properly. I felt like cleaning up a bit by ``triaging'' the available bug reports. I do not know what this tells you about my mindset though -- add wrong buzzwords for random characteristics here, like organized, persistent or knowledgeable. Also nice irony considering that my father always used to complain about my messy room.
+What I found beside an interesting look at the issues of the software and the popularity of certain requests were inconsistencies and some noise, like lots of duplicates or bug reports missing enough information to get processed properly.
+I felt like cleaning up a bit by ``triaging'' the available bug reports.
+I do not know what this tells you about my mindset though -- add wrong buzzwords for random characteristics here, like organized, persistent or knowledgeable.
+Also nice irony considering that my father always used to complain about my messy room.
 
 #@# So back in those dial-up modem times I usually collected my questions and went
 #@# online to enter IRC once a day in order to shoot my questions at Evolution's
