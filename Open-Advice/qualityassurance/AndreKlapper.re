@@ -74,10 +74,13 @@ MLでの回答には「その機能は今後実装する予定だから、バグ
 #@# random characteristics here, like organized, persistent or knowledgeable. Also
 #@# nice irony considering that my father always used to complain about my messy
 #@# room.
-What I found beside an interesting look at the issues of the software and the popularity of certain requests were inconsistencies and some noise, like lots of duplicates or bug reports missing enough information to get processed properly.
-I felt like cleaning up a bit by ``triaging'' the available bug reports.
-I do not know what this tells you about my mindset though -- add wrong buzzwords for random characteristics here, like organized, persistent or knowledgeable.
-Also nice irony considering that my father always used to complain about my messy room.
+そこでは、そのソフトウェアに関する課題の一覧や、どの要求に人気があるのかが確認できた。
+ただ、矛盾やノイズも散見された。同じようなバグ報告が重複していたり、
+適切に処理するための情報が不足していたりするようなものだ。
+私はそれを何とかすべく、バグレポートを「トリアージ」することにした。
+この言葉でうまく意図が伝わるだろうか……。
+整理整頓したり、持続させたり、情報を捕足したりといったさまざまなことがらを、不適切なバズワードでまとめてしまっているかもしれない。
+散らかっている私の部屋を見た父が、よくこの言葉を使っていた。皮肉なものだ。
 
 #@# So back in those dial-up modem times I usually collected my questions and went
 #@# online to enter IRC once a day in order to shoot my questions at Evolution's
