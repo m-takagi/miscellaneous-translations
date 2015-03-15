@@ -88,7 +88,11 @@ MLでの回答には「その機能は今後実装する予定だから、バグ
 #@# If there was a triaging guide available at that time covering basic bug
 #@# management knowledge and explaining good practices and common pitfalls, I had
 #@# not heard about it.
-So back in those dial-up modem times I usually collected my questions and went online to enter IRC once a day in order to shoot my questions at Evolution's bugmaster who was always welcoming, patient and willing to share his experience. If there was a triaging guide available at that time covering basic bug management knowledge and explaining good practices and common pitfalls, I had not heard about it.
+当時はまだ、モデムでのダイヤルアップの時代だった。聞きたいことを事前にまとめてから、一日に一回だけオンラインになってIRCに接続する。
+そして、Evolutionのバグマスターに質問を投げかけた。彼はいつでも歓迎してくれて、自身の経験を伝えてくれた。
+もしかしたら、その当時にも、トリアージのための指針がどこかにあったのかもしれない。
+基本的なバグ管理の知識、おすすめの手法、陥りがちな罠などをまとめたものだ。
+ただ、当時の私には見つけられなかった。
 
 #@# The amount of open reports decreased by 20\% within a few months though that was
 #@# of course not just because of one person starting to triage some tickets.
