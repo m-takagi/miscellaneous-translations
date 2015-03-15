@@ -102,7 +102,11 @@ MLでの回答には「その機能は今後実装する予定だから、バグ
 #@# to some users' comments that had remained unanswered at that time. Open Source
 #@# is always welcoming to contributions once you have found your hook to
 #@# participate.
-The amount of open reports decreased by 20% within a few months though that was of course not just because of one person starting to triage some tickets. Obviously there was some work waiting to get picked up by somebody -- like decreasing the amount of open tickets for the developers so that they could better focus, discussing and setting some priorities with them, and responding to some users' comments that had remained unanswered at that time. Open Source is always welcoming to contributions once you have found your hook to participate.
+オープンなままのバグ報告の数は、数か月のうちに2割減となった。とはいっても、それがすべて、たったひとりがチケットをトリアージしたおかげだというわけではない。
+同じようなことを考えている人たちは他にもいて、誰かがそれに手を付けるのを待っていたのだ。
+オープンなチケットの数を減らして、開発者がより注目しやすく（そして優先順位付けをしやすく）したり、
+未回答のままになっているコメントに返事をしたりといったこともあった。
+もしあなたが何かやれそうなことを見つけたのなら、オープンソースの世界は常にそれを歓迎している。
 
 #@# Way later I realized that there is some documentation around to dive into. Luis
 #@# Villa - who might have been the first bugmaster ever -- wrote an essay called
