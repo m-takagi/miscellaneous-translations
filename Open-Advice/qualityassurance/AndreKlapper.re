@@ -116,7 +116,10 @@ MLでの回答には「その機能は今後実装する予定だから、バグ
 #@# meantime that helped newbies get involved in the community. Many Open Source
 #@# developers started their great Open Source careers by triaging bugs and gained
 #@# initial experience in software project management.
-Way later I realized that there is some documentation around to dive into. Luis Villa - who might have been the first bugmaster ever -- wrote an essay called ``Why Everyone Needs A Bugmaster''@<fn>{fn01}, and most Bugsquad teams in Open Source projects were publishing triaging guides in the meantime that helped newbies get involved in the community. Many Open Source developers started their great Open Source careers by triaging bugs and gained initial experience in software project management.
+後に、この件に関して読むべきドキュメントがあることを知った。
+おそらく史上初のバグマスターであろうLuis Villaが、「Why Everyone Needs A Bugmaster」@<fn>{fn01}というエッセイを書いていたのだ。
+そして、オープンソースプロジェクトのバグ対応チームの多くは、トリアージ用のガイドを公開していた。コミュニティに新たに参入する人たちの助けとなるものだ。
+オープンソースの開発者の多くは、まずバグのトリアージからはじめて、ソフトウェアプロジェクト管理の経験を積んでいくのだ。
 
 //footnote[fn01][@<href>{http://tieguy.org/talks-files/LCA-2005-paper-html/index.html}]
 
