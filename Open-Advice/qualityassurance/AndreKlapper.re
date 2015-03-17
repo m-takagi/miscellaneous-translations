@@ -130,7 +130,11 @@ MLでの回答には「その機能は今後実装する予定だから、バグ
 #@# scripts or Matěj Cepl's Jetpack extension called
 #@# ``bugzilla-triage-scripts''\footnote{\url{
 #@# https://fedorahosted.org/bugzilla-triage-scripts}}.
-Nowadays there are also tools which can save you a lot of time when it comes to the repetitive grunt work part of triaging. On the server side GNOME's ``stock answers'' extension provides common and frequently used comments to add to tickets via one click, and on the client side you can run your own Greasemonkey scripts or Matěj Cepl's Jetpack extension called ``bugzilla-triage-scripts''@<fn>{fn02}.
+最近は、トリアージにまつわる面倒な繰り返し作業の時間を節約してくれるツールもできている。
+サーバーサイドでは、GNOMEの「stock answers」エクステンションを使えば、
+頻出パターンのコメントをワンクリックでチケットに追加できる。
+クライアントサイドでは、Greasemonkeyスクリプトを走らせたり、Mat@<uchar>{011B}j CeplのJetpackエクステンション「bugzilla-triage-scripts」@<fn>{fn02}
+を使うこともできる。
 
 //footnote[fn02][@<href>{https://fedorahosted.org/bugzilla-triage-scripts}]
 
