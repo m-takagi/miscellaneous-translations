@@ -140,4 +140,8 @@ MLでの回答には「その機能は今後実装する予定だから、バグ
 
 #@# If you are an average or poor musician but still love music more than anything
 #@# else, you can stick around in the business as a journalist. Software development also has such niches apart from the default idea of writing code that can make you happy. You have to spend some time to find them but it is worth the efforts, experience and contacts, and with some luck and skills it might even earn you a living in your personal field of interest and keep you from ending up as a code monkey.
-If you are an average or poor musician but still love music more than anything else, you can stick around in the business as a journalist. Software development also has such niches apart from the default idea of writing code that can make you happy. You have to spend some time to find them but it is worth the efforts, experience and contacts, and with some luck and skills it might even earn you a living in your personal field of interest and keep you from ending up as a code monkey.
+音楽を何よりも愛しているけれどもミュージシャンとしての実力は人並み以下だという人でも、ジャーナリストとして業界に関わり続けることはできる。
+ソフトウェア業界でも同じだ。実際にコードを書く以外にも、できることはある。
+それを見つけるためにはある程度の時間を要するだろう。でも、それだけの価値はある。
+いくらかの運とスキルがあれば、自分の興味のある分野で生きていけるようになって、
+単なる職業プログラマーのままで終わらずに済むだろう。
