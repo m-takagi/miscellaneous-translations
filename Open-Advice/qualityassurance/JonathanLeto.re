@@ -2,14 +2,16 @@
 = Test-Driven Enlightenment
 
 //flushright{
-Jonathan ``Duke'' Leto
+Jonathan "Duke" Leto
 //}
 
 #@# \authorbio{Jonathan ``Duke'' Leto is a software developer, published mathematician,
 #@# Git ninja and avid bicyclist living in Portland, Oregon. He is a core
 #@# developer of Parrot Virtual Machine and founder of Leto Labs LLC.}
 //lead{
-Jonathan ``Duke'' Leto is a software developer, published mathematician, Git ninja and avid bicyclist living in Portland, Oregon. He is a core developer of Parrot Virtual Machine and founder of Leto Labs LLC.
+Jonathan "Duke" Letoはソフトウェア開発者であり、数学者としても活躍している。
+Git使いで自転車を愛する彼は、オレゴン州ポートランドで暮らしている。
+彼はParrot Virtual Machineのコア開発者であり、Leto Labs LLCの創業者でもある。
 //}
 
 #@# \noindent{}When I first got involved in Free and Open Source Software, I had no clue what
