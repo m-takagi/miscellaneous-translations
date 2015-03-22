@@ -18,7 +18,9 @@ Git使いで自転車を愛する彼は、オレゴン州ポートランドで�
 #@# tests were or why they were important. I had worked on some personal programming
 #@# projects before, but the first time I actually worked on a project with others,
 #@# i.e., got a commit bit, was Yacas, Yet Another Computer Algebra System, a computer algebra system similar to Mathematica.
-When I first got involved in Free and Open Source Software, I had no clue what tests were or why they were important. I had worked on some personal programming projects before, but the first time I actually worked on a project with others, i.e., got a commit bit, was Yacas, Yet Another Computer Algebra System, a computer algebra system similar to Mathematica.
+フリー／オープンソースソフトウェアにかかわりはじめたころは、テストとは何なのか、なぜそんなにも重要なのかが理解できなかった。
+それまではずっと、個人的なプログラミングだけを行っていたが、初めて他の人と共同で作業をするプロジェクトにかかわりはじめてコミット権を得たのは、
+Yacas（Yet Another Computer Algebra System）だった。これは、コンピュータによる代数システムで、Mathematicaに似たものだった。
 
 #@# At this stage in my journey, tests were an afterthought. My general
 #@# meta-algorithm was to hack on code $\rightarrow$ see if it works $\rightarrow$
