@@ -26,7 +26,10 @@ Yacas（Yet Another Computer Algebra System）だった。これは、コンピ�
 #@# meta-algorithm was to hack on code $\rightarrow$ see if it works $\rightarrow$
 #@# write a simple test to show it works (optional). If a test was challenging to
 #@# write, it most likely never got written.
-At this stage in my journey, tests were an afterthought. My general meta-algorithm was to hack on code $\rightarrow$ see if it works $\rightarrow$ write a simple test to show it works (optional). If a test was challenging to write, it most likely never got written.
+当時の私は、テストとは後から書くものだという認識だった。
+「コードをハックする→ちゃんと動くかどうかを確かめる→（気が向いたら、）動いていることを証明するためのちょっとしたテストを書く」
+こんな感じだったのだ。
+テストを書くのが難しそうだなと思ったら、さっさとあきらめた。
 
 #@# This is the first step in the path to Test-Driven Enlightenment. You know tests
 #@# are probably a good idea, but you have not seen the benefit of them clearly, so
