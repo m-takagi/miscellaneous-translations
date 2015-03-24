@@ -1,5 +1,5 @@
 #@# \chapterwithauthor{Jonathan ``Duke'' Leto}{Test-Driven Enlightenment}
-= Test-Driven Enlightenment
+= テスト駆動啓発
 
 //flushright{
 Jonathan "Duke" Leto
@@ -34,7 +34,8 @@ Yacas（Yet Another Computer Algebra System）だった。これは、コンピ�
 #@# This is the first step in the path to Test-Driven Enlightenment. You know tests
 #@# are probably a good idea, but you have not seen the benefit of them clearly, so
 #@# you only write tests occasionally.
-This is the first step in the path to Test-Driven Enlightenment. You know tests are probably a good idea, but you have not seen the benefit of them clearly, so you only write tests occasionally.
+これが、テスト駆動啓発への第一歩だ。
+おそらく、テストはよいものだということは気づいているだろう。でも、目に見えるメリットが得られないがゆえに、たまにしかテストを書かないということになってしまう。
 
 #@# If I could open up a wormhole and tell my younger self one piece of wisdom about
 #@# testing, it would be:
