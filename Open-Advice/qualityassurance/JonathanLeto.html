@@ -17,8 +17,8 @@
 <p>フリー／オープンソースソフトウェアにかかわりはじめたころは、テストとは何なのか、なぜそんなにも重要なのかが理解できなかった。それまではずっと、個人的なプログラミングだけを行っていたが、初めて他の人と共同で作業をするプロジェクトにかかわりはじめてコミット権を得たのは、Yacas（Yet Another Computer Algebra System）だった。これは、コンピュータによる代数システムで、Mathematicaに似たものだった。</p>
 <p>当時の私は、テストとは後から書くものだという認識だった。「コードをハックする→ちゃんと動くかどうかを確かめる→（気が向いたら、）動いていることを証明するためのちょっとしたテストを書く」こんな感じだったのだ。テストを書くのが難しそうだなと思ったら、さっさとあきらめた。</p>
 <p>これが、テスト駆動啓発への第一歩だ。おそらく、テストはよいものだということは気づいているだろう。でも、目に見えるメリットが得られないがゆえに、たまにしかテストを書かないということになってしまう。</p>
-<p>If I could open up a wormhole and tell my younger self one piece of wisdom about testing, it would be:</p>
-<blockquote><p>Some tests, in the long-run, are more important than the code they test.</p></blockquote>
+<p>ワームホールを抜けて若かりし頃の自分にアドバイスできるとしたら、きっとこう言うだろう。</p>
+<blockquote><p>テストって、長い目で見れば、時にはテストされる側のコードよりも大切なこともあるんだよ。</p></blockquote>
 <p>A few people right about now may be thinking that I put on my tinfoil testing hat when I sit down to code. How can tests be \emph{more} important than the code they test? Tests are the proof that your code \emph{actually} works, and they guide you to writing correct code as well as providing the flexibility to change code and know that features still work. The larger your codebase becomes, the more valuable your tests are, because they allow you to change one part of your code and still be sure that the rest of it works.</p>
 <p>Another vital reason to write tests is because it indicates that something is explicitly desirable, rather than an unintended side-effect or oversight. If you have a specification, you can use tests to verify that you meet it, which is very valuable, and in some industries, necessary. A test is just like telling a story, where the story is how you think code should work.</p>
 <p>Code either changes and evolves or bitrots\footnote{The term ``bitrot'' is coder slang for the almost universal fact that if a piece of code does not change but everything it relies on does, it ``rots'' and usually has very little chance of working unless modifications are made to accommodate newer software and hardware.}.</p>

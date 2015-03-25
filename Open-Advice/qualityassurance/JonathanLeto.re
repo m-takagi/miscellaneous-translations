@@ -41,10 +41,10 @@ Yacas（Yet Another Computer Algebra System）だった。これは、コンピ�
 #@# testing, it would be:
 #@# \begin{quote}``Some tests, in the long-run, are more important than the code
 #@# they test.''\end{quote}
-If I could open up a wormhole and tell my younger self one piece of wisdom about testing, it would be:
+ワームホールを抜けて若かりし頃の自分にアドバイスできるとしたら、きっとこう言うだろう。
 
 //quote{
-Some tests, in the long-run, are more important than the code they test.
+テストって、長い目で見れば、時にはテストされる側のコードよりも大切なこともあるんだよ。
 //}
 
 #@# A few people right about now may be thinking that I put on my tinfoil testing
