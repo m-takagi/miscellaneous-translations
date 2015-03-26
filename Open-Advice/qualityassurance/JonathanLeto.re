@@ -54,7 +54,12 @@ Yacas（Yet Another Computer Algebra System）だった。これは、コンピ�
 #@# change code and know that features still work. The larger your codebase becomes,
 #@# the more valuable your tests are, because they allow you to change one part of
 #@# your code and still be sure that the rest of it works.
-A few people right about now may be thinking that I put on my tinfoil testing hat when I sit down to code. How can tests be \emph{more} important than the code they test? Tests are the proof that your code \emph{actually} works, and they guide you to writing correct code as well as providing the flexibility to change code and know that features still work. The larger your codebase becomes, the more valuable your tests are, because they allow you to change one part of your code and still be sure that the rest of it works.
+「この人、頭がおかしくなったんじゃないの？」と思った人もいるだろう。
+実際のコードよりも@<em>{テストのほうが重要だ}なんて、ありえないんじゃないの？
+テストというのは、あなたのコードが@<em>{実際に}動くことを証明するものだ。
+そして、テストがあれば、正しいコードを書く指針になるだけではなく、その機能を保ったままでコードを柔軟に変更できる助けにもなる。
+コードベースが巨大になればなるほど、テストの価値は上がる。
+コードの一部を変更したときにも、残りの部分がきちんと動いていることを確かめられるからだ。
 
 #@# Another vital reason to write tests is because it indicates that something is
 #@# explicitly desirable, rather than an unintended side-effect or oversight. If you
