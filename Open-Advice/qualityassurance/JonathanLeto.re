@@ -66,7 +66,10 @@ Yacas（Yet Another Computer Algebra System）だった。これは、コンピ�
 #@# have a specification, you can use tests to verify that you meet it, which is
 #@# very valuable, and in some industries, necessary. A test is just like telling a
 #@# story, where the story is how you think code should work.
-Another vital reason to write tests is because it indicates that something is explicitly desirable, rather than an unintended side-effect or oversight. If you have a specification, you can use tests to verify that you meet it, which is very valuable, and in some industries, necessary. A test is just like telling a story, where the story is how you think code should work.
+テストを書くべき重要な理由が、もうひとつある。
+テストがあれば、それが期待どおりに動いている（予期せぬ副作用や、見落としていたできごとが発生していない）ことを明確にできるのだ。
+テストを使えば、仕様を満たしているかどうかを検証できる。これは非常に有用だし、業界によっては必須になっているところもある。
+テストとは、「このコードはこう動くべき」という考えを書き記した物語のようなものだ。
 
 #@# Code either changes and evolves or bitrots\footnote{The term ``bitrot'' is coder
 #@# slang for the almost universal fact that if a piece of code does not change but
