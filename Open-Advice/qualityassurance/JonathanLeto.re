@@ -76,7 +76,9 @@ Yacas（Yet Another Computer Algebra System）だった。これは、コンピ�
 #@# everything it relies on does, it ``rots'' and usually has very little chance of
 #@# working unless modifications are made to accommodate newer software and
 #@# hardware.}.
-Code either changes and evolves or bitrots\footnote{The term ``bitrot'' is coder slang for the almost universal fact that if a piece of code does not change but everything it relies on does, it ``rots'' and usually has very little chance of working unless modifications are made to accommodate newer software and hardware.}.
+コードというものは、変更されて成長していくか、さもなければbitrot@<fn>{fn01}になってしまうかのいずれかだ。
+
+//footnote[fn01][「bitrot（ビットの腐敗）」というのはプログラマーのスラングだ。あるコード片には変更がないけれどもそれが依存する他のコードがすべて変更された場合、そのコード片は「腐敗」してしまい、たいていは、新しいソフトウェアやハードウェアに対応するための修正が必要になるという事実を指すものである。]
 
 #@# Very often, you will write tests once, but then totally refactor your
 #@# implementation or even rewrite it from scratch. Tests often outlive the code
