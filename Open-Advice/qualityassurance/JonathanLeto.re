@@ -85,7 +85,13 @@ Yacas（Yet Another Computer Algebra System）だった。これは、コンピ�
 #@# they originally tested, i.e., one set of tests can be used no matter how many
 #@# times your code is refactored. Tests are actually the litmus test that allows you to throw away an old implementation and say ``this newer implementation has a much better design and passes our test suite.'' I have seen this happen many
 #@# times in the Perl and Parrot communities, where you can often find me.
-Very often, you will write tests once, but then totally refactor your implementation or even rewrite it from scratch. Tests often outlive the code they originally tested, i.e., one set of tests can be used no matter how many times your code is refactored. Tests are actually the litmus test that allows you to throw away an old implementation and say ``this newer implementation has a much better design and passes our test suite.'' I have seen this happen many times in the Perl and Parrot communities, where you can often find me.
+テストを書いた後で、テスト対象の実装をリファクタリングしたり、ゼロから書き直したりすることもよくある。
+テスト対象のコードよりも、テストの寿命のほうが長い。つまり、コードを何度リファクタリングしようが、同じテスト群を使えるというわけだ。
+テストとは、リトマス試験のようなものだ。古い実装を投げ捨てても
+「この新しい実装のほうがずっときれいな設計だし、すべてのテストにパスしている」
+と言うことができる。
+PerlやParrotのコミュニティでは、そんなことがしょっちゅうある。
+そしてそこには常に私がいることを、知る人もいることだろう。
 
 #@# Tests allow you to change things quickly and know if something is broken. They
 #@# are like jet packs for developers.
