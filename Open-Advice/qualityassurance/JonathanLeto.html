@@ -24,7 +24,7 @@
 <p>コードというものは、変更されて成長していくか、さもなければbitrot<a id="fnb-fn01" href="#fn-fn01" class="noteref">*1</a>になってしまうかのいずれかだ。</p>
 <div class="footnote" id="fn-fn01"><p class="footnote">[<a href="#fnb-fn01">*1</a>] 「bitrot（ビットの腐敗）」というのはプログラマーのスラングだ。あるコード片には変更がないけれどもそれが依存する他のコードがすべて変更された場合、そのコード片は「腐敗」してしまい、たいていは、新しいソフトウェアやハードウェアに対応するための修正が必要になるという事実を指すものである。</p></div>
 <p>テストを書いた後で、テスト対象の実装をリファクタリングしたり、ゼロから書き直したりすることもよくある。テスト対象のコードよりも、テストの寿命のほうが長い。つまり、コードを何度リファクタリングしようが、同じテスト群を使えるというわけだ。テストとは、リトマス試験のようなものだ。古い実装を投げ捨てても「この新しい実装のほうがずっときれいな設計だし、すべてのテストにパスしている」と言うことができる。PerlやParrotのコミュニティでは、そんなことがしょっちゅうある。そしてそこには常に私がいることを、知る人もいることだろう。</p>
-<p>Tests allow you to change things quickly and know if something is broken. They are like jet packs for developers.</p>
+<p>テストがあればコードをすばやく変更できるし、どこかを壊してしまったとしてもすぐに気づける。開発者にとってのジェットパックのようなものだ。</p>
 <p>Carpenters have a bit of sage wisdom that goes like this:</p>
 <blockquote><p>Measure twice, cut once.</p></blockquote>
 <p>Coding is like cutting and tests are like measuring.</p>

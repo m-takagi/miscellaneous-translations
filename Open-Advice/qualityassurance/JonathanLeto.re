@@ -95,7 +95,8 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 
 #@# Tests allow you to change things quickly and know if something is broken. They
 #@# are like jet packs for developers.
-Tests allow you to change things quickly and know if something is broken. They are like jet packs for developers.
+テストがあればコードをすばやく変更できるし、どこかを壊してしまったとしてもすぐに気づける。
+開発者にとってのジェットパックのようなものだ。
 
 #@# Carpenters have a bit of sage wisdom that goes like this:
 #@# \begin{quote}``Measure twice, cut once.''\end{quote}
