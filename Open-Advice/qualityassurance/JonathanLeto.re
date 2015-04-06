@@ -100,14 +100,14 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 
 #@# Carpenters have a bit of sage wisdom that goes like this:
 #@# \begin{quote}``Measure twice, cut once.''\end{quote}
-Carpenters have a bit of sage wisdom that goes like this:
+大工さんたちの間では、こんな格言が知られている。
 
 //quote{
-Measure twice, cut once.
+二回測って、一回で切れ。
 //}
 
 #@# Coding is like cutting and tests are like measuring.
-Coding is like cutting and tests are like measuring.
+コーディングが切る作業だとすれば、テストとは測ることだといえる。
 
 #@# Test-Driven Enlightenment saves an enormous amount of time, because instead of
 #@# flailing around, fiddling with code, not having a direction, tests hone your
