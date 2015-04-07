@@ -112,7 +112,8 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 #@# Test-Driven Enlightenment saves an enormous amount of time, because instead of
 #@# flailing around, fiddling with code, not having a direction, tests hone your
 #@# focus.
-Test-Driven Enlightenment saves an enormous amount of time, because instead of flailing around, fiddling with code, not having a direction, tests hone your focus.
+テスト駆動啓発（Test-Driven Enlightenment）は、時間をかなり節約してくれる。
+方針もないままにコードを引っ掻き回すのではなく、テストのおかげで集中すべきところが明確になるからだ。
 
 #@# Tests also are very good positive feedback. Every time you make a new test pass,
 #@# you know that your code is better and it has one more feature or one less bug.
