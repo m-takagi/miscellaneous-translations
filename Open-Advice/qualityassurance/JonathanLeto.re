@@ -117,7 +117,8 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 
 #@# Tests also are very good positive feedback. Every time you make a new test pass,
 #@# you know that your code is better and it has one more feature or one less bug.
-Tests also are very good positive feedback. Every time you make a new test pass, you know that your code is better and it has one more feature or one less bug.
+テストは、前向きなフィードバックとしてもすぐれている。
+新しいテストがパスするたびに、自分のコードがよりよくなっていることがわかるし、新しい機能が追加されたりバグが解決されたりしたこともわかる。
 
 #@# It is easy to think ``I want to add 50 features'' and spend all day fiddling
 #@# with code, constantly switching between working on different things. Most of the
