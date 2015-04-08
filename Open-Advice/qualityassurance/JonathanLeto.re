@@ -124,7 +124,9 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 #@# with code, constantly switching between working on different things. Most of the
 #@# time, very little will be accomplished. Test-Driven Enlightenment guides one to
 #@# focus on making one test pass at a time.
-It is easy to think ``I want to add 50 features'' and spend all day fiddling with code, constantly switching between working on different things. Most of the time, very little will be accomplished. Test-Driven Enlightenment guides one to focus on making one test pass at a time.
+「新機能を50ほど追加したい」と考えて一日中コードを引っ掻き回し、その間他の作業の割り込みも入りまくる。よくあることだ。
+たいていの場合、思っていたことはほとんど達成できない。
+テスト駆動で進めていけば、やるべきことにひとつひとつ集中していける。
 
 #@# If you have a single failing test, you are on a mission to make it pass. It focuses
 #@# your brain on something very specific, which very often has better results than
