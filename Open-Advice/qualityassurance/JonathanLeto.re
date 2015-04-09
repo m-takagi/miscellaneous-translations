@@ -131,7 +131,8 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 #@# If you have a single failing test, you are on a mission to make it pass. It focuses
 #@# your brain on something very specific, which very often has better results than
 #@# switching between tasks constantly.
-If you have a single failing test, you are on a mission to make it pass. It focuses your brain on something very specific, which very often has better results than switching between tasks constantly.
+失敗するテストがひとつあれば、そのテストを成功させるようにすることがミッションとなる。
+やるべきことが明確になるので、いろんなタスクを細々と切り替えながら作業するよりもずっとよい結果になるだろう。
 
 #@# Most information about being test-driven is very specific to a language or
 #@# situation, but that does not need to be the case. Here is how to approach
