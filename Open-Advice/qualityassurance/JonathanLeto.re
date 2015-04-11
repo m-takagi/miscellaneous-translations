@@ -137,7 +137,9 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 #@# Most information about being test-driven is very specific to a language or
 #@# situation, but that does not need to be the case. Here is how to approach
 #@# adding a new feature or fixing a bug in any language:
-Most information about being test-driven is very specific to a language or situation, but that does not need to be the case. Here is how to approach adding a new feature or fixing a bug in any language:
+テスト駆動に関する情報は、特定の言語や状況に依存したものであることがほとんどだ。
+でも、必ずしもそうである必要はない。
+言語にかかわらず、新機能を追加したりバグを修正したりするときの流れは、次のようになる。
 
 #@# \begin{enumerate}
 #@#  \item Write a test that fails, which you think will pass when the feature is
