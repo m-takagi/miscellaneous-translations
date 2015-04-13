@@ -151,10 +151,12 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 #@#  \item Run the test. If it passes, go to \#4, otherwise go to \#2.
 #@#  \item You are done! Do a happy dance :)
 #@# \end{enumerate}
- 1. Write a test that fails, which you think will pass when the feature is implemented or bug is fixed. Advanced: As you write the test, run it occasionally, even if it is not done yet, and guess the actual error message that the test will give. The more tests you write and run, the easier this will become.
- 1. Hack on the code.
- 1. Run the test. If it passes, go to \#4, otherwise go to \#2.
- 1. You are done! Do a happy dance :)
+ 1. テストを書く。このテストは、現時点では失敗するが、機能の実装やバグ修正が完了すれば成功するであろうものだ。
+ 応用：テストを書いた後は、まだ作業が完了していなくてもちょくちょく実行するといい。そして、そのテストがどんなエラーを出すかを予測してみよう。
+ テストを書いたり実行したりを繰り返せば繰り返すほど、その手間もかからなくなるだろう。
+ 1. コードをハックする。
+ 1. テストを実行する。成功した場合は4.に進む。それ以外の場合は2.に戻る。
+ 1. 完成！ 小躍りしよう^^;
 
 #@# This method works for any kind of test and any language. If you remember only one thing about testing from this essay, remember the steps above.
 This method works for any kind of test and any language. If you remember only one thing about testing from this essay, remember the steps above.
