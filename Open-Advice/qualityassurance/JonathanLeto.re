@@ -164,7 +164,7 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 
 #@# Here are some more general test-driven guidelines that will serve you well and
 #@# apply in almost any situation:
-Here are some more general test-driven guidelines that will serve you well and apply in almost any situation:
+もう少し一般的なテスト駆動開発の指針を示す。これは、ほぼすべての場面で適用できるものだ。
 
 #@# \begin{enumerate}
 #@#  \item Understand the difference between what is being tested and what is being
