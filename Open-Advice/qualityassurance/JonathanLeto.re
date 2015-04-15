@@ -159,7 +159,8 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
  1. 完成！ 小躍りしよう^^;
 
 #@# This method works for any kind of test and any language. If you remember only one thing about testing from this essay, remember the steps above.
-This method works for any kind of test and any language. If you remember only one thing about testing from this essay, remember the steps above.
+この流れは、どんな種類のテストであろうがどんなプログラミング言語であろうが、うまく機能する。
+このエッセイの中でたったひとつだけ覚えておくことがあるとすれば、この手順だ。
 
 #@# Here are some more general test-driven guidelines that will serve you well and
 #@# apply in almost any situation:
