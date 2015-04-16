@@ -175,8 +175,13 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 #@# runs your code on an operating system you have never heard of? The more resilient your test is,
 #@# the more valuable it will be.
 #@# \end{enumerate}
- 1. Understand the difference between what is being tested and what is being used as a tool to test something else.
- 1. Fragile tests. You could write a test that makes sure an error message is exactly correct. But what happens when the error message changes? What happens when someone internationalizes your code to Catalan? What happens when someone runs your code on an operating system you have never heard of? The more resilient your test is, the more valuable it will be.
+ 1. テストの対象となるコードと、別の何かをテストするための道具として使うコードの違いを理解する。
+ 1. 脆いテスト（Fragile test）。
+ エラーメッセージが正しく出力されるかどうかを確認するテストを書いたとしよう。
+ でも、もしエラーメッセージが変わったら、そのテストはどうなるだろう？
+ 誰かがそのコードを国際化して、カタロニア語にしてしまったらどうなるだろう？
+ 誰かがそのコードを、聞いたこともないようなOS上で実行させたとしたらどうなるだろう？
+ テストは柔軟であればあるほど価値がある。
 
 #@# Think about these things when you write tests. You want them to be resilient,
 #@# i.e., tests, for the most part, should only have to change when functionality

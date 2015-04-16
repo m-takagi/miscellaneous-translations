@@ -42,8 +42,8 @@
 <p>この流れは、どんな種類のテストであろうがどんなプログラミング言語であろうが、うまく機能する。このエッセイの中でたったひとつだけ覚えておくことがあるとすれば、この手順だ。</p>
 <p>もう少し一般的なテスト駆動開発の指針を示す。これは、ほぼすべての場面で適用できるものだ。</p>
 <ol>
-<li>Understand the difference between what is being tested and what is being used as a tool to test something else.</li>
-<li>Fragile tests. You could write a test that makes sure an error message is exactly correct. But what happens when the error message changes? What happens when someone internationalizes your code to Catalan? What happens when someone runs your code on an operating system you have never heard of? The more resilient your test is, the more valuable it will be.</li>
+<li>テストの対象となるコードと、別の何かをテストするための道具として使うコードの違いを理解する。</li>
+<li>脆いテスト（Fragile test）。エラーメッセージが正しく出力されるかどうかを確認するテストを書いたとしよう。でも、もしエラーメッセージが変わったら、そのテストはどうなるだろう？誰かがそのコードを国際化して、カタロニア語にしてしまったらどうなるだろう？誰かがそのコードを、聞いたこともないようなOS上で実行させたとしたらどうなるだろう？テストは柔軟であればあるほど価値がある。</li>
 </ol>
 <p>Think about these things when you write tests. You want them to be resilient, i.e., tests, for the most part, should only have to change when functionality changes. If you have to change your tests often, but functionality is not changing, you are doing something wrong.</p>
 
