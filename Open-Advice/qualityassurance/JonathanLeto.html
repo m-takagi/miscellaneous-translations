@@ -45,7 +45,7 @@
 <li>テストの対象となるコードと、別の何かをテストするための道具として使うコードの違いを理解する。</li>
 <li>脆いテスト（Fragile test）。エラーメッセージが正しく出力されるかどうかを確認するテストを書いたとしよう。でも、もしエラーメッセージが変わったら、そのテストはどうなるだろう？誰かがそのコードを国際化して、カタロニア語にしてしまったらどうなるだろう？誰かがそのコードを、聞いたこともないようなOS上で実行させたとしたらどうなるだろう？テストは柔軟であればあるほど価値がある。</li>
 </ol>
-<p>Think about these things when you write tests. You want them to be resilient, i.e., tests, for the most part, should only have to change when functionality changes. If you have to change your tests often, but functionality is not changing, you are doing something wrong.</p>
+<p>テストを書くときには、これらのことに意識しよう。テストには柔軟性を持たせたい。つまり、テストを変更するとすれば、それはテストする機能が変わったときだけであるようにしておきたい。テスト対象の機能は変わらないのに頻繁にテストを書き換える必要があるというのなら、何かが間違っている。</p>
 
 <h2><a id="h-1"></a>Kinds of tests</h2>
 <p>Many people start to get confused when people speak of integration tests, unit tests, acceptance tests and many other flavors of tests. One should not worry too much about these terms. The more tests you write, the more nuances you will see and the differences between tests will become more apparent. Everyone does not have the same definition for what these tests are, but the terms are still useful to describe kinds of tests.</p>

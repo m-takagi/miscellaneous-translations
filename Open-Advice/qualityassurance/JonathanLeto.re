@@ -187,7 +187,9 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 #@# i.e., tests, for the most part, should only have to change when functionality
 #@# changes. If you have to change your tests often, but functionality is not
 #@# changing, you are doing something wrong.
-Think about these things when you write tests. You want them to be resilient, i.e., tests, for the most part, should only have to change when functionality changes. If you have to change your tests often, but functionality is not changing, you are doing something wrong.
+テストを書くときには、これらのことに意識しよう。
+テストには柔軟性を持たせたい。つまり、テストを変更するとすれば、それはテストする機能が変わったときだけであるようにしておきたい。
+テスト対象の機能は変わらないのに頻繁にテストを書き換える必要があるというのなら、何かが間違っている。
 
 #@# \section*{Kinds of tests}
 == Kinds of tests
