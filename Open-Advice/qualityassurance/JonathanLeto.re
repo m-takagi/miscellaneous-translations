@@ -192,7 +192,7 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 テスト対象の機能は変わらないのに頻繁にテストを書き換える必要があるというのなら、何かが間違っている。
 
 #@# \section*{Kinds of tests}
-== Kinds of tests
+== テストの種類
 
 #@# Many people start to get confused when people speak of integration tests,
 #@# unit tests, acceptance tests and many other flavors of tests. One
@@ -200,7 +200,10 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 #@# nuances you will see and the differences between tests will become more
 #@# apparent. Everyone does not have the same definition for what these tests are,
 #@# but the terms are still useful to describe kinds of tests.
-Many people start to get confused when people speak of integration tests, unit tests, acceptance tests and many other flavors of tests. One should not worry too much about these terms. The more tests you write, the more nuances you will see and the differences between tests will become more apparent. Everyone does not have the same definition for what these tests are, but the terms are still useful to describe kinds of tests.
+インテグレーションテストだとかユニットテストだとか受け入れテストだとか、いろんなテストの話題が出てくると、混乱してしまう人も多いだろう。
+別に、そういった用語を怖がる必要はない。
+テストをたくさん書いているうちに、これらのニュアンスの違いも何となくわかってくることだろう。
+これらのテストの用語について、明確な定義があるわけではない。でも、テストの種類を説明するための用語としては便利なものだ。
 
 #@# \section*{Unit tests vs. integration tests}
 == Unit tests vs. integration tests
