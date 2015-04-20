@@ -206,14 +206,16 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 これらのテストの用語について、明確な定義があるわけではない。でも、テストの種類を説明するための用語としては便利なものだ。
 
 #@# \section*{Unit tests vs. integration tests}
-== Unit tests vs. integration tests
+== ユニットテストとインテグレーションテスト
 
 #@# Unit tests and integration tests form a spectrum. Unit tests test small bits of
 #@# code, and integration tests verify how more than one unit fits together. The test
 #@# writer gets to decide what comprises a unit, but most often it is at the level
 #@# of a function or method, although some languages call those things by different
 #@# names.
-Unit tests and integration tests form a spectrum. Unit tests test small bits of code, and integration tests verify how more than one unit fits together. The test writer gets to decide what comprises a unit, but most often it is at the level of a function or method, although some languages call those things by different names.
+ユニットテストとインテグレーションテストが、テストの両極となる。
+ユニットテストは小さなコード片をテストする。一方インテグレーションテストでは、複数のユニットがきちんと組み合わさるかどうかを検証擦る。
+ユニットを構成する単位はテストの作者が定めることができる。しかし、たいていの場合は、関数やメソッド（言語によっては別の呼び名があるかもしれない）のレベルに落ち着くだろう。
 
 #@# To make this a little more concrete, we will give a basic analogy using
 #@# functions. Imagine that $f(x)$ and $g(x)$ are two functions which represent two units of code. For
