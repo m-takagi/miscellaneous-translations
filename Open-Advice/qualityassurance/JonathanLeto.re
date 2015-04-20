@@ -214,7 +214,7 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 #@# of a function or method, although some languages call those things by different
 #@# names.
 ユニットテストとインテグレーションテストが、テストの両極となる。
-ユニットテストは小さなコード片をテストする。一方インテグレーションテストでは、複数のユニットがきちんと組み合わさるかどうかを検証擦る。
+ユニットテストは小さなコード片をテストする。一方インテグレーションテストでは、複数のユニットがきちんと組み合わさるかどうかを検証する。
 ユニットを構成する単位はテストの作者が定めることができる。しかし、たいていの場合は、関数やメソッド（言語によっては別の呼び名があるかもしれない）のレベルに落ち着くだろう。
 
 #@# To make this a little more concrete, we will give a basic analogy using
