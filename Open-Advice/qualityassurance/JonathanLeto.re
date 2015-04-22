@@ -221,7 +221,9 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 #@# functions. Imagine that $f(x)$ and $g(x)$ are two functions which represent two units of code. For
 #@# concreteness, let's assume they represent two specific functions in your
 #@# favorite Free/Open Source project's codebase.
-To make this a little more concrete, we will give a basic analogy using functions. Imagine that $f(x)$ and $g(x)$ are two functions which represent two units of code. For concreteness, let's assume they represent two specific functions in your favorite Free/Open Source project's codebase.
+具体例として、関数を使ったアナロジーを考えてみよう。
+ふたつの関数f(x)とg(x)があって、これらがそれぞれひとまとまりのコードを表しているものとする。
+より具体的にするには、お気に入りのフリー／オープンソースプロジェクトのコードから実際にふたつの関数を選んでみるといい。
 
 #@# An integration test asserts something like function composition, i.e., $f(g(a)) =
 #@# b$. An integration test is testing how multiple
