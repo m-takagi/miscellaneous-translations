@@ -233,7 +233,13 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 #@# many parts work in unison. A great example of an integration test is test-driving a car.
 #@# You are not checking the air pressure, or measuring voltage of the spark plugs.
 #@# You are making sure the vehicle works as a whole.
-An integration test asserts something like function composition, i.e., $f(g(a)) = b$. An integration test is testing how multiple things integrate or work together, instead of how a single part works individually. If algebra isn't your thing, another way to look at it is unit tests only test one part of the machine at a time, but integration tests very many parts work in unison. A great example of an integration test is test-driving a car. You are not checking the air pressure, or measuring voltage of the spark plugs. You are making sure the vehicle works as a whole.
+インテグレーションテストとは、たとえば@<code>{f(g(a)) = b}のような関数の合成を検証するものだ。
+インテグレーションテストは複数のものごとがうまく統合できているかどうかを確かめるものであり、単独のパーツが個別に機能することを確かめるものではない。
+代数が苦手な人のために、別の見方で説明しよう。ユニットテストはマシンのパーツのひとつを単独でテストするもので、
+インテグレーションテストはさまざまなパーツがうまく協調していることをテストするものだ。
+インテグレーションテストの最たる例が、自動車のテスト走行だ。
+タイヤの空気圧をチェックしているわけでもなく、点火プラグの電圧を確かめているわけでもない。
+その車が全体として機能しているかどうかを確かめているわけだ。
 
 #@# Most of the time it is good to have both. I often start with unit tests and add
 #@# integration tests as needed, since you will weed out the most basic bugs first,
