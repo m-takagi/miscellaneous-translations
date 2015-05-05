@@ -247,7 +247,11 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 #@# together, as opposed to the individual pieces not working. Many people write
 #@# integration tests first and then delve into unit tests. Which you write first
 #@# is not nearly as important as writing both kinds.
-Most of the time it is good to have both. I often start with unit tests and add integration tests as needed, since you will weed out the most basic bugs first, then find more subtle bugs that are related to how pieces do not quite fit together, as opposed to the individual pieces not working. Many people write integration tests first and then delve into unit tests. Which you write first is not nearly as important as writing both kinds.
+たいていの場合は、両方行うのが好ましい。
+私の場合はまずユニットテストから始めて、必要に応じてインテグレーションテストを足していくことが多い。
+個別のパーツが動かないなどといった基本的なバグをまずつぶしてしまってから、パーツ同士の組み合わせがうまくいかないなどのより細かいバグに進みたいからである。
+ただ、多くの人は、インテグレーションテストを書いてからユニットテストに進んでいる。
+どちらを先に書くかは特に重要ではなく、両方やるということこそが大切なのだ。
 
 #@# \section*{Enlightenment}
 == Enlightenment

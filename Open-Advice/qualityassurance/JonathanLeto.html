@@ -54,7 +54,7 @@
 <p>ユニットテストとインテグレーションテストが、テストの両極となる。ユニットテストは小さなコード片をテストする。一方インテグレーションテストでは、複数のユニットがきちんと組み合わさるかどうかを検証する。ユニットを構成する単位はテストの作者が定めることができる。しかし、たいていの場合は、関数やメソッド（言語によっては別の呼び名があるかもしれない）のレベルに落ち着くだろう。</p>
 <p>具体例として、関数を使ったアナロジーを考えてみよう。ふたつの関数f(x)とg(x)があって、これらがそれぞれひとまとまりのコードを表しているものとする。より具体的にするには、お気に入りのフリー／オープンソースプロジェクトのコードから実際にふたつの関数を選んでみるといい。</p>
 <p>インテグレーションテストとは、たとえば<tt class="inline-code">f(g(a)) = b</tt>のような関数の合成を検証するものだ。インテグレーションテストは複数のものごとがうまく統合できているかどうかを確かめるものであり、単独のパーツが個別に機能することを確かめるものではない。代数が苦手な人のために、別の見方で説明しよう。ユニットテストはマシンのパーツのひとつを単独でテストするもので、インテグレーションテストはさまざまなパーツがうまく協調していることをテストするものだ。インテグレーションテストの最たる例が、自動車のテスト走行だ。タイヤの空気圧をチェックしているわけでもなく、点火プラグの電圧を確かめているわけでもない。その車が全体として機能しているかどうかを確かめているわけだ。</p>
-<p>Most of the time it is good to have both. I often start with unit tests and add integration tests as needed, since you will weed out the most basic bugs first, then find more subtle bugs that are related to how pieces do not quite fit together, as opposed to the individual pieces not working. Many people write integration tests first and then delve into unit tests. Which you write first is not nearly as important as writing both kinds.</p>
+<p>たいていの場合は、両方行うのが好ましい。私の場合はまずユニットテストから始めて、必要に応じてインテグレーションテストを足していくことが多い。個別のパーツが動かないなどといった基本的なバグをまずつぶしてしまってから、パーツ同士の組み合わせがうまくいかないなどのより細かいバグに進みたいからである。ただ、多くの人は、インテグレーションテストを書いてからユニットテストに進んでいる。どちらを先に書くかは特に重要ではなく、両方やるということこそが大切なのだ。</p>
 
 <h2><a id="h-3"></a>Enlightenment</h2>
 <p>Test-Driven Enlightment is a path, not a place. Enjoy the journey and make sure to stop and smell the flowers if and when you get lost.</p>
