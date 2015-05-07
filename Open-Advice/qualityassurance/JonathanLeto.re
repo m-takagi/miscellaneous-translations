@@ -258,4 +258,4 @@ PerlやParrotのコミュニティでは、そんなことがしょっちゅう�
 
 #@# Test-Driven Enlightment is a path, not a place. Enjoy the journey and make sure
 #@# to stop and smell the flowers if and when you get lost.
-Test-Driven Enlightment is a path, not a place. Enjoy the journey and make sure to stop and smell the flowers if and when you get lost.
+テスト駆動啓発は道のりであって、目的地ではない。旅を楽しもう。道に迷ったときは、立ち止まって花の香りでもかいでみればいい。
